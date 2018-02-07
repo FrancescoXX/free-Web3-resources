@@ -11,7 +11,7 @@ Don't miss out on the Web3 action. Join us now and let's shape the future togeth
 
 <a href="https://discord.com/invite/cRjhjFRRre"><img src="https://cdn.worldvectorlogo.com/logos/discord-6.svg" title="Discord" alt="Discord Community" width="40"/></a><a href="https://twitter.com/4ccommunityhq"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Twitter Account" width="40"/></a>
 
-## Tech Stack
+## ⚙️ Tech Stack
 This project was buit upon:
 - [Docusaurus](https://opensource.fb.com/projects/docusaurus/) - An open source React Framework made specifically for documentation by Meta
 
