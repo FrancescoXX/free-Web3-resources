@@ -9,7 +9,7 @@ This is a list of the content I shared about Web3 for the upcoming 100 days
 | Day           | Link |
 | ------------- | ------------- |
 | 19-12-2021    |https://twitter.com/FrancescoCiull4/status/1472497765083189248|
-| 20-12-2021    ||
+| 20-12-2021    |https://twitter.com/FrancescoCiull4/status/1472816770692042752|
 | 21-12-2021    ||
 | 22-12-2021    ||
 | 23-12-2021    ||
