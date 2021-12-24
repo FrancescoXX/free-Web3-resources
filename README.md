@@ -13,7 +13,7 @@ You can also [follow me on Twitter](https://twitter.com/intent/follow?screen_nam
 | 21-12-2021    |Solidity reserved keywords|https://twitter.com/FrancescoCiull4/status/1473157550862442500|
 | 22-12-2021    |NFT projects on GitHub|https://twitter.com/FrancescoCiull4/status/1473536967195467780|
 | 23-12-2021    |Ethereum roadmap 2022 article|https://twitter.com/FrancescoCiull4/status/1473893373614469122|
-| 24-12-2021    ||
+| 24-12-2021    |Thereum Concepts|https://twitter.com/FrancescoCiull4/status/1474284493779484673|
 | 25-12-2021    ||
 | 26-12-2021    ||
 | 27-12-2021    ||
