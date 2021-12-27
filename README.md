@@ -16,7 +16,7 @@ You can also [follow me on Twitter](https://twitter.com/intent/follow?screen_nam
 | 24-12-2021    |Thereum Concepts|https://twitter.com/FrancescoCiull4/status/1474284493779484673|
 | 25-12-2021    |ERC-20|https://twitter.com/FrancescoCiull4/status/1474652739833630727|
 | 26-12-2021    |Solidity Events|https://twitter.com/FrancescoCiull4/status/1475048760422064130|
-| 27-12-2021    ||
+| 27-12-2021    |Solidity Mapping Types|https://twitter.com/FrancescoCiull4/status/1475336310412005376|
 | 28-12-2021    ||
 | 29-12-2021    ||
 | 30-12-2021    ||
