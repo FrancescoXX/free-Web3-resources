@@ -17,7 +17,7 @@ You can also [follow me on Twitter](https://twitter.com/intent/follow?screen_nam
 | 25-12-2021    |ERC-20|https://twitter.com/FrancescoCiull4/status/1474652739833630727|
 | 26-12-2021    |Solidity Events|https://twitter.com/FrancescoCiull4/status/1475048760422064130|
 | 27-12-2021    |Solidity Mapping Types|https://twitter.com/FrancescoCiull4/status/1475336310412005376|
-| 28-12-2021    ||
+| 28-12-2021    |Solidity function modifiers|https://twitter.com/FrancescoCiull4/status/1475702911787311107|
 | 29-12-2021    ||
 | 30-12-2021    ||
 | 31-12-2021    ||
