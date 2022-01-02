@@ -22,7 +22,7 @@ You can also [follow me on Twitter](https://twitter.com/intent/follow?screen_nam
 | 30-12-2021    |Solidity State variables|https://twitter.com/FrancescoCiull4/status/1476434189625049097|
 | 31-12-2021    |EVM Concepts|https://twitter.com/FrancescoCiull4/status/1476793011447214112|
 | 1-1-2022      |Decentralized Apps Frameworks|https://twitter.com/FrancescoCiull4/status/1477177460504604673|
-| 2-1-2022      ||
+| 2-1-2022      |Solidity Function types|https://twitter.com/FrancescoCiull4/status/1477503734204747780|
 | 3-1-2022      ||
 | 4-1-2022      ||
 | 5-1-2022      ||
