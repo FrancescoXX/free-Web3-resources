@@ -26,7 +26,7 @@ You can also [follow me on Twitter](https://twitter.com/intent/follow?screen_nam
 | 3-1-2022      |Solidity view and pure functions|https://twitter.com/FrancescoCiull4/status/1477880402446585861|
 | 4-1-2022      |Ethereum Accounts thread|https://twitter.com/FrancescoCiull4/status/1478254576448983042|
 | 5-1-2022      |Ethereum Transactions|https://twitter.com/FrancescoCiull4/status/1478599019089780742|
-| 6-1-2022      ||
+| 6-1-2022      |Web3 Other languages|https://twitter.com/FrancescoCiull4/status/1478975480145616896|
 | 7-1-2022      ||
 | 8-1-2022      ||
 | 9-1-2022      ||
