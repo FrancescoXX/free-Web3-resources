@@ -30,7 +30,7 @@ You can also [follow me on Twitter](https://twitter.com/intent/follow?screen_nam
 | 7-1-2022      |Block concepts|https://twitter.com/FrancescoCiull4/status/1479402859640799232|
 | 8-1-2022      |Solidity msg variables|https://twitter.com/FrancescoCiull4/status/1479700232707649539|
 | 9-1-2022      |Ethereum Alternatives|https://twitter.com/FrancescoCiull4/status/1480070791521787904|
-| 10-1-2022     ||
+| 10-1-2022     |Wallets on GitHub|https://twitter.com/FrancescoCiull4/status/1480423985884053504|
 | 11-1-2022     ||
 | 12-1-2022     ||
 | 13-1-2022     ||
