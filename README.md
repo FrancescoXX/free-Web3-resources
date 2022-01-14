@@ -34,7 +34,7 @@ You can also [follow me on Twitter](https://twitter.com/intent/follow?screen_nam
 | 11-1-2022     |ENS Thread|https://twitter.com/FrancescoCiull4/status/1480783442619076608|
 | 12-1-2022     |NFT Marketplaces|https://twitter.com/FrancescoCiull4/status/1481133238655537155|
 | 13-1-2022     |block global variable|https://twitter.com/FrancescoCiull4/status/1481498511376101376|
-| 14-1-2022     ||
+| 14-1-2022     |Blockchain Oracles|https://twitter.com/FrancescoCiull4/status/1481895919121534979|
 | 15-1-2022     ||
 | 16-1-2022     ||
 | 17-1-2022     ||
