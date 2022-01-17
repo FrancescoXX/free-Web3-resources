@@ -37,7 +37,7 @@ You can also [follow me on Twitter](https://twitter.com/intent/follow?screen_nam
 | 14-1-2022     |Blockchain Oracles|https://twitter.com/FrancescoCiull4/status/1481895919121534979|
 | 15-1-2022     |ABI|https://twitter.com/FrancescoCiull4/status/1482266638154190848|
 | 16-1-2022     |NFT use cases thread|https://twitter.com/FrancescoCiull4/status/1482588184898850816|
-| 17-1-2022     ||
+| 17-1-2022     |Block Explorers|https://twitter.com/FrancescoCiull4/status/1482962195784871939|
 | 18-1-2022     ||
 | 19-1-2022     ||
 | 20-1-2022     ||
