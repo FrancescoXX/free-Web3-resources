@@ -40,7 +40,7 @@ You can also [follow me on Twitter](https://twitter.com/intent/follow?screen_nam
 | 17-1-2022     |Block Explorers|https://twitter.com/FrancescoCiull4/status/1482962195784871939|
 | 18-1-2022     |Decentralized Storage|https://twitter.com/FrancescoCiull4/status/1483295727078060034|
 | 19-1-2022     |Web2 vs Web3 Ethereum docs|https://twitter.com/FrancescoCiull4/status/1483677904835862530|
-| 20-1-2022     ||
+| 20-1-2022     |Nodes and Clients|https://twitter.com/FrancescoCiull4/status/1484037951562604547|
 | 21-1-2022     ||
 | 22-1-2022     ||
 | 23-1-2022     ||
