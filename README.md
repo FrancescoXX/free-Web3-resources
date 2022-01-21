@@ -41,7 +41,7 @@ You can also [follow me on Twitter](https://twitter.com/intent/follow?screen_nam
 | 18-1-2022     |Decentralized Storage|https://twitter.com/FrancescoCiull4/status/1483295727078060034|
 | 19-1-2022     |Web2 vs Web3 Ethereum docs|https://twitter.com/FrancescoCiull4/status/1483677904835862530|
 | 20-1-2022     |Nodes and Clients|https://twitter.com/FrancescoCiull4/status/1484037951562604547|
-| 21-1-2022     ||
+| 21-1-2022     |Ethereum Clients|https://twitter.com/FrancescoCiull4/status/1484415980293996544|
 | 22-1-2022     ||
 | 23-1-2022     ||
 | 24-1-2022     ||
