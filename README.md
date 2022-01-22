@@ -42,7 +42,7 @@ You can also [follow me on Twitter](https://twitter.com/intent/follow?screen_nam
 | 19-1-2022     |Web2 vs Web3 Ethereum docs|https://twitter.com/FrancescoCiull4/status/1483677904835862530|
 | 20-1-2022     |Nodes and Clients|https://twitter.com/FrancescoCiull4/status/1484037951562604547|
 | 21-1-2022     |Ethereum Clients|https://twitter.com/FrancescoCiull4/status/1484415980293996544|
-| 22-1-2022     ||
+| 22-1-2022     |Spin up your Node|https://twitter.com/FrancescoCiull4/status/1484779264797024259|
 | 23-1-2022     ||
 | 24-1-2022     ||
 | 25-1-2022     ||
