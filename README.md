@@ -43,7 +43,7 @@ You can also [follow me on Twitter](https://twitter.com/intent/follow?screen_nam
 | 20-1-2022     |Nodes and Clients|https://twitter.com/FrancescoCiull4/status/1484037951562604547|
 | 21-1-2022     |Ethereum Clients|https://twitter.com/FrancescoCiull4/status/1484415980293996544|
 | 22-1-2022     |Spin up your Node|https://twitter.com/FrancescoCiull4/status/1484779264797024259|
-| 23-1-2022     ||
+| 23-1-2022     |Nodes as a Service thread|https://twitter.com/FrancescoCiull4/status/1485216599791517697|
 | 24-1-2022     ||
 | 25-1-2022     ||
 | 26-1-2022     ||
