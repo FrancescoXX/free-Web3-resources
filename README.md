@@ -47,7 +47,7 @@ You can also [follow me on Twitter](https://twitter.com/intent/follow?screen_nam
 | 24-1-2022     |Ethereum Networks|https://twitter.com/FrancescoCiull4/status/1485495070958796800|
 | 25-1-2022     |Proof of work|https://twitter.com/FrancescoCiull4/status/1485861309589688325|
 | 26-1-2022     |Proof of Stake|https://twitter.com/FrancescoCiull4/status/1486229198314299392|
-| 27-1-2022     ||
+| 27-1-2022     |Shard Chains|https://twitter.com/FrancescoCiull4/status/1486587380198957057|
 | 28-1-2022     ||
 | 29-1-2022     ||
 | 30-1-2022     ||
