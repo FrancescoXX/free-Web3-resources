@@ -49,7 +49,7 @@ You can also [follow me on Twitter](https://twitter.com/intent/follow?screen_nam
 | 26-1-2022     |Proof of Stake|https://twitter.com/FrancescoCiull4/status/1486229198314299392|
 | 27-1-2022     |Shard Chains|https://twitter.com/FrancescoCiull4/status/1486587380198957057|
 | 28-1-2022     |Beacon Chain|https://twitter.com/FrancescoCiull4/status/1486947085513592832|
-| 29-1-2022     ||
+| 29-1-2022     |The Merge|https://twitter.com/FrancescoCiull4/status/1487282198092857348|
 | 30-1-2022     ||
 | 31-1-2022     ||
 | 1-2-2022      ||
