@@ -51,7 +51,7 @@ You can also [follow me on Twitter](https://twitter.com/intent/follow?screen_nam
 | 28-1-2022     |Beacon Chain|https://twitter.com/FrancescoCiull4/status/1486947085513592832|
 | 29-1-2022     |The Merge|https://twitter.com/FrancescoCiull4/status/1487282198092857348|
 | 30-1-2022     |Blockchain implementation in languages|https://twitter.com/FrancescoCiull4/status/1487662978270994435|
-| 31-1-2022     ||
+| 31-1-2022     |Web3 JAvscript projects on GH|https://twitter.com/FrancescoCiull4/status/1488041692682989569|
 | 1-2-2022      ||
 | 2-2-2022      ||
 | 3-2-2022      ||
