@@ -53,7 +53,7 @@ You can also [follow me on Twitter](https://twitter.com/intent/follow?screen_nam
 | 30-1-2022     |Blockchain implementation in languages|https://twitter.com/FrancescoCiull4/status/1487662978270994435|
 | 31-1-2022     |Web3 JAvscript projects on GH|https://twitter.com/FrancescoCiull4/status/1488041692682989569|
 | 1-2-2022      |Mining and mining pools|https://twitter.com/FrancescoCiull4/status/1488409895716143104|
-| 2-2-2022      ||
+| 2-2-2022      |10 Steps mining process|https://twitter.com/FrancescoCiull4/status/1488745700766670848|
 | 3-2-2022      ||
 | 4-2-2022      ||
 | 5-2-2022      ||
