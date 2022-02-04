@@ -55,7 +55,7 @@ You can also [follow me on Twitter](https://twitter.com/intent/follow?screen_nam
 | 1-2-2022      |Mining and mining pools|https://twitter.com/FrancescoCiull4/status/1488409895716143104|
 | 2-2-2022      |10 Steps mining process|https://twitter.com/FrancescoCiull4/status/1488745700766670848|
 | 3-2-2022      |Centralization VS Decentralization|https://twitter.com/FrancescoCiull4/status/1489101280220188672|
-| 4-2-2022      ||
+| 4-2-2022      |Ethereum stacks|https://twitter.com/FrancescoCiull4/status/1489485281812230144|
 | 5-2-2022      ||
 | 6-2-2022      ||
 | 7-2-2022      ||
