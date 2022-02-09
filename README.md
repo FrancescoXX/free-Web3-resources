@@ -60,7 +60,7 @@ You can also [follow me on Twitter](https://twitter.com/intent/follow?screen_nam
 | 6-2-2022      |Solidity Language projects on GitHub|https://twitter.com/FrancescoCiull4/status/1490232521061249029|
 | 7-2-2022      |Rust projects on GitHub|https://twitter.com/FrancescoCiull4/status/1490559138002350082|
 | 8-2-2022      |DAO vs classic organization|https://twitter.com/FrancescoCiull4/status/1490928476274425859|
-| 9-2-2022      ||
+| 9-2-2022      |Smart Contracts GitHub Resources|https://twitter.com/FrancescoCiull4/status/1491293606061096960|
 | 10-2-2022     ||
 | 11-2-2022     ||
 | 12-2-2022     ||
