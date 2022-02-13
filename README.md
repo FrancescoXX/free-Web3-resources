@@ -64,7 +64,7 @@ You can also [follow me on Twitter](https://twitter.com/intent/follow?screen_nam
 | 10-2-2022     |Ethereum Active projects on GitHub|https://twitter.com/FrancescoCiull4/status/1491663107227332613|
 | 11-2-2022     |Ethereum energy consumption|https://twitter.com/FrancescoCiull4/status/1492010270847295488|
 | 12-2-2022     |Ethereum Improvement Proposals|https://twitter.com/FrancescoCiull4/status/1492361517425115140|
-| 13-2-2022     ||
+| 13-2-2022     |NFT games|https://twitter.com/FrancescoCiull4/status/1492777229633441792|
 | 14-2-2022     ||
 | 15-2-2022     ||
 | 16-2-2022     ||
