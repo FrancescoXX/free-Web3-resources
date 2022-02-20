@@ -71,7 +71,7 @@ You can also [follow me on Twitter](https://twitter.com/intent/follow?screen_nam
 | 17-2-2022     |Web3 Roadmaps|https://twitter.com/FrancescoCiull4/status/1494179680555245570|
 | 18-2-2022     |Solidity Videos for beginners|https://twitter.com/FrancescoCiull4/status/1494528282989109249|
 | 19-2-2022     |Solidity 0.8.12|https://twitter.com/FrancescoCiull4/status/1494902808230907905|
-| 20-2-2022     ||
+| 20-2-2022     |Public vs private ethereum|https://twitter.com/FrancescoCiull4/status/1495260848775966722|
 | 21-2-2022     ||
 | 22-2-2022     ||
 | 23-2-2022     ||
