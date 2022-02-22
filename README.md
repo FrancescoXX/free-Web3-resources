@@ -73,7 +73,7 @@ You can also [follow me on Twitter](https://twitter.com/intent/follow?screen_nam
 | 19-2-2022     |Solidity 0.8.12|https://twitter.com/FrancescoCiull4/status/1494902808230907905|
 | 20-2-2022     |Public vs private ethereum|https://twitter.com/FrancescoCiull4/status/1495260848775966722|
 | 21-2-2022     |Solidity Influences|https://twitter.com/FrancescoCiull4/status/1495642820102795264|
-| 22-2-2022     ||
+| 22-2-2022     |Why a local node?|https://twitter.com/FrancescoCiull4/status/1495995991572594688|
 | 23-2-2022     ||
 | 24-2-2022     ||
 | 25-2-2022     ||
