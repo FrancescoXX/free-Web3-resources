@@ -78,7 +78,7 @@ You can also [follow me on Twitter](https://twitter.com/intent/follow?screen_nam
 | 24-2-2022     |Web3 Stack - February 2022|https://twitter.com/FrancescoCiull4/status/1496711754776199168|
 | 25-2-2022     |Algorand Blockchain|https://twitter.com/FrancescoCiull4/status/1497086970346016773|
 | 26-2-2022     |Sidechains|https://twitter.com/FrancescoCiull4/status/1497485415221272576|
-| 27-2-2022     ||
+| 27-2-2022     |NFT Introduction|https://twitter.com/FrancescoCiull4/status/1497825640510275585|
 | 28-2-2022     ||
 | 1-3-2022      ||
 | 2-3-2022      ||
