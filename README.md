@@ -80,7 +80,7 @@ You can also [follow me on Twitter](https://twitter.com/intent/follow?screen_nam
 | 26-2-2022     |Sidechains|https://twitter.com/FrancescoCiull4/status/1497485415221272576|
 | 27-2-2022     |NFT Introduction|https://twitter.com/FrancescoCiull4/status/1497825640510275585|
 | 28-2-2022     |upcoming Eth events|https://twitter.com/FrancescoCiull4/status/1498149907013816323|
-| 1-3-2022      ||
+| 1-3-2022      |Are NFTS a Scam?|https://twitter.com/FrancescoCiull4/status/1498544638558445570|
 | 2-3-2022      ||
 | 3-3-2022      ||
 | 4-3-2022      ||
