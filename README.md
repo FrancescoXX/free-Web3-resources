@@ -85,7 +85,7 @@ You can also [follow me on Twitter](https://twitter.com/intent/follow?screen_nam
 | 3-3-2022      |Polygon repositories on GitHub|https://twitter.com/FrancescoCiull4/status/1499249711861182466|
 | 4-3-2022      |The Graph introduction thread|https://twitter.com/FrancescoCiull4/status/1499636419484135424|
 | 5-3-2022      |OpenZeppelin thread|https://twitter.com/FrancescoCiull4/status/1499997990580326402|
-| 6-3-2022      ||
+| 6-3-2022      |Blockchains to keep an eye on in 2022|https://twitter.com/FrancescoCiull4/status/1500382850922786821|
 | 7-3-2022      ||
 | 8-3-2022      ||
 | 9-3-2022      ||
