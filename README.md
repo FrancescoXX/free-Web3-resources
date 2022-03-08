@@ -87,7 +87,7 @@ You can also [follow me on Twitter](https://twitter.com/intent/follow?screen_nam
 | 5-3-2022      |OpenZeppelin thread|https://twitter.com/FrancescoCiull4/status/1499997990580326402|
 | 6-3-2022      |Blockchains to keep an eye on in 2022|https://twitter.com/FrancescoCiull4/status/1500382850922786821|
 | 7-3-2022      |Blockchain Competition in 2022|https://twitter.com/FrancescoCiull4/status/1500710195806322690|
-| 8-3-2022      ||
+| 8-3-2022      |Polkadot GitHub repositories|https://twitter.com/FrancescoCiull4/status/1501076132967239686|
 | 9-3-2022      ||
 | 10-3-2022     ||
 | 11-3-2022     ||
