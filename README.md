@@ -91,7 +91,7 @@ You can also [follow me on Twitter](https://twitter.com/intent/follow?screen_nam
 | 9-3-2022      |Smart contracts introduction thread|https://twitter.com/FrancescoCiull4/status/1501439232207896576|
 | 10-3-2022     |Blockchain bridges thread|https://twitter.com/FrancescoCiull4/status/1501786865007009793|
 | 11-3-2022     |Ethereum crypto scam thread|https://twitter.com/FrancescoCiull4/status/1502157483988557829|
-| 12-3-2022     ||
+| 12-3-2022     |Ethereum whitepaper summary thread|https://twitter.com/FrancescoCiull4/status/1502546837256945664|
 | 13-3-2022     ||
 | 14-3-2022     ||
 | 15-3-2022     ||
