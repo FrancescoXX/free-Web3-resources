@@ -93,7 +93,7 @@ You can also [follow me on Twitter](https://twitter.com/intent/follow?screen_nam
 | 11-3-2022     |Ethereum crypto scam thread|https://twitter.com/FrancescoCiull4/status/1502157483988557829|
 | 12-3-2022     |Ethereum whitepaper summary thread|https://twitter.com/FrancescoCiull4/status/1502546837256945664|
 | 13-3-2022     |DAO Communities|https://twitter.com/FrancescoCiull4/status/1502893948326625280|
-| 14-3-2022     ||
+| 14-3-2022     |Solidity Cheat sheets thread|https://twitter.com/FrancescoCiull4/status/1503243517673582592|
 | 15-3-2022     ||
 | 16-3-2022     ||
 | 17-3-2022     ||
