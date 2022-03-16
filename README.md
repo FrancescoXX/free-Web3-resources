@@ -93,7 +93,7 @@ You can find Francesco [here](http://francescociulla.com)
 | 13-3-2022     |DAO Communities|https://twitter.com/FrancescoCiull4/status/1502893948326625280|
 | 14-3-2022     |Solidity Cheat sheets thread|https://twitter.com/FrancescoCiull4/status/1503243517673582592|
 | 15-3-2022     |What is a blockchain thread (with visuals)|https://twitter.com/FrancescoCiull4/status/1503587605287477248|
-| 16-3-2022     ||
+| 16-3-2022     |Ethereum dapps intro|https://twitter.com/FrancescoCiull4/status/1503969686559543296|
 | 17-3-2022     ||
 | 18-3-2022     ||
 | 19-3-2022     ||
