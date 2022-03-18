@@ -95,7 +95,7 @@ You can find Francesco [here](http://francescociulla.com)
 | 15-3-2022     |What is a blockchain thread (with visuals)|https://twitter.com/FrancescoCiull4/status/1503587605287477248|
 | 16-3-2022     |Ethereum dapps intro|https://twitter.com/FrancescoCiull4/status/1503969686559543296|
 | 17-3-2022     |23 Ethereum threads|https://twitter.com/FrancescoCiull4/status/1504344883716313089|
-| 18-3-2022     ||
+| 18-3-2022     |Trilemma for Ethereum thread|https://twitter.com/FrancescoCiull4/status/1504715227950112771|
 | 19-3-2022     ||
 | 20-3-2022     ||
 | 21-3-2022     ||
