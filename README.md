@@ -4,6 +4,8 @@ This is a list of the content I shared about Web3 for the upcoming 100 days
 You can find Francesco [here](http://francescociulla.com)
 
 
+
+
 | Day           | Topic | Link|
 | ------------- | ------------- |------------- |
 | 19-12-2021    |Solidity Contract|https://twitter.com/FrancescoCiull4/status/1472497765083189248|
