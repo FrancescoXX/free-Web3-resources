@@ -100,7 +100,7 @@ You can find Francesco [here](http://francescociulla.com)
 | 18-3-2022     |Trilemma for Ethereum thread|https://twitter.com/FrancescoCiull4/status/1504715227950112771|
 | 19-3-2022     ||
 | 20-3-2022     ||
-| 21-3-2022     ||
+| 21-3-2022     |12 Ethereum free resources|https://twitter.com/FrancescoCiull4/status/1505792532273377286|
 | 22-3-2022     ||
 | 23-3-2022     ||
 | 24-3-2022     ||
