@@ -101,7 +101,7 @@ You can find Francesco [here](http://francescociulla.com)
 | 19-3-2022     |Solidity 0.8.13|https://twitter.com/FrancescoCiull4/status/1505045913026408451|
 | 20-3-2022     |Ethereum Vision|https://twitter.com/FrancescoCiull4/status/1505409805887934464|
 | 21-3-2022     |12 Ethereum free resources|https://twitter.com/FrancescoCiull4/status/1505792532273377286|
-| 22-3-2022     ||
+| 22-3-2022     |Ethereum in different languages thread|https://twitter.com/FrancescoCiull4/status/1506136417025634310|
 | 23-3-2022     ||
 | 24-3-2022     ||
 | 25-3-2022     ||
