@@ -166,3 +166,5 @@ A list of currently active Blockchains projects. Sorted Alphabetically.
 - [Tron](https://tron.network/) TRON is a decentralized, blockchain-based operating system with smart contract functionality and proof-of-stake consensus.
 - [XinFin](https://xinfin.org/) Enterprise Ready Hybrid Blockchain For Global Trade and Finance.
 - [ZkSync](https://zksync.io/) zkSync is a ZK rollup solving Ethereum scalability with zero security compromises.
+- [ODYSSEY](https://www.odysseydao.com/) ODYSSEY is a great site to understand the concepts of Web3 on other topics that are related to web3.
+- [useWeb3](https://www.useweb3.xyz/) useWeb3 is a very useful learning platform to access huge amount of helpful resources to learn Web3 and Blockchain. 
