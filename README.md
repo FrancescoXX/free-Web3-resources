@@ -95,7 +95,7 @@ This is primarly for Ethereum Developers, but many concepts are shared among dif
 - [Web3 University](https://www.web3.university/) Teaching Web3 to 20k+ developers worldwide.
 
 ## SDKs
-- [Thirdweb](https://thirdweb.com/) Smart contracts you control. Tools that accelerate your workflow. Intuitive SDKs and widgets for developers.
+- [thirdweb](https://thirdweb.com/) Smart contracts you control. Tools that accelerate your workflow. Intuitive SDKs and widgets for developers.
 - [Moralis](https://moralis.io/) The Ultimate Web3 Development Platform.
 
 ## Oracles
