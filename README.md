@@ -29,6 +29,7 @@ This is primarly for Ethereum Developers, but many concepts are shared among dif
 - [Endgame](https://vitalik.ca/general/2021/12/06/endgame.html) An Article by Vitalik Buterin to have an idea of the direction Ethereum is taking.
 - [Blockchain Trilemma](https://medium.com/certik/the-blockchain-trilemma-decentralized-scalable-and-secure-e9d8c41a87b3) An article about the Blockchain Trilemma.
 - [Ethereum Yellowpaper](https://ethereum.github.io/yellowpaper/paper.pdf) The "Yellow Paper": Ethereum's formal specification
+- [Buildspace](https://app.buildspace.so/home) Buildspace offers very good tutorials to understand web3 stuff.
 
 ## Web3 Roadmaps
 - [Complete Web3.0 And Solidity Development Roadmap 2022](https://vitto.cc/web3-and-solidity-smart-contracts-development-roadmap/) by Vittorio Rivabella
