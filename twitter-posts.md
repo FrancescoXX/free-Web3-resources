@@ -103,7 +103,7 @@ You can find Francesco [here](http://francescociulla.com)
 | 21-3-2022     |12 Ethereum free resources|https://twitter.com/FrancescoCiull4/status/1505792532273377286|
 | 22-3-2022     |Ethereum in different languages thread|https://twitter.com/FrancescoCiull4/status/1506136417025634310|
 | 23-3-2022     |24 Web3 Projects to keep an eye on in 2022|https://twitter.com/FrancescoCiull4/status/1506496709056241664|
-| 24-3-2022     ||
+| 24-3-2022     |Web3 Free resources repository Upgrade|https://twitter.com/FrancescoCiull4/status/1506864857194373120|
 | 25-3-2022     ||
 | 26-3-2022     ||
 | 27-3-2022     ||
