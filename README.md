@@ -10,11 +10,15 @@ This is primarly for Ethereum Developers, but many concepts are shared among dif
 - [Ethereum Free Resources](#ethereum-free-resources)
 - [Ethereum languages](#ethereum-languages)
 - [Solidity](#solidity)
+- [Ethereum Clients](#ethereum-clients)
 - [Ethereum in different languages](#ethereum-in-different-languages)
 - [DAO Communities](#dao-communities)
 - [SDKs](#sdks)
 - [Oracles](#oracles)
+- [Off Chain Data Protocols](#off-chain-data-protocols)
+- [NFT Marketplaces](#nft-marketplaces)
 - [Node Providers](node-providers)
+- [File Storage](#file-storage)
 - [Ethereum Development Environment](#ethereum-development-environment)
 - [Ethereum Development IDEs](#ethereum-development-ides)
 - [Identity](#identity)
@@ -61,6 +65,13 @@ This is primarly for Ethereum Developers, but many concepts are shared among dif
 - [Solidity Cheatsheet](https://intellipaat.com/mediaFiles/2019/03/Solidity-Cheat-Sheet.jpg) A comprehensive Solidity Cheatsheet.
 - [Solidity Cheatsheet by Manojpramesh](https://github.com/manojpramesh/solidity-cheatsheet) Cheat sheet and best practices for solidity. Write smart contracts for Ethereum.
 
+## Ethereum Clients
+An Ethereum client is the software that allows Ethereum nodes to read the block on the Ethereum network. [(more...)](https://twitter.com/FrancescoCiull4/status/1484415980293996544)
+- [Geth](https://github.com/ethereum/go-ethereum) Official Go implementation of the Ethereum protocol
+- [Nethermind](https://github.com/NethermindEth/nethermind) flagship .NET Core Ethereum client for Linux, Windows, MacOs - full and actively developed.
+- [Besu](https://github.com/hyperledger/besu) An enterprise-grade Java-based, Apache 2.0 licensed Ethereum client
+- [Erigon](https://github.com/ledgerwatch/erigon) Ethereum implementation on the efficiency frontier
+
 ## Ethereum in different languages
 - [ethereum.org in different languages](https://ethereum.org/en/languages) Ethereum docs in 43 languages
 
@@ -100,8 +111,19 @@ This is primarly for Ethereum Developers, but many concepts are shared among dif
 
 ## Oracles
 [What is a Blockchain Oracle? Twitter thread](https://twitter.com/FrancescoCiull4/status/1481895919121534979)
-
 - [Chainlink](https://chain.link/) Chainlink decentralized oracle networks provide tamper-proof inputs, outputs, and computations to support advanced smart contracts on any blockchain.
+- [Flux](https://runonflux.io/) Flux is the trustless data layer for web3. Flux is a cross-chain oracle that provides smart contracts with access to economically secure data feeds on anything.
+
+## Off Chain Data Protocols
+- [Ceramic Network](https://ceramic.network/) Ceramic is a decentralized data network that brings unlimited data composability to Web3 applications.
+- [Gun](https://gun.eco/) The decentralized distributed graph database engine. GunDB is the Open Source Firebase alternative, a web3 data protocol.
+
+## NFT MArketplaces
+- [OpenSea](https://opensea.io/) Opensea is the largest NFT marketplace and the one I used to mint my first NFT.
+- [Looksrare](https://looksrare.org/) LooksRare is a community-first NFT marketplace with rewards for participating.
+- [Axie Infinity](https://marketplace.axieinfinity.com/) Axie Marketplace is the online shop for the video game Axie Infinity. 
+- [Rarible](https://rarible.com/) A very large marketplace, partnered with Adobe. To use the marketplace, you need its own token "Rarible"
+- [Decentraland](https://decentrallend.bestwebhostingreports.com/decentraland/index.html) Decentraland is completely based on the fantasy (Metaverse), with pretty much the same functionality as the real world. 
 
 ## Node Providers
 [Node Providers Twitter Thread](https://twitter.com/FrancescoCiull4/status/1496711754776199168)
@@ -109,6 +131,13 @@ This is primarly for Ethereum Developers, but many concepts are shared among dif
 - [Alchemy](https://www.alchemy.com/) One magic line of code supercharges your development with the world’s most powerful blockchain developer platform, relied upon by the majority of the world's top blockchain apps.
 - [Infura](https://infura.io/) Suite of high availability APIs and Developer Tools that can provide quick, reliable access to the Ethereum and IPFS networks so you can focus on building and scaling next generation software.
 - [Quicknode](https://www.quicknode.com/) Hosted Blockchain Infrastructure as a Service.
+
+## File Storage
+Decentralized Storage [thread](https://twitter.com/FrancescoCiull4/status/1483295727078060034)
+
+- [Arweave](https://www.arweave.org/) Arweave enables you to store documents and applications forever.
+- [IPFS](https://ipfs.io/) A peer-to-peer hypermedia protocol designed to preserve and grow humanity's knowledge by making the web upgradeable, resilient, and more open.
+- [Filecoin](https://filecoin.io/) Filecoin is an open-source, public cryptocurrency and digital payment system intended to be a blockchain-based cooperative digital storage and data retrieval method.
 
 ## Ethereum Development Environment
 - [Hardhat](https://hardhat.org/) Ethereum development environment for professionals.
