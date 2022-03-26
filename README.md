@@ -17,7 +17,7 @@ This is primarly for Ethereum Developers, but many concepts are shared among dif
 - [Oracles](#oracles)
 - [Off Chain Data Protocols](#off-chain-data-protocols)
 - [NFT Marketplaces](#nft-marketplaces)
-- [Node Providers](node-providers)
+- [Node Providers](#node-providers)
 - [File Storage](#file-storage)
 - [Ethereum Development Environment](#ethereum-development-environment)
 - [Ethereum Development IDEs](#ethereum-development-ides)
