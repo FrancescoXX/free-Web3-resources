@@ -126,6 +126,7 @@ An Ethereum client is the software that allows Ethereum nodes to read the block 
 - [Decentraland](https://decentrallend.bestwebhostingreports.com/decentraland/index.html) Decentraland is completely based on the fantasy (Metaverse), with pretty much the same functionality as the real world. 
 
 ## Node Providers
+
 [Node Providers Twitter Thread](https://twitter.com/FrancescoCiull4/status/1496711754776199168)
 
 - [Alchemy](https://www.alchemy.com/) One magic line of code supercharges your development with the world’s most powerful blockchain developer platform, relied upon by the majority of the world's top blockchain apps.
