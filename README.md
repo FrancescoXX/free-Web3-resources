@@ -118,7 +118,7 @@ An Ethereum client is the software that allows Ethereum nodes to read the block 
 - [Ceramic Network](https://ceramic.network/) Ceramic is a decentralized data network that brings unlimited data composability to Web3 applications.
 - [Gun](https://gun.eco/) The decentralized distributed graph database engine. GunDB is the Open Source Firebase alternative, a web3 data protocol.
 
-## NFT MArketplaces
+## NFT Marketplaces
 - [OpenSea](https://opensea.io/) Opensea is the largest NFT marketplace and the one I used to mint my first NFT.
 - [Looksrare](https://looksrare.org/) LooksRare is a community-first NFT marketplace with rewards for participating.
 - [Axie Infinity](https://marketplace.axieinfinity.com/) Axie Marketplace is the online shop for the video game Axie Infinity. 
