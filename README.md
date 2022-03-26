@@ -1,4 +1,4 @@
-# Web3 Free Resources
+# Free Web3 Resources
 
 This is a list of Tons of Free Web3 Resources.
 
