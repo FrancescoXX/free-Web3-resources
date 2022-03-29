@@ -123,7 +123,7 @@ An Ethereum client is the software that allows Ethereum nodes to read the block 
 - [Looksrare](https://looksrare.org/) LooksRare is a community-first NFT marketplace with rewards for participating.
 - [Axie Infinity](https://marketplace.axieinfinity.com/) Axie Marketplace is the online shop for the video game Axie Infinity. 
 - [Rarible](https://rarible.com/) A very large marketplace, partnered with Adobe. To use the marketplace, you need its own token "Rarible"
-- [Decentraland](https://decentrallend.bestwebhostingreports.com/decentraland/index.html) Decentraland is completely based on the fantasy (Metaverse), with pretty much the same functionality as the real world. 
+- [Decentraland](https://decentraland.org/) Decentraland is completely based on the fantasy (Metaverse), with pretty much the same functionality as the real world. 
 
 ## Node Providers
 
