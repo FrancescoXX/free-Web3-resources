@@ -110,7 +110,7 @@ You can find Francesco [here](http://francescociulla.com)
 | 28-3-2022     |Web3 Content Creators|https://twitter.com/FrancescoCiull4/status/1508317671795875845|
 | 29-3-2022     |Solidity TIPS: Contract|https://twitter.com/FrancescoCiull4/status/1508669915825328131| 
 | 30-3-2022     |Solidity TIPS: Events|https://twitter.com/FrancescoCiull4/status/1509006956983369731|
-| 31-3-2022     |||
+| 31-3-2022     |Solidity TIPS: ERC-20 Token Smart Contract|https://twitter.com/FrancescoCiull4/status/1509374087944146950|
 | 1-4-2022      |||
 | 2-4-2022      |||
 | 3-4-2022      |||
