@@ -4,29 +4,6 @@ This is a list of Tons of Free Web3 Resources.
 
 This is primarly for Ethereum Developers, but many concepts are shared among different Blockchain or involve different blockchains
 
-## Table of Contents
-- [Getting Involved](#getting-involved)
-- [Web3 Roadmaps](#web3-roadmaps)
-- [Ethereum Free Resources](#ethereum-free-resources)
-- [Ethereum languages](#ethereum-languages)
-- [Solidity](#solidity)
-- [Ethereum Clients](#ethereum-clients)
-- [Ethereum in different languages](#ethereum-in-different-languages)
-- [DAO Communities](#dao-communities)
-- [SDKs](#sdks)
-- [Oracles](#oracles)
-- [Off Chain Data Protocols](#off-chain-data-protocols)
-- [NFT Marketplaces](#nft-marketplaces)
-- [Node Providers](#node-providers)
-- [File Storage](#file-storage)
-- [Ethereum Development Environment](#ethereum-development-environment)
-- [Ethereum Development IDEs](#ethereum-development-ides)
-- [Identity](#identity)
-- [Indexing](#indexing)
-- [Client SDKs](#client-sdks)
-- [Blockchains](#blockchains)
-
-
 ## Getting Involved
 - [The Fable of the Dragon-Tyrant](https://www.nickbostrom.com/fable/dragon.html) An inspirational reading to warm up.
 - [Ethereum Whitepaper](https://ethereum.org/en/whitepaper/) Introductory paper published in 2014 by Vitalik Buterin, Ethereum's founder, before the launch in 2015.
