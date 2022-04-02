@@ -112,7 +112,7 @@ You can find Francesco [here](http://francescociulla.com)
 | 30-3-2022     |Solidity TIPS: Events|https://twitter.com/FrancescoCiull4/status/1509006956983369731|
 | 31-3-2022     |Solidity TIPS: ERC-20 Token Smart Contract|https://twitter.com/FrancescoCiull4/status/1509374087944146950|
 | 1-4-2022      |Solidity TIPS: Reserved Keyords|https://twitter.com/FrancescoCiull4/status/1509747878138417152|
-| 2-4-2022      |||
+| 2-4-2022      |FREE Web3 Newsletter #2|https://twitter.com/FrancescoCiull4/status/1510091872865333248|
 | 3-4-2022      |||
 | 4-4-2022      |||
 | 5-4-2022      |||
