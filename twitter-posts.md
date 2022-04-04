@@ -114,7 +114,7 @@ You can find Francesco [here](http://francescociulla.com)
 | 1-4-2022      |Solidity TIPS: Reserved Keyords|https://twitter.com/FrancescoCiull4/status/1509747878138417152|
 | 2-4-2022      |FREE Web3 Newsletter #2|https://twitter.com/FrancescoCiull4/status/1510091872865333248|
 | 3-4-2022      |Function types|https://twitter.com/FrancescoCiull4/status/1510467542648864768 |
-| 4-4-2022      |||
+| 4-4-2022      |View and Pure Functions|https://twitter.com/FrancescoCiull4/status/1510919986935738369|
 | 5-4-2022      |||
 | 6-4-2022      |||
 | 7-4-2022      |||
