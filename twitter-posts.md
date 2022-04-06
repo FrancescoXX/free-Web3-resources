@@ -116,7 +116,7 @@ You can find Francesco [here](http://francescociulla.com)
 | 3-4-2022      |Function types|https://twitter.com/FrancescoCiull4/status/1510467542648864768 |
 | 4-4-2022      |View and Pure Functions|https://twitter.com/FrancescoCiull4/status/1510919986935738369|
 | 5-4-2022      |Msg variabile|https://twitter.com/FrancescoCiull4/status/1511282049583403016|
-| 6-4-2022      |||
+| 6-4-2022      |State & Local variables|https://twitter.com/FrancescoCiull4/status/1511517049213837314|
 | 7-4-2022      |||
 | 8-4-2022      |||
 | 9-4-2022      |||
