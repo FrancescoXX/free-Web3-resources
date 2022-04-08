@@ -1,5 +1,7 @@
 # Free Web3 Resources
 
+![WEB3 FREE RESOURCES (3)](https://user-images.githubusercontent.com/18360871/162364470-56cc28da-d50c-426f-82a4-7ea06234d4bf.png)
+
 This is a list of Tons of Free Web3 Resources.
 
 This is primarly for Ethereum Developers, but many concepts are shared among different Blockchain or involve different blockchains
