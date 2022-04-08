@@ -117,7 +117,7 @@ You can find Francesco [here](http://francescociulla.com)
 | 4-4-2022      |View and Pure Functions|https://twitter.com/FrancescoCiull4/status/1510919986935738369|
 | 5-4-2022      |Msg variabile|https://twitter.com/FrancescoCiull4/status/1511282049583403016|
 | 6-4-2022      |State & Local variables|https://twitter.com/FrancescoCiull4/status/1511517049213837314|
-| 7-4-2022      |||
+| 7-4-2022      |Require in Solidity|https://twitter.com/FrancescoCiull4/status/1512005021507932165|
 | 8-4-2022      |||
 | 9-4-2022      |||
 | 10-4-2022     |||
