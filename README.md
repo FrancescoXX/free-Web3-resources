@@ -4,7 +4,7 @@
 
 This is a list of Tons of Free Web3 Resources.
 
-This is primarly for Ethereum Developers, but many concepts are shared among different Blockchain or involve different blockchains
+This is primarily for Ethereum Developers, but many concepts are shared among different Blockchain or involve different blockchains
 
 ## Getting Involved
 - [The Fable of the Dragon-Tyrant](https://www.nickbostrom.com/fable/dragon.html) An inspirational reading to warm up.
@@ -29,7 +29,7 @@ This is primarly for Ethereum Developers, but many concepts are shared among dif
 - [ethereum.org](https://ethereum.org/) ethereum.org is your portal into the world of Ethereum.
 - [Solidity Docs](https://docs.soliditylang.org/en/v0.8.13/) Solidity documentation
 - [Decentralizing Everything](https://www.youtube.com/watch?v=WSN5BaCzsbo&ab_channel=TechCrunch) Naval Ravikant brings Ethereum's Vitalik Buterin onstage to explain what it is and why it's useful.
-- [Ethereum Foundation YT Channel](https://www.youtube.com/channel/UCNOfzGXD_C9YMYmnefmPH0g) Ethereym Foundation youTube Channel. It currently has 45k Subscribers
+- [Ethereum Foundation YT Channel](https://www.youtube.com/channel/UCNOfzGXD_C9YMYmnefmPH0g) Ethereym Foundation YouTube Channel. It currently has 45k Subscribers
 - [Awesome Ethereum by bekatom](https://github.com/bekatom/awesome-ethereum) Awesome Ethereum Resources
 - [Awesome Ethereum Security](https://github.com/crytic/awesome-ethereum-security) A curated list of awesome Ethereum security references
 - [District0x](https://education.district0x.io/general-topics/understanding-ethereum/) An educational resource about Ethereum targeted at beginners.
@@ -80,7 +80,7 @@ An Ethereum client is the software that allows Ethereum nodes to read the block 
 
 ## DAO Communities
 - [LearnWeb3DAO](https://www.learnweb3.io/) Curious about Web3 as a developer? Wonder what are NFTs, DAOs, DeFi, and Smart Contracts? This is the place for you!.
-- [Developer DAO](https://developerdao.notion.site/Getting-Started-with-Developer-DAO-2bddd332c51a4957b0b83f60f9fa4ebe) Build web3 with friends. New membership officially open.
+- [Developer DAO](https://developerdao.notion.site/Getting-Started-with-Developer-DAO-2bddd332c51a4957b0b83f60f9fa4ebe) Build web3 with friends. New membership is officially open.
 - [Buildspace](https://buildspace.so/) Onboarding devs to web3. Start building cool stuff right now, earn NFTs, access secret opportunities in crypto.
 - [Web3 University](https://www.web3.university/) Teaching Web3 to 20k+ developers worldwide.
 
