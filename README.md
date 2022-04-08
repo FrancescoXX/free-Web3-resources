@@ -23,6 +23,7 @@ This is primarily for Ethereum Developers, but many concepts are shared among di
 - [How To Get Into Crypto? 2022 Roadmap For A Web3 Developer](https://medium.com/theweb3stack/how-to-get-into-crypto-a-roadmap-for-a-web3-developer-4a5806f61869) by Darrius Singleton
 - [Roadmap to become a web3 developer](https://dev.to/darshancodes/roadmap-to-become-a-web3-developer-412j) by Darshancodes
 - [My roadmap in web 3](https://dev.to/jesusantguerrero/my-roadmap-in-web-3-1hgo) by Jesus Guerrero
+- [Figment](https://figment.io/) The Web 3 education platform for developers, by developers.
 
 ## Ethereum free resources
 
