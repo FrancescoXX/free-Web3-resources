@@ -107,7 +107,7 @@ You can find Francesco [here](http://francescociulla.com)
 | 25-3-2022     |Web3 Free resources repository templates and updates|https://twitter.com/FrancescoCiull4/status/1507231756038066178
 | 26-3-2022     |Free Web3 Newsletter|https://twitter.com/FrancescoCiull4/status/1507614661751062528|
 | 27-3-2022     |Decentralized Social Media to keep an eye on. March 2022|https://twitter.com/FrancescoCiull4/status/1507987235706179584|
-| 28-3-2022     |Web3 Content Creators|https://twitter.com/FrancescoCiull4/status/1508317671795875845|
+| 28-3-2022     |DAY 100! Web3 Content Creators|https://twitter.com/FrancescoCiull4/status/1508317671795875845|
 | 29-3-2022     |Solidity TIPS: Contract|https://twitter.com/FrancescoCiull4/status/1508669915825328131| 
 | 30-3-2022     |Solidity TIPS: Events|https://twitter.com/FrancescoCiull4/status/1509006956983369731|
 | 31-3-2022     |Solidity TIPS: ERC-20 Token Smart Contract|https://twitter.com/FrancescoCiull4/status/1509374087944146950|
