@@ -119,7 +119,7 @@ You can find Francesco [here](http://francescociulla.com)
 | 6-4-2022      |State & Local variables|https://twitter.com/FrancescoCiull4/status/1511517049213837314|
 | 7-4-2022      |Require in Solidity|https://twitter.com/FrancescoCiull4/status/1512005021507932165|
 | 8-4-2022      |Free Web3 Resources issues|https://youtu.be/JT-ARwR0DBM|
-| 9-4-2022      |||
+| 9-4-2022      |Free Web3 Newsletter #3|https://www.getrevue.co/profile/francescociull4/issues/free-web3-newsletter-issue-3-1115789|
 | 10-4-2022     |||
 | 11-4-2022     |||
 | 12-4-2022     |||
