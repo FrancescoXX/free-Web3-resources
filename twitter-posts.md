@@ -122,7 +122,7 @@ You can find Francesco [here](http://francescociulla.com)
 | 9-4-2022      |Free Web3 Newsletter #3|https://www.getrevue.co/profile/francescociull4/issues/free-web3-newsletter-issue-3-1115789|
 | 10-4-2022     |Free Solana Resources|https://twitter.com/FrancescoCiull4/status/1513065457380642823|
 | 11-4-2022     |Solidity Projects on Github|https://twitter.com/FrancescoCiull4/status/1513406163873943553|
-| 12-4-2022     |||
+| 12-4-2022     |Solidity Language with Cryptozombies part 5|https://www.youtube.com/watch?v=j8GWl1TiCtM&ab_channel=FrancescoCiulla|
 | 13-4-2022     |||
 | 14-4-2022     |||
 | 15-4-2022     |||
