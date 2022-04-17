@@ -1,6 +1,6 @@
 # Free Web3 Resources
 
-![WEB3 FREE RESOURCES (3)](https://user-images.githubusercontent.com/18360871/162364470-56cc28da-d50c-426f-82a4-7ea06234d4bf.png)
+![WEB3 FREE RESOURCES](https://user-images.githubusercontent.com/18360871/162364470-56cc28da-d50c-426f-82a4-7ea06234d4bf.png)
 
 This is a list of Tons of Free Web3 Resources.
 
@@ -100,6 +100,7 @@ An Ethereum client is the software that allows Ethereum nodes to read the block 
 - [Developer DAO](https://developerdao.notion.site/Getting-Started-with-Developer-DAO-2bddd332c51a4957b0b83f60f9fa4ebe) Build web3 with friends. New membership is officially open.
 - [Buildspace](https://buildspace.so/) Onboarding devs to web3. Start building cool stuff right now, earn NFTs, access secret opportunities in crypto.
 - [Web3 University](https://www.web3.university/) Teaching Web3 to 20k+ developers worldwide.
+- [WebXDAO](https://bio.link/webxdao) An Open Source Community that focuses on decentralized applications, web 3, and blockchain technologies 🚀
 
 ## SDKs
 
@@ -191,6 +192,7 @@ A list of currently active Blockchains projects. Sorted Alphabetically.
 - [Lightning Network](https://lightning.network/) Scalable, Instant Bitcoin/Blockchain Transactions.
 - [MultiChain](https://www.multichain.com/) MultiChain helps organizations to build and deploy blockchain applications with speed.
 - [Near](https://near.org/) Through simple, secure, and scalable technology, NEAR empowers millions to invent and explore new experiences.
+- [Oasis](https://oasisprotocol.org/) A privacy-enabled blockchain platform for open finance and a responsible data economy.
 - [Optimism](https://www.optimism.io/) Optimism is a low-cost and lightning-fast Ethereum L2 blockchain.
 - [Oracle Blockchain](https://www.oracle.com/blockchain/) Oracle offers easy ways to adopt blockchain technology including a cloud service, an on-premises edition, and a SaaS application for supply chain.
 - [Polkadot](https://polkadot.network/) Polkadot is an open source, blockchain platform and cryptocurrency that allows for distributed computing.
