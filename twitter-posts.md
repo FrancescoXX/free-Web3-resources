@@ -1,5 +1,5 @@
-# 100-days-of-Web3
-This is a list of the content I shared about Web3 for the upcoming 100 days
+# 200-days-of-Web3
+This is a list of the content I shared about Web3 for the upcoming 200 days
 
 You can find Francesco [here](http://francescociulla.com)
 
@@ -107,7 +107,7 @@ You can find Francesco [here](http://francescociulla.com)
 | 25-3-2022     |Web3 Free resources repository templates and updates|https://twitter.com/FrancescoCiull4/status/1507231756038066178
 | 26-3-2022     |Free Web3 Newsletter|https://twitter.com/FrancescoCiull4/status/1507614661751062528|
 | 27-3-2022     |Decentralized Social Media to keep an eye on. March 2022|https://twitter.com/FrancescoCiull4/status/1507987235706179584|
-| 28-3-2022     |Web3 Content Creators|https://twitter.com/FrancescoCiull4/status/1508317671795875845|
+| 28-3-2022     |DAY 100! Web3 Content Creators|https://twitter.com/FrancescoCiull4/status/1508317671795875845|
 | 29-3-2022     |Solidity TIPS: Contract|https://twitter.com/FrancescoCiull4/status/1508669915825328131| 
 | 30-3-2022     |Solidity TIPS: Events|https://twitter.com/FrancescoCiull4/status/1509006956983369731|
 | 31-3-2022     |Solidity TIPS: ERC-20 Token Smart Contract|https://twitter.com/FrancescoCiull4/status/1509374087944146950|
@@ -119,15 +119,15 @@ You can find Francesco [here](http://francescociulla.com)
 | 6-4-2022      |State & Local variables|https://twitter.com/FrancescoCiull4/status/1511517049213837314|
 | 7-4-2022      |Require in Solidity|https://twitter.com/FrancescoCiull4/status/1512005021507932165|
 | 8-4-2022      |Free Web3 Resources issues|https://youtu.be/JT-ARwR0DBM|
-| 9-4-2022      |||
-| 10-4-2022     |||
-| 11-4-2022     |||
-| 12-4-2022     |||
-| 13-4-2022     |||
-| 14-4-2022     |||
-| 15-4-2022     |||
-| 16-4-2022     |||
-| 17-4-2022     |||
+| 9-4-2022      |Free Web3 Newsletter #3|https://www.getrevue.co/profile/francescociull4/issues/free-web3-newsletter-issue-3-1115789|
+| 10-4-2022     |Free Solana Resources|https://twitter.com/FrancescoCiull4/status/1513065457380642823|
+| 11-4-2022     |Solidity Projects on Github|https://twitter.com/FrancescoCiull4/status/1513406163873943553|
+| 12-4-2022     |Solidity Language with Cryptozombies part 5|https://www.youtube.com/watch?v=j8GWl1TiCtM&ab_channel=FrancescoCiulla|
+| 13-4-2022     |Merkle Trees thread|https://twitter.com/FrancescoCiull4/status/1514120398274801666|
+| 14-4-2022     |Block global variable|https://twitter.com/FrancescoCiull4/status/1514195200113053698|
+| 15-4-2022     |Deploy your first Smart Contract|https://twitter.com/FrancescoCiull4/status/1514824946761015298|
+| 16-4-2022     |Free Web3 Newsletter (Merge delayed)|https://www.getrevue.co/profile/francescociull4/issues/eth-2-0-is-not-gonna-happen-in-june-the-merge-delayed-1126904|
+| 17-4-2022     |EVM thread|https://twitter.com/FrancescoCiull4/status/1515579278947147779|
 | 18-4-2022     |||
 | 19-4-2022     |||
 | 20-4-2022     |||
