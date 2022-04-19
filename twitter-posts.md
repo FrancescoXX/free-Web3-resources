@@ -129,7 +129,7 @@ You can find Francesco [here](http://francescociulla.com)
 | 16-4-2022     |Free Web3 Newsletter (Merge delayed)|https://www.getrevue.co/profile/francescociull4/issues/eth-2-0-is-not-gonna-happen-in-june-the-merge-delayed-1126904|
 | 17-4-2022     |EVM thread|https://twitter.com/FrancescoCiull4/status/1515579278947147779|
 | 18-4-2022     |Solidity Cheatsheet|https://twitter.com/FrancescoCiull4/status/1515950080980832260|
-| 19-4-2022     |||
+| 19-4-2022     |npm packages ethereum|https://twitter.com/FrancescoCiull4/status/1516277046535761922|
 | 20-4-2022     |||
 | 21-4-2022     |||
 | 22-4-2022     |||
