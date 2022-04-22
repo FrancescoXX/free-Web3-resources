@@ -148,6 +148,7 @@ Decentralized Storage [thread](https://twitter.com/FrancescoCiull4/status/148329
 - [Hardhat](https://hardhat.org/) Ethereum development environment for professionals.
 - [Truffle](https://trufflesuite.com/) A world class development environment, testing framework and asset pipeline for blockchains using the Ethereum Virtual Machine (EVM), aiming to make life as a developer easier.
 - [Brownie](https://eth-brownie.readthedocs.io/en/stable/toctree.html) Brownie is a Python-based development and testing framework for smart contracts targeting the Ethereum Virtual Machine.
+- [Foundry](https://github.com/foundry-rs/foundry) Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
 
 ## Ethereum Development IDEs
 
