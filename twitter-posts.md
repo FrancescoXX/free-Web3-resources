@@ -132,7 +132,7 @@ You can find Francesco [here](http://francescociulla.com)
 | 19-4-2022     |npm packages ethereum|https://twitter.com/FrancescoCiull4/status/1516277046535761922|
 | 20-4-2022     |Web3 in many languages thread|https://twitter.com/FrancescoCiull4/status/1516619104135913475|
 | 21-4-2022     |Blockchain Oracles thread|https://twitter.com/FrancescoCiull4/status/1517033357762252801|
-| 22-4-2022     |||
+| 22-4-2022     |Ethereum Virtual Machine thread|https://twitter.com/FrancescoCiull4/status/1517393190537646080|
 | 23-4-2022     |||
 | 24-4-2022     |||
 | 25-4-2022     |||
