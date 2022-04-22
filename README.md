@@ -16,7 +16,7 @@ This is primarily for Ethereum Developers, but many concepts are shared among di
 
 ## Web3 Roadmaps
 
-- [Complete Web3.0 And Solidity Development Roadmap 2022](https://vitto.cc/web3-and-solidity-smart-contracts-development-roadmap/) by Vittorio Rivabella
+- [Complete Web3.0 And Solidity Development Roadmap 2022](https://vitto.cc/web3-and-solidity-smart-contracts-development-roadmap/) by [Vittorio Rivabella](https://vitto.cc/)
 - [Your Roadmap To Becoming A Web 3.0 Developer](https://blog.oliverjumpertz.dev/your-roadmap-to-becoming-a-web-30-developer) vy Oliver Jumpertz
 - [Web 3.0: A Developer Roadmap, Guide, and Resources to Get Started](https://blog.idrisolubisi.com/web-3-a-developer-roadmap-and-resources-to-get-started) by Olubisi Idris Ayinde
 - [The Complete Roadmap and Resources to Become a Web3 Developer in 2022](https://betterprogramming.pub/has-anyone-seen-web3-a-complete-roadmap-free-resources-to-become-web3-developer-4e5dc9332c1f) by Nagaraj Pandith
