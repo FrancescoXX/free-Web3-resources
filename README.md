@@ -206,3 +206,9 @@ A list of currently active Blockchains projects. Sorted Alphabetically.
 - [Tron](https://tron.network/) TRON is a decentralized, blockchain-based operating system with smart contract functionality and proof-of-stake consensus.
 - [XinFin](https://xinfin.org/) Enterprise Ready Hybrid Blockchain For Global Trade and Finance.
 - [ZkSync](https://zksync.io/) zkSync is a ZK rollup solving Ethereum scalability with zero security compromises.
+
+## Solana
+
+  #### Tutorials
+   - [Complete Guide to Full Stack Solana Development by Nader Dabit](https://dev.to/edge-and-node/the-complete-guide-to-full-stack-solana-development-with-react-anchor-rust-and-phantom-3291)
+ - [How to Mint an NFT on Solana](https://www.quicknode.com/guides/web3-sdks/how-to-mint-an-nft-on-solana )
