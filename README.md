@@ -32,7 +32,7 @@ This is primarily for Ethereum Developers, but many concepts are shared among di
 - [ethereum.org](https://ethereum.org/) ethereum.org is your portal into the world of Ethereum.
 - [Solidity Docs](https://docs.soliditylang.org/en/v0.8.13/) Solidity documentation
 - [Decentralizing Everything](https://www.youtube.com/watch?v=WSN5BaCzsbo&ab_channel=TechCrunch) Naval Ravikant brings Ethereum's Vitalik Buterin onstage to explain what it is and why it's useful.
-- [Ethereum Foundation YT Channel](https://www.youtube.com/channel/UCNOfzGXD_C9YMYmnefmPH0g) Ethereym Foundation YouTube Channel. It currently has 45k Subscribers
+- [Ethereum Foundation YT Channel](https://www.youtube.com/channel/UCNOfzGXD_C9YMYmnefmPH0g) Ethereum Foundation YouTube Channel. It currently has 45k Subscribers
 - [Awesome Ethereum by bekatom](https://github.com/bekatom/awesome-ethereum) Awesome Ethereum Resources
 - [Awesome Ethereum Security](https://github.com/crytic/awesome-ethereum-security) A curated list of awesome Ethereum security references
 - [District0x](https://education.district0x.io/general-topics/understanding-ethereum/) An educational resource about Ethereum targeted at beginners.
