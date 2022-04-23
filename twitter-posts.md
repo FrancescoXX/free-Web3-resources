@@ -133,7 +133,7 @@ You can find Francesco [here](http://francescociulla.com)
 | 20-4-2022     |Web3 in many languages thread|https://twitter.com/FrancescoCiull4/status/1516619104135913475|
 | 21-4-2022     |Blockchain Oracles thread|https://twitter.com/FrancescoCiull4/status/1517033357762252801|
 | 22-4-2022     |Ethereum Virtual Machine thread|https://twitter.com/FrancescoCiull4/status/1517393190537646080|
-| 23-4-2022     |||
+| 23-4-2022     |FREE Web3 Newsletter|https://twitter.com/FrancescoCiull4/status/1517755884184743936|
 | 24-4-2022     |||
 | 25-4-2022     |||
 | 26-4-2022     |||
