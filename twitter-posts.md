@@ -135,7 +135,7 @@ You can find Francesco [here](http://francescociulla.com)
 | 22-4-2022     |Ethereum Virtual Machine thread|https://twitter.com/FrancescoCiull4/status/1517393190537646080|
 | 23-4-2022     |FREE Web3 Newsletter|https://twitter.com/FrancescoCiull4/status/1517755884184743936|
 | 24-4-2022     |Solidity Style guideliones thread|https://twitter.com/FrancescoCiull4/status/1518172830202052609|
-| 25-4-2022     |||
+| 25-4-2022     |Solidity integrations cheatsheet May 2022|https://twitter.com/FrancescoCiull4/status/1518446980720177152|
 | 26-4-2022     |||
 | 27-4-2022     |||
 | 28-4-2022     |||
