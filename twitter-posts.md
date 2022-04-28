@@ -138,7 +138,7 @@ You can find Francesco [here](http://francescociulla.com)
 | 25-4-2022     |Solidity integrations cheatsheet May 2022|https://twitter.com/FrancescoCiull4/status/1518446980720177152|
 | 26-4-2022     |Ethereum concepts thread|https://twitter.com/FrancescoCiull4/status/1518825903677136898|
 | 27-4-2022     |Blockchain code stats|https://twitter.com/FrancescoCiull4/status/1519188428352536576|
-| 28-4-2022     |||
+| 28-4-2022     |7 Solidity videos thread|https://twitter.com/FrancescoCiull4/status/1519563548321628162|
 | 29-4-2022     |||
 | 30-4-2022     |||
 | 1-5-2022     |||
