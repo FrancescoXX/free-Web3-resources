@@ -131,8 +131,9 @@ An Ethereum client is the software that allows Ethereum nodes to read the block 
 Decentralized Storage [thread](https://twitter.com/FrancescoCiull4/status/1483295727078060034)
 
 - [Arweave](https://www.arweave.org/) Arweave enables you to store documents and applications forever.
-- [IPFS](https://ipfs.io/) A peer-to-peer hypermedia protocol designed to preserve and grow humanity's knowledge by making the web upgradeable, resilient, and more open.
 - [Filecoin](https://filecoin.io/) Filecoin is an open-source, public cryptocurrency and digital payment system intended to be a blockchain-based cooperative digital storage and data retrieval method.
+
+- [IPFS](https://ipfs.io/) A peer-to-peer hypermedia protocol designed to preserve and grow humanity's knowledge by making the web upgradeable, resilient, and more open.
 
 # Free Web3 Resources
 
@@ -143,30 +144,32 @@ This is a list of Tons of Free Web3 Resources.
 This is primarily for Ethereum Developers, but many concepts are shared among different Blockchain or involve different blockchains
 
 ## Getting Involved
+- [Blockchain Trilemma](https://medium.com/certik/the-blockchain-trilemma-decentralized-scalable-and-secure-e9d8c41a87b3) An article about the Blockchain Trilemma.
 
-- [The Fable of the Dragon-Tyrant](https://www.nickbostrom.com/fable/dragon.html) An inspirational reading to warm up.
 - [Ethereum Whitepaper](https://ethereum.org/en/whitepaper/) Introductory paper published in 2014 by Vitalik Buterin, Ethereum's founder, before the launch in 2015.
 - [Endgame](https://vitalik.ca/general/2021/12/06/endgame.html) An Article by Vitalik Buterin to have an idea of the direction Ethereum is taking.
-- [Blockchain Trilemma](https://medium.com/certik/the-blockchain-trilemma-decentralized-scalable-and-secure-e9d8c41a87b3) An article about the Blockchain Trilemma.
-- [Ethereum Yellowpaper](https://ethereum.github.io/yellowpaper/paper.pdf) The "Yellow Paper": Ethereum's formal specification
 
+- [Ethereum Yellowpaper](https://ethereum.github.io/yellowpaper/paper.pdf) The "Yellow Paper": Ethereum's formal specification
+- [The Fable of the Dragon-Tyrant](https://www.nickbostrom.com/fable/dragon.html) An inspirational reading to warm up.
 ## Identity
+- [Phantom](https://phantom.app/) Phantom makes it safe & easy for you to store, buy, send, receive, swap tokens and collect NFTs on the Solana blockchain.
+- [MetaMask](https://metamask.io) MetaMask is a software cryptocurrency wallet used to interact with the Ethereum blockchain.
 
 - [WalletConnect](https://walletconnect.com/) WalletConnect is the web3 standard to connect blockchain wallets to dapps.
-- [MetaMask](https://metamask.io) MetaMask is a software cryptocurrency wallet used to interact with the Ethereum blockchain.
-- [Phantom](https://phantom.app/) Phantom makes it safe & easy for you to store, buy, send, receive, swap tokens and collect NFTs on the Solana blockchain.
 
 ## Indexing
 
 - [The Graph](https://thegraph.com/en/) The Graph is an indexing protocol for querying networks like Ethereum and IPFS.
 
 ## NFT Marketplaces
-
-- [OpenSea](https://opensea.io/) Opensea is the largest NFT marketplace and the one I used to mint my first NFT.
-- [Looksrare](https://looksrare.org/) LooksRare is a community-first NFT marketplace with rewards for participating.
 - [Axie Infinity](https://marketplace.axieinfinity.com/) Axie Marketplace is the online shop for the video game Axie Infinity.
-- [Rarible](https://rarible.com/) A very large marketplace, partnered with Adobe. To use the marketplace, you need its own token "Rarible"
+
 - [Decentraland](https://decentraland.org/) Decentraland is completely based on the fantasy (Metaverse), with pretty much the same functionality as the real world.
+
+- [Looksrare](https://looksrare.org/) LooksRare is a community-first NFT marketplace with rewards for participating.
+- [OpenSea](https://opensea.io/) Opensea is the largest NFT marketplace and the one I used to mint my first NFT.
+
+- [Rarible](https://rarible.com/) A very large marketplace, partnered with Adobe. To use the marketplace, you need its own token "Rarible"
 
 ## Node Providers
 
@@ -208,9 +211,12 @@ This is primarily for Ethereum Developers, but many concepts are shared among di
 ## Web3 Roadmaps
 
 - [Complete Web3.0 And Solidity Development Roadmap 2022](https://vitto.cc/web3-and-solidity-smart-contracts-development-roadmap/) by [Vittorio Rivabella](https://vitto.cc/)
-- [Your Roadmap To Becoming A Web 3.0 Developer](https://blog.oliverjumpertz.dev/your-roadmap-to-becoming-a-web-30-developer) by Oliver Jumpertz
-- [Web 3.0: A Developer Roadmap, Guide, and Resources to Get Started](https://blog.idrisolubisi.com/web-3-a-developer-roadmap-and-resources-to-get-started) by Olubisi Idris Ayinde
-- [The Complete Roadmap and Resources to Become a Web3 Developer in 2022](https://betterprogramming.pub/has-anyone-seen-web3-a-complete-roadmap-free-resources-to-become-web3-developer-4e5dc9332c1f) by Nagaraj Pandith
+
 - [How To Get Into Crypto? 2022 Roadmap For A Web3 Developer](https://medium.com/theweb3stack/how-to-get-into-crypto-a-roadmap-for-a-web3-developer-4a5806f61869) by Darrius Singleton
-- [Roadmap to become a web3 developer](https://dev.to/darshancodes/roadmap-to-become-a-web3-developer-412j) by Darshancodes
+
 - [My roadmap in web 3](https://dev.to/jesusantguerrero/my-roadmap-in-web-3-1hgo) by Jesus Guerrero
+- [Roadmap to become a web3 developer](https://dev.to/darshancodes/roadmap-to-become-a-web3-developer-412j) by Darshancodes
+
+- [The Complete Roadmap and Resources to Become a Web3 Developer in 2022](https://betterprogramming.pub/has-anyone-seen-web3-a-complete-roadmap-free-resources-to-become-web3-developer-4e5dc9332c1f) by Nagaraj Pandith
+- [Web 3.0: A Developer Roadmap, Guide, and Resources to Get Started](https://blog.idrisolubisi.com/web-3-a-developer-roadmap-and-resources-to-get-started) by Olubisi Idris Ayinde
+- [Your Roadmap To Becoming A Web 3.0 Developer](https://blog.oliverjumpertz.dev/your-roadmap-to-becoming-a-web-30-developer) by Oliver Jumpertz
