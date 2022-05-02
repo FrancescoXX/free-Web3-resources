@@ -141,8 +141,8 @@ You can find Francesco [here](http://francescociulla.com)
 | 28-4-2022     |7 Solidity videos thread|https://twitter.com/FrancescoCiull4/status/1519563548321628162|
 | 29-4-2022     |Blockchain implemented in 7 languages|https://twitter.com/FrancescoCiull4/status/1519874119776575489|
 | 30-4-2022     |Free Web3 Newsletter|https://www.getrevue.co/profile/francescociull4/issues/decentralizing-everything-with-naval-vitalik-buterin-free-web3-newsletteer-four-links-to-get-involved-in-web3-and-a-4k-cheatsheet-you-can-download-1148152|
-| 1-5-2022     |||
-| 2-5-2022     |||
+| 1-5-2022     |Solidity Helo world video|https://youtu.be/MC5HC6GOr-w|
+| 2-5-2022     |Solidity Hello world Article|https://blog.francescociulla.com/solidity-hello-world||
 | 3-5-2022     |||
 | 4-5-2022     |||
 | 5-5-2022     |||
