@@ -30,6 +30,8 @@ This is primarily for Ethereum Developers, but many concepts are shared among di
 - [Ethereum Wiki](https://eth.wiki/) Ethereum wiki covering all things related to Ethereum.
 - [EthHub](https://docs.ethhub.io) The goal of EthHub is to provide a single source for essential Ethereum information.
 - [ethereum.org](https://ethereum.org/) ethereum.org is your portal into the world of Ethereum.
+
+
 - [Solidity Docs](https://docs.soliditylang.org/en/v0.8.13/) Solidity documentation
 - [Decentralizing Everything](https://www.youtube.com/watch?v=WSN5BaCzsbo&ab_channel=TechCrunch) Naval Ravikant brings Ethereum's Vitalik Buterin onstage to explain what it is and why it's useful.
 - [Ethereum Foundation YT Channel](https://www.youtube.com/channel/UCNOfzGXD_C9YMYmnefmPH0g) Ethereym Foundation YouTube Channel. It currently has 45k Subscribers
@@ -212,3 +214,21 @@ A list of currently active Blockchains projects. Sorted Alphabetically.
   #### Tutorials
    - [Complete Guide to Full Stack Solana Development by Nader Dabit](https://dev.to/edge-and-node/the-complete-guide-to-full-stack-solana-development-with-react-anchor-rust-and-phantom-3291)
  - [How to Mint an NFT on Solana](https://www.quicknode.com/guides/web3-sdks/how-to-mint-an-nft-on-solana )
+ ----------
+ ## &#127916; youtube tutorials >> you can explore about crypto, blockchain,DAOs,EVM many more to learn...... &#11015;&#65039;
+ 1. [Dapp university](https://youtu.be/uGPC9wNTBbw)
+ 2. [whiteboard crypto](https://youtu.be/mSeLVtBe2xE)
+ 3. [Ethereum foundation](https://youtu.be/TDGq4aeevgY)
+ 4. [ moralis web3](https://youtu.be/P87pLayUD8c) 
+ 5. [ clever programmer](https://youtu.be/Lz3m4BI1EfY)
+ ----------
+ 
+ ## &#128279; some discord servers checkout them >>>>>>> &#128309; &#128309; ![discord](https://i.pinimg.com/474x/aa/b1/b6/aab1b6322eafe103a7ff4f0f1daeb9c6.jpg)
+ 1.[Peeps Platform](https://discord.st/server/peeps-platform/)
+ 
+ 2.[Third Academy](https://discord.st/server/peeps-platform/)
+ 
+ 3.[Pyme](https://discord.st/server/pyme/)
+ 
+
+ 
