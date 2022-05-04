@@ -144,7 +144,7 @@ You can find Francesco [here](http://francescociulla.com)
 | 1-5-2022     |Solidity Helo world video|https://youtu.be/MC5HC6GOr-w|
 | 2-5-2022     |Solidity Hello world Article|https://blog.francescociulla.com/solidity-hello-world||
 | 3-5-2022     |Ethereum transactions thread|https://twitter.com/FrancescoCiull4/status/1521376534552064001|
-| 4-5-2022     |||
+| 4-5-2022     |Learn Web3 for free links|https://twitter.com/FrancescoCiull4/status/1521721528173449216|
 | 5-5-2022     |||
 | 6-5-2022     |||
 | 7-5-2022     |||
