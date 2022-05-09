@@ -148,7 +148,7 @@ You can find Francesco [here](http://francescociulla.com)
 | 5-5-2022     |Learn Wab3 DAO video|https://youtu.be/Tfl4_lfKKRg|
 | 6-5-2022     |9 Javascript projects on github|https://twitter.com/FrancescoCiull4/status/1522442185630748672|
 | 7-5-2022     |Free Web3 Newsletter|https://twitter.com/FrancescoCiull4/status/1522814699611512833|
-| 8-5-2022     |||
+| 8-5-2022     |Ethereum accounts Thread|https://twitter.com/FrancescoCiull4/status/1523171803296059392|
 | 9-5-2022     |15 NFT use cases|https://twitter.com/FrancescoCiull4/status/1523525064167419906|
 | 10-5-2022     |||
 | 11-5-2022     |||
