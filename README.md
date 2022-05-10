@@ -215,12 +215,14 @@ A list of currently active Blockchains projects. Sorted Alphabetically.
    - [Complete Guide to Full Stack Solana Development by Nader Dabit](https://dev.to/edge-and-node/the-complete-guide-to-full-stack-solana-development-with-react-anchor-rust-and-phantom-3291)
  - [How to Mint an NFT on Solana](https://www.quicknode.com/guides/web3-sdks/how-to-mint-an-nft-on-solana )
  ----------
- ## &#127916; youtube tutorials >> you can explore about crypto, blockchain,DAOs,EVM many more to learn...... &#11015;&#65039;
- 1. [Dapp university](https://youtu.be/uGPC9wNTBbw)
- 2. [whiteboard crypto](https://youtu.be/mSeLVtBe2xE)
- 3. [Ethereum foundation](https://youtu.be/TDGq4aeevgY)
- 4. [ moralis web3](https://youtu.be/P87pLayUD8c) 
- 5. [ clever programmer](https://youtu.be/Lz3m4BI1EfY)
+ ## &#127916; Youtube Tutorials 
+ ------
+ ## You can explore about Crypto, Blockchain,DAOs,EVM many more to learn...... &#11015;&#65039;
+ 1. [Dapp University](https://youtu.be/uGPC9wNTBbw)
+ 2. [Whiteboard Crypto](https://youtu.be/mSeLVtBe2xE)
+ 3. [Ethereum Foundation](https://youtu.be/TDGq4aeevgY)
+ 4. [ Moralis Web3](https://youtu.be/P87pLayUD8c) 
+ 5. [ Clever Programmer](https://youtu.be/Lz3m4BI1EfY)
  ----------
  
  ## &#128279; some discord servers checkout them >>>>>>> &#128309; &#128309; ![discord](https://i.pinimg.com/474x/aa/b1/b6/aab1b6322eafe103a7ff4f0f1daeb9c6.jpg)
