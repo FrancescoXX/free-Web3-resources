@@ -151,7 +151,7 @@ You can find Francesco [here](http://francescociulla.com)
 | 8-5-2022     |Ethereum accounts Thread|https://twitter.com/FrancescoCiull4/status/1523171803296059392|
 | 9-5-2022     |15 NFT use cases|https://twitter.com/FrancescoCiull4/status/1523525064167419906|
 | 10-5-2022     |8 Web3 roadmaps|https://twitter.com/FrancescoCiull4/status/1523899477920292867|
-| 11-5-2022     |||
+| 11-5-2022     |NFT introduction thread|https://twitter.com/FrancescoCiull4/status/1524256511610007552|
 | 12-5-2022     |||
 | 13-5-2022     |||
 | 14-5-2022     |||
