@@ -154,7 +154,7 @@ You can find Francesco [here](http://francescociulla.com)
 | 11-5-2022     |NFT introduction thread|https://twitter.com/FrancescoCiull4/status/1524256511610007552|
 | 12-5-2022     |Ethereum blocks thread|https://twitter.com/FrancescoCiull4/status/1524596438298206209|
 | 13-5-2022     |Ethereum Alternatives thread|https://twitter.com/FrancescoCiull4/status/1524961618832105472|
-| 14-5-2022     |||
+| 14-5-2022     |Free Web3 Newsletter|https://www.getrevue.co/profile/francescociull4/issues/web-3-security-issues-and-how-to-write-more-secure-smart-contract-code-free-resources-1168513|
 | 15-5-2022     |||
 | 16-5-2022     |||
 | 17-5-2022     |||
