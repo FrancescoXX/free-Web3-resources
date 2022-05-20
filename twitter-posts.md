@@ -159,7 +159,7 @@ You can find Francesco [here](http://francescociulla.com)
 | 16-5-2022     |15 EVM concepts thread|https://twitter.com/FrancescoCiull4/status/1526047645239746561|
 | 17-5-2022     |Ethereum Name service thread|https://twitter.com/FrancescoCiull4/status/1526401159673544704|
 | 18-5-2022     |Block Explorers thread|https://twitter.com/FrancescoCiull4/status/1526797549847334913|
-| 19-5-2022     |||
+| 19-5-2022     |ABI (application Binary Interface) thread|https://twitter.com/FrancescoCiull4/status/1527151134598746113|
 | 20-5-2022     |Proof of work and proof od stake thread|https://twitter.com/FrancescoCiull4/status/1527505902609342477|
 | 21-5-2022     |||
 | 22-5-2022     |||
