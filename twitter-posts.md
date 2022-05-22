@@ -162,7 +162,7 @@ You can find Francesco [here](http://francescociulla.com)
 | 19-5-2022     |ABI (application Binary Interface) thread|https://twitter.com/FrancescoCiull4/status/1527151134598746113|
 | 20-5-2022     |Proof of work and proof od stake thread|https://twitter.com/FrancescoCiull4/status/1527505902609342477|
 | 21-5-2022     |Newsletter Open contradictions Web3|https://www.getrevue.co/profile/francescociull4/issues/open-contradictions-about-ethereum-and-web3-by-vitalik-buterin-and-the-merge-happening-soon-1178790|
-| 22-5-2022     |||
+| 22-5-2022     |Blockchain implemented in different languages|https://twitter.com/FrancescoCiull4/status/1528232392699396097|
 | 23-5-2022     |||
 | 24-5-2022     |||
 | 25-5-2022     |||
