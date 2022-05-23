@@ -38,6 +38,7 @@ This is primarily for Ethereum Developers, but many concepts are shared among di
 - [District0x](https://education.district0x.io/general-topics/understanding-ethereum/) An educational resource about Ethereum targeted at beginners.
 - [EtherWorld](https://etherworld.co/tag/ethereum/) An Ethereum educational resource in the form of blogs and video guides
 - [Ethereum Boilerplate](https://github.com/ethereum-boilerplate/ethereum-boilerplate) Ethereum Dapp Boilerplate by Moralis. Despite the name, it also works with any EVM and Solana
+- [D3V Library](https://www.d3vlibrary.com/) Table with Guides, Tutorials, Definitions and Tools for EVM and non-EVM chains.
 
 ## Ethereum Languages
 
