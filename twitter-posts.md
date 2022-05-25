@@ -165,7 +165,7 @@ You can find Francesco [here](http://francescociulla.com)
 | 22-5-2022     |Blockchain implemented in different languages|https://twitter.com/FrancescoCiull4/status/1528232392699396097|
 | 23-5-2022     |What is a blockchain thread with visuals|https://twitter.com/FrancescoCiull4/status/1528584652201525250|
 | 24-5-2022     |Ethereum whitepaper thread|https://twitter.com/FrancescoCiull4/status/1528932943812612096|
-| 25-5-2022     |||
+| 25-5-2022     |Ethereum blocks thread|https://twitter.com/FrancescoCiull4/status/1529315821989859329|
 | 26-5-2022     |||
 | 27-5-2022     |||
 | 28-5-2022     |||
