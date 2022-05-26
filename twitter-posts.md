@@ -166,7 +166,7 @@ You can find Francesco [here](http://francescociulla.com)
 | 23-5-2022     |What is a blockchain thread with visuals|https://twitter.com/FrancescoCiull4/status/1528584652201525250|
 | 24-5-2022     |Ethereum whitepaper thread|https://twitter.com/FrancescoCiull4/status/1528932943812612096|
 | 25-5-2022     |Ethereum blocks thread|https://twitter.com/FrancescoCiull4/status/1529315821989859329|
-| 26-5-2022     |||
+| 26-5-2022     |Smart contracts open source Github projects thread|https://twitter.com/FrancescoCiull4/status/1529674527801851904|
 | 27-5-2022     |||
 | 28-5-2022     |||
 | 29-5-2022     |||
