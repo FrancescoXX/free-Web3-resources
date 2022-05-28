@@ -1,4 +1,5 @@
 # Intro to Solidity
+![intro-to-solidity-cover](https://user-images.githubusercontent.com/18360871/170845753-ff2b339f-43c3-4190-8b9d-0a54c0bfc0b6.jpg)
 
 Francesco: http://francescociulla.com
 
