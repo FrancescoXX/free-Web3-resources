@@ -8,7 +8,11 @@ Ethereum Whitepaper: https://ethereum.org/en/whitepaper/
 
 Smart Contract: https://en.wikipedia.org/wiki/Smart_contract
 
+Etherscan.io: https://etherscan.io/
+
 Metamask: https://metamask.io/
+
+Rinkeby Faucet: https://rinkebyfaucet.com/
 
 Blockchain Demo:
 - Hash: https://andersbrownworth.com/blockchain/hash
