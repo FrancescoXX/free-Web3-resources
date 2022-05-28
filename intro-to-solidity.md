@@ -8,6 +8,8 @@ Ethereum Whitepaper: https://ethereum.org/en/whitepaper/
 
 Smart Contract: https://en.wikipedia.org/wiki/Smart_contract
 
+Blockchain oracles: https://chain.link/
+
 Etherscan.io: https://etherscan.io/
 
 Metamask: https://metamask.io/
@@ -24,6 +26,5 @@ Blockchain Demo:
 - Public/Private Keys: https://andersbrownworth.com/blockchain/public-private-keys/
 
 Eth Converter: https://eth-converter.com/
-
 
 Solidity Docs: https://docs.soliditylang.org/
