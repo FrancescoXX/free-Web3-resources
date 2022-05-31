@@ -169,7 +169,7 @@ You can find Francesco [here](http://francescociulla.com)
 | 26-5-2022     |Smart contracts open source Github projects thread|https://twitter.com/FrancescoCiull4/status/1529674527801851904|
 | 27-5-2022     |Web3 Stack - May 2022|https://twitter.com/FrancescoCiull4/status/1530039105958121475|
 | 28-5-2022     |Web3 stack May 2022 Newsletter|https://www.getrevue.co/profile/francescociull4/issues/free-32-hours-blockchain-course-web3-stack-2022-download-vitalik-buterin-s-last-article-1188859|
-| 29-5-2022     |||
+| 29-5-2022     |CodeEurope conference - Tricity||
 | 30-5-2022     |||
 | 31-5-2022     |||
 | 1-6-2022     |||
