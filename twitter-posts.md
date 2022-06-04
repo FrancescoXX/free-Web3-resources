@@ -175,7 +175,7 @@ You can find Francesco [here](http://francescociulla.com)
 | 1-6-2022     |||
 | 2-6-2022     |||
 | 3-6-2022     |mining and mining pools thread|https://twitter.com/FrancescoCiull4/status/1532811143571439617|
-| 4-6-2022     |||
+| 4-6-2022     |web2 vs web3 thread|https://twitter.com/FrancescoCiull4/status/1533177976745086979|
 | 5-6-2022     |||
 | 6-6-2022     |||
 | 7-6-2022     |||
