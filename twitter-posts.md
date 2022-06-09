@@ -180,7 +180,7 @@ You can find Francesco [here](http://francescociulla.com)
 | 6-6-2022     |Ethereum client diversification thread|https://twitter.com/FrancescoCiull4/status/1533639473493426176|
 | 7-6-2022     |||
 | 8-6-2022     |Thirdweb Deploy|https://twitter.com/FrancescoCiull4/status/1534575320703049728|
-| 9-6-2022     |||
+| 9-6-2022     |Smart contracts thread|https://twitter.com/FrancescoCiull4/status/1534765123033878531|
 | 10-6-2022     |||
 | 11-6-2022     |||
 | 12-6-2022     |||
