@@ -178,7 +178,7 @@ You can find Francesco [here](http://francescociulla.com)
 | 4-6-2022     |web2 vs web3 thread|https://twitter.com/FrancescoCiull4/status/1533177976745086979|
 | 5-6-2022     |Free Web3 Newsletter|https://www.getrevue.co/profile/francescociull4/issues/vitalik-buterin-shows-support-for-optimism-s-governance-structure-and-op-gas-proposal-issue-28-1198632|
 | 6-6-2022     |Ethereum client diversification thread|https://twitter.com/FrancescoCiull4/status/1533639473493426176|
-| 7-6-2022     |||
+| 7-6-2022     |Blockchains to keep an eye on June 2022|https://twitter.com/FrancescoCiull4/status/1534027853679177730|
 | 8-6-2022     |Thirdweb Deploy|https://twitter.com/FrancescoCiull4/status/1534575320703049728|
 | 9-6-2022     |Smart contracts thread|https://twitter.com/FrancescoCiull4/status/1534765123033878531|
 | 10-6-2022     |10 solidity tips thread|https://twitter.com/FrancescoCiull4/status/1535126742771310594|
