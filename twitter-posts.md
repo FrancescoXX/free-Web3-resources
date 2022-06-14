@@ -184,8 +184,8 @@ You can find Francesco [here](http://francescociulla.com)
 | 10-6-2022     |10 solidity tips thread|https://twitter.com/FrancescoCiull4/status/1535126742771310594|
 | 11-6-2022     |Web3 Newsletter|https://www.getrevue.co/profile/francescociull4/issues/web5-jack-dorsey-fu-k-it-we-re-doing-web5-download-4k-version-of-blockchains-to-keep-an-eye-on-in-2022-1210359|
 | 12-6-2022     |Ethereum whitepaper|https://twitter.com/FrancescoCiull4/status/1535831527816409089|
-| 13-6-2022     |||
-| 14-6-2022     |||
+| 13-6-2022     |Solana repositories|https://twitter.com/FrancescoCiull4/status/1536212601637830657|
+| 14-6-2022     |12 free resources to learn Ethereum|https://twitter.com/FrancescoCiull4/status/1536532364175757313|
 | 15-6-2022     |||
 | 16-6-2022     |||
 | 17-6-2022     |||
