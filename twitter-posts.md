@@ -169,11 +169,11 @@ You can find Francesco [here](http://francescociulla.com)
 | 26-5-2022     |Smart contracts open source Github projects thread|https://twitter.com/FrancescoCiull4/status/1529674527801851904|
 | 27-5-2022     |Web3 Stack - May 2022|https://twitter.com/FrancescoCiull4/status/1530039105958121475|
 | 28-5-2022     |Web3 stack May 2022 Newsletter|https://www.getrevue.co/profile/francescociull4/issues/free-32-hours-blockchain-course-web3-stack-2022-download-vitalik-buterin-s-last-article-1188859|
-| 29-5-2022     |Code Europe presentation links||
-| 30-5-2022     |Code Europe 2022 conference - Tricity||
-| 31-5-2022     |Code Europe presentation update||
-| 1-6-2022     |Code Europe 2022 conference - Krakow||
-| 2-6-2022     |Code Europe 2022 conference - Warsaw||
+| 29-5-2022     |Code Europe presentation links|https://github.com/FrancescoXX/free-Web3-resources/blob/main/intro-to-solidity.md|
+| 30-5-2022     |Code Europe 2022 conference - Tricity|https://github.com/FrancescoXX/free-Web3-resources/blob/main/intro-to-solidity.md|
+| 31-5-2022     |Code Europe presentation update|https://github.com/FrancescoXX/free-Web3-resources/blob/main/intro-to-solidity.md|
+| 1-6-2022     |Code Europe 2022 conference - Krakow|https://github.com/FrancescoXX/free-Web3-resources/blob/main/intro-to-solidity.md|
+| 2-6-2022     |Code Europe 2022 conference - Warsaw|https://github.com/FrancescoXX/free-Web3-resources/blob/main/intro-to-solidity.md|
 | 3-6-2022     |mining and mining pools thread|https://twitter.com/FrancescoCiull4/status/1532811143571439617|
 | 4-6-2022     |web2 vs web3 thread|https://twitter.com/FrancescoCiull4/status/1533177976745086979|
 | 5-6-2022     |Free Web3 Newsletter|https://www.getrevue.co/profile/francescociull4/issues/vitalik-buterin-shows-support-for-optimism-s-governance-structure-and-op-gas-proposal-issue-28-1198632|
