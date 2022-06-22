@@ -186,13 +186,13 @@ You can find Francesco [here](http://francescociulla.com)
 | 12-6-2022     |Ethereum whitepaper|https://twitter.com/FrancescoCiull4/status/1535831527816409089|
 | 13-6-2022     |Solana repositories|https://twitter.com/FrancescoCiull4/status/1536212601637830657|
 | 14-6-2022     |12 free resources to learn Ethereum|https://twitter.com/FrancescoCiull4/status/1536532364175757313|
-| 15-6-2022     |||
-| 16-6-2022     |||
-| 17-6-2022     |||
-| 18-6-2022     |||
-| 19-6-2022     |||
-| 20-6-2022     |||
-| 21-6-2022     |||
+| 15-6-2022     |Ethereum Name Service Thread|https://twitter.com/FrancescoCiull4/status/1537188212619476992|
+| 16-6-2022     |ABI (Application Binary Interface) thread|https://twitter.com/FrancescoCiull4/status/1537285759350321153|
+| 17-6-2022     |Ethereum Public and Private Networks|https://twitter.com/FrancescoCiull4/status/1537870345985720323|
+| 18-6-2022     |Blockchain Trilemma with visuals|https://twitter.com/FrancescoCiull4/status/1538007963280912385|
+| 19-6-2022     |LEarn Web3 for free links|https://twitter.com/FrancescoCiull4/status/1538360756013604866|
+| 20-6-2022     |Web3 Projects to keep an eye on in 2022|https://twitter.com/FrancescoCiull4/status/1538743941851406336|
+| 21-6-2022     |Ethereum Nodes and Clients thread|https://twitter.com/FrancescoCiull4/status/1539102016756129793|
 | 22-6-2022     |||
 | 23-6-2022     |||
 | 24-6-2022     |||
