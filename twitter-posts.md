@@ -193,8 +193,8 @@ You can find Francesco [here](http://francescociulla.com)
 | 19-6-2022     |LEarn Web3 for free links|https://twitter.com/FrancescoCiull4/status/1538360756013604866|
 | 20-6-2022     |Web3 Projects to keep an eye on in 2022|https://twitter.com/FrancescoCiull4/status/1538743941851406336|
 | 21-6-2022     |Ethereum Nodes and Clients thread|https://twitter.com/FrancescoCiull4/status/1539102016756129793|
-| 22-6-2022     |||
-| 23-6-2022     |||
+| 22-6-2022     |Ethereum Common scams thread|https://twitter.com/FrancescoCiull4/status/1539452776492810240|
+| 23-6-2022     |32 Solidity Style guidelines thread with visuals|https://twitter.com/FrancescoCiull4/status/1539831507514261504|
 | 24-6-2022     |||
 | 25-6-2022     |||
 | 26-6-2022     |||
