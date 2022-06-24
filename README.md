@@ -62,9 +62,9 @@ An Ethereum client is the software that allows Ethereum nodes to read the block 
 
 - [ethereum.org in different languages](https://ethereum.org/en/languages) Ethereum docs in 43 languages
 
-### Brazilian
+### Brazil
 
-- [Web3dev](https://www.web3dev.com.br/) Content and community for web 3 developers in Brazilian.
+- [Web3dev](https://www.web3dev.com.br/) Content and community for web 3 developers in Portuguese.
 
 ### Chinese
 
