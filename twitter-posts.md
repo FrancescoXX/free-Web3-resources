@@ -196,7 +196,7 @@ You can find Francesco [here](http://francescociulla.com)
 | 22-6-2022     |Ethereum Common scams thread|https://twitter.com/FrancescoCiull4/status/1539452776492810240|
 | 23-6-2022     |32 Solidity Style guidelines thread with visuals|https://twitter.com/FrancescoCiull4/status/1539831507514261504|
 | 24-6-2022     |Upcoming Ethereum events|https://twitter.com/FrancescoCiull4/status/1540196470774808577|
-| 25-6-2022     |||
+| 25-6-2022     |20 Ethereum Concepts|https://twitter.com/FrancescoCiull4/status/1540625366699622400|
 | 26-6-2022     |||
 | 27-6-2022     |||
 | 28-6-2022     |||
