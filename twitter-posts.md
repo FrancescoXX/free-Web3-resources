@@ -197,7 +197,7 @@ You can find Francesco [here](http://francescociulla.com)
 | 23-6-2022     |32 Solidity Style guidelines thread with visuals|https://twitter.com/FrancescoCiull4/status/1539831507514261504|
 | 24-6-2022     |Upcoming Ethereum events|https://twitter.com/FrancescoCiull4/status/1540196470774808577|
 | 25-6-2022     |20 Ethereum Concepts|https://twitter.com/FrancescoCiull4/status/1540625366699622400|
-| 26-6-2022     |||
+| 26-6-2022     |Javascript Web3 Projects on Github|https://twitter.com/FrancescoCiull4/status/1540994989790007296|
 | 27-6-2022     |||
 | 28-6-2022     |||
 | 29-6-2022     |||
