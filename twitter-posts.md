@@ -199,7 +199,7 @@ You can find Francesco [here](http://francescociulla.com)
 | 25-6-2022     |20 Ethereum Concepts|https://twitter.com/FrancescoCiull4/status/1540625366699622400|
 | 26-6-2022     |Javascript Web3 Projects on Github|https://twitter.com/FrancescoCiull4/status/1540994989790007296|
 | 27-6-2022     |Solidity Open source projects on Github|https://twitter.com/FrancescoCiull4/status/1541308902259757057|
-| 28-6-2022     |||
+| 28-6-2022     |Rust Open Source projects on GitHub|https://twitter.com/FrancescoCiull4/status/1541715850281058306|
 | 29-6-2022     |||
 | 30-6-2022     |||
 | 1-7-2022     |||
