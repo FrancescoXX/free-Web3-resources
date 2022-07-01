@@ -202,7 +202,7 @@ You can find Francesco [here](http://francescociulla.com)
 | 28-6-2022     |Rust Open Source projects on GitHub|https://twitter.com/FrancescoCiull4/status/1541715850281058306|
 | 29-6-2022     |Polygon Open Source Projects on Github.|https://twitter.com/FrancescoCiull4/status/1542023662395604994|
 | 30-6-2022     |||
-| 1-7-2022     |||
+| 1-7-2022     |Polkadot Open Source projects on GitHub|https://twitter.com/FrancescoCiull4/status/1542756736553009152|
 | 2-7-2022     |||
 | 3-7-2022     |||
 | 4-7-2022     |||
