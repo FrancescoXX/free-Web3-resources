@@ -203,7 +203,7 @@ You can find Francesco [here](http://francescociulla.com)
 | 29-6-2022     |Polygon Open Source Projects on Github.|https://twitter.com/FrancescoCiull4/status/1542023662395604994|
 | 30-6-2022     |How to spin up your node thread|https://twitter.com/FrancescoCiull4/status/1542375833481928704|
 | 1-7-2022     |Polkadot Open Source projects on GitHub|https://twitter.com/FrancescoCiull4/status/1542756736553009152|
-| 2-7-2022     |||
+| 2-7-2022     |10 steps for mining a new transaction thread.|https://twitter.com/FrancescoCiull4/status/1543200231134838784|
 | 3-7-2022     |||
 | 4-7-2022     |||
 | 5-7-2022     |||
