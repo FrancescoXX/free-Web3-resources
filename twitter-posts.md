@@ -205,6 +205,6 @@ You can find Francesco [here](http://francescociulla.com)
 | 1-7-2022     |Polkadot Open Source projects on GitHub|https://twitter.com/FrancescoCiull4/status/1542756736553009152|
 | 2-7-2022     |10 steps for mining a new transaction thread.|https://twitter.com/FrancescoCiull4/status/1543200231134838784|
 | 3-7-2022     |Solidity Tips: Contract|https://twitter.com/FrancescoCiull4/status/1543491919594094592|
-| 4-7-2022     |||
+| 4-7-2022     |Solidity Tips: Events in Solidity|https://twitter.com/FrancescoCiull4/status/1543828114203099136|
 | 5-7-2022     |||
 | 6-7-2022     |||
