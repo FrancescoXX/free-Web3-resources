@@ -208,7 +208,7 @@ You can find Francesco [here](http://francescociulla.com)
 | 4-7-2022     |Solidity Tips: Events in Solidity|https://twitter.com/FrancescoCiull4/status/1543828114203099136|
 | 5-7-2022     |ERC-20 Token Smart Contract|https://twitter.com/FrancescoCiull4/status/1544176351049138182|
 | 6-7-2022     |200 DAYS MAppings in Solidity|https://twitter.com/FrancescoCiull4/status/1544523718180982784|
-| 7-7-2022     ||
+| 7-7-2022     |Ethereum Sidechains thread|https://twitter.com/FrancescoCiull4/status/1544946452794933249|
 | 8-7-2022     ||
 | 9-7-2022     ||
 | 10-7-2022     ||
