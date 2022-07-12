@@ -211,7 +211,7 @@ You can find Francesco [here](http://francescociulla.com)
 | 7-7-2022     |Ethereum Sidechains thread|https://twitter.com/FrancescoCiull4/status/1544946452794933249|
 | 8-7-2022     |21 Ethereum Concepts|https://twitter.com/FrancescoCiull4/status/1545285219959414785|
 | 9-7-2022     |Journey to Web3|https://twitter.com/i/spaces/1OdJrBBayzkJX|
-| 10-7-2022     ||
+| 10-7-2022     |Introduction to NFTs thread|https://twitter.com/FrancescoCiull4/status/1546355158417870848|
 | 11-7-2022     ||
 | 12-7-2022     ||
 | 13-7-2022     ||
