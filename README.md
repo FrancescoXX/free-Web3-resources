@@ -100,7 +100,7 @@ An Ethereum client is the software that allows Ethereum nodes to read the block 
 - [Developer DAO](https://developerdao.notion.site/Getting-Started-with-Developer-DAO-2bddd332c51a4957b0b83f60f9fa4ebe) Build web3 with friends. New membership is officially open.
 - [Buildspace](https://buildspace.so/) Onboarding devs to web3. Start building cool stuff right now, earn NFTs, access secret opportunities in crypto.
 - [Web3 University](https://www.web3.university/) Teaching Web3 to 20k+ developers worldwide.
-- [WebXDAO](https://bio.link/webxdao) An Open Source Community that focuses on decentralized applications, web 3, and blockchain technologies 🚀
+- [WebXDAO](https://bio.link/webxdao) Is an Open Source Community that mainly focuses on decentralized applications, web3, and various blockchain technologies 🚀.
 
 
 ## SDKs
