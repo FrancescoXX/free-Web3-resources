@@ -215,7 +215,7 @@ You can find Francesco [here](http://francescociulla.com)
 | 11-7-2022     |Introduction to NFTs thread|https://twitter.com/FrancescoCiull4/status/1546355158417870848|
 | 12-7-2022     |View and Pure functions - Solidity tips|https://twitter.com/FrancescoCiull4/status/1546722856599683072|
 | 13-7-2022     |The Merge thread|https://twitter.com/FrancescoCiull4/status/1547095437936660490|
-| 14-7-2022     ||
+| 14-7-2022     |12 resources to learn Ethereum|https://twitter.com/FrancescoCiull4/status/1547487091046612992|
 | 15-7-2022     ||
 | 16-7-2022     ||
 | 17-7-2022     ||
