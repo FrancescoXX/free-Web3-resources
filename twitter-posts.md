@@ -217,8 +217,8 @@ You can find Francesco [here](http://francescociulla.com)
 | 13-7-2022     |The Merge thread|https://twitter.com/FrancescoCiull4/status/1547095437936660490|
 | 14-7-2022     |12 resources to learn Ethereum|https://twitter.com/FrancescoCiull4/status/1547487091046612992|
 | 15-7-2022     |Openzeppelin thread|https://twitter.com/FrancescoCiull4/status/1547817808888614918|
-| 16-7-2022     ||
-| 17-7-2022     ||
+| 16-7-2022     |Free Web3 Newsletter|https://www.getrevue.co/profile/francescociull4/issues/what-vitalik-buterin-thinks-about-network-states-smart-contract-development-with-foundry-data-accuracy-1218541|
+| 17-7-2022     |Cryptozombies - 12h livestream|https://youtu.be/WjgiFo6bPSU|
 | 18-7-2022     ||
 | 19-7-2022     ||
 | 20-7-2022     ||
