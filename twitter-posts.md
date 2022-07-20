@@ -219,9 +219,9 @@ You can find Francesco [here](http://francescociulla.com)
 | 15-7-2022     |Openzeppelin thread|https://twitter.com/FrancescoCiull4/status/1547817808888614918|
 | 16-7-2022     |Free Web3 Newsletter|https://www.getrevue.co/profile/francescociull4/issues/what-vitalik-buterin-thinks-about-network-states-smart-contract-development-with-foundry-data-accuracy-1218541|
 | 17-7-2022     |Cryptozombies - 12h livestream|https://youtu.be/WjgiFo6bPSU|
-| 18-7-2022     ||
-| 19-7-2022     ||
-| 20-7-2022     ||
+| 18-7-2022     |Web3 Roadmaps|https://twitter.com/FrancescoCiull4/status/1548872880586461186|
+| 19-7-2022     |DAO vs traditional Organizations|https://twitter.com/FrancescoCiull4/status/1549244479537831937|
+| 20-7-2022     |Merkle Trees thread|https://twitter.com/FrancescoCiull4/status/1549740852385292288|
 | 21-7-2022     ||
 | 22-7-2022     ||
 | 23-7-2022     ||
