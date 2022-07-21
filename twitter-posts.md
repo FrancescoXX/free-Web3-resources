@@ -222,7 +222,7 @@ You can find Francesco [here](http://francescociulla.com)
 | 18-7-2022     |Web3 Roadmaps|https://twitter.com/FrancescoCiull4/status/1548872880586461186|
 | 19-7-2022     |DAO vs traditional Organizations|https://twitter.com/FrancescoCiull4/status/1549244479537831937|
 | 20-7-2022     |Merkle Trees thread|https://twitter.com/FrancescoCiull4/status/1549740852385292288|
-| 21-7-2022     ||
+| 21-7-2022     |Beacon chain thread|https://twitter.com/FrancescoCiull4/status/1550004973756358656|
 | 22-7-2022     ||
 | 23-7-2022     ||
 | 24-7-2022     ||
