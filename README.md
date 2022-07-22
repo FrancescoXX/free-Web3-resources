@@ -49,6 +49,9 @@ This is primarily for Ethereum Developers, but many concepts are shared among di
 - [Solidity Cheatsheet](https://intellipaat.com/mediaFiles/2019/03/Solidity-Cheat-Sheet.jpg) A comprehensive Solidity Cheatsheet.
 - [Solidity Cheatsheet by Manojpramesh](https://github.com/manojpramesh/solidity-cheatsheet) Cheat sheet and best practices for solidity. Write smart contracts for Ethereum.
 
+#### Tutorials
+- [Learn Blockchain, Solidity, and Full Stack JavaScript Development](https://www.freecodecamp.org/news/learn-blockchain-solidity-full-stack-javascript-development/) This course will give you a full introduction into all of the core concepts related to blockchain, smart contracts, Solidity, full-stack Web3 dapps, decentralized finance (DeFi), Chainlink, and more.
+
 ## Ethereum Clients
 
 An Ethereum client is the software that allows Ethereum nodes to read the block on the Ethereum network. [(more...)](https://twitter.com/FrancescoCiull4/status/1484415980293996544)
