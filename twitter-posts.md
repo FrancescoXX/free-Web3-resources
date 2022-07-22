@@ -223,7 +223,7 @@ You can find Francesco [here](http://francescociulla.com)
 | 19-7-2022     |DAO vs traditional Organizations|https://twitter.com/FrancescoCiull4/status/1549244479537831937|
 | 20-7-2022     |Merkle Trees thread|https://twitter.com/FrancescoCiull4/status/1549740852385292288|
 | 21-7-2022     |Beacon chain thread|https://twitter.com/FrancescoCiull4/status/1550004973756358656|
-| 22-7-2022     ||
+| 22-7-2022     |The Graph introduction thread|https://twitter.com/FrancescoCiull4/status/1550346007967420417|
 | 23-7-2022     ||
 | 24-7-2022     ||
 | 25-7-2022     ||
