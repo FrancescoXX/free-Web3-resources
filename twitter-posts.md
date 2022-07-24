@@ -225,7 +225,7 @@ You can find Francesco [here](http://francescociulla.com)
 | 21-7-2022     |Beacon chain thread|https://twitter.com/FrancescoCiull4/status/1550004973756358656|
 | 22-7-2022     |The Graph introduction thread|https://twitter.com/FrancescoCiull4/status/1550346007967420417|
 | 23-7-2022     |How to deploy tyour first smart contract thread|https://twitter.com/FrancescoCiull4/status/1550903750419795970|
-| 24-7-2022     ||
+| 24-7-2022     |Free web3 newsletter|https://www.getrevue.co/profile/francescociull4/issues/free-web3-newsletter-issue-31-1269016|
 | 25-7-2022     ||
 | 26-7-2022     ||
 | 27-7-2022     ||
