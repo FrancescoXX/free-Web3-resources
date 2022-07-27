@@ -228,7 +228,7 @@ You can find Francesco [here](http://francescociulla.com)
 | 24-7-2022     |Free web3 newsletter|https://www.getrevue.co/profile/francescociull4/issues/free-web3-newsletter-issue-31-1269016|
 | 25-7-2022     |Web3 in many languages thread|https://twitter.com/FrancescoCiull4/status/1551549605199765504|
 | 26-7-2022     |EVM thread with visuals|https://twitter.com/FrancescoCiull4/status/1551807070055407618|
-| 27-7-2022     ||
+| 27-7-2022     |Sharding and shard chains|https://twitter.com/FrancescoCiull4/status/1552169343726796801|
 | 28-7-2022     ||
 | 29-7-2022     ||
 | 30-7-2022     ||
