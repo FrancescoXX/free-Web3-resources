@@ -231,7 +231,7 @@ You can find Francesco [here](http://francescociulla.com)
 | 27-7-2022     |Sharding and shard chains|https://twitter.com/FrancescoCiull4/status/1552169343726796801|
 | 28-7-2022     |Blockchain bridges thread|https://twitter.com/FrancescoCiull4/status/1552525402081574914|
 | 29-7-2022     |Ethereum Stack thread|https://twitter.com/FrancescoCiull4/status/1552892674197405701|
-| 30-7-2022     ||
+| 30-7-2022     |Free Web3 Newsletter|https://www.getrevue.co/profile/francescociull4/issues/free-web3-newsletter-issue-32-1279629|
 | 31-7-2022     ||
 | 1-8-2022     ||
 | 2-8-2022     ||
