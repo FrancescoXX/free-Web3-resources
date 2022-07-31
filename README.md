@@ -213,6 +213,15 @@ A list of currently active Blockchains projects. Sorted Alphabetically.
 - [XinFin](https://xinfin.org/) Enterprise Ready Hybrid Blockchain For Global Trade and Finance.
 - [ZkSync](https://zksync.io/) zkSync is a ZK rollup solving Ethereum scalability with zero security compromises.
 
+## Learning Platforms
+
+A list of Blockchain Learning Platforms.
+
+- [LearnWeb3](https://learnweb3dao.io) LearnWeb3 is the best, fastest growing, and completely free web3 education platform for new and experienced web2 developers.
+ 
+  
+
+
 ## Solana
 
   #### Tutorials
