@@ -234,7 +234,7 @@ You can find Francesco [here](http://francescociulla.com)
 | 30-7-2022     |Free Web3 Newsletter|https://www.getrevue.co/profile/francescociull4/issues/free-web3-newsletter-issue-32-1279629|
 | 31-7-2022     |What is a Blockchain (with visuals) thread|https://twitter.com/FrancescoCiull4/status/1553597024318136325|
 | 1-8-2022     ||
-| 2-8-2022     ||
+| 2-8-2022     |What is a dapp thread|https://twitter.com/FrancescoCiull4/status/1554344254390112256|
 | 3-8-2022     ||
 | 4-8-2022     |Blockchain oracles thread|https://twitter.com/FrancescoCiull4/status/1554715090217213955|
 | 5-8-2022     ||
