@@ -236,7 +236,7 @@ You can find Francesco [here](http://francescociulla.com)
 | 1-8-2022     ||
 | 2-8-2022     ||
 | 3-8-2022     ||
-| 4-8-2022     ||
+| 4-8-2022     |Blockchain oracles thread|https://twitter.com/FrancescoCiull4/status/1554715090217213955|
 | 5-8-2022     ||
 | 6-8-2022     ||
 | 7-8-2022     ||
