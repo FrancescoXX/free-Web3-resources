@@ -236,7 +236,7 @@ You can find Francesco [here](http://francescociulla.com)
 | 1-8-2022     |32 Solidity Style Guidelines thread|https://twitter.com/FrancescoCiull4/status/1553999568571875329|
 | 2-8-2022     |What is a dapp thread|https://twitter.com/FrancescoCiull4/status/1554344254390112256|
 | 3-8-2022     |Blockchain oracles thread|https://twitter.com/FrancescoCiull4/status/1554715090217213955|
-| 4-8-2022     |||
+| 4-8-2022     |Decentralized social media to keep an eye on in 2022|https://twitter.com/FrancescoCiull4/status/1555058446193524737|
 | 5-8-2022     ||
 | 6-8-2022     ||
 | 7-8-2022     ||
