@@ -9,8 +9,8 @@ This is primarily for Ethereum Developers, but many concepts are shared among di
 ## Getting Involved
 
 - [Blockchain Trilemma](https://medium.com/certik/the-blockchain-trilemma-decentralized-scalable-and-secure-e9d8c41a87b3) An article about the Blockchain Trilemma.
-- [Ethereum Whitepaper](https://ethereum.org/en/whitepaper/) Introductory paper published in 2014 by Vitalik Buterin, Ethereum's founder, before the launch in 2015.
 - [Endgame](https://vitalik.ca/general/2021/12/06/endgame.html) An Article by Vitalik Buterin to have an idea of the direction Ethereum is taking.
+- [Ethereum Whitepaper](https://ethereum.org/en/whitepaper/) Introductory paper published in 2014 by Vitalik Buterin, Ethereum's founder, before the launch in 2015.
 - [Ethereum Yellowpaper](https://ethereum.github.io/yellowpaper/paper.pdf) The "Yellow Paper": Ethereum's formal specification
 - [The Fable of the Dragon-Tyrant](https://www.nickbostrom.com/fable/dragon.html) An inspirational reading to warm up.
 
@@ -30,13 +30,13 @@ This is primarily for Ethereum Developers, but many concepts are shared among di
 - [Awesome Ethereum Security](https://github.com/crytic/awesome-ethereum-security) A curated list of awesome Ethereum security references
 - [Decentralizing Everything](https://www.youtube.com/watch?v=WSN5BaCzsbo&ab_channel=TechCrunch) Naval Ravikant brings Ethereum's Vitalik Buterin onstage to explain what it is and why it's useful.
 - [District0x](https://education.district0x.io/general-topics/understanding-ethereum/) An educational resource about Ethereum targeted at beginners.
-- [Ethereumbook](https://github.com/ethereumbook/ethereumbook) Mastering Ethereum, by Andreas M. Antonopoulos, Gavin Wood
 - [ethereum.org](https://ethereum.org/) ethereum.org is your portal into the world of Ethereum.
+- [Ethereumbook](https://github.com/ethereumbook/ethereumbook) Mastering Ethereum, by Andreas M. Antonopoulos, Gavin Wood
 - [EtherWorld](https://etherworld.co/tag/ethereum/) An Ethereum educational resource in the form of blogs and video guides
-- [EthHub](https://docs.ethhub.io) The goal of EthHub is to provide a single source for essential Ethereum information.
 - [Ethereum Boilerplate](https://github.com/ethereum-boilerplate/ethereum-boilerplate) Ethereum Dapp Boilerplate by Moralis. Despite the name, it also works with any EVM and Solana
 - [Ethereum Foundation YT Channel](https://www.youtube.com/channel/UCNOfzGXD_C9YMYmnefmPH0g) Ethereum Foundation YouTube Channel. It currently has 45k Subscribers
 - [Ethereum Wiki](https://eth.wiki/) Ethereum wiki covering all things related to Ethereum.
+- [EthHub](https://docs.ethhub.io) The goal of EthHub is to provide a single source for essential Ethereum information.
 - [Solidity Docs](https://docs.soliditylang.org/en/v0.8.13/) Solidity documentation
 
 ## Ethereum Languages
