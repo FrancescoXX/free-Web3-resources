@@ -237,8 +237,8 @@ You can find Francesco [here](http://francescociulla.com)
 | 2-8-2022     |What is a dapp thread|https://twitter.com/FrancescoCiull4/status/1554344254390112256|
 | 3-8-2022     |Blockchain oracles thread|https://twitter.com/FrancescoCiull4/status/1554715090217213955|
 | 4-8-2022     |Decentralized social media to keep an eye on in 2022|https://twitter.com/FrancescoCiull4/status/1555058446193524737|
-| 5-8-2022     ||
-| 6-8-2022     ||
+| 5-8-2022     |Learn Web3 for free links|https://twitter.com/FrancescoCiull4/status/1555449025071038464|
+| 6-8-2022     |4c and free-web3-project video promo|https://twitter.com/FrancescoCiull4/status/1555853118923018241|
 | 7-8-2022     ||
 | 8-8-2022     ||
 | 9-8-2022     ||
