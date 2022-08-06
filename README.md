@@ -149,6 +149,7 @@ Decentralized Storage [thread](https://twitter.com/FrancescoCiull4/status/148329
 - [IPFS](https://ipfs.io/) A peer-to-peer hypermedia protocol designed to preserve and grow humanity's knowledge by making the web upgradeable, resilient, and more open.
 - [Filecoin](https://filecoin.io/) Filecoin is an open-source, public cryptocurrency and digital payment system intended to be a blockchain-based cooperative digital storage and data retrieval method.
 
+
 ## Ethereum Development Environment
 
 - [Hardhat](https://hardhat.org/) Ethereum development environment for professionals.
@@ -160,6 +161,12 @@ Decentralized Storage [thread](https://twitter.com/FrancescoCiull4/status/148329
 
 - [Remix IDE](https://remix.ethereum.org/) Web IDE with built in static analysis, test blockchain VM.
 - [VS Code with Solidity Extensions](https://marketplace.visualstudio.com/items?itemName=JuanBlanco.solidity) Visutal Studio Code Solidity Extension.
+
+## Ethereum Development Tools/Boiler Plates
+
+- [scaffoldETH](https://scaffoldeth.io/)  Scaffold-eth is everything you need to get started building decentralized applications on Ethereum!
+- [WAGMI](http://wagmi.sh) wagmi is a collection of React Hooks containing everything you need to start working with Ethereum.
+- [Rainbow Dev Kit](https://www.rainbowkit.com/) RainbowKit is a React library that makes it easy to add wallet connection to your dapp. 
 
 ## Identity
 
