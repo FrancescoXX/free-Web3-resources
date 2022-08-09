@@ -217,7 +217,7 @@ A list of currently active Blockchains projects. Sorted Alphabetically.
 
 A list of Blockchain Learning Platforms.
 
-- [LearnWeb3](https://learnweb3dao.io) LearnWeb3 is the best, fastest growing, and completely free web3 education platform for new and experienced web2 developers.
+- [LearnWeb3](https://learnweb3.io) LearnWeb3 is the best, fastest growing, and completely free web3 education platform for new and experienced web2 developers.
  
   
 
