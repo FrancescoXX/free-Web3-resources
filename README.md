@@ -24,6 +24,13 @@ This is primarily for Ethereum Developers, but many concepts are shared among di
 - [Roadmap to become a web3 developer](https://dev.to/darshancodes/roadmap-to-become-a-web3-developer-412j) by Darshancodes
 - [My roadmap in web 3](https://dev.to/jesusantguerrero/my-roadmap-in-web-3-1hgo) by Jesus Guerrero
 
+## Ethereum Development Tools
+
+- [scaffoldETH](https://scaffoldeth.io/)  Scaffold-eth is everything you need to get started building decentralized applications on Ethereum!
+- [WAGMI](http://wagmi.sh) wagmi.sh is a collection of React Hooks containing everything you need to start working with Ethereum.
+- [Rainbow Dev Kit](https://www.rainbowkit.com/) RainbowKit is a React library that makes it easy to add wallet connection to your dapp. 
+
+
 ## Ethereum free resources
 
 - [Ethereumbook](https://github.com/ethereumbook/ethereumbook) Mastering Ethereum, by Andreas M. Antonopoulos, Gavin Wood
