@@ -241,13 +241,13 @@ You can find Francesco [here](http://francescociulla.com)
 | 6-8-2022     |4c and free-web3-project video promo|https://twitter.com/FrancescoCiull4/status/1555853118923018241|
 | 7-8-2022     |8 solidity Projects on github|https://twitter.com/FrancescoCiull4/status/1556151579119591426|
 | 8-8-2022     |7 Ethereum repos for JavaScript Developers|https://twitter.com/FrancescoCiull4/status/1556517646320934914|
-| 9-8-2022     ||
-| 10-8-2022     ||
-| 11-8-2022     ||
-| 12-8-2022     ||
-| 13-8-2022     ||
-| 14-8-2022     ||
-| 15-8-2022     ||
+| 9-8-2022     |learn web3 challenge announcement|https://www.youtube.com/watch?v=N4BBL1JfRSg|
+| 10-8-2022     |solidity contract|https://twitter.com/FrancescoCiull4/status/1557409191530217474|
+| 11-8-2022     |events in solidity|https://twitter.com/FrancescoCiull4/status/1557714818261741572|
+| 12-8-2022     |msg global variable|https://twitter.com/FrancescoCiull4/status/1558052274278055936|
+| 13-8-2022     |web3conf presentation|https://twitter.com/FrancescoCiull4/status/1558377792961921024|
+| 14-8-2022     |view and pure functions|https://twitter.com/FrancescoCiull4/status/1558827306537611265|
+| 15-8-2022     |web3conf presentation visuals|https://twitter.com/FrancescoCiull4/status/1559154039086268416|
 | 16-8-2022     ||
 | 17-8-2022     ||
 | 18-8-2022     ||
