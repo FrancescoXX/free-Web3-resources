@@ -248,7 +248,7 @@ You can find Francesco [here](http://francescociulla.com)
 | 13-8-2022     |web3conf presentation|https://twitter.com/FrancescoCiull4/status/1558377792961921024|
 | 14-8-2022     |view and pure functions|https://twitter.com/FrancescoCiull4/status/1558827306537611265|
 | 15-8-2022     |web3conf presentation visuals|https://twitter.com/FrancescoCiull4/status/1559154039086268416|
-| 16-8-2022     ||
+| 16-8-2022     |Smart contracts projects on GitHub|https://twitter.com/FrancescoCiull4/status/1559418225099931648|
 | 17-8-2022     ||
 | 18-8-2022     ||
 | 19-8-2022     ||
