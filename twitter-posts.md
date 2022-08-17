@@ -1,4 +1,4 @@
-# 200-days-of-Web3
+# 300-days-of-Web3
 This is a list of the content I shared about Web3 for the upcoming 200 days
 
 You can find Francesco [here](http://francescociulla.com)
