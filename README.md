@@ -220,7 +220,7 @@ A list of currently active Blockchains projects. Sorted Alphabetically.
  ## You can explore about Crypto, Blockchain,DAOs,EVM many things to learn &#11015;&#65039;
  1. [Dapp University](https://youtu.be/uGPC9wNTBbw)
  
- 2. [Whiteboard Crypto](https://youtu.be/mSeLVtBe2xE)
+ 2. [Whiteboard Crypto](https://www.youtube.com/c/WhiteboardCrypto)
  
  3. [Ethereum Foundation](https://youtu.be/TDGq4aeevgY)
  
