@@ -251,8 +251,8 @@ You can find Francesco [here](http://francescociulla.com)
 | 16-8-2022     |Smart contracts projects on GitHub|https://twitter.com/FrancescoCiull4/status/1559418225099931648|
 | 17-8-2022     |9 altenatives to Ethereum|https://twitter.com/FrancescoCiull4/status/1559740981553287168|
 | 18-8-2022     |Blockchain in many languages|https://twitter.com/FrancescoCiull4/status/1560130271521157120|
-| 19-8-2022     ||
-| 20-8-2022     ||
+| 19-8-2022     |15 NFT use cases|https://twitter.com/FrancescoCiull4/status/1560443843019182080|
+| 20-8-2022     |Free Web3 Newsletter|https://www.getrevue.co/profile/francescociull4/issues/free-web3-newsletter-the-different-types-of-zk-evms-ar-rahman-to-enter-web3-web3-nfts-and-the-future-of-art-1288646?via=twitter-card&client=DesktopWeb&element=issue-card|
 | 21-8-2022     ||
 | 22-8-2022     ||
 | 23-8-2022     ||
