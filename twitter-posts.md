@@ -254,8 +254,8 @@ You can find Francesco [here](http://francescociulla.com)
 | 19-8-2022     |15 NFT use cases|https://twitter.com/FrancescoCiull4/status/1560443843019182080|
 | 20-8-2022     |Free Web3 Newsletter|https://www.getrevue.co/profile/francescociull4/issues/free-web3-newsletter-the-different-types-of-zk-evms-ar-rahman-to-enter-web3-web3-nfts-and-the-future-of-art-1288646?via=twitter-card&client=DesktopWeb&element=issue-card|
 | 21-8-2022     |Blockchain Trilemma|https://twitter.com/FrancescoCiull4/status/1561261298221989889|
-| 22-8-2022     ||
-| 23-8-2022     ||
+| 22-8-2022     |15 Ethereum Virtual Machine (EVM) Concepts|https://twitter.com/FrancescoCiull4/status/1561625908385120262|
+| 23-8-2022     |Uniswap Protocol thread|https://twitter.com/FrancescoCiull4/status/1561961839407370240|
 | 24-8-2022     ||
 | 25-8-2022     ||
 | 26-8-2022     ||
