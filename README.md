@@ -26,7 +26,7 @@ This is primarily for Ethereum Developers, but many concepts are shared among di
 
 ## Ethereum Development Tools
 
-- [scaffoldETH](https://scaffoldeth.io/)  Scaffold-eth is everything you need to get started building decentralized applications on Ethereum!
+- [scaffoldETH](https://github.com/scaffold-eth/scaffold-eth)  Scaffold-eth is everything you need to get started building decentralized applications on Ethereum!
 - [WAGMI](http://wagmi.sh) wagmi.sh is a collection of React Hooks containing everything you need to start working with Ethereum.
 - [Rainbow Dev Kit](https://www.rainbowkit.com/) RainbowKit is a React library that makes it easy to add wallet connection to your dapp. 
 
