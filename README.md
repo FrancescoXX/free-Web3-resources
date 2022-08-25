@@ -111,6 +111,7 @@ An Ethereum client is the software that allows Ethereum nodes to read the block 
 
 - [thirdweb](https://thirdweb.com/) Smart contracts you control. Tools that accelerate your workflow. Intuitive SDKs and widgets for developers.
 - [Moralis](https://moralis.io/) The Ultimate Web3 Development Platform.
+- [Etherspot](https://etherspot.io) The only SDK you need to Go Multichain (batched transactions, NFTs, ENS, Payment Channels and more).
 
 ## Oracles
 
