@@ -256,8 +256,8 @@ You can find Francesco [here](http://francescociulla.com)
 | 21-8-2022     |Blockchain Trilemma|https://twitter.com/FrancescoCiull4/status/1561261298221989889|
 | 22-8-2022     |15 Ethereum Virtual Machine (EVM) Concepts|https://twitter.com/FrancescoCiull4/status/1561625908385120262|
 | 23-8-2022     |Uniswap Protocol thread|https://twitter.com/FrancescoCiull4/status/1561961839407370240|
-| 24-8-2022     ||
-| 25-8-2022     ||
+| 24-8-2022     |Ethereum scams thread|https://twitter.com/FrancescoCiull4/status/1562314049320370176|
+| 25-8-2022     |How to learn web3. a thread|https://twitter.com/FrancescoCiull4/status/1562664824521523202|
 | 26-8-2022     ||
 | 27-8-2022     ||
 | 28-8-2022     ||
