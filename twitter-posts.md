@@ -258,7 +258,7 @@ You can find Francesco [here](http://francescociulla.com)
 | 23-8-2022     |Uniswap Protocol thread|https://twitter.com/FrancescoCiull4/status/1561961839407370240|
 | 24-8-2022     |Ethereum scams thread|https://twitter.com/FrancescoCiull4/status/1562314049320370176|
 | 25-8-2022     |How to learn web3. a thread|https://twitter.com/FrancescoCiull4/status/1562664824521523202|
-| 26-8-2022     ||
+| 26-8-2022     |Solidity Cheatsheet. August 2022|https://twitter.com/FrancescoCiull4/status/1563045085658222596|
 | 27-8-2022     ||
 | 28-8-2022     ||
 | 29-8-2022     ||
