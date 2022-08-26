@@ -8,39 +8,40 @@ This is primarily for Ethereum Developers, but many concepts are shared among di
 
 ## Getting Involved
 
-- [The Fable of the Dragon-Tyrant](https://www.nickbostrom.com/fable/dragon.html) An inspirational reading to warm up.
-- [Ethereum Whitepaper](https://ethereum.org/en/whitepaper/) Introductory paper published in 2014 by Vitalik Buterin, Ethereum's founder, before the launch in 2015.
-- [Endgame](https://vitalik.ca/general/2021/12/06/endgame.html) An Article by Vitalik Buterin to have an idea of the direction Ethereum is taking.
 - [Blockchain Trilemma](https://medium.com/certik/the-blockchain-trilemma-decentralized-scalable-and-secure-e9d8c41a87b3) An article about the Blockchain Trilemma.
+- [Endgame](https://vitalik.ca/general/2021/12/06/endgame.html) An Article by Vitalik Buterin to have an idea of the direction Ethereum is taking.
+- [Ethereum Whitepaper](https://ethereum.org/en/whitepaper/) Introductory paper published in 2014 by Vitalik Buterin, Ethereum's founder, before the launch in 2015.
 - [Ethereum Yellowpaper](https://ethereum.github.io/yellowpaper/paper.pdf) The "Yellow Paper": Ethereum's formal specification
+- [The Fable of the Dragon-Tyrant](https://www.nickbostrom.com/fable/dragon.html) An inspirational reading to warm up.
 
 ## Web3 Roadmaps
 
 - [Complete Web3.0 And Solidity Development Roadmap 2022](https://vitto.cc/web3-and-solidity-smart-contracts-development-roadmap/) by [Vittorio Rivabella](https://vitto.cc/)
-- [Your Roadmap To Becoming A Web 3.0 Developer](https://blog.oliverjumpertz.dev/your-roadmap-to-becoming-a-web-30-developer) by Oliver Jumpertz
-- [Web 3.0: A Developer Roadmap, Guide, and Resources to Get Started](https://blog.idrisolubisi.com/web-3-a-developer-roadmap-and-resources-to-get-started) by Olubisi Idris Ayinde
-- [The Complete Roadmap and Resources to Become a Web3 Developer in 2022](https://betterprogramming.pub/has-anyone-seen-web3-a-complete-roadmap-free-resources-to-become-web3-developer-4e5dc9332c1f) by Nagaraj Pandith
 - [How To Get Into Crypto? 2022 Roadmap For A Web3 Developer](https://medium.com/theweb3stack/how-to-get-into-crypto-a-roadmap-for-a-web3-developer-4a5806f61869) by Darrius Singleton
-- [Roadmap to become a web3 developer](https://dev.to/darshancodes/roadmap-to-become-a-web3-developer-412j) by Darshancodes
 - [My roadmap in web 3](https://dev.to/jesusantguerrero/my-roadmap-in-web-3-1hgo) by Jesus Guerrero
+- [Roadmap to become a web3 developer](https://dev.to/darshancodes/roadmap-to-become-a-web3-developer-412j) by Darshancodes
+- [The Complete Roadmap and Resources to Become a Web3 Developer in 2022](https://betterprogramming.pub/has-anyone-seen-web3-a-complete-roadmap-free-resources-to-become-web3-developer-4e5dc9332c1f) by Nagaraj Pandith
+- [Web 3.0: A Developer Roadmap, Guide, and Resources to Get Started](https://blog.idrisolubisi.com/web-3-a-developer-roadmap-and-resources-to-get-started) by Olubisi Idris Ayinde
+- [Your Roadmap To Becoming A Web 3.0 Developer](https://blog.oliverjumpertz.dev/your-roadmap-to-becoming-a-web-30-developer) by Oliver Jumpertz
 
 ## Ethereum free resources
 
-- [Ethereumbook](https://github.com/ethereumbook/ethereumbook) Mastering Ethereum, by Andreas M. Antonopoulos, Gavin Wood
-- [Ethereum Wiki](https://eth.wiki/) Ethereum wiki covering all things related to Ethereum.
-- [EthHub](https://docs.ethhub.io) The goal of EthHub is to provide a single source for essential Ethereum information.
-- [ethereum.org](https://ethereum.org/) ethereum.org is your portal into the world of Ethereum.
-
-
-- [Solidity Docs](https://docs.soliditylang.org/en/v0.8.13/) Solidity documentation
-- [Decentralizing Everything](https://www.youtube.com/watch?v=WSN5BaCzsbo&ab_channel=TechCrunch) Naval Ravikant brings Ethereum's Vitalik Buterin onstage to explain what it is and why it's useful.
-- [Ethereum Foundation YT Channel](https://www.youtube.com/channel/UCNOfzGXD_C9YMYmnefmPH0g) Ethereum Foundation YouTube Channel. It currently has 45k Subscribers
 - [Awesome Ethereum by bekatom](https://github.com/bekatom/awesome-ethereum) Awesome Ethereum Resources
 - [Awesome Ethereum Security](https://github.com/crytic/awesome-ethereum-security) A curated list of awesome Ethereum security references
+- [Decentralizing Everything](https://www.youtube.com/watch?v=WSN5BaCzsbo&ab_channel=TechCrunch) Naval Ravikant brings Ethereum's Vitalik Buterin onstage to explain what it is and why it's useful.
 - [District0x](https://education.district0x.io/general-topics/understanding-ethereum/) An educational resource about Ethereum targeted at beginners.
+- [ethereum.org](https://ethereum.org/) ethereum.org is your portal into the world of Ethereum.
+- [Ethereumbook](https://github.com/ethereumbook/ethereumbook) Mastering Ethereum, by Andreas M. Antonopoulos, Gavin Wood
 - [EtherWorld](https://etherworld.co/tag/ethereum/) An Ethereum educational resource in the form of blogs and video guides
 - [Ethereum Boilerplate](https://github.com/ethereum-boilerplate/ethereum-boilerplate) Ethereum Dapp Boilerplate by Moralis. Despite the name, it also works with any EVM and Solana
+- [Ethereum Foundation YT Channel](https://www.youtube.com/channel/UCNOfzGXD_C9YMYmnefmPH0g) Ethereum Foundation YouTube Channel. It currently has 45k Subscribers
+- [Ethereum Wiki](https://eth.wiki/) Ethereum wiki covering all things related to Ethereum.
+- [EthHub](https://docs.ethhub.io) The goal of EthHub is to provide a single source for essential Ethereum information.
+- [Solidity Docs](https://docs.soliditylang.org/en/v0.8.13/) Solidity documentation
+
+
 - [Intro to Fullstack Ethereum Development](https://github.com/ChristianChiarulli/intro-fullstack-ethereum#readme) by ChristianChiarulli
+
 
 ## Ethereum Languages
 
@@ -53,16 +54,17 @@ This is primarily for Ethereum Developers, but many concepts are shared among di
 - [Solidity Cheatsheet by Manojpramesh](https://github.com/manojpramesh/solidity-cheatsheet) Cheat sheet and best practices for solidity. Write smart contracts for Ethereum.
 
 #### Tutorials
+
 - [Learn Blockchain, Solidity, and Full Stack JavaScript Development](https://www.freecodecamp.org/news/learn-blockchain-solidity-full-stack-javascript-development/) This course will give you a full introduction into all of the core concepts related to blockchain, smart contracts, Solidity, full-stack Web3 dapps, decentralized finance (DeFi), Chainlink, and more.
 
 ## Ethereum Clients
 
 An Ethereum client is the software that allows Ethereum nodes to read the block on the Ethereum network. [(more...)](https://twitter.com/FrancescoCiull4/status/1484415980293996544)
 
-- [Geth](https://github.com/ethereum/go-ethereum) Official Go implementation of the Ethereum protocol
-- [Nethermind](https://github.com/NethermindEth/nethermind) flagship .NET Core Ethereum client for Linux, Windows, MacOs - full and actively developed.
 - [Besu](https://github.com/hyperledger/besu) An enterprise-grade Java-based, Apache 2.0 licensed Ethereum client
 - [Erigon](https://github.com/ledgerwatch/erigon) Ethereum implementation on the efficiency frontier
+- [Geth](https://github.com/ethereum/go-ethereum) Official Go implementation of the Ethereum protocol
+- [Nethermind](https://github.com/NethermindEth/nethermind) flagship .NET Core Ethereum client for Linux, Windows, MacOs - full and actively developed.
 
 ## Ethereum in different languages
 
@@ -102,18 +104,17 @@ An Ethereum client is the software that allows Ethereum nodes to read the block 
 
 ## DAO Communities
 
-- [LearnWeb3DAO](https://www.learnweb3.io/) Curious about Web3 as a developer? Wonder what are NFTs, DAOs, DeFi, and Smart Contracts? This is the place for you!.
+- [Buildspace](https://buildspace.so/) Onboarding devs to web3. Start building cool stuff right now, earn NFTs, access secret opportunities in crypto.
 - [Cadena](https://cadena.dev/) - Build smart contracts, dapps, on multiple chains with a community and earn a Cadena NFT Certificate.
 - [Developer DAO](https://developerdao.notion.site/Getting-Started-with-Developer-DAO-2bddd332c51a4957b0b83f60f9fa4ebe) Build web3 with friends. New membership is officially open.
-- [Buildspace](https://buildspace.so/) Onboarding devs to web3. Start building cool stuff right now, earn NFTs, access secret opportunities in crypto.
+- [LearnWeb3DAO](https://www.learnweb3.io/) Curious about Web3 as a developer? Wonder what are NFTs, DAOs, DeFi, and Smart Contracts? This is the place for you!.
 - [Web3 University](https://www.web3.university/) Teaching Web3 to 20k+ developers worldwide.
 - [WebXDAO](https://bio.link/webxdao) An Open Source Community that focuses on decentralized applications, web 3, and blockchain technologies 🚀
 
-
 ## SDKs
 
-- [thirdweb](https://thirdweb.com/) Smart contracts you control. Tools that accelerate your workflow. Intuitive SDKs and widgets for developers.
 - [Moralis](https://moralis.io/) The Ultimate Web3 Development Platform.
+- [thirdweb](https://thirdweb.com/) Smart contracts you control. Tools that accelerate your workflow. Intuitive SDKs and widgets for developers.
 
 ## Oracles
 
@@ -129,11 +130,11 @@ An Ethereum client is the software that allows Ethereum nodes to read the block 
 
 ## NFT Marketplaces
 
-- [OpenSea](https://opensea.io/) Opensea is the largest NFT marketplace and the one I used to mint my first NFT.
-- [Looksrare](https://looksrare.org/) LooksRare is a community-first NFT marketplace with rewards for participating.
 - [Axie Infinity](https://marketplace.axieinfinity.com/) Axie Marketplace is the online shop for the video game Axie Infinity.
-- [Rarible](https://rarible.com/) A very large marketplace, partnered with Adobe. To use the marketplace, you need its own token "Rarible"
 - [Decentraland](https://decentraland.org/) Decentraland is completely based on the fantasy (Metaverse), with pretty much the same functionality as the real world.
+- [Looksrare](https://looksrare.org/) LooksRare is a community-first NFT marketplace with rewards for participating.
+- [OpenSea](https://opensea.io/) Opensea is the largest NFT marketplace and the one I used to mint my first NFT.
+- [Rarible](https://rarible.com/) A very large marketplace, partnered with Adobe. To use the marketplace, you need its own token "Rarible"
 
 ## Node Providers
 
@@ -149,15 +150,15 @@ An Ethereum client is the software that allows Ethereum nodes to read the block 
 Decentralized Storage [thread](https://twitter.com/FrancescoCiull4/status/1483295727078060034)
 
 - [Arweave](https://www.arweave.org/) Arweave enables you to store documents and applications forever.
-- [IPFS](https://ipfs.io/) A peer-to-peer hypermedia protocol designed to preserve and grow humanity's knowledge by making the web upgradeable, resilient, and more open.
 - [Filecoin](https://filecoin.io/) Filecoin is an open-source, public cryptocurrency and digital payment system intended to be a blockchain-based cooperative digital storage and data retrieval method.
+- [IPFS](https://ipfs.io/) A peer-to-peer hypermedia protocol designed to preserve and grow humanity's knowledge by making the web upgradeable, resilient, and more open.
 
 ## Ethereum Development Environment
 
-- [Hardhat](https://hardhat.org/) Ethereum development environment for professionals.
-- [Truffle](https://trufflesuite.com/) A world class development environment, testing framework and asset pipeline for blockchains using the Ethereum Virtual Machine (EVM), aiming to make life as a developer easier.
 - [Brownie](https://eth-brownie.readthedocs.io/en/stable/toctree.html) Brownie is a Python-based development and testing framework for smart contracts targeting the Ethereum Virtual Machine.
 - [Foundry](https://github.com/foundry-rs/foundry) Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
+- [Hardhat](https://hardhat.org/) Ethereum development environment for professionals.
+- [Truffle](https://trufflesuite.com/) A world class development environment, testing framework and asset pipeline for blockchains using the Ethereum Virtual Machine (EVM), aiming to make life as a developer easier.
 
 ## Ethereum Development IDEs
 
@@ -166,9 +167,9 @@ Decentralized Storage [thread](https://twitter.com/FrancescoCiull4/status/148329
 
 ## Identity
 
-- [WalletConnect](https://walletconnect.com/) WalletConnect is the web3 standard to connect blockchain wallets to dapps.
 - [MetaMask](https://metamask.io) MetaMask is a software cryptocurrency wallet used to interact with the Ethereum blockchain.
 - [Phantom](https://phantom.app/) Phantom makes it safe & easy for you to store, buy, send, receive, swap tokens and collect NFTs on the Solana blockchain.
+- [WalletConnect](https://walletconnect.com/) WalletConnect is the web3 standard to connect blockchain wallets to dapps.
 
 ## Indexing
 
@@ -176,8 +177,8 @@ Decentralized Storage [thread](https://twitter.com/FrancescoCiull4/status/148329
 
 ## Client SDKs
 
-- [Web3.js](https://web3js.readthedocs.io/) Web3.js is a collection of libraries that allow you to interact with a local or remote ethereum node using HTTP, IPC or WebSocket.
 - [Ether.js](https://docs.ethers.io/) The ethers.js library aims to be a complete and compact library for interacting with the Ethereum Blockchain and its ecosystem.
+- [Web3.js](https://web3js.readthedocs.io/) Web3.js is a collection of libraries that allow you to interact with a local or remote ethereum node using HTTP, IPC or WebSocket.
 
 ## Blockchains
 
@@ -227,7 +228,8 @@ A list of Blockchain Learning Platforms.
 ## Solana
 
 #### Tutorials
-   - [Complete Guide to Full Stack Solana Development by Nader Dabit](https://dev.to/edge-and-node/the-complete-guide-to-full-stack-solana-development-with-react-anchor-rust-and-phantom-3291)
+
+ - [Complete Guide to Full Stack Solana Development by Nader Dabit](https://dev.to/edge-and-node/the-complete-guide-to-full-stack-solana-development-with-react-anchor-rust-and-phantom-3291)
  - [How to Mint an NFT on Solana](https://www.quicknode.com/guides/web3-sdks/how-to-mint-an-nft-on-solana )
 
  ## &#127916; Youtube Tutorials 
@@ -242,10 +244,4 @@ A list of Blockchain Learning Platforms.
 4. [ Moralis Web3](https://youtu.be/P87pLayUD8c) 
 
 5. [ Clever Programmer](https://youtu.be/Lz3m4BI1EfY)
-
- 
- 
- 
-
- 
 
