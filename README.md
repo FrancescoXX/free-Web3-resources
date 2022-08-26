@@ -1,11 +1,11 @@
 # Free Web3 Resources
 
-This is a list of Tons of Free Web3 Resources to learn Blockchain development.
+This is a list of Free Web3 Resources links to learn Blockchain development.
 
 ## Start here
 🏁 Join the Community: [free web3 project on 4C](https://discord.com/invite/cRjhjFRRre)
 
-📝 All  the Twitter posts [here](https://github.com/FrancescoXX/free-Web3-resources/blob/main/twitter-posts.md)
+📝 All Francescos' Twitter posts [here](https://github.com/FrancescoXX/free-Web3-resources/blob/main/twitter-posts.md)
 
 ![WEB3 FREE RESOURCES](https://user-images.githubusercontent.com/18360871/162364470-56cc28da-d50c-426f-82a4-7ea06234d4bf.png)
 
@@ -30,9 +30,9 @@ This is a list of Tons of Free Web3 Resources to learn Blockchain development.
 
 ## Ethereum Development Tools
 
+- [Rainbow Dev Kit](https://www.rainbowkit.com/) RainbowKit is a React library that makes it easy to add wallet connection to your dapp. 
 - [scaffoldETH](https://github.com/scaffold-eth/scaffold-eth)  Scaffold-eth is everything you need to get started building decentralized applications on Ethereum!
 - [WAGMI](http://wagmi.sh) wagmi.sh is a collection of React Hooks containing everything you need to start working with Ethereum.
-- [Rainbow Dev Kit](https://www.rainbowkit.com/) RainbowKit is a React library that makes it easy to add wallet connection to your dapp. 
 
 
 ## Ethereum free resources
@@ -111,7 +111,6 @@ An Ethereum client is the software that allows Ethereum nodes to read the block 
 - [BTK Academy](https://www.btkakademi.gov.tr/portal/course/blokzincir-ve-kripto-paralar-10569#!/about) blockchain and cryptocurrency-focused course in Turkish.
 
 ### Vietnamese
-
 - [Tino Group](https://wiki.tino.org/ethereum-la-gi/) Ethereum info, wallets and FAQ in Vietnamese
 
 ## DAO Communities
@@ -163,8 +162,8 @@ Decentralized Storage [thread](https://twitter.com/FrancescoCiull4/status/148329
 
 - [Arweave](https://www.arweave.org/) Arweave enables you to store documents and applications forever.
 - [Filecoin](https://filecoin.io/) Filecoin is an open-source, public cryptocurrency and digital payment system intended to be a blockchain-based cooperative digital storage and data retrieval method.
-- [Swarm ](https://ethersphere.github.io/swarm-home/) Swarm is a distributed storage platform and content distribution service, a native base layer service of the ethereum web3 stack that aims to provide a decentralized and redundant store for dapp code, user data, blockchain and state data. Swarm sets out to provide various base layer services for web3, including node-to-node messaging, media streaming, decentralised database services and scalable state-channel infrastructure for decentralised service economies.
 - [IPFS](https://ipfs.io/) A peer-to-peer hypermedia protocol designed to preserve and grow humanity's knowledge by making the web upgradeable, resilient, and more open.
+- [Swarm](https://ethersphere.github.io/swarm-home/) Swarm is a distributed storage platform and content distribution service, a native base layer service of the ethereum web3 stack that aims to provide a decentralized and redundant store for dapp code, user data, blockchain and state data. Swarm sets out to provide various base layer services for web3, including node-to-node messaging, media streaming, decentralised database services and scalable state-channel infrastructure for decentralised service economies.
 
 ## Ethereum Development Environment
 
@@ -236,25 +235,17 @@ A list of Blockchain Learning Platforms.
 
 - [LearnWeb3](https://learnweb3.io) LearnWeb3 is the best, fastest growing, and completely free web3 education platform for new and experienced web2 developers.
  
-  
-
+ 
 ## Solana
-
-#### Tutorials
 
  - [Complete Guide to Full Stack Solana Development by Nader Dabit](https://dev.to/edge-and-node/the-complete-guide-to-full-stack-solana-development-with-react-anchor-rust-and-phantom-3291)
  - [How to Mint an NFT on Solana](https://www.quicknode.com/guides/web3-sdks/how-to-mint-an-nft-on-solana )
 
- ## &#127916; Youtube Tutorials 
+## Youtube Channels 
  
-## You can explore about Crypto, Blockchain,DAOs,EVM many things to learn &#11015;&#65039;
-1. [Dapp University](https://youtu.be/uGPC9wNTBbw)
-
-2. [Whiteboard Crypto](https://www.youtube.com/c/WhiteboardCrypto)
-
-3. [Ethereum Foundation](https://youtu.be/TDGq4aeevgY)
-
-4. [ Moralis Web3](https://youtu.be/P87pLayUD8c) 
-
-5. [ Clever Programmer](https://youtu.be/Lz3m4BI1EfY)
-
+- [Dapp University](https://youtu.be/uGPC9wNTBbw)
+- [Whiteboard Crypto](https://www.youtube.com/c/WhiteboardCrypto)
+- [Ethereum Foundation](https://youtu.be/TDGq4aeevgY)
+- [Moralis Web3](https://youtu.be/P87pLayUD8c) 
+- [Clever Programmer](https://youtu.be/Lz3m4BI1EfY)
+- [Smart Contract Programmer](https://www.youtube.com/channel/UCJWh7F3AFyQ_x01VKzr9eyA)
