@@ -34,7 +34,7 @@ This is primarily for Ethereum Developers, but many concepts are shared among di
 
 - [Solidity Docs](https://docs.soliditylang.org/en/v0.8.13/) Solidity documentation
 - [Decentralizing Everything](https://www.youtube.com/watch?v=WSN5BaCzsbo&ab_channel=TechCrunch) Naval Ravikant brings Ethereum's Vitalik Buterin onstage to explain what it is and why it's useful.
-- [Ethereum Foundation YT Channel](https://www.youtube.com/channel/UCNOfzGXD_C9YMYmnefmPH0g) Ethereym Foundation YouTube Channel. It currently has 45k Subscribers
+- [Ethereum Foundation YT Channel](https://www.youtube.com/channel/UCNOfzGXD_C9YMYmnefmPH0g) Ethereum Foundation YouTube Channel. It currently has 45k Subscribers
 - [Awesome Ethereum by bekatom](https://github.com/bekatom/awesome-ethereum) Awesome Ethereum Resources
 - [Awesome Ethereum Security](https://github.com/crytic/awesome-ethereum-security) A curated list of awesome Ethereum security references
 - [District0x](https://education.district0x.io/general-topics/understanding-ethereum/) An educational resource about Ethereum targeted at beginners.
@@ -51,6 +51,9 @@ This is primarily for Ethereum Developers, but many concepts are shared among di
 - [Solidity Cheatsheet](https://intellipaat.com/mediaFiles/2019/03/Solidity-Cheat-Sheet.jpg) A comprehensive Solidity Cheatsheet.
 - [Solidity Cheatsheet by Manojpramesh](https://github.com/manojpramesh/solidity-cheatsheet) Cheat sheet and best practices for solidity. Write smart contracts for Ethereum.
 
+#### Tutorials
+- [Learn Blockchain, Solidity, and Full Stack JavaScript Development](https://www.freecodecamp.org/news/learn-blockchain-solidity-full-stack-javascript-development/) This course will give you a full introduction into all of the core concepts related to blockchain, smart contracts, Solidity, full-stack Web3 dapps, decentralized finance (DeFi), Chainlink, and more.
+
 ## Ethereum Clients
 
 An Ethereum client is the software that allows Ethereum nodes to read the block on the Ethereum network. [(more...)](https://twitter.com/FrancescoCiull4/status/1484415980293996544)
@@ -64,9 +67,9 @@ An Ethereum client is the software that allows Ethereum nodes to read the block 
 
 - [ethereum.org in different languages](https://ethereum.org/en/languages) Ethereum docs in 43 languages
 
-### Brazilian
+### Portuguese
 
-- [Web3dev](https://www.web3dev.com.br/) Content and community for web 3 developers in Brazilian.
+- [Web3dev](https://www.web3dev.com.br/) Content and community for web 3 developers in Portuguese.
 
 ### Chinese
 
@@ -99,6 +102,7 @@ An Ethereum client is the software that allows Ethereum nodes to read the block 
 ## DAO Communities
 
 - [LearnWeb3DAO](https://www.learnweb3.io/) Curious about Web3 as a developer? Wonder what are NFTs, DAOs, DeFi, and Smart Contracts? This is the place for you!.
+- [Cadena](https://cadena.dev/) - Build smart contracts, dapps, on multiple chains with a community and earn a Cadena NFT Certificate.
 - [Developer DAO](https://developerdao.notion.site/Getting-Started-with-Developer-DAO-2bddd332c51a4957b0b83f60f9fa4ebe) Build web3 with friends. New membership is officially open.
 - [Buildspace](https://buildspace.so/) Onboarding devs to web3. Start building cool stuff right now, earn NFTs, access secret opportunities in crypto.
 - [Web3 University](https://www.web3.university/) Teaching Web3 to 20k+ developers worldwide.
@@ -135,6 +139,7 @@ An Ethereum client is the software that allows Ethereum nodes to read the block 
 [Node Providers Twitter Thread](https://twitter.com/FrancescoCiull4/status/1496711754776199168)
 
 - [Alchemy](https://www.alchemy.com/) One magic line of code supercharges your development with the world’s most powerful blockchain developer platform, relied upon by the majority of the world's top blockchain apps.
+- [Chainstack](https://www.chainstack.com/) From startups to large enterprises, thousands of businesses of all sizes use Chainstack’s software and APIs to build, run, and scale blockchain applications.
 - [Infura](https://infura.io/) Suite of high availability APIs and Developer Tools that can provide quick, reliable access to the Ethereum and IPFS networks so you can focus on building and scaling next generation software.
 - [Quicknode](https://www.quicknode.com/) Hosted Blockchain Infrastructure as a Service.
 
@@ -189,6 +194,7 @@ A list of currently active Blockchains projects. Sorted Alphabetically.
 - [EOSIO](https://eos.io/) EOSIO is an open-source blockchain platform that helps developers, investors, and businesses build with confidence.
 - [Ethereum](https://ethereum.org/en/) Ethereum is the community-run technology powering the cryptocurrency ether (ETH) and thousands of decentralized applications.
 - [Fantom](https://fantom.foundation/) Fantom is a highly scalable blockchain platform for DeFi, crypto dApps, and enterprise applications.
+- [Harmony](https://www.harmony.one/) is an open and fast layer-1 blockchain. It is compatible with EVM and Solidity. It supports very low transaction fees. Its native crypto is ONE.
 - [Hedera Hashgraph](https://hedera.com/) Hashgraph is a distributed ledger technology that has been described as an alternative to blockchains.
 - [Hyperledger Fabric](https://www.hyperledger.org/use/fabric) Hyperledger Fabric is intended as a foundation for developing apps or solutions with a modular architecture.
 - [IBM Blockchain](https://www.ibm.com/blockchain) Trusted data exchange and workflow automation beyond the boundaries with distributed ledger and blockchain.
@@ -209,27 +215,36 @@ A list of currently active Blockchains projects. Sorted Alphabetically.
 - [XinFin](https://xinfin.org/) Enterprise Ready Hybrid Blockchain For Global Trade and Finance.
 - [ZkSync](https://zksync.io/) zkSync is a ZK rollup solving Ethereum scalability with zero security compromises.
 
+## Learning Platforms
+
+A list of Blockchain Learning Platforms.
+
+- [LearnWeb3](https://learnweb3dao.io) LearnWeb3 is the best, fastest growing, and completely free web3 education platform for new and experienced web2 developers.
+ 
+  
+
 ## Solana
 
-  #### Tutorials
+#### Tutorials
    - [Complete Guide to Full Stack Solana Development by Nader Dabit](https://dev.to/edge-and-node/the-complete-guide-to-full-stack-solana-development-with-react-anchor-rust-and-phantom-3291)
  - [How to Mint an NFT on Solana](https://www.quicknode.com/guides/web3-sdks/how-to-mint-an-nft-on-solana )
- ----------
+
  ## &#127916; Youtube Tutorials 
  
- ## You can explore about Crypto, Blockchain,DAOs,EVM many things to learn &#11015;&#65039;
- 1. [Dapp University](https://youtu.be/uGPC9wNTBbw)
- 
- 2. [Whiteboard Crypto](https://www.youtube.com/c/WhiteboardCrypto)
- 
- 3. [Ethereum Foundation](https://youtu.be/TDGq4aeevgY)
- 
- 4. [ Moralis Web3](https://youtu.be/P87pLayUD8c) 
- 
- 5. [ Clever Programmer](https://youtu.be/Lz3m4BI1EfY)
- ----------
+## You can explore about Crypto, Blockchain,DAOs,EVM many things to learn &#11015;&#65039;
+1. [Dapp University](https://youtu.be/uGPC9wNTBbw)
+
+2. [Whiteboard Crypto](https://www.youtube.com/c/WhiteboardCrypto)
+
+3. [Ethereum Foundation](https://youtu.be/TDGq4aeevgY)
+
+4. [ Moralis Web3](https://youtu.be/P87pLayUD8c) 
+
+5. [ Clever Programmer](https://youtu.be/Lz3m4BI1EfY)
+
  
  
  
 
  
+

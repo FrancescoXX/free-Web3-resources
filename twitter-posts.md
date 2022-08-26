@@ -1,4 +1,4 @@
-# 200-days-of-Web3
+# 300-days-of-Web3
 This is a list of the content I shared about Web3 for the upcoming 200 days
 
 You can find Francesco [here](http://francescociulla.com)
@@ -135,76 +135,176 @@ You can find Francesco [here](http://francescociulla.com)
 | 22-4-2022     |Ethereum Virtual Machine thread|https://twitter.com/FrancescoCiull4/status/1517393190537646080|
 | 23-4-2022     |FREE Web3 Newsletter|https://twitter.com/FrancescoCiull4/status/1517755884184743936|
 | 24-4-2022     |Solidity Style guideliones thread|https://twitter.com/FrancescoCiull4/status/1518172830202052609|
-| 25-4-2022     |||
-| 26-4-2022     |||
-| 27-4-2022     |||
-| 28-4-2022     |||
-| 29-4-2022     |||
-| 30-4-2022     |||
-| 1-5-2022     |||
-| 2-5-2022     |||
-| 3-5-2022     |||
-| 4-5-2022     |||
-| 5-5-2022     |||
-| 6-5-2022     |||
-| 7-5-2022     |||
-| 8-5-2022     |||
-| 9-5-2022     |||
-| 10-5-2022     |||
-| 11-5-2022     |||
-| 12-5-2022     |||
-| 13-5-2022     |||
-| 14-5-2022     |||
-| 15-5-2022     |||
-| 16-5-2022     |||
-| 17-5-2022     |||
-| 18-5-2022     |||
-| 19-5-2022     |||
-| 20-5-2022     |||
-| 21-5-2022     |||
-| 22-5-2022     |||
-| 23-5-2022     |||
-| 24-5-2022     |||
-| 25-5-2022     |||
-| 26-5-2022     |||
-| 27-5-2022     |||
-| 28-5-2022     |||
-| 29-5-2022     |||
-| 30-5-2022     |||
-| 31-5-2022     |||
-| 1-6-2022     |||
-| 2-6-2022     |||
-| 3-6-2022     |||
-| 4-6-2022     |||
-| 5-6-2022     |||
-| 6-6-2022     |||
-| 7-6-2022     |||
-| 8-6-2022     |||
-| 9-6-2022     |||
-| 10-6-2022     |||
-| 11-6-2022     |||
-| 12-6-2022     |||
-| 13-6-2022     |||
-| 14-6-2022     |||
-| 15-6-2022     |||
-| 16-6-2022     |||
-| 17-6-2022     |||
-| 18-6-2022     |||
-| 19-6-2022     |||
-| 20-6-2022     |||
-| 21-6-2022     |||
-| 22-6-2022     |||
-| 23-6-2022     |||
-| 24-6-2022     |||
-| 25-6-2022     |||
-| 26-6-2022     |||
-| 27-6-2022     |||
-| 28-6-2022     |||
-| 29-6-2022     |||
-| 30-6-2022     |||
-| 1-7-2022     |||
-| 2-7-2022     |||
-| 3-7-2022     |||
-| 4-7-2022     |||
-| 5-7-2022     |||
-| 6-7-2022     |||
+| 25-4-2022     |Solidity integrations cheatsheet May 2022|https://twitter.com/FrancescoCiull4/status/1518446980720177152|
+| 26-4-2022     |Ethereum concepts thread|https://twitter.com/FrancescoCiull4/status/1518825903677136898|
+| 27-4-2022     |Blockchain code stats|https://twitter.com/FrancescoCiull4/status/1519188428352536576|
+| 28-4-2022     |7 Solidity videos thread|https://twitter.com/FrancescoCiull4/status/1519563548321628162|
+| 29-4-2022     |Blockchain implemented in 7 languages|https://twitter.com/FrancescoCiull4/status/1519874119776575489|
+| 30-4-2022     |Free Web3 Newsletter|https://www.getrevue.co/profile/francescociull4/issues/decentralizing-everything-with-naval-vitalik-buterin-free-web3-newsletteer-four-links-to-get-involved-in-web3-and-a-4k-cheatsheet-you-can-download-1148152|
+| 1-5-2022     |Solidity Helo world video|https://youtu.be/MC5HC6GOr-w|
+| 2-5-2022     |Solidity Hello world Article|https://blog.francescociulla.com/solidity-hello-world||
+| 3-5-2022     |Ethereum transactions thread|https://twitter.com/FrancescoCiull4/status/1521376534552064001|
+| 4-5-2022     |Learn Web3 for free links|https://twitter.com/FrancescoCiull4/status/1521721528173449216|
+| 5-5-2022     |Learn Wab3 DAO video|https://youtu.be/Tfl4_lfKKRg|
+| 6-5-2022     |9 Javascript projects on github|https://twitter.com/FrancescoCiull4/status/1522442185630748672|
+| 7-5-2022     |Free Web3 Newsletter|https://twitter.com/FrancescoCiull4/status/1522814699611512833|
+| 8-5-2022     |Ethereum accounts Thread|https://twitter.com/FrancescoCiull4/status/1523171803296059392|
+| 9-5-2022     |15 NFT use cases|https://twitter.com/FrancescoCiull4/status/1523525064167419906|
+| 10-5-2022     |8 Web3 roadmaps|https://twitter.com/FrancescoCiull4/status/1523899477920292867|
+| 11-5-2022     |NFT introduction thread|https://twitter.com/FrancescoCiull4/status/1524256511610007552|
+| 12-5-2022     |Ethereum blocks thread|https://twitter.com/FrancescoCiull4/status/1524596438298206209|
+| 13-5-2022     |Ethereum Alternatives thread|https://twitter.com/FrancescoCiull4/status/1524961618832105472|
+| 14-5-2022     |Free Web3 Newsletter|https://www.getrevue.co/profile/francescociull4/issues/web-3-security-issues-and-how-to-write-more-secure-smart-contract-code-free-resources-1168513|
+| 15-5-2022     |Decentralized storage thread|https://twitter.com/FrancescoCiull4/status/1525721010162515968|
+| 16-5-2022     |15 EVM concepts thread|https://twitter.com/FrancescoCiull4/status/1526047645239746561|
+| 17-5-2022     |Ethereum Name service thread|https://twitter.com/FrancescoCiull4/status/1526401159673544704|
+| 18-5-2022     |Block Explorers thread|https://twitter.com/FrancescoCiull4/status/1526797549847334913|
+| 19-5-2022     |ABI (application Binary Interface) thread|https://twitter.com/FrancescoCiull4/status/1527151134598746113|
+| 20-5-2022     |Proof of work and proof od stake thread|https://twitter.com/FrancescoCiull4/status/1527505902609342477|
+| 21-5-2022     |Newsletter Open contradictions Web3|https://www.getrevue.co/profile/francescociull4/issues/open-contradictions-about-ethereum-and-web3-by-vitalik-buterin-and-the-merge-happening-soon-1178790|
+| 22-5-2022     |Blockchain implemented in different languages|https://twitter.com/FrancescoCiull4/status/1528232392699396097|
+| 23-5-2022     |What is a blockchain thread with visuals|https://twitter.com/FrancescoCiull4/status/1528584652201525250|
+| 24-5-2022     |Ethereum whitepaper thread|https://twitter.com/FrancescoCiull4/status/1528932943812612096|
+| 25-5-2022     |Ethereum blocks thread|https://twitter.com/FrancescoCiull4/status/1529315821989859329|
+| 26-5-2022     |Smart contracts open source Github projects thread|https://twitter.com/FrancescoCiull4/status/1529674527801851904|
+| 27-5-2022     |Web3 Stack - May 2022|https://twitter.com/FrancescoCiull4/status/1530039105958121475|
+| 28-5-2022     |Web3 stack May 2022 Newsletter|https://www.getrevue.co/profile/francescociull4/issues/free-32-hours-blockchain-course-web3-stack-2022-download-vitalik-buterin-s-last-article-1188859|
+| 29-5-2022     |Code Europe presentation links|https://github.com/FrancescoXX/free-Web3-resources/blob/main/intro-to-solidity.md|
+| 30-5-2022     |Code Europe 2022 conference - Tricity|https://github.com/FrancescoXX/free-Web3-resources/blob/main/intro-to-solidity.md|
+| 31-5-2022     |Code Europe presentation update|https://github.com/FrancescoXX/free-Web3-resources/blob/main/intro-to-solidity.md|
+| 1-6-2022     |Code Europe 2022 conference - Krakow|https://github.com/FrancescoXX/free-Web3-resources/blob/main/intro-to-solidity.md|
+| 2-6-2022     |Code Europe 2022 conference - Warsaw|https://github.com/FrancescoXX/free-Web3-resources/blob/main/intro-to-solidity.md|
+| 3-6-2022     |mining and mining pools thread|https://twitter.com/FrancescoCiull4/status/1532811143571439617|
+| 4-6-2022     |web2 vs web3 thread|https://twitter.com/FrancescoCiull4/status/1533177976745086979|
+| 5-6-2022     |Free Web3 Newsletter|https://www.getrevue.co/profile/francescociull4/issues/vitalik-buterin-shows-support-for-optimism-s-governance-structure-and-op-gas-proposal-issue-28-1198632|
+| 6-6-2022     |Ethereum client diversification thread|https://twitter.com/FrancescoCiull4/status/1533639473493426176|
+| 7-6-2022     |Blockchains to keep an eye on June 2022|https://twitter.com/FrancescoCiull4/status/1534027853679177730|
+| 8-6-2022     |Thirdweb Deploy|https://twitter.com/FrancescoCiull4/status/1534575320703049728|
+| 9-6-2022     |Smart contracts thread|https://twitter.com/FrancescoCiull4/status/1534765123033878531|
+| 10-6-2022     |10 solidity tips thread|https://twitter.com/FrancescoCiull4/status/1535126742771310594|
+| 11-6-2022     |Web3 Newsletter|https://www.getrevue.co/profile/francescociull4/issues/web5-jack-dorsey-fu-k-it-we-re-doing-web5-download-4k-version-of-blockchains-to-keep-an-eye-on-in-2022-1210359|
+| 12-6-2022     |Ethereum whitepaper|https://twitter.com/FrancescoCiull4/status/1535831527816409089|
+| 13-6-2022     |Solana repositories|https://twitter.com/FrancescoCiull4/status/1536212601637830657|
+| 14-6-2022     |12 free resources to learn Ethereum|https://twitter.com/FrancescoCiull4/status/1536532364175757313|
+| 15-6-2022     |Ethereum Name Service Thread|https://twitter.com/FrancescoCiull4/status/1537188212619476992|
+| 16-6-2022     |ABI (Application Binary Interface) thread|https://twitter.com/FrancescoCiull4/status/1537285759350321153|
+| 17-6-2022     |Ethereum Public and Private Networks|https://twitter.com/FrancescoCiull4/status/1537870345985720323|
+| 18-6-2022     |Blockchain Trilemma with visuals|https://twitter.com/FrancescoCiull4/status/1538007963280912385|
+| 19-6-2022     |LEarn Web3 for free links|https://twitter.com/FrancescoCiull4/status/1538360756013604866|
+| 20-6-2022     |Web3 Projects to keep an eye on in 2022|https://twitter.com/FrancescoCiull4/status/1538743941851406336|
+| 21-6-2022     |Ethereum Nodes and Clients thread|https://twitter.com/FrancescoCiull4/status/1539102016756129793|
+| 22-6-2022     |Ethereum Common scams thread|https://twitter.com/FrancescoCiull4/status/1539452776492810240|
+| 23-6-2022     |32 Solidity Style guidelines thread with visuals|https://twitter.com/FrancescoCiull4/status/1539831507514261504|
+| 24-6-2022     |Upcoming Ethereum events|https://twitter.com/FrancescoCiull4/status/1540196470774808577|
+| 25-6-2022     |20 Ethereum Concepts|https://twitter.com/FrancescoCiull4/status/1540625366699622400|
+| 26-6-2022     |Javascript Web3 Projects on Github|https://twitter.com/FrancescoCiull4/status/1540994989790007296|
+| 27-6-2022     |Solidity Open source projects on Github|https://twitter.com/FrancescoCiull4/status/1541308902259757057|
+| 28-6-2022     |Rust Open Source projects on GitHub|https://twitter.com/FrancescoCiull4/status/1541715850281058306|
+| 29-6-2022     |Polygon Open Source Projects on Github.|https://twitter.com/FrancescoCiull4/status/1542023662395604994|
+| 30-6-2022     |How to spin up your node thread|https://twitter.com/FrancescoCiull4/status/1542375833481928704|
+| 1-7-2022     |Polkadot Open Source projects on GitHub|https://twitter.com/FrancescoCiull4/status/1542756736553009152|
+| 2-7-2022     |10 steps for mining a new transaction thread.|https://twitter.com/FrancescoCiull4/status/1543200231134838784|
+| 3-7-2022     |Solidity Tips: Contract|https://twitter.com/FrancescoCiull4/status/1543491919594094592|
+| 4-7-2022     |Solidity Tips: Events in Solidity|https://twitter.com/FrancescoCiull4/status/1543828114203099136|
+| 5-7-2022     |ERC-20 Token Smart Contract|https://twitter.com/FrancescoCiull4/status/1544176351049138182|
+| 6-7-2022     |200 DAYS MAppings in Solidity|https://twitter.com/FrancescoCiull4/status/1544523718180982784|
+| 7-7-2022     |Ethereum Sidechains thread|https://twitter.com/FrancescoCiull4/status/1544946452794933249|
+| 8-7-2022     |21 Ethereum Concepts|https://twitter.com/FrancescoCiull4/status/1545285219959414785|
+| 9-7-2022     |Journey to Web3|https://twitter.com/i/spaces/1OdJrBBayzkJX|
+| 10-7-2022     |Solidity reserved keywords|https://twitter.com/FrancescoCiull4/status/1545997248781238273|
+| 11-7-2022     |Introduction to NFTs thread|https://twitter.com/FrancescoCiull4/status/1546355158417870848|
+| 12-7-2022     |View and Pure functions - Solidity tips|https://twitter.com/FrancescoCiull4/status/1546722856599683072|
+| 13-7-2022     |The Merge thread|https://twitter.com/FrancescoCiull4/status/1547095437936660490|
+| 14-7-2022     |12 resources to learn Ethereum|https://twitter.com/FrancescoCiull4/status/1547487091046612992|
+| 15-7-2022     |Openzeppelin thread|https://twitter.com/FrancescoCiull4/status/1547817808888614918|
+| 16-7-2022     |Free Web3 Newsletter|https://www.getrevue.co/profile/francescociull4/issues/what-vitalik-buterin-thinks-about-network-states-smart-contract-development-with-foundry-data-accuracy-1218541|
+| 17-7-2022     |Cryptozombies - 12h livestream|https://youtu.be/WjgiFo6bPSU|
+| 18-7-2022     |Web3 Roadmaps|https://twitter.com/FrancescoCiull4/status/1548872880586461186|
+| 19-7-2022     |DAO vs traditional Organizations|https://twitter.com/FrancescoCiull4/status/1549244479537831937|
+| 20-7-2022     |Merkle Trees thread|https://twitter.com/FrancescoCiull4/status/1549740852385292288|
+| 21-7-2022     |Beacon chain thread|https://twitter.com/FrancescoCiull4/status/1550004973756358656|
+| 22-7-2022     |The Graph introduction thread|https://twitter.com/FrancescoCiull4/status/1550346007967420417|
+| 23-7-2022     |How to deploy tyour first smart contract thread|https://twitter.com/FrancescoCiull4/status/1550903750419795970|
+| 24-7-2022     |Free web3 newsletter|https://www.getrevue.co/profile/francescociull4/issues/free-web3-newsletter-issue-31-1269016|
+| 25-7-2022     |Web3 in many languages thread|https://twitter.com/FrancescoCiull4/status/1551549605199765504|
+| 26-7-2022     |EVM thread with visuals|https://twitter.com/FrancescoCiull4/status/1551807070055407618|
+| 27-7-2022     |Sharding and shard chains|https://twitter.com/FrancescoCiull4/status/1552169343726796801|
+| 28-7-2022     |Blockchain bridges thread|https://twitter.com/FrancescoCiull4/status/1552525402081574914|
+| 29-7-2022     |Ethereum Stack thread|https://twitter.com/FrancescoCiull4/status/1552892674197405701|
+| 30-7-2022     |Free Web3 Newsletter|https://www.getrevue.co/profile/francescociull4/issues/free-web3-newsletter-issue-32-1279629|
+| 31-7-2022     |What is a Blockchain (with visuals) thread|https://twitter.com/FrancescoCiull4/status/1553597024318136325|
+| 1-8-2022     |32 Solidity Style Guidelines thread|https://twitter.com/FrancescoCiull4/status/1553999568571875329|
+| 2-8-2022     |What is a dapp thread|https://twitter.com/FrancescoCiull4/status/1554344254390112256|
+| 3-8-2022     |Blockchain oracles thread|https://twitter.com/FrancescoCiull4/status/1554715090217213955|
+| 4-8-2022     |Decentralized social media to keep an eye on in 2022|https://twitter.com/FrancescoCiull4/status/1555058446193524737|
+| 5-8-2022     |Learn Web3 for free links|https://twitter.com/FrancescoCiull4/status/1555449025071038464|
+| 6-8-2022     |4c and free-web3-project video promo|https://twitter.com/FrancescoCiull4/status/1555853118923018241|
+| 7-8-2022     |8 solidity Projects on github|https://twitter.com/FrancescoCiull4/status/1556151579119591426|
+| 8-8-2022     |7 Ethereum repos for JavaScript Developers|https://twitter.com/FrancescoCiull4/status/1556517646320934914|
+| 9-8-2022     |learn web3 challenge announcement|https://www.youtube.com/watch?v=N4BBL1JfRSg|
+| 10-8-2022     |solidity contract|https://twitter.com/FrancescoCiull4/status/1557409191530217474|
+| 11-8-2022     |events in solidity|https://twitter.com/FrancescoCiull4/status/1557714818261741572|
+| 12-8-2022     |msg global variable|https://twitter.com/FrancescoCiull4/status/1558052274278055936|
+| 13-8-2022     |web3conf presentation|https://twitter.com/FrancescoCiull4/status/1558377792961921024|
+| 14-8-2022     |view and pure functions|https://twitter.com/FrancescoCiull4/status/1558827306537611265|
+| 15-8-2022     |web3conf presentation visuals|https://twitter.com/FrancescoCiull4/status/1559154039086268416|
+| 16-8-2022     |Smart contracts projects on GitHub|https://twitter.com/FrancescoCiull4/status/1559418225099931648|
+| 17-8-2022     |9 altenatives to Ethereum|https://twitter.com/FrancescoCiull4/status/1559740981553287168|
+| 18-8-2022     |Blockchain in many languages|https://twitter.com/FrancescoCiull4/status/1560130271521157120|
+| 19-8-2022     |15 NFT use cases|https://twitter.com/FrancescoCiull4/status/1560443843019182080|
+| 20-8-2022     |Free Web3 Newsletter|https://www.getrevue.co/profile/francescociull4/issues/free-web3-newsletter-the-different-types-of-zk-evms-ar-rahman-to-enter-web3-web3-nfts-and-the-future-of-art-1288646?via=twitter-card&client=DesktopWeb&element=issue-card|
+| 21-8-2022     |Blockchain Trilemma|https://twitter.com/FrancescoCiull4/status/1561261298221989889|
+| 22-8-2022     |15 Ethereum Virtual Machine (EVM) Concepts|https://twitter.com/FrancescoCiull4/status/1561625908385120262|
+| 23-8-2022     |Uniswap Protocol thread|https://twitter.com/FrancescoCiull4/status/1561961839407370240|
+| 24-8-2022     |Ethereum scams thread|https://twitter.com/FrancescoCiull4/status/1562314049320370176|
+| 25-8-2022     |How to learn web3. a thread|https://twitter.com/FrancescoCiull4/status/1562664824521523202|
+| 26-8-2022     |Solidity Cheatsheet. August 2022|https://twitter.com/FrancescoCiull4/status/1563045085658222596|
+| 27-8-2022     ||
+| 28-8-2022     ||
+| 29-8-2022     ||
+| 30-8-2022     ||
+| 31-8-2022     ||
+| 1-9-2022     ||
+| 2-9-2022     ||
+| 3-9-2022     ||
+| 4-9-2022     ||
+| 5-9-2022     ||
+| 6-9-2022     ||
+| 7-9-2022     ||
+| 8-9-2022     ||
+| 9-9-2022     ||
+| 10-9-2022     ||
+| 11-9-2022     ||
+| 12-9-2022     ||
+| 13-9-2022     ||
+| 14-9-2022     ||
+| 15-9-2022     ||
+| 16-9-2022     ||
+| 17-9-2022     ||
+| 18-9-2022     ||
+| 19-9-2022     ||
+| 20-9-2022     ||
+| 21-9-2022     ||
+| 22-9-2022     ||
+| 23-9-2022     ||
+| 24-9-2022     ||
+| 25-9-2022     ||
+| 26-9-2022     ||
+| 27-9-2022     ||
+| 28-9-2022     ||
+| 29-9-2022     ||
+| 30-9-2022     ||
+| 1-10-2022     ||
+| 2-10-2022     ||
+| 3-10-2022     ||
+| 4-10-2022     ||
+| 5-10-2022     ||
+| 6-10-2022     ||
+| 7-10-2022     ||
+| 8-10-2022     ||
+| 9-10-2022     ||
+| 10-10-2022     ||
+| 11-10-2022     ||
+| 12-10-2022     ||
+| 13-10-2022     ||
+| 14-10-2022     ||
