@@ -39,6 +39,10 @@ This is primarily for Ethereum Developers, but many concepts are shared among di
 - [EthHub](https://docs.ethhub.io) The goal of EthHub is to provide a single source for essential Ethereum information.
 - [Solidity Docs](https://docs.soliditylang.org/en/v0.8.13/) Solidity documentation
 
+
+- [Intro to Fullstack Ethereum Development](https://github.com/ChristianChiarulli/intro-fullstack-ethereum#readme) by ChristianChiarulli
+
+
 ## Ethereum Languages
 
 - [Solidity](https://docs.soliditylang.org/en/v0.8.13/) Solidity is an object-oriented, high-level language for implementing smart contracts.
@@ -213,9 +217,31 @@ A list of currently active Blockchains projects. Sorted Alphabetically.
 - [XinFin](https://xinfin.org/) Enterprise Ready Hybrid Blockchain For Global Trade and Finance.
 - [ZkSync](https://zksync.io/) zkSync is a ZK rollup solving Ethereum scalability with zero security compromises.
 
+## Learning Platforms
+
+A list of Blockchain Learning Platforms.
+
+- [LearnWeb3](https://learnweb3dao.io) LearnWeb3 is the best, fastest growing, and completely free web3 education platform for new and experienced web2 developers.
+ 
+  
+
 ## Solana
 
 #### Tutorials
 
-- [Complete Guide to Full Stack Solana Development by Nader Dabit](https://dev.to/edge-and-node/the-complete-guide-to-full-stack-solana-development-with-react-anchor-rust-and-phantom-3291)
-- [How to Mint an NFT on Solana](https://www.quicknode.com/guides/web3-sdks/how-to-mint-an-nft-on-solana)
+ - [Complete Guide to Full Stack Solana Development by Nader Dabit](https://dev.to/edge-and-node/the-complete-guide-to-full-stack-solana-development-with-react-anchor-rust-and-phantom-3291)
+ - [How to Mint an NFT on Solana](https://www.quicknode.com/guides/web3-sdks/how-to-mint-an-nft-on-solana )
+
+ ## &#127916; Youtube Tutorials 
+ 
+## You can explore about Crypto, Blockchain,DAOs,EVM many things to learn &#11015;&#65039;
+1. [Dapp University](https://youtu.be/uGPC9wNTBbw)
+
+2. [Whiteboard Crypto](https://www.youtube.com/c/WhiteboardCrypto)
+
+3. [Ethereum Foundation](https://youtu.be/TDGq4aeevgY)
+
+4. [ Moralis Web3](https://youtu.be/P87pLayUD8c) 
+
+5. [ Clever Programmer](https://youtu.be/Lz3m4BI1EfY)
+

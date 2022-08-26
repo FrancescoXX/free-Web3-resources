@@ -1,4 +1,4 @@
-# 200-days-of-Web3
+# 300-days-of-Web3
 This is a list of the content I shared about Web3 for the upcoming 200 days
 
 You can find Francesco [here](http://francescociulla.com)
@@ -233,32 +233,32 @@ You can find Francesco [here](http://francescociulla.com)
 | 29-7-2022     |Ethereum Stack thread|https://twitter.com/FrancescoCiull4/status/1552892674197405701|
 | 30-7-2022     |Free Web3 Newsletter|https://www.getrevue.co/profile/francescociull4/issues/free-web3-newsletter-issue-32-1279629|
 | 31-7-2022     |What is a Blockchain (with visuals) thread|https://twitter.com/FrancescoCiull4/status/1553597024318136325|
-| 1-8-2022     ||
-| 2-8-2022     ||
-| 3-8-2022     ||
-| 4-8-2022     ||
-| 5-8-2022     ||
-| 6-8-2022     ||
-| 7-8-2022     ||
-| 8-8-2022     ||
-| 9-8-2022     ||
-| 10-8-2022     ||
-| 11-8-2022     ||
-| 12-8-2022     ||
-| 13-8-2022     ||
-| 14-8-2022     ||
-| 15-8-2022     ||
-| 16-8-2022     ||
-| 17-8-2022     ||
-| 18-8-2022     ||
-| 19-8-2022     ||
-| 20-8-2022     ||
-| 21-8-2022     ||
-| 22-8-2022     ||
-| 23-8-2022     ||
-| 24-8-2022     ||
-| 25-8-2022     ||
-| 26-8-2022     ||
+| 1-8-2022     |32 Solidity Style Guidelines thread|https://twitter.com/FrancescoCiull4/status/1553999568571875329|
+| 2-8-2022     |What is a dapp thread|https://twitter.com/FrancescoCiull4/status/1554344254390112256|
+| 3-8-2022     |Blockchain oracles thread|https://twitter.com/FrancescoCiull4/status/1554715090217213955|
+| 4-8-2022     |Decentralized social media to keep an eye on in 2022|https://twitter.com/FrancescoCiull4/status/1555058446193524737|
+| 5-8-2022     |Learn Web3 for free links|https://twitter.com/FrancescoCiull4/status/1555449025071038464|
+| 6-8-2022     |4c and free-web3-project video promo|https://twitter.com/FrancescoCiull4/status/1555853118923018241|
+| 7-8-2022     |8 solidity Projects on github|https://twitter.com/FrancescoCiull4/status/1556151579119591426|
+| 8-8-2022     |7 Ethereum repos for JavaScript Developers|https://twitter.com/FrancescoCiull4/status/1556517646320934914|
+| 9-8-2022     |learn web3 challenge announcement|https://www.youtube.com/watch?v=N4BBL1JfRSg|
+| 10-8-2022     |solidity contract|https://twitter.com/FrancescoCiull4/status/1557409191530217474|
+| 11-8-2022     |events in solidity|https://twitter.com/FrancescoCiull4/status/1557714818261741572|
+| 12-8-2022     |msg global variable|https://twitter.com/FrancescoCiull4/status/1558052274278055936|
+| 13-8-2022     |web3conf presentation|https://twitter.com/FrancescoCiull4/status/1558377792961921024|
+| 14-8-2022     |view and pure functions|https://twitter.com/FrancescoCiull4/status/1558827306537611265|
+| 15-8-2022     |web3conf presentation visuals|https://twitter.com/FrancescoCiull4/status/1559154039086268416|
+| 16-8-2022     |Smart contracts projects on GitHub|https://twitter.com/FrancescoCiull4/status/1559418225099931648|
+| 17-8-2022     |9 altenatives to Ethereum|https://twitter.com/FrancescoCiull4/status/1559740981553287168|
+| 18-8-2022     |Blockchain in many languages|https://twitter.com/FrancescoCiull4/status/1560130271521157120|
+| 19-8-2022     |15 NFT use cases|https://twitter.com/FrancescoCiull4/status/1560443843019182080|
+| 20-8-2022     |Free Web3 Newsletter|https://www.getrevue.co/profile/francescociull4/issues/free-web3-newsletter-the-different-types-of-zk-evms-ar-rahman-to-enter-web3-web3-nfts-and-the-future-of-art-1288646?via=twitter-card&client=DesktopWeb&element=issue-card|
+| 21-8-2022     |Blockchain Trilemma|https://twitter.com/FrancescoCiull4/status/1561261298221989889|
+| 22-8-2022     |15 Ethereum Virtual Machine (EVM) Concepts|https://twitter.com/FrancescoCiull4/status/1561625908385120262|
+| 23-8-2022     |Uniswap Protocol thread|https://twitter.com/FrancescoCiull4/status/1561961839407370240|
+| 24-8-2022     |Ethereum scams thread|https://twitter.com/FrancescoCiull4/status/1562314049320370176|
+| 25-8-2022     |How to learn web3. a thread|https://twitter.com/FrancescoCiull4/status/1562664824521523202|
+| 26-8-2022     |Solidity Cheatsheet. August 2022|https://twitter.com/FrancescoCiull4/status/1563045085658222596|
 | 27-8-2022     ||
 | 28-8-2022     ||
 | 29-8-2022     ||
