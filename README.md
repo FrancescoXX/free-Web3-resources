@@ -45,7 +45,6 @@ This is primarily for Ethereum Developers, but many concepts are shared among di
 - [Ethereum Foundation YT Channel](https://www.youtube.com/channel/UCNOfzGXD_C9YMYmnefmPH0g) Ethereum Foundation YouTube Channel. It currently has 45k Subscribers
 - [Ethereum Wiki](https://eth.wiki/) Ethereum wiki covering all things related to Ethereum.
 - [EthHub](https://docs.ethhub.io) The goal of EthHub is to provide a single source for essential Ethereum information.
-- [Learn Blockchain, Solidity, and Full Stack Web3 Development with JavaScript – 32-Hour Course](https://youtu.be/gyMwXuJrbJQ) The Epic video by Patrick Collins on freeCodeCamp
 
 - [Solidity Docs](https://docs.soliditylang.org/en/v0.8.13/) Solidity documentation
 
