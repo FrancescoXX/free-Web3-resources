@@ -1,10 +1,14 @@
 # Free Web3 Resources
 
+This is a list of Tons of Free Web3 Resources to learn Blockchain development.
+
+## Start here
+🏁 Join the Community: [free web3 project on 4C](https://discord.com/invite/cRjhjFRRre)
+
+📝 All  the Twitter posts [here](https://github.com/FrancescoXX/free-Web3-resources/blob/main/twitter-posts.md)
+
 ![WEB3 FREE RESOURCES](https://user-images.githubusercontent.com/18360871/162364470-56cc28da-d50c-426f-82a4-7ea06234d4bf.png)
 
-This is a list of Tons of Free Web3 Resources.
-
-This is primarily for Ethereum Developers, but many concepts are shared among different Blockchain or involve different blockchains
 
 ## Getting Involved
 
@@ -12,7 +16,6 @@ This is primarily for Ethereum Developers, but many concepts are shared among di
 - [Endgame](https://vitalik.ca/general/2021/12/06/endgame.html) An Article by Vitalik Buterin to have an idea of the direction Ethereum is taking.
 - [Ethereum Whitepaper](https://ethereum.org/en/whitepaper/) Introductory paper published in 2014 by Vitalik Buterin, Ethereum's founder, before the launch in 2015.
 - [Ethereum Yellowpaper](https://ethereum.github.io/yellowpaper/paper.pdf) The "Yellow Paper": Ethereum's formal specification
-- [The Fable of the Dragon-Tyrant](https://www.nickbostrom.com/fable/dragon.html) An inspirational reading to warm up.
 
 ## Web3 Roadmaps
 
