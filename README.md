@@ -30,6 +30,8 @@ This is primarily for Ethereum Developers, but many concepts are shared among di
 - [Ethereum Wiki](https://eth.wiki/) Ethereum wiki covering all things related to Ethereum.
 - [EthHub](https://docs.ethhub.io) The goal of EthHub is to provide a single source for essential Ethereum information.
 - [ethereum.org](https://ethereum.org/) ethereum.org is your portal into the world of Ethereum.
+
+
 - [Solidity Docs](https://docs.soliditylang.org/en/v0.8.13/) Solidity documentation
 - [Decentralizing Everything](https://www.youtube.com/watch?v=WSN5BaCzsbo&ab_channel=TechCrunch) Naval Ravikant brings Ethereum's Vitalik Buterin onstage to explain what it is and why it's useful.
 - [Ethereum Foundation YT Channel](https://www.youtube.com/channel/UCNOfzGXD_C9YMYmnefmPH0g) Ethereum Foundation YouTube Channel. It currently has 45k Subscribers
@@ -221,9 +223,28 @@ A list of Blockchain Learning Platforms.
  
   
 
-
 ## Solana
 
-  #### Tutorials
+#### Tutorials
    - [Complete Guide to Full Stack Solana Development by Nader Dabit](https://dev.to/edge-and-node/the-complete-guide-to-full-stack-solana-development-with-react-anchor-rust-and-phantom-3291)
  - [How to Mint an NFT on Solana](https://www.quicknode.com/guides/web3-sdks/how-to-mint-an-nft-on-solana )
+
+ ## &#127916; Youtube Tutorials 
+ 
+## You can explore about Crypto, Blockchain,DAOs,EVM many things to learn &#11015;&#65039;
+1. [Dapp University](https://youtu.be/uGPC9wNTBbw)
+
+2. [Whiteboard Crypto](https://www.youtube.com/c/WhiteboardCrypto)
+
+3. [Ethereum Foundation](https://youtu.be/TDGq4aeevgY)
+
+4. [ Moralis Web3](https://youtu.be/P87pLayUD8c) 
+
+5. [ Clever Programmer](https://youtu.be/Lz3m4BI1EfY)
+
+ 
+ 
+ 
+
+ 
+
