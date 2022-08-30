@@ -261,8 +261,8 @@ You can find Francesco [here](http://francescociulla.com)
 | 26-8-2022     |Solidity Cheatsheet. August 2022|https://twitter.com/FrancescoCiull4/status/1563045085658222596|
 | 27-8-2022     |Free Web3 Newsletter|https://www.getrevue.co/profile/francescociull4/issues/free-web3-newsletter-download-4k-solidity-cheatsheet-web3-raised-funds-the-merge-and-francesco-s-recent-presentation-1318901|
 | 28-8-2022     |Learn Web3 12 hours challennge, Episode 1|https://youtu.be/N4BBL1JfRSg|
-| 29-8-2022     ||
-| 30-8-2022     ||
+| 29-8-2022     |Ethereum Accounts|https://twitter.com/FrancescoCiull4/status/1564137654962241536|
+| 30-8-2022     |The MErge is coming thread|https://twitter.com/FrancescoCiull4/status/1564475737779970049|
 | 31-8-2022     ||
 | 1-9-2022     ||
 | 2-9-2022     ||
