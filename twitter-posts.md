@@ -263,7 +263,7 @@ You can find Francesco [here](http://francescociulla.com)
 | 28-8-2022     |Learn Web3 12 hours challennge, Episode 1|https://youtu.be/N4BBL1JfRSg|
 | 29-8-2022     |Ethereum Accounts|https://twitter.com/FrancescoCiull4/status/1564137654962241536|
 | 30-8-2022     |The MErge is coming thread|https://twitter.com/FrancescoCiull4/status/1564475737779970049|
-| 31-8-2022     ||
+| 31-8-2022     |Build your first DApp|https://twitter.com/FrancescoCiull4/status/1564993258022993930|
 | 1-9-2022     ||
 | 2-9-2022     ||
 | 3-9-2022     ||
