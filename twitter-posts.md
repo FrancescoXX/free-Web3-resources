@@ -264,9 +264,9 @@ You can find Francesco [here](http://francescociulla.com)
 | 29-8-2022     |Ethereum Accounts|https://twitter.com/FrancescoCiull4/status/1564137654962241536|
 | 30-8-2022     |The MErge is coming thread|https://twitter.com/FrancescoCiull4/status/1564475737779970049|
 | 31-8-2022     |Build your first DApp|https://twitter.com/FrancescoCiull4/status/1564993258022993930|
-| 1-9-2022     ||
-| 2-9-2022     ||
-| 3-9-2022     ||
+| 1-9-2022     |Article: How to learn Web3|https://dev.to/francescoxx/how-to-learn-web3-september-2022-3h9h|
+| 2-9-2022     |24 Web3 Definitions|https://twitter.com/FrancescoCiull4/status/1565553269346369538|
+| 3-9-2022     |Free Web3 Newsletter|https://www.getrevue.co/profile/francescociull4/issues/ethereum-merge-is-coming-soon-build-your-first-dapp-how-to-learn-web3-1329970|
 | 4-9-2022     ||
 | 5-9-2022     ||
 | 6-9-2022     ||
