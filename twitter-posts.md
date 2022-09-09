@@ -272,7 +272,7 @@ You can find Francesco [here](http://francescociulla.com)
 | 6-9-2022     |Bellatrix Update|https://twitter.com/FrancescoCiull4/status/1567033801276096513|
 | 7-9-2022     |Solidity Hello World Article|https://dev.to/francescoxx/solidity-hello-world-2m08|
 | 8-9-2022     |Introduction to NFTs thread|https://twitter.com/FrancescoCiull4/status/1567767587852804096|
-| 9-9-2022     ||
+| 9-9-2022     |Build your own Cryptocurrency video|https://youtu.be/g9Ii4HovxUU|
 | 10-9-2022     ||
 | 11-9-2022     ||
 | 12-9-2022     ||
