@@ -276,8 +276,8 @@ You can find Francesco [here](http://francescociulla.com)
 | 10-9-2022     |12h livestream September announcement|https://youtube.com/shorts/ONZfaiBT_zo|
 | 11-9-2022     |ABI Application Binary interface thread|https://twitter.com/FrancescoCiull4/status/1568909167468941315|
 | 12-9-2022     |Blockchain Open Source JavaScript projects thread|https://twitter.com/FrancescoCiull4/status/1569202403593027584|
-| 13-9-2022     ||
-| 14-9-2022     ||
+| 13-9-2022     |9 open source blockchain projects|https://twitter.com/FrancescoCiull4/status/1569568439110352897|
+| 14-9-2022     |The MErge is tomorrow. A thread|https://twitter.com/FrancescoCiull4/status/1569960879503859713|
 | 15-9-2022     ||
 | 16-9-2022     ||
 | 17-9-2022     ||
