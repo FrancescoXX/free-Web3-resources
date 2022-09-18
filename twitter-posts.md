@@ -280,7 +280,7 @@ You can find Francesco [here](http://francescociulla.com)
 | 14-9-2022     |The MErge is tomorrow. A thread|https://twitter.com/FrancescoCiull4/status/1569960879503859713|
 | 15-9-2022     |The Merge LIVE!|https://youtu.be/PTJx9kELR6s|
 | 16-9-2022     |20 Ethereum Concepts|https://twitter.com/FrancescoCiull4/status/1570640226342805506|
-| 17-9-2022     ||
+| 17-9-2022     |Hacktoberfest repositories|https://twitter.com/FrancescoCiull4/status/1570941322470588422|
 | 18-9-2022     ||
 | 19-9-2022     ||
 | 20-9-2022     ||
