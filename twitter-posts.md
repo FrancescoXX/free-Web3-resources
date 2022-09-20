@@ -283,7 +283,7 @@ You can find Francesco [here](http://francescociulla.com)
 | 17-9-2022     |Hacktoberfest repositories|https://twitter.com/FrancescoCiull4/status/1570941322470588422|
 | 18-9-2022     ||
 | 19-9-2022     ||
-| 20-9-2022     ||
+| 20-9-2022     |Infobib Shift slides|https://twitter.com/FrancescoCiull4/status/1572272209342644225|
 | 21-9-2022     ||
 | 22-9-2022     ||
 | 23-9-2022     ||
