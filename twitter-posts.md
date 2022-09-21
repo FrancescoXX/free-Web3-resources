@@ -281,8 +281,8 @@ You can find Francesco [here](http://francescociulla.com)
 | 15-9-2022     |The Merge LIVE!|https://youtu.be/PTJx9kELR6s|
 | 16-9-2022     |20 Ethereum Concepts|https://twitter.com/FrancescoCiull4/status/1570640226342805506|
 | 17-9-2022     |Hacktoberfest repositories|https://twitter.com/FrancescoCiull4/status/1570941322470588422|
-| 18-9-2022     ||
-| 19-9-2022     ||
+| 18-9-2022     |Presentation preparation|https://twitter.com/FrancescoCiull4/status/1571931463666339840|
+| 19-9-2022     |How to learn Web3 presentation|https://twitter.com/FrancescoCiull4/status/1571931463666339840|
 | 20-9-2022     |Infobib Shift slides|https://twitter.com/FrancescoCiull4/status/1572272209342644225|
 | 21-9-2022     ||
 | 22-9-2022     ||
