@@ -284,11 +284,11 @@ You can find Francesco [here](http://francescociulla.com)
 | 18-9-2022     |Presentation preparation|https://twitter.com/FrancescoCiull4/status/1571931463666339840|
 | 19-9-2022     |How to learn Web3 presentation|https://twitter.com/FrancescoCiull4/status/1571931463666339840|
 | 20-9-2022     |Infobib Shift slides|https://twitter.com/FrancescoCiull4/status/1572272209342644225|
-| 21-9-2022     ||
-| 22-9-2022     ||
-| 23-9-2022     ||
-| 24-9-2022     ||
-| 25-9-2022     ||
+| 21-9-2022     |MSG global variable Solidity tip|https://twitter.com/FrancescoCiull4/status/1572496333545639938|
+| 22-9-2022     |Blockchain in many languages thread|https://twitter.com/FrancescoCiull4/status/1572873458408628227|
+| 23-9-2022     |Learn WEb3 for free links|https://twitter.com/FrancescoCiull4/status/1573174782480236544|
+| 24-9-2022     |Block Explorers thread|https://twitter.com/FrancescoCiull4/status/1573630366094708738|
+| 25-9-2022     |Learn Web3 - Junior 12h livestream|https://youtu.be/OE_Q6mWh9x0|
 | 26-9-2022     ||
 | 27-9-2022     ||
 | 28-9-2022     ||
