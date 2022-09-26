@@ -289,7 +289,7 @@ You can find Francesco [here](http://francescociulla.com)
 | 23-9-2022     |Learn WEb3 for free links|https://twitter.com/FrancescoCiull4/status/1573174782480236544|
 | 24-9-2022     |Block Explorers thread|https://twitter.com/FrancescoCiull4/status/1573630366094708738|
 | 25-9-2022     |Learn Web3 - Junior 12h livestream|https://youtu.be/OE_Q6mWh9x0|
-| 26-9-2022     |12 hours livestream challenge Junior Track|https://youtu.be/OE_Q6mWh9x0|
+| 26-9-2022     |Solidity Open source projects on GitHub|https://twitter.com/FrancescoCiull4/status/1574376399712014336|
 | 27-9-2022     ||
 | 28-9-2022     ||
 | 29-9-2022     ||
