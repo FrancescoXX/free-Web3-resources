@@ -290,9 +290,9 @@ You can find Francesco [here](http://francescociulla.com)
 | 24-9-2022     |Block Explorers thread|https://twitter.com/FrancescoCiull4/status/1573630366094708738|
 | 25-9-2022     |Learn Web3 - Junior 12h livestream|https://youtu.be/OE_Q6mWh9x0|
 | 26-9-2022     |Solidity Open source projects on GitHub|https://twitter.com/FrancescoCiull4/status/1574376399712014336|
-| 27-9-2022     ||
-| 28-9-2022     ||
-| 29-9-2022     ||
+| 27-9-2022     |Web3 good tutorials links|https://twitter.com/FrancescoCiull4/status/1574899682651906067|
+| 28-9-2022     |Running a local node pro and cons thread|https://twitter.com/FrancescoCiull4/status/1575036217443246080|
+| 29-9-2022     |Ethereum Virtuial Machine|https://twitter.com/FrancescoCiull4/status/1575165099374804994|
 | 30-9-2022     ||
 | 1-10-2022     ||
 | 2-10-2022     ||
