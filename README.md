@@ -308,8 +308,3 @@ A list of Blockchain Learning Platforms.
 - [Block Explorer](https://www.youtube.com/c/BlockExplorerMedia/videos)
 
 
-## Web3 Jobs
-
-- [tr3butor](https://app.tr3butor.io/) One of the best web3 jobs, bounties and grants.
-- [Cryptocurrency Jobs](https://cryptocurrencyjobs.co/) A job board for blockchain & cryptocurrency jobs.
-- [smsunarto.](https://www.smsunarto.com/web3) A bunch of resources regarding web3 with roadmap, grants and jobs.
