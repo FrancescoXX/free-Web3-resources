@@ -264,35 +264,35 @@ You can find Francesco [here](http://francescociulla.com)
 | 29-8-2022     |Ethereum Accounts|https://twitter.com/FrancescoCiull4/status/1564137654962241536|
 | 30-8-2022     |The MErge is coming thread|https://twitter.com/FrancescoCiull4/status/1564475737779970049|
 | 31-8-2022     |Build your first DApp|https://twitter.com/FrancescoCiull4/status/1564993258022993930|
-| 1-9-2022     ||
-| 2-9-2022     ||
-| 3-9-2022     ||
-| 4-9-2022     ||
-| 5-9-2022     ||
-| 6-9-2022     ||
-| 7-9-2022     ||
-| 8-9-2022     ||
-| 9-9-2022     ||
-| 10-9-2022     ||
-| 11-9-2022     ||
-| 12-9-2022     ||
-| 13-9-2022     ||
-| 14-9-2022     ||
-| 15-9-2022     ||
-| 16-9-2022     ||
-| 17-9-2022     ||
-| 18-9-2022     ||
-| 19-9-2022     ||
-| 20-9-2022     ||
-| 21-9-2022     ||
-| 22-9-2022     ||
-| 23-9-2022     ||
-| 24-9-2022     ||
-| 25-9-2022     ||
-| 26-9-2022     ||
-| 27-9-2022     ||
-| 28-9-2022     ||
-| 29-9-2022     ||
+| 1-9-2022     |Article: How to learn Web3|https://dev.to/francescoxx/how-to-learn-web3-september-2022-3h9h|
+| 2-9-2022     |24 Web3 Definitions|https://twitter.com/FrancescoCiull4/status/1565553269346369538|
+| 3-9-2022     |Free Web3 Newsletter|https://www.getrevue.co/profile/francescociull4/issues/ethereum-merge-is-coming-soon-build-your-first-dapp-how-to-learn-web3-1329970|
+| 4-9-2022     |8 Misconceptions about The Merge thread|https://twitter.com/FrancescoCiull4/status/1566292105672228864|
+| 5-9-2022     |proof of work and proof of stake thread|https://twitter.com/FrancescoCiull4/status/1566669261715738624|
+| 6-9-2022     |Bellatrix Update|https://twitter.com/FrancescoCiull4/status/1567033801276096513|
+| 7-9-2022     |Solidity Hello World Article|https://dev.to/francescoxx/solidity-hello-world-2m08|
+| 8-9-2022     |Introduction to NFTs thread|https://twitter.com/FrancescoCiull4/status/1567767587852804096|
+| 9-9-2022     |Build your own Cryptocurrency video|https://youtu.be/g9Ii4HovxUU|
+| 10-9-2022     |12h livestream September announcement|https://youtube.com/shorts/ONZfaiBT_zo|
+| 11-9-2022     |ABI Application Binary interface thread|https://twitter.com/FrancescoCiull4/status/1568909167468941315|
+| 12-9-2022     |Blockchain Open Source JavaScript projects thread|https://twitter.com/FrancescoCiull4/status/1569202403593027584|
+| 13-9-2022     |9 open source blockchain projects|https://twitter.com/FrancescoCiull4/status/1569568439110352897|
+| 14-9-2022     |The MErge is tomorrow. A thread|https://twitter.com/FrancescoCiull4/status/1569960879503859713|
+| 15-9-2022     |The Merge LIVE!|https://youtu.be/PTJx9kELR6s|
+| 16-9-2022     |20 Ethereum Concepts|https://twitter.com/FrancescoCiull4/status/1570640226342805506|
+| 17-9-2022     |Hacktoberfest repositories|https://twitter.com/FrancescoCiull4/status/1570941322470588422|
+| 18-9-2022     |Presentation preparation|https://twitter.com/FrancescoCiull4/status/1571931463666339840|
+| 19-9-2022     |How to learn Web3 presentation|https://twitter.com/FrancescoCiull4/status/1571931463666339840|
+| 20-9-2022     |Infobib Shift slides|https://twitter.com/FrancescoCiull4/status/1572272209342644225|
+| 21-9-2022     |MSG global variable Solidity tip|https://twitter.com/FrancescoCiull4/status/1572496333545639938|
+| 22-9-2022     |Blockchain in many languages thread|https://twitter.com/FrancescoCiull4/status/1572873458408628227|
+| 23-9-2022     |Learn WEb3 for free links|https://twitter.com/FrancescoCiull4/status/1573174782480236544|
+| 24-9-2022     |Block Explorers thread|https://twitter.com/FrancescoCiull4/status/1573630366094708738|
+| 25-9-2022     |Learn Web3 - Junior 12h livestream|https://youtu.be/OE_Q6mWh9x0|
+| 26-9-2022     |Solidity Open source projects on GitHub|https://twitter.com/FrancescoCiull4/status/1574376399712014336|
+| 27-9-2022     |Web3 good tutorials links|https://twitter.com/FrancescoCiull4/status/1574899682651906067|
+| 28-9-2022     |Running a local node pro and cons thread|https://twitter.com/FrancescoCiull4/status/1575036217443246080|
+| 29-9-2022     |Ethereum Virtuial Machine|https://twitter.com/FrancescoCiull4/status/1575165099374804994|
 | 30-9-2022     ||
 | 1-10-2022     ||
 | 2-10-2022     ||
