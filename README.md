@@ -101,6 +101,10 @@ An Ethereum client is the software that allows Ethereum nodes to read the block 
 
 - [Learn Solidity](https://docs.microsoft.com/de-de/learn/modules/blockchain-learning-solidity/) Microsoft website to learn Solidity in German
 
+### Hindi
+
+- [Ethereum Hindi](https://ethereum.org/hi/eth/)
+
 ### Italian
 
 - [Ethereum Italy](https://t.co/oyX6mujXek) Main website for Ethereum Content, Communities and Events in Italian.
