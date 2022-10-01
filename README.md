@@ -28,6 +28,7 @@ This is a list of Free Web3 Resources links to learn Blockchain development.
 - [Web 3.0: A Developer Roadmap, Guide, and Resources to Get Started](https://blog.idrisolubisi.com/web-3-a-developer-roadmap-and-resources-to-get-started) by Olubisi Idris Ayinde
 - [Your Roadmap To Becoming A Web 3.0 Developer](https://blog.oliverjumpertz.dev/your-roadmap-to-becoming-a-web-30-developer) by Oliver Jumpertz
 - [Complete Web3 Developer Roadmap - 2022](https://remote3.co/blog-post/complete-web3-developer-roadmap-2022) by Remote3
+- [Become a Web 3 & Blockchain Developer in 2022 | Practical Step by Step Solidity and Web3 Roadmap](https://www.youtube.com/watch?v=aVQJGr2J8io) by Javascript Mastery
 
 
 ## Ethereum Development Tools
@@ -302,3 +303,4 @@ A list of Blockchain Learning Platforms.
 - [EatTheBlocks](https://www.youtube.com/c/EatTheBlocks)
 - [Nader Dabit](https://www.youtube.com/c/naderdabit)
 - [Austin Griffith](https://www.youtube.com/channel/UC_HI2i2peo1A-STdG22GFsA)
+- [Block Explorer](https://www.youtube.com/c/BlockExplorerMedia/videos)
