@@ -103,7 +103,7 @@ An Ethereum client is the software that allows Ethereum nodes to read the block 
 
 ### Hindi
 
-- [Ethereum Hindi](https://ethereum.org/hi/eth/)
+- [Ethereum Hindi](https://ethereum.org/hi/eth/) Etherium.org official site in hindi
 
 ### Italian
 
