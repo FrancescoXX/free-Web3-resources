@@ -153,7 +153,7 @@ An Ethereum client is the software that allows Ethereum nodes to read the block 
 
 ## Oracles
 
-[What is a Blockchain Oracle? Twitter thread](https://twitter.com/FrancescoCiull4/status/1481895919121534979)
+What is a Blockchain Oracle? Twitter [thread](https://twitter.com/FrancescoCiull4/status/1481895919121534979)
 
 - [Chainlink](https://chain.link/) Chainlink decentralized oracle networks provide tamper-proof inputs, outputs, and computations to support advanced smart contracts on any blockchain.
 - [Flux](https://runonflux.io/) Flux is the trustless data layer for web3. Flux is a cross-chain oracle that provides smart contracts with access to economically secure data feeds on anything.
@@ -173,7 +173,7 @@ An Ethereum client is the software that allows Ethereum nodes to read the block 
 
 ## Node Providers
 
-[Node Providers Twitter Thread](https://twitter.com/FrancescoCiull4/status/1496711754776199168)
+Node Providers Twitter [Thread](https://twitter.com/FrancescoCiull4/status/1496711754776199168)
 
 - [Alchemy](https://www.alchemy.com/) One magic line of code supercharges your development with the world’s most powerful blockchain developer platform, relied upon by the majority of the world's top blockchain apps.
 - [Chainstack](https://www.chainstack.com/) From startups to large enterprises, thousands of businesses of all sizes use Chainstack’s software and APIs to build, run, and scale blockchain applications.
