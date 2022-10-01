@@ -27,6 +27,8 @@ This is a list of Free Web3 Resources links to learn Blockchain development.
 - [The Complete Roadmap and Resources to Become a Web3 Developer in 2022](https://betterprogramming.pub/has-anyone-seen-web3-a-complete-roadmap-free-resources-to-become-web3-developer-4e5dc9332c1f) by Nagaraj Pandith
 - [Web 3.0: A Developer Roadmap, Guide, and Resources to Get Started](https://blog.idrisolubisi.com/web-3-a-developer-roadmap-and-resources-to-get-started) by Olubisi Idris Ayinde
 - [Your Roadmap To Becoming A Web 3.0 Developer](https://blog.oliverjumpertz.dev/your-roadmap-to-becoming-a-web-30-developer) by Oliver Jumpertz
+- [Complete Web3 Developer Roadmap - 2022](https://remote3.co/blog-post/complete-web3-developer-roadmap-2022) by Remote3
+
 
 ## Ethereum Development Tools
 
@@ -240,6 +242,53 @@ A list of Blockchain Learning Platforms.
 
  - [Complete Guide to Full Stack Solana Development by Nader Dabit](https://dev.to/edge-and-node/the-complete-guide-to-full-stack-solana-development-with-react-anchor-rust-and-phantom-3291)
  - [How to Mint an NFT on Solana](https://www.quicknode.com/guides/web3-sdks/how-to-mint-an-nft-on-solana )
+ 
+ ## Open Source Projects you can contribute to
+
+- [Aelf](https://github.com/AElfProject/AElf)
+- [Bitcoin](https://github.com/bitcoin/bitcoin)
+- [Brownie](https://github.com/eth-brownie/brownie)
+- [Blockchain CLI](https://github.com/0xs34n/blockchain-cli)
+- [Chainlink](https://github.com/smartcontractkit/chainlink)
+- [chia-blockchain](https://github.com/Chia-Network/chia-blockchain)
+- [Cicero](https://github.com/accordproject/cicero)
+- [Corda](https://github.com/corda/corda)
+- [Cosmos](https://github.com/cosmos)
+- [create-web3-dapp](https://github.com/Eversmile12/create-web3-dapp)
+- [Diem](https://github.com/diem/diem)
+- [EIPs](https://github.com/ethereum/EIPs)
+- [Embark](https://github.com/embarklabs/embark)
+- [Enterprise Ethereum Alliance](https://github.com/EntEthAlliance)
+- [ethers.js](https://github.com/ethers-io/ethers.js)
+- [fabric](https://github.com/hyperledger/fabric)
+- [Foundry](https://github.com/foundry-rs/foundry)
+- [Ganache UI](https://github.com/trufflesuite/ganache-ui)
+- [go-ethereum](https://github.com/ethereum/go-ethereum)
+- [Hardhat](https://github.com/NomicFoundation/hardhat)
+- [Holochain](https://github.com/holochain)
+- [Hyperledger](https://github.com/hyperledger/)
+- [ipfs](https://github.com/ipfs/ipfs)
+- [LBRY](https://github.com/lbryio/lbry-desktop)
+- [Lisk](https://github.com/LiskHQ)
+- [Metamask](https://github.com/MetaMask)
+- [Monero](https://github.com/monero-project/monero)
+- [Neo](https://github.com/neo-project/neo)
+- [Openchain](https://github.com/openchain)
+- [OpenZeppelin](https://github.com/OpenZeppelin/openzeppelin-contracts)
+- [Quorum](https://github.com/ConsenSys/quorum)
+- [RemixProject](https://github.com/ethereum/remix-project)
+- [Solana](https://github.com/solana-labs/solana)
+- [Solidity](https://github.com/ethereum/solidity)
+- [truffle](https://github.com/trufflesuite/truffle)
+- [Wallet](https://github.com/DemocracyEarth/wallet)
+- [Web3j](https://github.com/web3j/web3j)
+- [Web3Swift](https://github.com/skywinder/web3swift)
+- [web3.swift](https://github.com/Boilertalk/Web3.swift)
+- [web3.js](https://github.com/ChainSafe/web3.js)
+- [web3.php](https://github.com/web3p/web3.php)
+- [web3.py](https://github.com/ethereum/web3.py)
+- [XuperChain](https://github.com/xuperchain/xuperchain)
+- [Zilliqa](https://github.com/Zilliqa/Zilliqa)
 
 ## Youtube Channels 
  
@@ -250,3 +299,4 @@ A list of Blockchain Learning Platforms.
 - [Clever Programmer](https://youtu.be/Lz3m4BI1EfY)
 - [Smart Contract Programmer](https://www.youtube.com/channel/UCJWh7F3AFyQ_x01VKzr9eyA)
 - [Code Eater](https://www.youtube.com/c/CodeEater21)
+- [EatTheBlocks](https://www.youtube.com/c/EatTheBlocks)
