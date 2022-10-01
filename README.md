@@ -17,7 +17,7 @@ This is a list of Free Web3 Resources links to learn Blockchain development.
 - [Ethereum Whitepaper](https://ethereum.org/en/whitepaper/) Introductory paper published in 2014 by Vitalik Buterin, Ethereum's founder, before the launch in 2015.
 - [Ethereum Yellowpaper](https://ethereum.github.io/yellowpaper/paper.pdf) The "Yellow Paper": Ethereum's formal specification
 
-## Web3 Roadmaps
+## Web3 Roadmaps (Article / Blog)
 
 - [Complete Web3.0 And Solidity Development Roadmap 2022](https://vitto.cc/web3-and-solidity-smart-contracts-development-roadmap/) by [Vittorio Rivabella](https://vitto.cc/)
 - [How To Get Into Crypto? 2022 Roadmap For A Web3 Developer](https://medium.com/theweb3stack/how-to-get-into-crypto-a-roadmap-for-a-web3-developer-4a5806f61869) by Darrius Singleton
@@ -28,7 +28,14 @@ This is a list of Free Web3 Resources links to learn Blockchain development.
 - [Web 3.0: A Developer Roadmap, Guide, and Resources to Get Started](https://blog.idrisolubisi.com/web-3-a-developer-roadmap-and-resources-to-get-started) by Olubisi Idris Ayinde
 - [Your Roadmap To Becoming A Web 3.0 Developer](https://blog.oliverjumpertz.dev/your-roadmap-to-becoming-a-web-30-developer) by Oliver Jumpertz
 - [Complete Web3 Developer Roadmap - 2022](https://remote3.co/blog-post/complete-web3-developer-roadmap-2022) by Remote3
+
+## Web3 Roadmaps (Video)
+
 - [Become a Web 3 & Blockchain Developer in 2022 | Practical Step by Step Solidity and Web3 Roadmap](https://www.youtube.com/watch?v=aVQJGr2J8io) by Javascript Mastery
+- [How to Become a Blockchain Developer? Complete web3 Developer Roadmap](https://www.youtube.com/watch?v=q54j35z3fPQ) by Ishan Sharma
+- [Complete Blockchain Development Roadmap 2022 🔥| Project Ideas | Solidity | Web3js | Truffle](https://www.youtube.com/watch?v=36ubP5Ydh-A) by Nishant Chahar
+- [How to become a Blockchain Developer in 2022? | 🔥 Complete Roadmap + Salary + Tech Stack](https://www.youtube.com/watch?v=uULy2rc6YDc) by Apna College
+- [How to get started with Web3 Development - Become Blockchain Developer in 2022 Complete Roadmap](https://www.youtube.com/watch?v=XRIpjWGbGmA) by Coding Money
 
 
 ## Ethereum Development Tools
