@@ -76,7 +76,7 @@ This is a list of Free Web3 Resources links to learn Blockchain development.
 - [Solidity Cheatsheet](https://intellipaat.com/mediaFiles/2019/03/Solidity-Cheat-Sheet.jpg) A comprehensive Solidity Cheatsheet.
 - [Solidity Cheatsheet by Manojpramesh](https://github.com/manojpramesh/solidity-cheatsheet) Cheat sheet and best practices for solidity. Write smart contracts for Ethereum.
 - [CryptoZombies Course](https://cryptozombies.io/en/course/) Learn how to create and work on smart contracts in an interactive and fun way.
-
+- [Solidity Course](https://metaschool.so/course/10-days-of-solidity) 10 Days of solidity for Beginners
 #### Tutorials
 
 - [Learn Blockchain, Solidity, and Full Stack JavaScript Development](https://www.freecodecamp.org/news/learn-blockchain-solidity-full-stack-javascript-development/) This course will give you a full introduction into all of the core concepts related to blockchain, smart contracts, Solidity, full-stack Web3 dapps, decentralized finance (DeFi), Chainlink, and more.
