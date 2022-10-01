@@ -19,8 +19,8 @@ If it has, add a comment to the existing issue instead of opening a new one.
 
 Unsure where to begin contributing to this project? You can start by looking through these beginner-friendly issues:
 
-- [Beginner issues](good-first-issues) - issues that require less work.
-- [Help wanted issues](help-wanted) - issues that are a bit more involved.
+- [Beginner issues](https://github.com/FrancescoXX/free-Web3-resources/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) - issues that require less work.
+- [Help wanted issues](https://github.com/FrancescoXX/free-Web3-resources/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22) - issues that are a bit more involved.
 
 ### 📣 Pull Requests
 
