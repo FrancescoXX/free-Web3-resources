@@ -29,7 +29,7 @@ This is a list of Free Web3 Resources links to learn Blockchain development.
 - [Your Roadmap To Becoming A Web 3.0 Developer](https://blog.oliverjumpertz.dev/your-roadmap-to-becoming-a-web-30-developer) by Oliver Jumpertz
 - [Complete Web3 Developer Roadmap - 2022](https://remote3.co/blog-post/complete-web3-developer-roadmap-2022) by Remote3
 - [Become a Web 3 & Blockchain Developer in 2022 | Practical Step by Step Solidity and Web3 Roadmap](https://www.youtube.com/watch?v=aVQJGr2J8io) by Javascript Mastery
-
+- [A simple guide to the web3 developer stack](https://www.coinbase.com/blog/a-simple-guide-to-the-web3-developer-stack) by Coinbase
 
 ## Ethereum Development Tools
 
@@ -67,6 +67,7 @@ This is a list of Free Web3 Resources links to learn Blockchain development.
 
 - [Solidity Cheatsheet](https://intellipaat.com/mediaFiles/2019/03/Solidity-Cheat-Sheet.jpg) A comprehensive Solidity Cheatsheet.
 - [Solidity Cheatsheet by Manojpramesh](https://github.com/manojpramesh/solidity-cheatsheet) Cheat sheet and best practices for solidity. Write smart contracts for Ethereum.
+- [Solidity Cheatsheet](https://github.com/patrickd-/cheatsheet.sol) A working .sol file for easy access and recall with Solidity.
 
 #### Tutorials
 
@@ -237,7 +238,8 @@ A list of currently active Blockchains projects. Sorted Alphabetically.
 A list of Blockchain Learning Platforms.
 
 - [LearnWeb3](https://learnweb3.io) LearnWeb3 is the best, fastest growing, and completely free web3 education platform for new and experienced web2 developers.
- 
+- [Bankless Academy](https://app.banklessacademy.com/) The Bankless Academy is on a mission to introduce 1 billion people to the exciting possibilities of cryptocurrency, DeFi, and beyond.
+- [Crypto Zombies](https://cryptozombies.io/) CryptoZombies is an interactive school that teaches you all things technical about blockchains. Learn to write smart contracts by making your own crypto-collectibles game.
  
 ## Solana
 
@@ -303,3 +305,10 @@ A list of Blockchain Learning Platforms.
 - [EatTheBlocks](https://www.youtube.com/c/EatTheBlocks)
 - [Nader Dabit](https://www.youtube.com/c/naderdabit)
 - [Block Explorer](https://www.youtube.com/c/BlockExplorerMedia/videos)
+
+
+## Web3 Jobs
+
+- [tr3butor](https://app.tr3butor.io/) One of the best web3 jobs, bounties and grants.
+- [Cryptocurrency Jobs](https://cryptocurrencyjobs.co/) A job board for blockchain & cryptocurrency jobs.
+- [smsunarto.](https://www.smsunarto.com/web3) A bunch of resources regarding web3 with roadmap, grants and jobs.
