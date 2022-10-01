@@ -69,6 +69,7 @@ This is a list of Free Web3 Resources links to learn Blockchain development.
 #### Tutorials
 
 - [Learn Blockchain, Solidity, and Full Stack JavaScript Development](https://www.freecodecamp.org/news/learn-blockchain-solidity-full-stack-javascript-development/) This course will give you a full introduction into all of the core concepts related to blockchain, smart contracts, Solidity, full-stack Web3 dapps, decentralized finance (DeFi), Chainlink, and more.
+- [Learn Solidity: The COMPLETE Beginner’s Guide](https://www.youtube.com/watch?v=EhPeHeoKF88) A video tutorial to learn Solidity language and to make smart contract.
 
 ## Ethereum Clients
 
