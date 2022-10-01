@@ -298,5 +298,5 @@ A list of Blockchain Learning Platforms.
 - [Moralis Web3](https://youtu.be/P87pLayUD8c) 
 - [Clever Programmer](https://youtu.be/Lz3m4BI1EfY)
 - [Smart Contract Programmer](https://www.youtube.com/channel/UCJWh7F3AFyQ_x01VKzr9eyA)
+- [Code Eater](https://www.youtube.com/c/CodeEater21)
 - [EatTheBlocks](https://www.youtube.com/c/EatTheBlocks)
-
