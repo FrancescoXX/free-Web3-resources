@@ -1,8 +1,8 @@
-# Free Web3 Resources
+# Free Web3 Resources 🚀
 
 This is a list of Free Web3 Resources links to learn Blockchain development.
 
-## Start here
+## Start here 👇
 🏁 Join the Community: [free web3 project on 4C](https://discord.com/invite/cRjhjFRRre)
 
 📝 All Francescos' Twitter posts [here](https://github.com/FrancescoXX/free-Web3-resources/blob/main/twitter-posts.md)
@@ -17,7 +17,7 @@ This is a list of Free Web3 Resources links to learn Blockchain development.
 - [Ethereum Whitepaper](https://ethereum.org/en/whitepaper/) Introductory paper published in 2014 by Vitalik Buterin, Ethereum's founder, before the launch in 2015.
 - [Ethereum Yellowpaper](https://ethereum.github.io/yellowpaper/paper.pdf) The "Yellow Paper": Ethereum's formal specification
 
-## Web3 Roadmaps
+## 🚀 Web3 Roadmaps 
 
 - [Complete Web3.0 And Solidity Development Roadmap 2022](https://vitto.cc/web3-and-solidity-smart-contracts-development-roadmap/) by [Vittorio Rivabella](https://vitto.cc/)
 - [How To Get Into Crypto? 2022 Roadmap For A Web3 Developer](https://medium.com/theweb3stack/how-to-get-into-crypto-a-roadmap-for-a-web3-developer-4a5806f61869) by Darrius Singleton
@@ -30,14 +30,14 @@ This is a list of Free Web3 Resources links to learn Blockchain development.
 - [Complete Web3 Developer Roadmap - 2022](https://remote3.co/blog-post/complete-web3-developer-roadmap-2022) by Remote3
 
 
-## Ethereum Development Tools
+## Ethereum Development Tools 🛠️
 
 - [Rainbow Dev Kit](https://www.rainbowkit.com/) RainbowKit is a React library that makes it easy to add wallet connection to your dapp. 
 - [scaffoldETH](https://github.com/scaffold-eth/scaffold-eth)  Scaffold-eth is everything you need to get started building decentralized applications on Ethereum!
 - [WAGMI](http://wagmi.sh) wagmi.sh is a collection of React Hooks containing everything you need to start working with Ethereum.
 
 
-## Ethereum free resources
+## 💡 Ethereum free resources 
 
 - [Awesome Ethereum by bekatom](https://github.com/bekatom/awesome-ethereum) Awesome Ethereum Resources
 - [Awesome Ethereum Security](https://github.com/crytic/awesome-ethereum-security) A curated list of awesome Ethereum security references
@@ -71,7 +71,7 @@ This is a list of Free Web3 Resources links to learn Blockchain development.
 
 - [Learn Blockchain, Solidity, and Full Stack JavaScript Development](https://www.freecodecamp.org/news/learn-blockchain-solidity-full-stack-javascript-development/) This course will give you a full introduction into all of the core concepts related to blockchain, smart contracts, Solidity, full-stack Web3 dapps, decentralized finance (DeFi), Chainlink, and more.
 
-## Ethereum Clients
+## 👨‍💼 Ethereum Clients
 
 An Ethereum client is the software that allows Ethereum nodes to read the block on the Ethereum network. [(more...)](https://twitter.com/FrancescoCiull4/status/1484415980293996544)
 
@@ -80,7 +80,7 @@ An Ethereum client is the software that allows Ethereum nodes to read the block 
 - [Geth](https://github.com/ethereum/go-ethereum) Official Go implementation of the Ethereum protocol
 - [Nethermind](https://github.com/NethermindEth/nethermind) flagship .NET Core Ethereum client for Linux, Windows, MacOs - full and actively developed.
 
-## Ethereum in different languages
+## 🌐 Ethereum in different languages 
 
 - [ethereum.org in different languages](https://ethereum.org/en/languages) Ethereum docs in 43 languages
 
@@ -115,7 +115,7 @@ An Ethereum client is the software that allows Ethereum nodes to read the block 
 ### Vietnamese
 - [Tino Group](https://wiki.tino.org/ethereum-la-gi/) Ethereum info, wallets and FAQ in Vietnamese
 
-## DAO Communities
+## DAO Communities 
 
 - [Buildspace](https://buildspace.so/) Onboarding devs to web3. Start building cool stuff right now, earn NFTs, access secret opportunities in crypto.
 - [Cadena](https://cadena.dev/) - Build smart contracts, dapps, on multiple chains with a community and earn a Cadena NFT Certificate.
@@ -158,7 +158,7 @@ An Ethereum client is the software that allows Ethereum nodes to read the block 
 - [Infura](https://infura.io/) Suite of high availability APIs and Developer Tools that can provide quick, reliable access to the Ethereum and IPFS networks so you can focus on building and scaling next generation software.
 - [Quicknode](https://www.quicknode.com/) Hosted Blockchain Infrastructure as a Service.
 
-## File Storage
+## 📂 File Storage 
 
 Decentralized Storage [thread](https://twitter.com/FrancescoCiull4/status/1483295727078060034)
 
@@ -179,7 +179,7 @@ Decentralized Storage [thread](https://twitter.com/FrancescoCiull4/status/148329
 - [Remix IDE](https://remix.ethereum.org/) Web IDE with built in static analysis, test blockchain VM.
 - [VS Code with Solidity Extensions](https://marketplace.visualstudio.com/items?itemName=JuanBlanco.solidity) Visutal Studio Code Solidity Extension.
 
-## Identity
+## 🎭 Identity
 
 - [MetaMask](https://metamask.io) MetaMask is a software cryptocurrency wallet used to interact with the Ethereum blockchain.
 - [Phantom](https://phantom.app/) Phantom makes it safe & easy for you to store, buy, send, receive, swap tokens and collect NFTs on the Solana blockchain.
@@ -231,7 +231,7 @@ A list of currently active Blockchains projects. Sorted Alphabetically.
 - [XinFin](https://xinfin.org/) Enterprise Ready Hybrid Blockchain For Global Trade and Finance.
 - [ZkSync](https://zksync.io/) zkSync is a ZK rollup solving Ethereum scalability with zero security compromises.
 
-## Learning Platforms
+## 👨‍💻 Learning Platforms
 
 A list of Blockchain Learning Platforms.
 
@@ -243,7 +243,7 @@ A list of Blockchain Learning Platforms.
  - [Complete Guide to Full Stack Solana Development by Nader Dabit](https://dev.to/edge-and-node/the-complete-guide-to-full-stack-solana-development-with-react-anchor-rust-and-phantom-3291)
  - [How to Mint an NFT on Solana](https://www.quicknode.com/guides/web3-sdks/how-to-mint-an-nft-on-solana )
  
- ## Open Source Projects you can contribute to
+ ## 👨‍💻 Open Source Projects you can contribute to 
 
 - [Aelf](https://github.com/AElfProject/AElf)
 - [Bitcoin](https://github.com/bitcoin/bitcoin)
