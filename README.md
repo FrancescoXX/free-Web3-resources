@@ -325,3 +325,4 @@ A list of Blockchain Learning Platforms.
 - [Nader Dabit](https://www.youtube.com/c/naderdabit)
 - [Austin Griffith](https://www.youtube.com/channel/UC_HI2i2peo1A-STdG22GFsA)
 - [Block Explorer](https://www.youtube.com/c/BlockExplorerMedia/videos)
+- [Chainlink](https://www.youtube.com/c/chainlink/featured)
