@@ -259,6 +259,7 @@ A list of Blockchain Learning Platforms.
 
 - [LearnWeb3](https://learnweb3.io) LearnWeb3 is the best, fastest growing, and completely free web3 education platform for new and experienced web2 developers.
  
+- [The Road To Web3](https://docs.alchemy.com/docs/welcome-to-the-road-to-web3) Road-to-Web3 is a 10-week, self-paced web3 developer program to help new blockchain devs go from beginner to advanced.
  
 ## Solana
 
