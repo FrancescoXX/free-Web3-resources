@@ -216,6 +216,31 @@ Decentralized Storage [thread](https://twitter.com/FrancescoCiull4/status/148329
 - [Ether.js](https://docs.ethers.io/) The ethers.js library aims to be a complete and compact library for interacting with the Ethereum Blockchain and its ecosystem.
 - [Web3.js](https://web3js.readthedocs.io/) Web3.js is a collection of libraries that allow you to interact with a local or remote ethereum node using HTTP, IPC or WebSocket.
 
+## Polygon Development
+
+- Transaction fees are too high on the Ethereum mainnet.
+- Among these Ethereum L2 scaling solutions, Polygon (formerly Matic) is the leading project. More and more Blockchain apps are being developed on Polygon, and as a Blockchain developer, it's time to get up to date.
+
+**PRE-REQUISITES (Only need to know the basics)**
+- Basics of NodeJS
+- Basics of the command line
+- Ethereum
+- Solidity
+- ERC20
+- Truffle
+- Required software:
+   - Code editor (ex: Visual Studio Code)
+   - A terminal (for Windows users, you can use the bash emulation of gitforwindows)
+   - NodeJS
+   - Truffle
+- Works on Windows 8/10, recent versions of Ubuntu & MacOS
+
+**Are you excited to learn about Polygon?**
+
+Check out this amazing free content on EatTheBloks
+
+- Link : [Polygon Development](https://pro.eattheblocks.com/p/polygon-development)
+
 ## Blockchains
 
 A list of currently active Blockchains projects. Sorted Alphabetically.
