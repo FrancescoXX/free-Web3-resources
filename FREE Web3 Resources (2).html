@@ -1,0 +1,1251 @@
+<!DOCTYPE html>
+<!-- saved from url=(0052)https://francescoxx.github.io/free-Web3-resources/#/ -->
+<html lang="en" data-lt-installed="true">
+
+<head>
+   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+   <title>FREE Web3 Resources</title>
+   <link rel="icon" type="image/x-icon" href="https://francescoxx.github.io/images/favicon_io/favicon.ico">
+   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+   <meta name="description" content="Free resources to learn Web3">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css" integrity="sha512-xh6O/CkQoPOWDdYTDqeRdPCVd1SpvCA9XXcUnZS2FmJNp1coAFzvtCN9BmamE+4aHK8yyUHUSCcJHgXloTyT2A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+   <link rel="stylesheet" href="vue.css">
+   <style>
+      .sidebar {
+         padding-top: 0;
+      }
+
+      .search {
+         margin-bottom: 20px;
+         padding: 6px;
+         border-bottom: 1px solid #eee;
+      }
+
+      .search .input-wrap {
+         display: flex;
+         align-items: center;
+      }
+
+      .search .results-panel {
+         display: none;
+      }
+
+      .search .results-panel.show {
+         display: block;
+      }
+
+      .search input {
+         outline: none;
+         border: none;
+         width: 100%;
+         padding: 0 7px;
+         line-height: 36px;
+         font-size: 14px;
+         border: 1px solid transparent;
+      }
+
+      .search input:focus {
+         box-shadow: 0 0 5px var(--theme-color, #FFFFF);
+         border: 1px solid var(--theme-color, #FFFFF);
+      }
+
+      .search input::-webkit-search-decoration,
+      .search input::-webkit-search-cancel-button,
+      .search input {
+         -webkit-appearance: none;
+         -moz-appearance: none;
+         appearance: none;
+      }
+
+      .search .clear-button {
+         cursor: pointer;
+         width: 36px;
+         text-align: right;
+         display: none;
+      }
+
+      .search .clear-button.show {
+         display: block;
+      }
+
+      .search .clear-button svg {
+         transform: scale(.5);
+      }
+
+      .search h2 {
+         font-size: 17px;
+         margin: 10px 0;
+      }
+
+      .search a {
+         text-decoration: none;
+         color: inherit;
+      }
+
+      .search .matching-post {
+         border-bottom: 1px solid #eee;
+      }
+
+      .search .matching-post:last-child {
+         border-bottom: 0;
+      }
+
+      .search p {
+         font-size: 14px;
+         overflow: hidden;
+         text-overflow: ellipsis;
+         display: -webkit-box;
+         -webkit-line-clamp: 2;
+         -webkit-box-orient: vertical;
+      }
+
+      .search p.empty {
+         text-align: center;
+      }
+
+      .app-name.hide,
+      .sidebar-nav.hide {
+         display: none;
+      }
+
+
+      .checkbox {
+  opacity: 0;
+  position: absolute;
+}
+
+.checkbox-label {
+  background-color: #111;
+  width: 50px;
+  height: 26px;
+  border-radius: 50px;
+  position: relative;
+  padding: 5px;
+  cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.fa-moon {color: #f1c40f;}
+
+.fa-sun {color: #f39c12;}
+
+.checkbox-label .ball {
+  background-color: #fff;
+  width: 22px;
+  height: 22px;
+  position: absolute;
+  left: 2px;
+  top: 2px;
+  border-radius: 50%;
+  transition: transform 0.2s linear;
+}
+
+.checkbox:checked + .checkbox-label .ball {
+  transform: translateX(24px);
+}
+
+
+
+      /* light theme colors */
+ html{
+   --bg: #FCFCFC;
+   --bg-panel: #EEEEEE;/*box container*/
+   --color-headings: #00ADB5;/*heading*/
+   --color-text: #393e46;/*paragraph*/
+   height:100%;
+   display:grid;
+   align-items:center;
+   justify-content:center;
+   margin: 0;
+   padding: 0;
+ }
+ /* dark theme colors */
+ html[data-theme='dark']{
+   --bg: #232931;
+   --bg-panel: #393E46;
+   --color-headings: #00ADB5;
+   --color-text: #B5B5B5;
+ }
+ body{
+   font-family: 'Montserrat', sans-serif;
+   background-color: var(--bg);
+ }
+
+ .li{
+   padding-top: 10px;
+ }
+
+ html::-webkit-scrollbar {
+    display: none;
+}
+
+.search::-webkit-scrollbar {
+    display: none;
+}
+
+.content::-webkit-scrollbar {
+    display: none;
+}
+   </style>
+   <style data-cursor="cursor"></style>
+</head>
+
+<body data-page="README.md" class="ready sticky" data-new-gr-c-s-check-loaded="14.1080.0" data-gr-ext-installed="" style="overflow: hidden;">
+   
+   <main style="overflow: hidden;"><button class="sidebar-toggle" aria-label="Menu">
+         <div class="sidebar-toggle-button"><span></span><span></span><span></span></div>
+      </button>
+      <!-- <aside class="sidebar">
+         <div class="search">
+            <div class="input-wrap">
+               <input type="search" value="" aria-label="Search text" placeholder="Search">
+               <div class="clear-button">
+                  <svg width="26" height="24">
+                     <circle cx="12" cy="12" r="11" fill="#ccc"></circle>
+                     <path stroke="white" stroke-width="2" d="M8.25,8.25,15.75,15.75"></path>
+                     <path stroke="white" stroke-width="2" d="M8.25,15.75,15.75,8.25"></path>
+                  </svg>
+               </div>
+            </div>
+            <div class="results-panel"></div>
+         </div>
+         <h1 class="app-name"><a class="app-name-link" data-nosearch=""
+               href="https://francescoxx.github.io/free-Web3-resources/">Web3 Resources</a></h1>
+         <div class="sidebar-nav">
+            <ul>
+               <li><a class="section-link"
+                     href="https://francescoxx.github.io/free-Web3-resources/#/?id=free-web3-resources-%f0%9f%9a%80"
+                     title="Free Web3 Resources 🚀" cursorshover="true">Free Web3 Resources 🚀</a></li>
+               <ul>
+                  <li><a class="section-link"
+                        href="https://francescoxx.github.io/free-Web3-resources/#/?id=start-here-%f0%9f%91%87"
+                        title="Start here 👇" cursorshover="true">Start here 👇</a></li>
+                  <li><a class="section-link"
+                        href="https://francescoxx.github.io/free-Web3-resources/#/?id=getting-involved"
+                        title="Getting Involved" cursorshover="true">Getting Involved</a></li>
+                  <li><a class="section-link"
+                        href="https://francescoxx.github.io/free-Web3-resources/#/?id=web3-roadmaps-article-blog"
+                        title="Web3 Roadmaps (Article / Blog)" cursorshover="true">Web3 Roadmaps (Article / Blog)</a>
+                  </li>
+                  <li><a class="section-link"
+                        href="https://francescoxx.github.io/free-Web3-resources/#/?id=web3-roadmaps-video"
+                        title="Web3 Roadmaps (Video)" cursorshover="true">Web3 Roadmaps (Video)</a></li>
+                  <li><a class="section-link"
+                        href="https://francescoxx.github.io/free-Web3-resources/#/?id=ethereum-development-tools-%f0%9f%9b%a0%ef%b8%8f"
+                        title="Ethereum Development Tools 🛠️" cursorshover="true">Ethereum Development Tools 🛠️</a>
+                  </li>
+                  <li><a class="section-link"
+                        href="https://francescoxx.github.io/free-Web3-resources/#/?id=%f0%9f%92%a1-ethereum-free-resources"
+                        title="💡 Ethereum free resources">💡 Ethereum free resources</a></li>
+                  <li><a class="section-link"
+                        href="https://francescoxx.github.io/free-Web3-resources/#/?id=ethereum-languages"
+                        title="Ethereum Languages">Ethereum Languages</a></li>
+                  <li><a class="section-link" href="https://francescoxx.github.io/free-Web3-resources/#/?id=solidity"
+                        title="Solidity">Solidity</a></li>
+                  <li><a class="section-link" href="https://francescoxx.github.io/free-Web3-resources/#/?id=vyper"
+                        title="Vyper">Vyper</a></li>
+                  <li><a class="section-link"
+                        href="https://francescoxx.github.io/free-Web3-resources/#/?id=%f0%9f%91%a8%f0%9f%92%bc-ethereum-clients"
+                        title="👨‍💼 Ethereum Clients">👨‍💼 Ethereum Clients</a></li>
+                  <li><a class="section-link"
+                        href="https://francescoxx.github.io/free-Web3-resources/#/?id=%f0%9f%8c%90-ethereum-in-different-languages"
+                        title="🌐 Ethereum in different languages">🌐 Ethereum in different languages</a></li>
+                  <ul>
+                     <li><a class="section-link"
+                           href="https://francescoxx.github.io/free-Web3-resources/#/?id=portuguese"
+                           title="Portuguese">Portuguese</a></li>
+                     <li><a class="section-link" href="https://francescoxx.github.io/free-Web3-resources/#/?id=chinese"
+                           title="Chinese">Chinese</a></li>
+                     <li><a class="section-link" href="https://francescoxx.github.io/free-Web3-resources/#/?id=french"
+                           title="French">French</a></li>
+                     <li><a class="section-link" href="https://francescoxx.github.io/free-Web3-resources/#/?id=german"
+                           title="German">German</a></li>
+                     <li><a class="section-link" href="https://francescoxx.github.io/free-Web3-resources/#/?id=hindi"
+                           title="Hindi">Hindi</a></li>
+                     <li><a class="section-link" href="https://francescoxx.github.io/free-Web3-resources/#/?id=italian"
+                           title="Italian">Italian</a></li>
+                     <li><a class="section-link" href="https://francescoxx.github.io/free-Web3-resources/#/?id=spanish"
+                           title="Spanish">Spanish</a></li>
+                     <li><a class="section-link" href="https://francescoxx.github.io/free-Web3-resources/#/?id=turkish"
+                           title="Turkish">Turkish</a></li>
+                     <li><a class="section-link"
+                           href="https://francescoxx.github.io/free-Web3-resources/#/?id=vietnamese"
+                           title="Vietnamese">Vietnamese</a></li>
+                  </ul>
+                  <li><a class="section-link"
+                        href="https://francescoxx.github.io/free-Web3-resources/#/?id=dao-communities"
+                        title="DAO Communities">DAO Communities</a></li>
+                  <li><a class="section-link" href="https://francescoxx.github.io/free-Web3-resources/#/?id=sdks"
+                        title="SDKs">SDKs</a></li>
+                  <li><a class="section-link" href="https://francescoxx.github.io/free-Web3-resources/#/?id=oracles"
+                        title="Oracles">Oracles</a></li>
+                  <li><a class="section-link"
+                        href="https://francescoxx.github.io/free-Web3-resources/#/?id=off-chain-data-protocols"
+                        title="Off Chain Data Protocols">Off Chain Data Protocols</a></li>
+                  <li><a class="section-link"
+                        href="https://francescoxx.github.io/free-Web3-resources/#/?id=nft-marketplaces"
+                        title="NFT Marketplaces">NFT Marketplaces</a></li>
+                  <li><a class="section-link"
+                        href="https://francescoxx.github.io/free-Web3-resources/#/?id=node-providers"
+                        title="Node Providers">Node Providers</a></li>
+                  <li><a class="section-link"
+                        href="https://francescoxx.github.io/free-Web3-resources/#/?id=%f0%9f%93%82-file-storage"
+                        title="📂 File Storage">📂 File Storage</a></li>
+                  <li><a class="section-link"
+                        href="https://francescoxx.github.io/free-Web3-resources/#/?id=ethereum-development-environment"
+                        title="Ethereum Development Environment">Ethereum Development Environment</a></li>
+                  <li><a class="section-link"
+                        href="https://francescoxx.github.io/free-Web3-resources/#/?id=ethereum-development-ides"
+                        title="Ethereum Development IDEs">Ethereum Development IDEs</a></li>
+                  <li><a class="section-link"
+                        href="https://francescoxx.github.io/free-Web3-resources/#/?id=%f0%9f%8e%ad-identity"
+                        title="🎭 Identity">🎭 Identity</a></li>
+                  <li><a class="section-link" href="https://francescoxx.github.io/free-Web3-resources/#/?id=indexing"
+                        title="Indexing">Indexing</a></li>
+                  <li><a class="section-link" href="https://francescoxx.github.io/free-Web3-resources/#/?id=client-sdks"
+                        title="Client SDKs">Client SDKs</a></li>
+                  <li><a class="section-link" href="https://francescoxx.github.io/free-Web3-resources/#/?id=blockchains"
+                        title="Blockchains">Blockchains</a></li>
+                  <li><a class="section-link"
+                        href="https://francescoxx.github.io/free-Web3-resources/#/?id=%f0%9f%91%a8%f0%9f%92%bb-learning-platforms"
+                        title="👨‍💻 Learning Platforms">👨‍💻 Learning Platforms</a></li>
+                  <li><a class="section-link" href="https://francescoxx.github.io/free-Web3-resources/#/?id=solana"
+                        title="Solana">Solana</a></li>
+                  <li><a class="section-link"
+                        href="https://francescoxx.github.io/free-Web3-resources/#/?id=%f0%9f%91%a8%f0%9f%92%bb-open-source-projects-you-can-contribute-to"
+                        title="👨‍💻 Open Source Projects you can contribute to">👨‍💻 Open Source Projects you can
+                        contribute to</a></li>
+                  <li><a class="section-link"
+                        href="https://francescoxx.github.io/free-Web3-resources/#/?id=youtube-channels"
+                        title="Youtube Channels">Youtube Channels</a></li>
+               </ul>
+               <li><a class="section-link" href="https://francescoxx.github.io/free-Web3-resources/#/?id=tutorials"
+                     title="Tutorials">Tutorials</a></li>
+               <li><a class="section-link" href="https://francescoxx.github.io/free-Web3-resources/#/?id=tutorials-1"
+                     title="Tutorials">Tutorials</a></li>
+            </ul>
+         </div>
+      </aside> -->
+
+     
+      <div class="container" style="max-width:100%">
+
+         <div class="row">
+            
+            <div class="col-sm-3" style="box-shadow: rgba(0, 0, 0, 0.09) 0px 3px 12px;">
+               
+               <br>
+               <div class="search" style="max-height: 1080px;overflow-y: scroll;">
+                  <div class="input-wrap">
+                     <input type="search" value="" aria-label="Search text" placeholder="Search">
+                     <div class="clear-button">
+                        <svg width="26" height="24">
+                           <circle cx="12" cy="12" r="11" fill="#ccc"></circle>
+                           <path stroke="white" stroke-width="2" d="M8.25,8.25,15.75,15.75"></path>
+                           <path stroke="white" stroke-width="2" d="M8.25,15.75,15.75,8.25"></path>
+                        </svg>
+                     </div>
+                  </div>
+                  <br>
+                  <div class="results-panel"></div>
+                  <h1 class="app-name"><a class="app-name-link" data-nosearch=""
+                     href="https://francescoxx.github.io/free-Web3-resources/">Web3 Resources</a></h1>
+                  <ul>
+                     <li class="li"><a class="section-link"
+                           href="https://francescoxx.github.io/free-Web3-resources/#/?id=free-web3-resources-%f0%9f%9a%80"
+                           title="Free Web3 Resources 🚀" cursorshover="true">Free Web3 Resources 🚀</a></li>
+                     <ul>
+                        <li class="li"><a class="section-link"
+                              href="https://francescoxx.github.io/free-Web3-resources/#/?id=start-here-%f0%9f%91%87"
+                              title="Start here 👇" cursorshover="true">Start here 👇</a></li>
+                        <li class="li"><a class="section-link"
+                              href="https://francescoxx.github.io/free-Web3-resources/#/?id=getting-involved"
+                              title="Getting Involved" cursorshover="true">Getting Involved</a></li>
+                        <li class="li"><a class="section-link"
+                              href="https://francescoxx.github.io/free-Web3-resources/#/?id=web3-roadmaps-article-blog"
+                              title="Web3 Roadmaps (Article / Blog)" cursorshover="true">Web3 Roadmaps (Article / Blog)</a>
+                        </li>
+                        <li class="li"><a class="section-link"
+                              href="https://francescoxx.github.io/free-Web3-resources/#/?id=web3-roadmaps-video"
+                              title="Web3 Roadmaps (Video)" cursorshover="true">Web3 Roadmaps (Video)</a></li>
+                        <li class="li"><a class="section-link"
+                              href="https://francescoxx.github.io/free-Web3-resources/#/?id=ethereum-development-tools-%f0%9f%9b%a0%ef%b8%8f"
+                              title="Ethereum Development Tools 🛠️" cursorshover="true">Ethereum Development Tools 🛠️</a>
+                        </li>
+                        <li class="li"><a class="section-link"
+                              href="https://francescoxx.github.io/free-Web3-resources/#/?id=%f0%9f%92%a1-ethereum-free-resources"
+                              title="💡 Ethereum free resources">💡 Ethereum free resources</a></li>
+                        <li class="li"><a class="section-link"
+                              href="https://francescoxx.github.io/free-Web3-resources/#/?id=ethereum-languages"
+                              title="Ethereum Languages">Ethereum Languages</a></li>
+                        <li class="li"><a class="section-link" href="https://francescoxx.github.io/free-Web3-resources/#/?id=solidity"
+                              title="Solidity">Solidity</a></li>
+                        <li class="li"><a class="section-link" href="https://francescoxx.github.io/free-Web3-resources/#/?id=vyper"
+                              title="Vyper">Vyper</a></li>
+                        <li class="li"><a class="section-link"
+                              href="https://francescoxx.github.io/free-Web3-resources/#/?id=%f0%9f%91%a8%f0%9f%92%bc-ethereum-clients"
+                              title="👨‍💼 Ethereum Clients">👨‍💼 Ethereum Clients</a></li>
+                        <li class="li"><a class="section-link"
+                              href="https://francescoxx.github.io/free-Web3-resources/#/?id=%f0%9f%8c%90-ethereum-in-different-languages"
+                              title="🌐 Ethereum in different languages">🌐 Ethereum in different languages</a></li>
+                        <ul>
+                           <li class="li"><a class="section-link"
+                                 href="https://francescoxx.github.io/free-Web3-resources/#/?id=portuguese"
+                                 title="Portuguese">Portuguese</a></li>
+                           <li class="li"><a class="section-link" href="https://francescoxx.github.io/free-Web3-resources/#/?id=chinese"
+                                 title="Chinese">Chinese</a></li>
+                           <li class="li"><a class="section-link" href="https://francescoxx.github.io/free-Web3-resources/#/?id=french"
+                                 title="French">French</a></li>
+                           <li class="li"><a class="section-link" href="https://francescoxx.github.io/free-Web3-resources/#/?id=german"
+                                 title="German">German</a></li>
+                           <li class="li"><a class="section-link" href="https://francescoxx.github.io/free-Web3-resources/#/?id=hindi"
+                                 title="Hindi">Hindi</a></li>
+                           <li class="li"><a class="section-link" href="https://francescoxx.github.io/free-Web3-resources/#/?id=italian"
+                                 title="Italian">Italian</a></li>
+                           <li class="li"><a class="section-link" href="https://francescoxx.github.io/free-Web3-resources/#/?id=spanish"
+                                 title="Spanish">Spanish</a></li>
+                           <li class="li"><a class="section-link" href="https://francescoxx.github.io/free-Web3-resources/#/?id=turkish"
+                                 title="Turkish">Turkish</a></li>
+                           <li class="li"><a class="section-link"
+                                 href="https://francescoxx.github.io/free-Web3-resources/#/?id=vietnamese"
+                                 title="Vietnamese">Vietnamese</a></li>
+                        </ul>
+                        <li class="li"><a class="section-link"
+                              href="https://francescoxx.github.io/free-Web3-resources/#/?id=dao-communities"
+                              title="DAO Communities">DAO Communities</a></li>
+                        <li class="li"><a class="section-link" href="https://francescoxx.github.io/free-Web3-resources/#/?id=sdks"
+                              title="SDKs">SDKs</a></li>
+                        <li class="li"><a class="section-link" href="https://francescoxx.github.io/free-Web3-resources/#/?id=oracles"
+                              title="Oracles">Oracles</a></li>
+                        <li class="li"><a class="section-link"
+                              href="https://francescoxx.github.io/free-Web3-resources/#/?id=off-chain-data-protocols"
+                              title="Off Chain Data Protocols">Off Chain Data Protocols</a></li>
+                        <li class="li"><a class="section-link"
+                              href="https://francescoxx.github.io/free-Web3-resources/#/?id=nft-marketplaces"
+                              title="NFT Marketplaces">NFT Marketplaces</a></li>
+                        <li class="li"><a class="section-link"
+                              href="https://francescoxx.github.io/free-Web3-resources/#/?id=node-providers"
+                              title="Node Providers">Node Providers</a></li>
+                        <li class="li"><a class="section-link"
+                              href="https://francescoxx.github.io/free-Web3-resources/#/?id=%f0%9f%93%82-file-storage"
+                              title="📂 File Storage">📂 File Storage</a></li>
+                        <li class="li"><a class="section-link"
+                              href="https://francescoxx.github.io/free-Web3-resources/#/?id=ethereum-development-environment"
+                              title="Ethereum Development Environment">Ethereum Development Environment</a></li>
+                        <li class="li"><a class="section-link"
+                              href="https://francescoxx.github.io/free-Web3-resources/#/?id=ethereum-development-ides"
+                              title="Ethereum Development IDEs">Ethereum Development IDEs</a></li>
+                        <li class="li"><a class="section-link"
+                              href="https://francescoxx.github.io/free-Web3-resources/#/?id=%f0%9f%8e%ad-identity"
+                              title="🎭 Identity">🎭 Identity</a></li>
+                        <li class="li"><a class="section-link" href="https://francescoxx.github.io/free-Web3-resources/#/?id=indexing"
+                              title="Indexing">Indexing</a></li>
+                        <li class="li"><a class="section-link" href="https://francescoxx.github.io/free-Web3-resources/#/?id=client-sdks"
+                              title="Client SDKs">Client SDKs</a></li>
+                        <li class="li"><a class="section-link" href="https://francescoxx.github.io/free-Web3-resources/#/?id=blockchains"
+                              title="Blockchains">Blockchains</a></li>
+                        <li class="li"><a class="section-link"
+                              href="https://francescoxx.github.io/free-Web3-resources/#/?id=%f0%9f%91%a8%f0%9f%92%bb-learning-platforms"
+                              title="👨‍💻 Learning Platforms">👨‍💻 Learning Platforms</a></li>
+                        <li class="li"><a class="section-link" href="https://francescoxx.github.io/free-Web3-resources/#/?id=solana"
+                              title="Solana">Solana</a></li>
+                        <li class="li"><a class="section-link"
+                              href="https://francescoxx.github.io/free-Web3-resources/#/?id=%f0%9f%91%a8%f0%9f%92%bb-open-source-projects-you-can-contribute-to"
+                              title="👨‍💻 Open Source Projects you can contribute to">👨‍💻 Open Source Projects you can
+                              contribute to</a></li>
+                        <li class="li"><a class="section-link"
+                              href="https://francescoxx.github.io/free-Web3-resources/#/?id=youtube-channels"
+                              title="Youtube Channels">Youtube Channels</a></li>
+                     </ul>
+                     <li class="li"><a class="section-link" href="https://francescoxx.github.io/free-Web3-resources/#/?id=tutorials"
+                           title="Tutorials">Tutorials</a></li>
+                     <li class="li"><a class="section-link" href="https://francescoxx.github.io/free-Web3-resources/#/?id=tutorials-1"
+                           title="Tutorials">Tutorials</a></li>
+                  </ul>
+               </div>
+            </div>
+            <div class="col-sm-9" >
+               <section class="content" style="max-height: 1080px;overflow-y: scroll;">
+                  <form>
+                     
+               
+                     <div align="right" style="margin-top: -45px;margin-right: 2rem;">
+                        <input type="checkbox"  name="checkbox" class="checkbox" id="checkbox" onclick="toggle(this.form)">
+                        <label for="checkbox" class="checkbox-label">
+                          <i class="fas fa-moon"></i>
+                          <i class="fas fa-sun"></i>
+                          <span class="ball"></span>
+                        </label>
+                      </div>
+               
+               
+                    </form>
+               
+               <script>
+               
+               
+               
+               window.onload=function(){
+                  var theme = localStorage.getItem('data-theme');
+                  if(theme=='light'){
+                    document.documentElement.setAttribute('data-theme', 'light');
+                  }else if(theme==''){
+                    document.documentElement.setAttribute('data-theme', 'light');
+                  }else if(theme=='dark'){
+                    document.documentElement.setAttribute('data-theme' , 'dark');
+                    document.getElementById("checkbox").checked = true;
+                  }
+                }
+                function toggle(a){
+                  if(a.checkbox.checked==true){
+                    document.documentElement.classList.add('transition');
+                    document.documentElement.setAttribute('data-theme', 'dark');
+                    localStorage.setItem('data-theme','dark');
+                  }
+                  else if(a.checkbox.checked==false){
+                    document.documentElement.classList.add('transition');
+                    document.documentElement.setAttribute('data-theme', 'light');
+                    localStorage.setItem('data-theme','light');
+                  }
+                };
+               </script>
+               
+                  <article class="markdown-section" id="main">
+                     <h1 id="free-web3-resources-🚀"><a
+                           href="https://francescoxx.github.io/free-Web3-resources/#/?id=free-web3-resources-%f0%9f%9a%80"
+                           data-id="free-web3-resources-🚀" class="anchor"><span>Free Web3 Resources 🚀</span></a></h1>
+                     <p>This is a list of Free Web3 Resources links to learn Blockchain development.</p>
+                     <h2 id="start-here-👇"><a
+                           href="https://francescoxx.github.io/free-Web3-resources/#/?id=start-here-%f0%9f%91%87"
+                           data-id="start-here-👇" class="anchor"><span>Start here 👇</span></a></h2>
+                     <p>🏁 Join the Community: <a href="https://discord.com/invite/cRjhjFRRre" target="_blank"
+                           rel="noopener">free web3 project on 4C</a></p>
+                     <p>📝 All Francescos' Twitter posts <a
+                           href="https://github.com/FrancescoXX/free-Web3-resources/blob/main/twitter-posts.md" target="_blank"
+                           rel="noopener">here</a></p>
+                     <p><img src="./FREE Web3 Resources_files/162364470-56cc28da-d50c-426f-82a4-7ea06234d4bf.png"
+                           data-origin="https://user-images.githubusercontent.com/18360871/162364470-56cc28da-d50c-426f-82a4-7ea06234d4bf.png"
+                           alt="WEB3 FREE RESOURCES"></p>
+                     <h2 id="getting-involved"><a href="https://francescoxx.github.io/free-Web3-resources/#/?id=getting-involved"
+                           data-id="getting-involved" class="anchor"><span>Getting Involved</span></a></h2>
+                     <ul>
+                        <li><a href="https://medium.com/certik/the-blockchain-trilemma-decentralized-scalable-and-secure-e9d8c41a87b3"
+                              target="_blank" rel="noopener">Blockchain Trilemma</a> An article about the Blockchain Trilemma.
+                        </li>
+                        <li><a href="https://vitalik.ca/general/2021/12/06/endgame.html" target="_blank"
+                              rel="noopener">Endgame</a> An Article by Vitalik Buterin to have an idea of the direction Ethereum
+                           is taking.</li>
+                        <li><a href="https://ethereum.org/en/whitepaper/" target="_blank" rel="noopener">Ethereum Whitepaper</a>
+                           Introductory paper published in 2014 by Vitalik Buterin, Ethereum's founder, before the launch in
+                           2015.</li>
+                        <li><a href="https://ethereum.github.io/yellowpaper/paper.pdf" target="_blank" rel="noopener">Ethereum
+                              Yellowpaper</a> The "Yellow Paper": Ethereum's formal specification</li>
+                     </ul>
+                     <h2 id="web3-roadmaps-article-blog"><a
+                           href="https://francescoxx.github.io/free-Web3-resources/#/?id=web3-roadmaps-article-blog"
+                           data-id="web3-roadmaps-article-blog" class="anchor"><span>Web3 Roadmaps (Article / Blog)</span></a>
+                     </h2>
+                     <ul>
+                        <li><a href="https://vitto.cc/web3-and-solidity-smart-contracts-development-roadmap/" target="_blank"
+                              rel="noopener">Complete Web3.0 And Solidity Development Roadmap 2022</a> by <a
+                              href="https://vitto.cc/" target="_blank" rel="noopener">Vittorio Rivabella</a></li>
+                        <li><a href="https://medium.com/theweb3stack/how-to-get-into-crypto-a-roadmap-for-a-web3-developer-4a5806f61869"
+                              target="_blank" rel="noopener">How To Get Into Crypto? 2022 Roadmap For A Web3 Developer</a> by
+                           Darrius Singleton</li>
+                        <li><a href="https://dev.to/jesusantguerrero/my-roadmap-in-web-3-1hgo" target="_blank" rel="noopener">My
+                              roadmap in web 3</a> by Jesus Guerrero</li>
+                        <li><a href="https://eda.hashnode.dev/my-web3-journey-day-100-of-100daysofweb3" target="_blank"
+                              rel="noopener">My web3 journey in 100 days</a> by <a href="https://twitter.com/edatweets_"
+                              target="_blank" rel="noopener">Eda</a></li>
+                        <li><a href="https://dev.to/darshancodes/roadmap-to-become-a-web3-developer-412j" target="_blank"
+                              rel="noopener">Roadmap to become a web3 developer</a> by Darshancodes</li>
+                        <li><a href="https://betterprogramming.pub/has-anyone-seen-web3-a-complete-roadmap-free-resources-to-become-web3-developer-4e5dc9332c1f"
+                              target="_blank" rel="noopener">The Complete Roadmap and Resources to Become a Web3 Developer in
+                              2022</a> by Nagaraj Pandith</li>
+                        <li><a href="https://blog.idrisolubisi.com/web-3-a-developer-roadmap-and-resources-to-get-started"
+                              target="_blank" rel="noopener">Web 3.0: A Developer Roadmap, Guide, and Resources to Get
+                              Started</a> by Olubisi Idris Ayinde</li>
+                        <li><a href="https://blog.oliverjumpertz.dev/your-roadmap-to-becoming-a-web-30-developer" target="_blank"
+                              rel="noopener">Your Roadmap To Becoming A Web 3.0 Developer</a> by Oliver Jumpertz</li>
+                        <li><a href="https://remote3.co/blog-post/complete-web3-developer-roadmap-2022" target="_blank"
+                              rel="noopener">Complete Web3 Developer Roadmap - 2022</a> by Remote3</li>
+                     </ul>
+                     <h2 id="web3-roadmaps-video"><a
+                           href="https://francescoxx.github.io/free-Web3-resources/#/?id=web3-roadmaps-video"
+                           data-id="web3-roadmaps-video" class="anchor"><span>Web3 Roadmaps (Video)</span></a></h2>
+                     <ul>
+                        <li><a href="https://www.youtube.com/watch?v=aVQJGr2J8io" target="_blank" rel="noopener">Become a Web 3
+                              &amp; Blockchain Developer in 2022 | Practical Step by Step Solidity and Web3 Roadmap</a> by
+                           Javascript Mastery</li>
+                        <li><a href="https://www.youtube.com/watch?v=q54j35z3fPQ" target="_blank" rel="noopener">How to Become a
+                              Blockchain Developer? Complete web3 Developer Roadmap</a> by Ishan Sharma</li>
+                        <li><a href="https://www.youtube.com/watch?v=36ubP5Ydh-A" target="_blank" rel="noopener">Complete
+                              Blockchain Development Roadmap 2022 🔥| Project Ideas | Solidity | Web3js | Truffle</a> by Nishant
+                           Chahar</li>
+                        <li><a href="https://www.youtube.com/watch?v=uULy2rc6YDc" target="_blank" rel="noopener">How to become a
+                              Blockchain Developer in 2022? | 🔥 Complete Roadmap + Salary + Tech Stack</a> by Apna College</li>
+                        <li><a href="https://www.youtube.com/watch?v=XRIpjWGbGmA" target="_blank" rel="noopener">How to get
+                              started with Web3 Development - Become Blockchain Developer in 2022 Complete Roadmap</a> by Coding
+                           Money</li>
+                     </ul>
+                     <h2 id="ethereum-development-tools-🛠️"><a
+                           href="https://francescoxx.github.io/free-Web3-resources/#/?id=ethereum-development-tools-%f0%9f%9b%a0%ef%b8%8f"
+                           data-id="ethereum-development-tools-🛠️" class="anchor"><span>Ethereum Development Tools
+                              🛠️</span></a></h2>
+                     <ul>
+                        <li><a href="https://www.rainbowkit.com/" target="_blank" rel="noopener">Rainbow Dev Kit</a> RainbowKit
+                           is a React library that makes it easy to add wallet connection to your dapp. </li>
+                        <li><a href="https://github.com/scaffold-eth/scaffold-eth" target="_blank" rel="noopener">scaffoldETH</a>
+                           Scaffold-eth is everything you need to get started building decentralized applications on Ethereum!
+                        </li>
+                        <li><a href="http://wagmi.sh/" target="_blank" rel="noopener">WAGMI</a> wagmi.sh is a collection of React
+                           Hooks containing everything you need to start working with Ethereum.</li>
+                     </ul>
+                     <h2 id="💡-ethereum-free-resources"><a
+                           href="https://francescoxx.github.io/free-Web3-resources/#/?id=%f0%9f%92%a1-ethereum-free-resources"
+                           data-id="💡-ethereum-free-resources" class="anchor"><span>💡 Ethereum free resources</span></a></h2>
+                     <ul>
+                        <li>
+                           <p><a href="https://github.com/bekatom/awesome-ethereum" target="_blank" rel="noopener">Awesome
+                                 Ethereum by bekatom</a> Awesome Ethereum Resources</p>
+                        </li>
+                        <li>
+                           <p><a href="https://github.com/crytic/awesome-ethereum-security" target="_blank"
+                                 rel="noopener">Awesome Ethereum Security</a> A curated list of awesome Ethereum security
+                              references</p>
+                        </li>
+                        <li>
+                           <p><a href="https://www.youtube.com/watch?v=WSN5BaCzsbo&amp;ab_channel=TechCrunch" target="_blank"
+                                 rel="noopener">Decentralizing Everything</a> Naval Ravikant brings Ethereum's Vitalik Buterin
+                              onstage to explain what it is and why it's useful.</p>
+                        </li>
+                        <li>
+                           <p><a href="https://education.district0x.io/general-topics/understanding-ethereum/" target="_blank"
+                                 rel="noopener">District0x</a> An educational resource about Ethereum targeted at beginners.</p>
+                        </li>
+                        <li>
+                           <p><a href="https://ethereum.org/" target="_blank" rel="noopener">ethereum.org</a> ethereum.org is
+                              your portal into the world of Ethereum.</p>
+                        </li>
+                        <li>
+                           <p><a href="https://github.com/ethereumbook/ethereumbook" target="_blank"
+                                 rel="noopener">Ethereumbook</a> Mastering Ethereum, by Andreas M. Antonopoulos, Gavin Wood</p>
+                        </li>
+                        <li>
+                           <p><a href="https://etherworld.co/tag/ethereum/" target="_blank" rel="noopener">EtherWorld</a> An
+                              Ethereum educational resource in the form of blogs and video guides</p>
+                        </li>
+                        <li>
+                           <p><a href="https://github.com/ethereum-boilerplate/ethereum-boilerplate" target="_blank"
+                                 rel="noopener">Ethereum Boilerplate</a> Ethereum Dapp Boilerplate by Moralis. Despite the name,
+                              it also works with any EVM and Solana</p>
+                        </li>
+                        <li>
+                           <p><a href="https://www.youtube.com/channel/UCNOfzGXD_C9YMYmnefmPH0g" target="_blank"
+                                 rel="noopener">Ethereum Foundation YT Channel</a> Ethereum Foundation YouTube Channel. It
+                              currently has 45k Subscribers</p>
+                        </li>
+                        <li>
+                           <p><a href="https://eth.wiki/" target="_blank" rel="noopener">Ethereum Wiki</a> Ethereum wiki covering
+                              all things related to Ethereum.</p>
+                        </li>
+                        <li>
+                           <p><a href="https://docs.ethhub.io/" target="_blank" rel="noopener">EthHub</a> The goal of EthHub is
+                              to provide a single source for essential Ethereum information.</p>
+                        </li>
+                        <li>
+                           <p><a href="https://docs.soliditylang.org/en/v0.8.13/" target="_blank" rel="noopener">Solidity
+                                 Docs</a> Solidity documentation</p>
+                        </li>
+                     </ul>
+                     <ul>
+                        <li><a href="https://github.com/ChristianChiarulli/intro-fullstack-ethereum#readme" target="_blank"
+                              rel="noopener">Intro to Fullstack Ethereum Development</a> by ChristianChiarulli</li>
+                     </ul>
+                     <h2 id="ethereum-languages"><a
+                           href="https://francescoxx.github.io/free-Web3-resources/#/?id=ethereum-languages"
+                           data-id="ethereum-languages" class="anchor"><span>Ethereum Languages</span></a></h2>
+                     <ul>
+                        <li><a href="https://docs.soliditylang.org/en/v0.8.13/" target="_blank" rel="noopener">Solidity</a>
+                           Solidity is an object-oriented, high-level language for implementing smart contracts.</li>
+                        <li><a href="https://vyper.readthedocs.io/en/stable/" target="_blank" rel="noopener">Vyper</a> Vyper is a
+                           contract-oriented, pythonic programming language that targets the Ethereum Virtual Machine (EVM).</li>
+                     </ul>
+                     <h2 id="solidity"><a href="https://francescoxx.github.io/free-Web3-resources/#/?id=solidity"
+                           data-id="solidity" class="anchor"><span>Solidity</span></a></h2>
+                     <ul>
+                        <li><a href="https://intellipaat.com/mediaFiles/2019/03/Solidity-Cheat-Sheet.jpg" target="_blank"
+                              rel="noopener">Solidity Cheatsheet</a> A comprehensive Solidity Cheatsheet.</li>
+                        <li><a href="https://github.com/manojpramesh/solidity-cheatsheet" target="_blank" rel="noopener">Solidity
+                              Cheatsheet by Manojpramesh</a> Cheat sheet and best practices for solidity. Write smart contracts
+                           for Ethereum.</li>
+                        <li><a href="https://cryptozombies.io/en/course/" target="_blank" rel="noopener">CryptoZombies Course</a>
+                           Learn how to create and work on smart contracts in an interactive and fun way.</li>
+                     </ul>
+                     <h4 id="tutorials"><a href="https://francescoxx.github.io/free-Web3-resources/#/?id=tutorials"
+                           data-id="tutorials" class="anchor"><span>Tutorials</span></a></h4>
+                     <ul>
+                        <li><a href="https://www.freecodecamp.org/news/learn-blockchain-solidity-full-stack-javascript-development/"
+                              target="_blank" rel="noopener">Learn Blockchain, Solidity, and Full Stack JavaScript
+                              Development</a> This course will give you a full introduction into all of the core concepts related
+                           to blockchain, smart contracts, Solidity, full-stack Web3 dapps, decentralized finance (DeFi),
+                           Chainlink, and more.</li>
+                     </ul>
+                     <h2 id="vyper"><a href="https://francescoxx.github.io/free-Web3-resources/#/?id=vyper" data-id="vyper"
+                           class="anchor"><span>Vyper</span></a></h2>
+                     <ul>
+                        <li><a href="https://github.com/manojpramesh/vyper-cheatsheet" target="_blank" rel="noopener">Vyper
+                              Cheatsheet by Manojpramesh</a> A comprehensive vyper cheatsheet</li>
+                        <li><a href="https://github.com/spadebuilders/awesome-vyper" target="_blank" rel="noopener">Awesome Vyper
+                              by Spade Builders</a></li>
+                     </ul>
+                     <h4 id="tutorials-1"><a href="https://francescoxx.github.io/free-Web3-resources/#/?id=tutorials-1"
+                           data-id="tutorials-1" class="anchor"><span>Tutorials</span></a></h4>
+                     <ul>
+                        <li><a href="https://learn.vyperlang.org/#/" target="_blank" rel="noopener">Learn Vyper by building a
+                              pokemon Game</a></li>
+                        <li><a href="https://www.youtube.com/watch?v=-RHTgegox8I" target="_blank" rel="noopener">Vyper
+                              Programming Tutorial for Ethereum Smart Contract Development (Blockchain)</a> by Dapp University
+                        </li>
+                     </ul>
+                     <h2 id="👨💼-ethereum-clients"><a
+                           href="https://francescoxx.github.io/free-Web3-resources/#/?id=%f0%9f%91%a8%f0%9f%92%bc-ethereum-clients"
+                           data-id="👨💼-ethereum-clients" class="anchor"><span>👨‍💼 Ethereum Clients</span></a></h2>
+                     <p>An Ethereum client is the software that allows Ethereum nodes to read the block on the Ethereum network.
+                        <a href="https://twitter.com/FrancescoCiull4/status/1484415980293996544" target="_blank"
+                           rel="noopener">(more...)</a></p>
+                     <ul>
+                        <li><a href="https://github.com/hyperledger/besu" target="_blank" rel="noopener">Besu</a> An
+                           enterprise-grade Java-based, Apache 2.0 licensed Ethereum client</li>
+                        <li><a href="https://github.com/ledgerwatch/erigon" target="_blank" rel="noopener">Erigon</a> Ethereum
+                           implementation on the efficiency frontier</li>
+                        <li><a href="https://github.com/ethereum/go-ethereum" target="_blank" rel="noopener">Geth</a> Official Go
+                           implementation of the Ethereum protocol</li>
+                        <li><a href="https://github.com/NethermindEth/nethermind" target="_blank" rel="noopener">Nethermind</a>
+                           flagship .NET Core Ethereum client for Linux, Windows, MacOs - full and actively developed.</li>
+                     </ul>
+                     <h2 id="🌐-ethereum-in-different-languages"><a
+                           href="https://francescoxx.github.io/free-Web3-resources/#/?id=%f0%9f%8c%90-ethereum-in-different-languages"
+                           data-id="🌐-ethereum-in-different-languages" class="anchor"><span>🌐 Ethereum in different
+                              languages</span></a></h2>
+                     <ul>
+                        <li><a href="https://ethereum.org/en/languages" target="_blank" rel="noopener">ethereum.org in different
+                              languages</a> Ethereum docs in 43 languages</li>
+                     </ul>
+                     <h3 id="portuguese"><a href="https://francescoxx.github.io/free-Web3-resources/#/?id=portuguese"
+                           data-id="portuguese" class="anchor"><span>Portuguese</span></a></h3>
+                     <ul>
+                        <li><a href="https://www.web3dev.com.br/" target="_blank" rel="noopener">Web3dev</a> Content and
+                           community for web 3 developers in Portuguese.</li>
+                     </ul>
+                     <h3 id="chinese"><a href="https://francescoxx.github.io/free-Web3-resources/#/?id=chinese" data-id="chinese"
+                           class="anchor"><span>Chinese</span></a></h3>
+                     <ul>
+                        <li><a href="https://github.com/ethereum/wiki/wiki/%5B%E4%B8%AD%E6%96%87%5D-%E4%BB%A5%E5%A4%AA%E5%9D%8A%E7%99%BD%E7%9A%AE%E4%B9%A6"
+                              target="_blank" rel="noopener">Ethereum Wiki</a> Ethereum Wiki in Chinese</li>
+                     </ul>
+                     <h3 id="french"><a href="https://francescoxx.github.io/free-Web3-resources/#/?id=french" data-id="french"
+                           class="anchor"><span>French</span></a></h3>
+                     <ul>
+                        <li><a href="https://www.ethereum-france.com/" target="_blank" rel="noopener">Ethereum France</a> Main
+                           website for Ethereum Content, Communities and Events in French.</li>
+                     </ul>
+                     <h3 id="german"><a href="https://francescoxx.github.io/free-Web3-resources/#/?id=german" data-id="german"
+                           class="anchor"><span>German</span></a></h3>
+                     <ul>
+                        <li><a href="https://docs.microsoft.com/de-de/learn/modules/blockchain-learning-solidity/"
+                              target="_blank" rel="noopener">Learn Solidity</a> Microsoft website to learn Solidity in German
+                        </li>
+                     </ul>
+                     <h3 id="hindi"><a href="https://francescoxx.github.io/free-Web3-resources/#/?id=hindi" data-id="hindi"
+                           class="anchor"><span>Hindi</span></a></h3>
+                     <ul>
+                        <li><a href="https://ethereum.org/hi/eth/" target="_blank" rel="noopener">Ethereum Hindi</a> Main website
+                           for Ethereum Content, Communities and Events in Hindi</li>
+                     </ul>
+                     <h3 id="italian"><a href="https://francescoxx.github.io/free-Web3-resources/#/?id=italian" data-id="italian"
+                           class="anchor"><span>Italian</span></a></h3>
+                     <ul>
+                        <li><a href="https://t.co/oyX6mujXek" target="_blank" rel="noopener">Ethereum Italy</a> Main website for
+                           Ethereum Content, Communities and Events in Italian.</li>
+                     </ul>
+                     <h3 id="spanish"><a href="https://francescoxx.github.io/free-Web3-resources/#/?id=spanish" data-id="spanish"
+                           class="anchor"><span>Spanish</span></a></h3>
+                     <ul>
+                        <li><a href="https://es.cointelegraph.com/ethereum-for-beginners" target="_blank"
+                              rel="noopener">Cointelegraph</a> Ethereum guide for Web3 beginners in Spanish.</li>
+                     </ul>
+                     <h3 id="turkish"><a href="https://francescoxx.github.io/free-Web3-resources/#/?id=turkish" data-id="turkish"
+                           class="anchor"><span>Turkish</span></a></h3>
+                     <ul>
+                        <li><a href="https://www.btkakademi.gov.tr/portal/course/blokzincir-ve-kripto-paralar-10569#!/about"
+                              target="_blank" rel="noopener">BTK Academy</a> blockchain and cryptocurrency-focused course in
+                           Turkish.</li>
+                     </ul>
+                     <h3 id="vietnamese"><a href="https://francescoxx.github.io/free-Web3-resources/#/?id=vietnamese"
+                           data-id="vietnamese" class="anchor"><span>Vietnamese</span></a></h3>
+                     <ul>
+                        <li><a href="https://wiki.tino.org/ethereum-la-gi/" target="_blank" rel="noopener">Tino Group</a>
+                           Ethereum info, wallets and FAQ in Vietnamese</li>
+                     </ul>
+                     <h2 id="dao-communities"><a href="https://francescoxx.github.io/free-Web3-resources/#/?id=dao-communities"
+                           data-id="dao-communities" class="anchor"><span>DAO Communities</span></a></h2>
+                     <ul>
+                        <li><a href="https://buildspace.so/" target="_blank" rel="noopener">Buildspace</a> Onboarding devs to
+                           web3. Start building cool stuff right now, earn NFTs, access secret opportunities in crypto.</li>
+                        <li><a href="https://cadena.dev/" target="_blank" rel="noopener">Cadena</a> - Build smart contracts,
+                           dapps, on multiple chains with a community and earn a Cadena NFT Certificate.</li>
+                        <li><a href="https://developerdao.notion.site/Getting-Started-with-Developer-DAO-2bddd332c51a4957b0b83f60f9fa4ebe"
+                              target="_blank" rel="noopener">Developer DAO</a> Build web3 with friends. New membership is
+                           officially open.</li>
+                        <li><a href="https://www.learnweb3.io/" target="_blank" rel="noopener">LearnWeb3DAO</a> Curious about
+                           Web3 as a developer? Wonder what are NFTs, DAOs, DeFi, and Smart Contracts? This is the place for
+                           you!.</li>
+                        <li><a href="https://www.web3.university/" target="_blank" rel="noopener">Web3 University</a> Teaching
+                           Web3 to 20k+ developers worldwide.</li>
+                        <li><a href="https://bio.link/webxdao" target="_blank" rel="noopener">WebXDAO</a> An Open Source
+                           Community that focuses on decentralized applications, web 3, and blockchain technologies 🚀</li>
+                     </ul>
+                     <h2 id="sdks"><a href="https://francescoxx.github.io/free-Web3-resources/#/?id=sdks" data-id="sdks"
+                           class="anchor"><span>SDKs</span></a></h2>
+                     <ul>
+                        <li><a href="https://moralis.io/" target="_blank" rel="noopener">Moralis</a> The Ultimate Web3
+                           Development Platform.</li>
+                        <li><a href="https://thirdweb.com/" target="_blank" rel="noopener">thirdweb</a> Smart contracts you
+                           control. Tools that accelerate your workflow. Intuitive SDKs and widgets for developers.</li>
+                     </ul>
+                     <h2 id="oracles"><a href="https://francescoxx.github.io/free-Web3-resources/#/?id=oracles" data-id="oracles"
+                           class="anchor"><span>Oracles</span></a></h2>
+                     <p><a href="https://twitter.com/FrancescoCiull4/status/1481895919121534979" target="_blank"
+                           rel="noopener">What is a Blockchain Oracle? Twitter thread</a></p>
+                     <ul>
+                        <li><a href="https://chain.link/" target="_blank" rel="noopener">Chainlink</a> Chainlink decentralized
+                           oracle networks provide tamper-proof inputs, outputs, and computations to support advanced smart
+                           contracts on any blockchain.</li>
+                        <li><a href="https://runonflux.io/" target="_blank" rel="noopener">Flux</a> Flux is the trustless data
+                           layer for web3. Flux is a cross-chain oracle that provides smart contracts with access to economically
+                           secure data feeds on anything.</li>
+                     </ul>
+                     <h2 id="off-chain-data-protocols"><a
+                           href="https://francescoxx.github.io/free-Web3-resources/#/?id=off-chain-data-protocols"
+                           data-id="off-chain-data-protocols" class="anchor"><span>Off Chain Data Protocols</span></a></h2>
+                     <ul>
+                        <li><a href="https://ceramic.network/" target="_blank" rel="noopener">Ceramic Network</a> Ceramic is a
+                           decentralized data network that brings unlimited data composability to Web3 applications.</li>
+                        <li><a href="https://gun.eco/" target="_blank" rel="noopener">Gun</a> The decentralized distributed graph
+                           database engine. GunDB is the Open Source Firebase alternative, a web3 data protocol.</li>
+                     </ul>
+                     <h2 id="nft-marketplaces"><a href="https://francescoxx.github.io/free-Web3-resources/#/?id=nft-marketplaces"
+                           data-id="nft-marketplaces" class="anchor"><span>NFT Marketplaces</span></a></h2>
+                     <ul>
+                        <li><a href="https://marketplace.axieinfinity.com/" target="_blank" rel="noopener">Axie Infinity</a> Axie
+                           Marketplace is the online shop for the video game Axie Infinity.</li>
+                        <li><a href="https://decentraland.org/" target="_blank" rel="noopener">Decentraland</a> Decentraland is
+                           completely based on the fantasy (Metaverse), with pretty much the same functionality as the real
+                           world.</li>
+                        <li><a href="https://looksrare.org/" target="_blank" rel="noopener">Looksrare</a> LooksRare is a
+                           community-first NFT marketplace with rewards for participating.</li>
+                        <li><a href="https://opensea.io/" target="_blank" rel="noopener">OpenSea</a> Opensea is the largest NFT
+                           marketplace and the one I used to mint my first NFT.</li>
+                        <li><a href="https://rarible.com/" target="_blank" rel="noopener">Rarible</a> A very large marketplace,
+                           partnered with Adobe. To use the marketplace, you need its own token "Rarible"</li>
+                     </ul>
+                     <h2 id="node-providers"><a href="https://francescoxx.github.io/free-Web3-resources/#/?id=node-providers"
+                           data-id="node-providers" class="anchor"><span>Node Providers</span></a></h2>
+                     <p><a href="https://twitter.com/FrancescoCiull4/status/1496711754776199168" target="_blank"
+                           rel="noopener">Node Providers Twitter Thread</a></p>
+                     <ul>
+                        <li><a href="https://www.alchemy.com/" target="_blank" rel="noopener">Alchemy</a> One magic line of code
+                           supercharges your development with the world’s most powerful blockchain developer platform, relied
+                           upon by the majority of the world's top blockchain apps.</li>
+                        <li><a href="https://www.chainstack.com/" target="_blank" rel="noopener">Chainstack</a> From startups to
+                           large enterprises, thousands of businesses of all sizes use Chainstack’s software and APIs to build,
+                           run, and scale blockchain applications.</li>
+                        <li><a href="https://infura.io/" target="_blank" rel="noopener">Infura</a> Suite of high availability
+                           APIs and Developer Tools that can provide quick, reliable access to the Ethereum and IPFS networks so
+                           you can focus on building and scaling next generation software.</li>
+                        <li><a href="https://www.quicknode.com/" target="_blank" rel="noopener">Quicknode</a> Hosted Blockchain
+                           Infrastructure as a Service.</li>
+                     </ul>
+                     <h2 id="📂-file-storage"><a
+                           href="https://francescoxx.github.io/free-Web3-resources/#/?id=%f0%9f%93%82-file-storage"
+                           data-id="📂-file-storage" class="anchor"><span>📂 File Storage</span></a></h2>
+                     <p>Decentralized Storage <a href="https://twitter.com/FrancescoCiull4/status/1483295727078060034"
+                           target="_blank" rel="noopener">thread</a></p>
+                     <ul>
+                        <li><a href="https://www.arweave.org/" target="_blank" rel="noopener">Arweave</a> Arweave enables you to
+                           store documents and applications forever.</li>
+                        <li><a href="https://filecoin.io/" target="_blank" rel="noopener">Filecoin</a> Filecoin is an
+                           open-source, public cryptocurrency and digital payment system intended to be a blockchain-based
+                           cooperative digital storage and data retrieval method.</li>
+                        <li><a href="https://ipfs.io/" target="_blank" rel="noopener">IPFS</a> A peer-to-peer hypermedia protocol
+                           designed to preserve and grow humanity's knowledge by making the web upgradeable, resilient, and more
+                           open.</li>
+                        <li><a href="https://ethersphere.github.io/swarm-home/" target="_blank" rel="noopener">Swarm</a> Swarm is
+                           a distributed storage platform and content distribution service, a native base layer service of the
+                           ethereum web3 stack that aims to provide a decentralized and redundant store for dapp code, user data,
+                           blockchain and state data. Swarm sets out to provide various base layer services for web3, including
+                           node-to-node messaging, media streaming, decentralised database services and scalable state-channel
+                           infrastructure for decentralised service economies.</li>
+                     </ul>
+                     <h2 id="ethereum-development-environment"><a
+                           href="https://francescoxx.github.io/free-Web3-resources/#/?id=ethereum-development-environment"
+                           data-id="ethereum-development-environment" class="anchor"><span>Ethereum Development
+                              Environment</span></a></h2>
+                     <ul>
+                        <li><a href="https://eth-brownie.readthedocs.io/en/stable/toctree.html" target="_blank"
+                              rel="noopener">Brownie</a> Brownie is a Python-based development and testing framework for smart
+                           contracts targeting the Ethereum Virtual Machine.</li>
+                        <li><a href="https://github.com/foundry-rs/foundry" target="_blank" rel="noopener">Foundry</a> Foundry is
+                           a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
+                        </li>
+                        <li><a href="https://hardhat.org/" target="_blank" rel="noopener">Hardhat</a> Ethereum development
+                           environment for professionals.</li>
+                        <li><a href="https://trufflesuite.com/" target="_blank" rel="noopener">Truffle</a> A world class
+                           development environment, testing framework and asset pipeline for blockchains using the Ethereum
+                           Virtual Machine (EVM), aiming to make life as a developer easier.</li>
+                     </ul>
+                     <h2 id="ethereum-development-ides"><a
+                           href="https://francescoxx.github.io/free-Web3-resources/#/?id=ethereum-development-ides"
+                           data-id="ethereum-development-ides" class="anchor"><span>Ethereum Development IDEs</span></a></h2>
+                     <ul>
+                        <li><a href="https://remix.ethereum.org/" target="_blank" rel="noopener">Remix IDE</a> Web IDE with built
+                           in static analysis, test blockchain VM.</li>
+                        <li><a href="https://marketplace.visualstudio.com/items?itemName=JuanBlanco.solidity" target="_blank"
+                              rel="noopener">VS Code with Solidity Extensions</a> Visutal Studio Code Solidity Extension.</li>
+                     </ul>
+                     <h2 id="🎭-identity"><a href="https://francescoxx.github.io/free-Web3-resources/#/?id=%f0%9f%8e%ad-identity"
+                           data-id="🎭-identity" class="anchor"><span>🎭 Identity</span></a></h2>
+                     <ul>
+                        <li><a href="https://metamask.io/" target="_blank" rel="noopener">MetaMask</a> MetaMask is a software
+                           cryptocurrency wallet used to interact with the Ethereum blockchain.</li>
+                        <li><a href="https://phantom.app/" target="_blank" rel="noopener">Phantom</a> Phantom makes it safe &amp;
+                           easy for you to store, buy, send, receive, swap tokens and collect NFTs on the Solana blockchain.</li>
+                        <li><a href="https://walletconnect.com/" target="_blank" rel="noopener">WalletConnect</a> WalletConnect
+                           is the web3 standard to connect blockchain wallets to dapps.</li>
+                     </ul>
+                     <h2 id="indexing"><a href="https://francescoxx.github.io/free-Web3-resources/#/?id=indexing"
+                           data-id="indexing" class="anchor"><span>Indexing</span></a></h2>
+                     <ul>
+                        <li><a href="https://thegraph.com/en/" target="_blank" rel="noopener">The Graph</a> The Graph is an
+                           indexing protocol for querying networks like Ethereum and IPFS.</li>
+                     </ul>
+                     <h2 id="client-sdks"><a href="https://francescoxx.github.io/free-Web3-resources/#/?id=client-sdks"
+                           data-id="client-sdks" class="anchor"><span>Client SDKs</span></a></h2>
+                     <ul>
+                        <li><a href="https://docs.ethers.io/" target="_blank" rel="noopener">Ether.js</a> The ethers.js library
+                           aims to be a complete and compact library for interacting with the Ethereum Blockchain and its
+                           ecosystem.</li>
+                        <li><a href="https://web3js.readthedocs.io/" target="_blank" rel="noopener">Web3.js</a> Web3.js is a
+                           collection of libraries that allow you to interact with a local or remote ethereum node using HTTP,
+                           IPC or WebSocket.</li>
+                     </ul>
+                     <h2 id="blockchains"><a href="https://francescoxx.github.io/free-Web3-resources/#/?id=blockchains"
+                           data-id="blockchains" class="anchor"><span>Blockchains</span></a></h2>
+                     <p>A list of currently active Blockchains projects. Sorted Alphabetically.</p>
+                     <ul>
+                        <li><a href="https://www.algorand.com/" target="_blank" rel="noopener">Algorand</a> Algorand is a
+                           blockchain cryptocurrency protocol based on proof of stake and a Byzantine agreement that aims to be
+                           scalable.</li>
+                        <li><a href="https://offchainlabs.com/" target="_blank" rel="noopener">Arbitrum</a> The ideal scaling
+                           solution for many DeFi apps Arbitrum Rollup can scale any Ethereum contract.</li>
+                        <li><a href="https://www.avax.network/" target="_blank" rel="noopener">Avalanche</a> Avalanche is a
+                           decentralized, open-source blockchain with smart contract functionality.</li>
+                        <li><a href="https://www.binance.com/en/support/announcement/854415cf3d214371a7b60cf01ead0918"
+                              target="_blank" rel="noopener">Binance Smart Chain</a> BNB, is the blockchain gas token that fuels
+                           transactions on BNB Chain.</li>
+                        <li><a href="https://bitcoin.org/en/" target="_blank" rel="noopener">BitCoin</a> Bitcoin is an innovative
+                           payment network and a new kind of money.</li>
+                        <li><a href="https://cardano.org/" target="_blank" rel="noopener">Cardano</a> Cardano is a public
+                           blockchain platform. It is open-source and decentralized, with consensus achieved using proof of
+                           stake.</li>
+                        <li><a href="https://celo.org/" target="_blank" rel="noopener">Celo</a> Celo is global payments
+                           infrastructure that makes financial tools accessible to anyone with a mobile phone.</li>
+                        <li><a href="https://www.corda.net/" target="_blank" rel="noopener">Corda</a> Build digital financial
+                           solutions quickly on the only private, secure, and scalable DLT platform designed for regulated
+                           markets.</li>
+                        <li><a href="https://cosmos.network/" target="_blank" rel="noopener">Cosmos</a> Cosmos is an
+                           ever-expanding ecosystem of interconnected apps and services, built for a decentralized future.</li>
+                        <li><a href="https://eos.io/" target="_blank" rel="noopener">EOSIO</a> EOSIO is an open-source blockchain
+                           platform that helps developers, investors, and businesses build with confidence.</li>
+                        <li><a href="https://ethereum.org/en/" target="_blank" rel="noopener">Ethereum</a> Ethereum is the
+                           community-run technology powering the cryptocurrency ether (ETH) and thousands of decentralized
+                           applications.</li>
+                        <li><a href="https://fantom.foundation/" target="_blank" rel="noopener">Fantom</a> Fantom is a highly
+                           scalable blockchain platform for DeFi, crypto dApps, and enterprise applications.</li>
+                        <li><a href="https://www.harmony.one/" target="_blank" rel="noopener">Harmony</a> is an open and fast
+                           layer-1 blockchain. It is compatible with EVM and Solidity. It supports very low transaction fees. Its
+                           native crypto is ONE.</li>
+                        <li><a href="https://hedera.com/" target="_blank" rel="noopener">Hedera Hashgraph</a> Hashgraph is a
+                           distributed ledger technology that has been described as an alternative to blockchains.</li>
+                        <li><a href="https://www.hyperledger.org/use/fabric" target="_blank" rel="noopener">Hyperledger
+                              Fabric</a> Hyperledger Fabric is intended as a foundation for developing apps or solutions with a
+                           modular architecture.</li>
+                        <li><a href="https://www.ibm.com/blockchain" target="_blank" rel="noopener">IBM Blockchain</a> Trusted
+                           data exchange and workflow automation beyond the boundaries with distributed ledger and blockchain.
+                        </li>
+                        <li><a href="https://www.klaytn.com/" target="_blank" rel="noopener">Klaytn</a> Kakao’s global public
+                           blockchain project Klaytn is an enterprise-grade, service-centric platform that brings user-friendly
+                           blockchain experience to millions.</li>
+                        <li><a href="https://lightning.network/" target="_blank" rel="noopener">Lightning Network</a> Scalable,
+                           Instant Bitcoin/Blockchain Transactions.</li>
+                        <li><a href="https://www.multichain.com/" target="_blank" rel="noopener">MultiChain</a> MultiChain helps
+                           organizations to build and deploy blockchain applications with speed.</li>
+                        <li><a href="https://near.org/" target="_blank" rel="noopener">Near</a> Through simple, secure, and
+                           scalable technology, NEAR empowers millions to invent and explore new experiences.</li>
+                        <li><a href="https://oasisprotocol.org/" target="_blank" rel="noopener">Oasis</a> A privacy-enabled
+                           blockchain platform for open finance and a responsible data economy.</li>
+                        <li><a href="https://www.optimism.io/" target="_blank" rel="noopener">Optimism</a> Optimism is a low-cost
+                           and lightning-fast Ethereum L2 blockchain.</li>
+                        <li><a href="https://www.oracle.com/blockchain/" target="_blank" rel="noopener">Oracle Blockchain</a>
+                           Oracle offers easy ways to adopt blockchain technology including a cloud service, an on-premises
+                           edition, and a SaaS application for supply chain.</li>
+                        <li><a href="https://polkadot.network/" target="_blank" rel="noopener">Polkadot</a> Polkadot is an open
+                           source, blockchain platform and cryptocurrency that allows for distributed computing.</li>
+                        <li><a href="https://polygon.technology/" target="_blank" rel="noopener">Polygon</a> Polygon is a
+                           decentralized Ethereum scaling platform that enables devs to build scalable user-friendly dApps.</li>
+                        <li><a href="https://solana.com/" target="_blank" rel="noopener">Solana</a> Solana is a decentralized
+                           blockchain built to enable scalable, user-friendly apps for the world.</li>
+                        <li><a href="https://starkware.co/starknet/" target="_blank" rel="noopener">Starknet</a> StarkNet is a
+                           permissionless decentralized ZK-Rollup. It operates as an L2 network over Ethereum.</li>
+                        <li><a href="https://www.stellar.org/" target="_blank" rel="noopener">Stellar</a> Stellar is an open
+                           network for storing and moving money.</li>
+                        <li><a href="https://tezos.com/" target="_blank" rel="noopener">Tezos</a> Tezos is a decentralized
+                           blockchain that can execute p2p transactions and serve as a platform for deploying smart contracts.
+                        </li>
+                        <li><a href="https://tron.network/" target="_blank" rel="noopener">Tron</a> TRON is a decentralized,
+                           blockchain-based operating system with smart contract functionality and proof-of-stake consensus.</li>
+                        <li><a href="https://xinfin.org/" target="_blank" rel="noopener">XinFin</a> Enterprise Ready Hybrid
+                           Blockchain For Global Trade and Finance.</li>
+                        <li><a href="https://zksync.io/" target="_blank" rel="noopener">ZkSync</a> zkSync is a ZK rollup solving
+                           Ethereum scalability with zero security compromises.</li>
+                     </ul>
+                     <h2 id="👨💻-learning-platforms"><a
+                           href="https://francescoxx.github.io/free-Web3-resources/#/?id=%f0%9f%91%a8%f0%9f%92%bb-learning-platforms"
+                           data-id="👨💻-learning-platforms" class="anchor"><span>👨‍💻 Learning Platforms</span></a></h2>
+                     <p>A list of Blockchain Learning Platforms.</p>
+                     <ul>
+                        <li>
+                           <p><a href="https://learnweb3.io/" target="_blank" rel="noopener">LearnWeb3</a> LearnWeb3 is the best,
+                              fastest growing, and completely free web3 education platform for new and experienced web2
+                              developers.</p>
+                           <h2 id="solana"><a href="https://francescoxx.github.io/free-Web3-resources/#/?id=solana"
+                                 data-id="solana" class="anchor"><span>Solana</span></a></h2>
+                        </li>
+                        <li>
+                           <p><a href="https://dev.to/edge-and-node/the-complete-guide-to-full-stack-solana-development-with-react-anchor-rust-and-phantom-3291"
+                                 target="_blank" rel="noopener">Complete Guide to Full Stack Solana Development by Nader
+                                 Dabit</a></p>
+                        </li>
+                        <li>
+                           <p><a href="https://www.quicknode.com/guides/web3-sdks/how-to-mint-an-nft-on-solana" target="_blank"
+                                 rel="noopener">How to Mint an NFT on Solana</a></p>
+                           <h2 id="👨💻-open-source-projects-you-can-contribute-to"><a
+                                 href="https://francescoxx.github.io/free-Web3-resources/#/?id=%f0%9f%91%a8%f0%9f%92%bb-open-source-projects-you-can-contribute-to"
+                                 data-id="👨💻-open-source-projects-you-can-contribute-to" class="anchor"><span>👨‍💻 Open Source
+                                    Projects you can contribute to</span></a></h2>
+                        </li>
+                        <li>
+                           <p><a href="https://github.com/AElfProject/AElf" target="_blank" rel="noopener">Aelf</a></p>
+                        </li>
+                        <li>
+                           <p><a href="https://github.com/bitcoin/bitcoin" target="_blank" rel="noopener">Bitcoin</a></p>
+                        </li>
+                        <li>
+                           <p><a href="https://github.com/eth-brownie/brownie" target="_blank" rel="noopener">Brownie</a></p>
+                        </li>
+                        <li>
+                           <p><a href="https://github.com/0xs34n/blockchain-cli" target="_blank" rel="noopener">Blockchain
+                                 CLI</a></p>
+                        </li>
+                        <li>
+                           <p><a href="https://github.com/smartcontractkit/chainlink" target="_blank"
+                                 rel="noopener">Chainlink</a></p>
+                        </li>
+                        <li>
+                           <p><a href="https://github.com/Chia-Network/chia-blockchain" target="_blank"
+                                 rel="noopener">chia-blockchain</a></p>
+                        </li>
+                        <li>
+                           <p><a href="https://github.com/accordproject/cicero" target="_blank" rel="noopener">Cicero</a></p>
+                        </li>
+                        <li>
+                           <p><a href="https://github.com/corda/corda" target="_blank" rel="noopener">Corda</a></p>
+                        </li>
+                        <li>
+                           <p><a href="https://github.com/cosmos" target="_blank" rel="noopener">Cosmos</a></p>
+                        </li>
+                        <li>
+                           <p><a href="https://github.com/Eversmile12/create-web3-dapp" target="_blank"
+                                 rel="noopener">create-web3-dapp</a></p>
+                        </li>
+                        <li>
+                           <p><a href="https://github.com/diem/diem" target="_blank" rel="noopener">Diem</a></p>
+                        </li>
+                        <li>
+                           <p><a href="https://github.com/ethereum/EIPs" target="_blank" rel="noopener">EIPs</a></p>
+                        </li>
+                        <li>
+                           <p><a href="https://github.com/embarklabs/embark" target="_blank" rel="noopener">Embark</a></p>
+                        </li>
+                        <li>
+                           <p><a href="https://github.com/EntEthAlliance" target="_blank" rel="noopener">Enterprise Ethereum
+                                 Alliance</a></p>
+                        </li>
+                        <li>
+                           <p><a href="https://github.com/ethers-io/ethers.js" target="_blank" rel="noopener">ethers.js</a></p>
+                        </li>
+                        <li>
+                           <p><a href="https://github.com/hyperledger/fabric" target="_blank" rel="noopener">fabric</a></p>
+                        </li>
+                        <li>
+                           <p><a href="https://github.com/foundry-rs/foundry" target="_blank" rel="noopener">Foundry</a></p>
+                        </li>
+                        <li>
+                           <p><a href="https://github.com/trufflesuite/ganache-ui" target="_blank" rel="noopener">Ganache UI</a>
+                           </p>
+                        </li>
+                        <li>
+                           <p><a href="https://github.com/ethereum/go-ethereum" target="_blank" rel="noopener">go-ethereum</a>
+                           </p>
+                        </li>
+                        <li>
+                           <p><a href="https://github.com/NomicFoundation/hardhat" target="_blank" rel="noopener">Hardhat</a></p>
+                        </li>
+                        <li>
+                           <p><a href="https://github.com/holochain" target="_blank" rel="noopener">Holochain</a></p>
+                        </li>
+                        <li>
+                           <p><a href="https://github.com/hyperledger/" target="_blank" rel="noopener">Hyperledger</a></p>
+                        </li>
+                        <li>
+                           <p><a href="https://github.com/ipfs/ipfs" target="_blank" rel="noopener">ipfs</a></p>
+                        </li>
+                        <li>
+                           <p><a href="https://github.com/lbryio/lbry-desktop" target="_blank" rel="noopener">LBRY</a></p>
+                        </li>
+                        <li>
+                           <p><a href="https://github.com/LiskHQ" target="_blank" rel="noopener">Lisk</a></p>
+                        </li>
+                        <li>
+                           <p><a href="https://github.com/MetaMask" target="_blank" rel="noopener">Metamask</a></p>
+                        </li>
+                        <li>
+                           <p><a href="https://github.com/monero-project/monero" target="_blank" rel="noopener">Monero</a></p>
+                        </li>
+                        <li>
+                           <p><a href="https://github.com/neo-project/neo" target="_blank" rel="noopener">Neo</a></p>
+                        </li>
+                        <li>
+                           <p><a href="https://github.com/openchain" target="_blank" rel="noopener">Openchain</a></p>
+                        </li>
+                        <li>
+                           <p><a href="https://github.com/OpenZeppelin/openzeppelin-contracts" target="_blank"
+                                 rel="noopener">OpenZeppelin</a></p>
+                        </li>
+                        <li>
+                           <p><a href="https://github.com/ConsenSys/quorum" target="_blank" rel="noopener">Quorum</a></p>
+                        </li>
+                        <li>
+                           <p><a href="https://github.com/ethereum/remix-project" target="_blank" rel="noopener">RemixProject</a>
+                           </p>
+                        </li>
+                        <li>
+                           <p><a href="https://github.com/solana-labs/solana" target="_blank" rel="noopener">Solana</a></p>
+                        </li>
+                        <li>
+                           <p><a href="https://github.com/ethereum/solidity" target="_blank" rel="noopener">Solidity</a></p>
+                        </li>
+                        <li>
+                           <p><a href="https://github.com/trufflesuite/truffle" target="_blank" rel="noopener">truffle</a></p>
+                        </li>
+                        <li>
+                           <p><a href="https://github.com/DemocracyEarth/wallet" target="_blank" rel="noopener">Wallet</a></p>
+                        </li>
+                        <li>
+                           <p><a href="https://github.com/web3j/web3j" target="_blank" rel="noopener">Web3j</a></p>
+                        </li>
+                        <li>
+                           <p><a href="https://github.com/skywinder/web3swift" target="_blank" rel="noopener">Web3Swift</a></p>
+                        </li>
+                        <li>
+                           <p><a href="https://github.com/Boilertalk/Web3.swift" target="_blank" rel="noopener">web3.swift</a>
+                           </p>
+                        </li>
+                        <li>
+                           <p><a href="https://github.com/ChainSafe/web3.js" target="_blank" rel="noopener">web3.js</a></p>
+                        </li>
+                        <li>
+                           <p><a href="https://github.com/web3p/web3.php" target="_blank" rel="noopener">web3.php</a></p>
+                        </li>
+                        <li>
+                           <p><a href="https://github.com/ethereum/web3.py" target="_blank" rel="noopener">web3.py</a></p>
+                        </li>
+                        <li>
+                           <p><a href="https://github.com/xuperchain/xuperchain" target="_blank" rel="noopener">XuperChain</a>
+                           </p>
+                        </li>
+                        <!--  <li>
+                     <p><a href="https://github.com/Zilliqa/Zilliqa" target="_blank" rel="noopener">Zilliqa</a></p>
+                  < -->/li>
+                     </ul>
+                     <h2 id="youtube-channels"><a href="https://francescoxx.github.io/free-Web3-resources/#/?id=youtube-channels"
+                           data-id="youtube-channels" class="anchor"><span>Youtube Channels</span></a></h2>
+                     <ul>
+                        <li><a href="https://youtu.be/uGPC9wNTBbw" target="_blank" rel="noopener">Dapp University</a></li>
+                        <li><a href="https://www.youtube.com/c/WhiteboardCrypto" target="_blank" rel="noopener">Whiteboard
+                              Crypto</a></li>
+                        <li><a href="https://youtu.be/TDGq4aeevgY" target="_blank" rel="noopener">Ethereum Foundation</a></li>
+                        <li><a href="https://youtu.be/P87pLayUD8c" target="_blank" rel="noopener">Moralis Web3</a> </li>
+                        <li><a href="https://youtu.be/Lz3m4BI1EfY" target="_blank" rel="noopener">Clever Programmer</a></li>
+                        <li><a href="https://www.youtube.com/channel/UCJWh7F3AFyQ_x01VKzr9eyA" target="_blank"
+                              rel="noopener">Smart Contract Programmer</a></li>
+                        <li><a href="https://www.youtube.com/c/CodeEater21" target="_blank" rel="noopener">Code Eater</a></li>
+                        <li><a href="https://www.youtube.com/c/EatTheBlocks" target="_blank" rel="noopener">EatTheBlocks</a></li>
+                        <li><a href="https://www.youtube.com/c/naderdabit" target="_blank" rel="noopener">Nader Dabit</a></li>
+                        <li><a href="https://www.youtube.com/channel/UC_HI2i2peo1A-STdG22GFsA" target="_blank"
+                              rel="noopener">Austin Griffith</a></li>
+                        <li><a href="https://www.youtube.com/c/BlockExplorerMedia/videos" target="_blank" rel="noopener">Block
+                              Explorer</a></li>
+                     </ul>
+                  </article>
+               </section>
+            </div>
+         </div>
+      </div>
+     
+   </main>
+   <script>
+      window.$docsify = {
+         name: "Web3 Resources",
+         subMaxLevel: 3,
+         search: "auto",
+         search: {
+            maxAge: 86400000,
+            paths: "auto",
+            placeholder: "Search",
+            noData: "No Results found!",
+            depth: 6,
+            hideOtherSidebarContent: false,
+         },
+      };
+   </script>
+   <!-- Docsify v4 -->
+   <script src="./FREE Web3 Resources_files/docsify@4"></script>
+   <script src="./FREE Web3 Resources_files/docsify-edit-on-github"></script>
+   <script src="./FREE Web3 Resources_files/search.min.js.download"></script>
+
+
+   <div class="progress" style="opacity: 0; width: 0%;"></div>
+   <gdiv class="ginger-extension-writer" style="display: none;">
+      <gdiv class="ginger-extension-writer-frame"><iframe src="./FREE Web3 Resources_files/index.html"></iframe></gdiv>
+   </gdiv>
+</body>
+<grammarly-desktop-integration data-grammarly-shadow-root="true"></grammarly-desktop-integration>
+
+</html>
