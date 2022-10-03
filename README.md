@@ -38,13 +38,48 @@ This is a list of Free Web3 Resources links to learn Blockchain development.
 - [How to become a Blockchain Developer in 2022? | 🔥 Complete Roadmap + Salary + Tech Stack](https://www.youtube.com/watch?v=uULy2rc6YDc) by Apna College
 - [How to get started with Web3 Development - Become Blockchain Developer in 2022 Complete Roadmap](https://www.youtube.com/watch?v=XRIpjWGbGmA) by Coding Money
 
+## Blockchains
 
-## Ethereum Development Tools 🛠️
+A list of currently active Blockchains projects. Sorted Alphabetically.
 
-- [Rainbow Dev Kit](https://www.rainbowkit.com/) RainbowKit is a React library that makes it easy to add wallet connection to your dapp. 
-- [scaffoldETH](https://github.com/scaffold-eth/scaffold-eth)  Scaffold-eth is everything you need to get started building decentralized applications on Ethereum!
-- [WAGMI](http://wagmi.sh) wagmi.sh is a collection of React Hooks containing everything you need to start working with Ethereum.
+- [Algorand](https://www.algorand.com/) Algorand is a blockchain cryptocurrency protocol based on proof of stake and a Byzantine agreement that aims to be scalable.
+- [Arbitrum](https://offchainlabs.com/) The ideal scaling solution for many DeFi apps Arbitrum Rollup can scale any Ethereum contract.
+- [Avalanche](https://www.avax.network/) Avalanche is a decentralized, open-source blockchain with smart contract functionality.
+- [Binance Smart Chain](https://www.binance.com/en/support/announcement/854415cf3d214371a7b60cf01ead0918) BNB, is the blockchain gas token that fuels transactions on BNB Chain.
+- [BitCoin](https://bitcoin.org/en/) Bitcoin is an innovative payment network and a new kind of money.
+- [Cardano](https://cardano.org/) Cardano is a public blockchain platform. It is open-source and decentralized, with consensus achieved using proof of stake.
+- [Celo](https://celo.org/) Celo is global payments infrastructure that makes financial tools accessible to anyone with a mobile phone.
+- [Corda](https://www.corda.net/) Build digital financial solutions quickly on the only private, secure, and scalable DLT platform designed for regulated markets.
+- [Cosmos](https://cosmos.network/) Cosmos is an ever-expanding ecosystem of interconnected apps and services, built for a decentralized future.
+- [EOSIO](https://eos.io/) EOSIO is an open-source blockchain platform that helps developers, investors, and businesses build with confidence.
+- [Ethereum](https://ethereum.org/en/) Ethereum is the community-run technology powering the cryptocurrency ether (ETH) and thousands of decentralized applications.
+- [Fantom](https://fantom.foundation/) Fantom is a highly scalable blockchain platform for DeFi, crypto dApps, and enterprise applications.
+- [Harmony](https://www.harmony.one/) is an open and fast layer-1 blockchain. It is compatible with EVM and Solidity. It supports very low transaction fees. Its native crypto is ONE.
+- [Hedera Hashgraph](https://hedera.com/) Hashgraph is a distributed ledger technology that has been described as an alternative to blockchains.
+- [Hyperledger Fabric](https://www.hyperledger.org/use/fabric) Hyperledger Fabric is intended as a foundation for developing apps or solutions with a modular architecture.
+- [IBM Blockchain](https://www.ibm.com/blockchain) Trusted data exchange and workflow automation beyond the boundaries with distributed ledger and blockchain.
+- [Klaytn](https://www.klaytn.com/) Kakao’s global public blockchain project Klaytn is an enterprise-grade, service-centric platform that brings user-friendly blockchain experience to millions.
+- [Lightning Network](https://lightning.network/) Scalable, Instant Bitcoin/Blockchain Transactions.
+- [MultiChain](https://www.multichain.com/) MultiChain helps organizations to build and deploy blockchain applications with speed.
+- [Near](https://near.org/) Through simple, secure, and scalable technology, NEAR empowers millions to invent and explore new experiences.
+- [Oasis](https://oasisprotocol.org/) A privacy-enabled blockchain platform for open finance and a responsible data economy.
+- [Optimism](https://www.optimism.io/) Optimism is a low-cost and lightning-fast Ethereum L2 blockchain.
+- [Oracle Blockchain](https://www.oracle.com/blockchain/) Oracle offers easy ways to adopt blockchain technology including a cloud service, an on-premises edition, and a SaaS application for supply chain.
+- [Polkadot](https://polkadot.network/) Polkadot is an open source, blockchain platform and cryptocurrency that allows for distributed computing.
+- [Polygon](https://polygon.technology/) Polygon is a decentralized Ethereum scaling platform that enables devs to build scalable user-friendly dApps.
+- [Solana](https://solana.com/) Solana is a decentralized blockchain built to enable scalable, user-friendly apps for the world.
+- [Starknet](https://starkware.co/starknet/) StarkNet is a permissionless decentralized ZK-Rollup. It operates as an L2 network over Ethereum.
+- [Stellar](https://www.stellar.org/) Stellar is an open network for storing and moving money.
+- [Tezos](https://tezos.com/) Tezos is a decentralized blockchain that can execute p2p transactions and serve as a platform for deploying smart contracts.
+- [Tron](https://tron.network/) TRON is a decentralized, blockchain-based operating system with smart contract functionality and proof-of-stake consensus.
+- [XinFin](https://xinfin.org/) Enterprise Ready Hybrid Blockchain For Global Trade and Finance.
+- [ZkSync](https://zksync.io/) zkSync is a ZK rollup solving Ethereum scalability with zero security compromises.
 
+## 🎭 Identity
+
+- [MetaMask](https://metamask.io) MetaMask is a software cryptocurrency wallet used to interact with the Ethereum blockchain.
+- [Phantom](https://phantom.app/) Phantom makes it safe & easy for you to store, buy, send, receive, swap tokens and collect NFTs on the Solana blockchain.
+- [WalletConnect](https://walletconnect.com/) WalletConnect is the web3 standard to connect blockchain wallets to dapps.
 
 ## 💡 Ethereum free resources 
 
@@ -59,12 +94,8 @@ This is a list of Free Web3 Resources links to learn Blockchain development.
 - [Ethereum Foundation YT Channel](https://www.youtube.com/channel/UCNOfzGXD_C9YMYmnefmPH0g) Ethereum Foundation YouTube Channel. It currently has 45k Subscribers
 - [Ethereum Wiki](https://eth.wiki/) Ethereum wiki covering all things related to Ethereum.
 - [EthHub](https://docs.ethhub.io) The goal of EthHub is to provide a single source for essential Ethereum information.
-
 - [Solidity Docs](https://docs.soliditylang.org/en/v0.8.13/) Solidity documentation
-
-
 - [Intro to Fullstack Ethereum Development](https://github.com/ChristianChiarulli/intro-fullstack-ethereum#readme) by ChristianChiarulli
-
 
 ## Ethereum Languages
 
@@ -87,7 +118,45 @@ This is a list of Free Web3 Resources links to learn Blockchain development.
 
 #### Tutorials
 - [Learn Vyper by building a pokemon Game](https://learn.vyperlang.org/#/)
-- [Vyper Programming Tutorial for Ethereum Smart Contract Development (Blockchain)](https://www.youtube.com/watch?v=-RHTgegox8I) by Dapp University
+- [Vyper Programming Tutorial for Ethereum Smart Contract Development (Blockchain)](https://www.youtube.com/watch?v=-RHTgegox8I) by Dapp University.
+
+## Youtube Channels 
+ 
+- [Dapp University](https://youtu.be/uGPC9wNTBbw)
+- [Whiteboard Crypto](https://www.youtube.com/c/WhiteboardCrypto)
+- [Ethereum Foundation](https://youtu.be/TDGq4aeevgY)
+- [Moralis Web3](https://youtu.be/P87pLayUD8c) 
+- [Clever Programmer](https://youtu.be/Lz3m4BI1EfY)
+- [Smart Contract Programmer](https://www.youtube.com/channel/UCJWh7F3AFyQ_x01VKzr9eyA)
+- [Code Eater](https://www.youtube.com/c/CodeEater21)
+- [EatTheBlocks](https://www.youtube.com/c/EatTheBlocks)
+- [Nader Dabit](https://www.youtube.com/c/naderdabit)
+- [Austin Griffith](https://www.youtube.com/channel/UC_HI2i2peo1A-STdG22GFsA)
+- [Block Explorer](https://www.youtube.com/c/BlockExplorerMedia/videos)
+
+## 👨‍💻 Learning Platforms
+
+A list of Blockchain Learning Platforms.
+
+- [LearnWeb3](https://learnweb3.io) LearnWeb3 is the best, fastest growing, and completely free web3 education platform for new and experienced web2 developers.
+
+## Ethereum Development IDEs
+
+- [Remix IDE](https://remix.ethereum.org/) Web IDE with built in static analysis, test blockchain VM.
+- [VS Code with Solidity Extensions](https://marketplace.visualstudio.com/items?itemName=JuanBlanco.solidity) Visutal Studio Code Solidity Extension.
+
+## Ethereum Development Environment
+
+- [Brownie](https://eth-brownie.readthedocs.io/en/stable/toctree.html) Brownie is a Python-based development and testing framework for smart contracts targeting the Ethereum Virtual Machine.
+- [Foundry](https://github.com/foundry-rs/foundry) Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
+- [Hardhat](https://hardhat.org/) Ethereum development environment for professionals.
+- [Truffle](https://trufflesuite.com/) A world class development environment, testing framework and asset pipeline for blockchains using the Ethereum Virtual Machine (EVM), aiming to make life as a developer easier.
+
+## Ethereum Development Tools 🛠️
+
+- [Rainbow Dev Kit](https://www.rainbowkit.com/) RainbowKit is a React library that makes it easy to add wallet connection to your dapp. 
+- [scaffoldETH](https://github.com/scaffold-eth/scaffold-eth)  Scaffold-eth is everything you need to get started building decentralized applications on Ethereum!
+- [WAGMI](http://wagmi.sh) wagmi.sh is a collection of React Hooks containing everything you need to start working with Ethereum.
 
 ## 👨‍💼 Ethereum Clients
 
@@ -97,6 +166,55 @@ An Ethereum client is the software that allows Ethereum nodes to read the block 
 - [Erigon](https://github.com/ledgerwatch/erigon) Ethereum implementation on the efficiency frontier
 - [Geth](https://github.com/ethereum/go-ethereum) Official Go implementation of the Ethereum protocol
 - [Nethermind](https://github.com/NethermindEth/nethermind) flagship .NET Core Ethereum client for Linux, Windows, MacOs - full and actively developed.
+
+## Client SDKs
+
+- [Ether.js](https://docs.ethers.io/) The ethers.js library aims to be a complete and compact library for interacting with the Ethereum Blockchain and its ecosystem.
+- [Web3.js](https://web3js.readthedocs.io/) Web3.js is a collection of libraries that allow you to interact with a local or remote ethereum node using HTTP, IPC or WebSocket.
+
+## SDKs
+
+- [Moralis](https://moralis.io/) The Ultimate Web3 Development Platform.
+- [thirdweb](https://thirdweb.com/) Smart contracts you control. Tools that accelerate your workflow. Intuitive SDKs and widgets for developers.
+
+## Node Providers
+
+[Node Providers Twitter Thread](https://twitter.com/FrancescoCiull4/status/1496711754776199168)
+
+- [Alchemy](https://www.alchemy.com/) One magic line of code supercharges your development with the world’s most powerful blockchain developer platform, relied upon by the majority of the world's top blockchain apps.
+- [Chainstack](https://www.chainstack.com/) From startups to large enterprises, thousands of businesses of all sizes use Chainstack’s software and APIs to build, run, and scale blockchain applications.
+- [Infura](https://infura.io/) Suite of high availability APIs and Developer Tools that can provide quick, reliable access to the Ethereum and IPFS networks so you can focus on building and scaling next generation software.
+- [Quicknode](https://www.quicknode.com/) Hosted Blockchain Infrastructure as a Service.
+
+## 📂 File Storage 
+
+Decentralized Storage [thread](https://twitter.com/FrancescoCiull4/status/1483295727078060034)
+
+- [Arweave](https://www.arweave.org/) Arweave enables you to store documents and applications forever.
+- [Filecoin](https://filecoin.io/) Filecoin is an open-source, public cryptocurrency and digital payment system intended to be a blockchain-based cooperative digital storage and data retrieval method.
+- [IPFS](https://ipfs.io/) A peer-to-peer hypermedia protocol designed to preserve and grow humanity's knowledge by making the web upgradeable, resilient, and more open.
+- [Swarm](https://ethersphere.github.io/swarm-home/) Swarm is a distributed storage platform and content distribution service, a native base layer service of the ethereum web3 stack that aims to provide a decentralized and redundant store for dapp code, user data, blockchain and state data. Swarm sets out to provide various base layer services for web3, including node-to-node messaging, media streaming, decentralised database services and scalable state-channel infrastructure for decentralised service economies.
+
+## Indexing
+
+- [The Graph](https://thegraph.com/en/) The Graph is an indexing protocol for querying networks like Ethereum and IPFS.
+
+## DAO Communities 
+
+- [Buildspace](https://buildspace.so/) Onboarding devs to web3. Start building cool stuff right now, earn NFTs, access secret opportunities in crypto.
+- [Cadena](https://cadena.dev/) - Build smart contracts, dapps, on multiple chains with a community and earn a Cadena NFT Certificate.
+- [Developer DAO](https://developerdao.notion.site/Getting-Started-with-Developer-DAO-2bddd332c51a4957b0b83f60f9fa4ebe) Build web3 with friends. New membership is officially open.
+- [LearnWeb3DAO](https://www.learnweb3.io/) Curious about Web3 as a developer? Wonder what are NFTs, DAOs, DeFi, and Smart Contracts? This is the place for you!.
+- [Web3 University](https://www.web3.university/) Teaching Web3 to 20k+ developers worldwide.
+- [WebXDAO](https://bio.link/webxdao) An Open Source Community that focuses on decentralized applications, web 3, and blockchain technologies 🚀
+
+## NFT Marketplaces
+
+- [Axie Infinity](https://marketplace.axieinfinity.com/) Axie Marketplace is the online shop for the video game Axie Infinity.
+- [Decentraland](https://decentraland.org/) Decentraland is completely based on the fantasy (Metaverse), with pretty much the same functionality as the real world.
+- [Looksrare](https://looksrare.org/) LooksRare is a community-first NFT marketplace with rewards for participating.
+- [OpenSea](https://opensea.io/) Opensea is the largest NFT marketplace and the one I used to mint my first NFT.
+- [Rarible](https://rarible.com/) A very large marketplace, partnered with Adobe. To use the marketplace, you need its own token "Rarible"
 
 ## 🌐 Ethereum in different languages 
 
@@ -137,20 +255,6 @@ An Ethereum client is the software that allows Ethereum nodes to read the block 
 ### Vietnamese
 - [Tino Group](https://wiki.tino.org/ethereum-la-gi/) Ethereum info, wallets and FAQ in Vietnamese
 
-## DAO Communities 
-
-- [Buildspace](https://buildspace.so/) Onboarding devs to web3. Start building cool stuff right now, earn NFTs, access secret opportunities in crypto.
-- [Cadena](https://cadena.dev/) - Build smart contracts, dapps, on multiple chains with a community and earn a Cadena NFT Certificate.
-- [Developer DAO](https://developerdao.notion.site/Getting-Started-with-Developer-DAO-2bddd332c51a4957b0b83f60f9fa4ebe) Build web3 with friends. New membership is officially open.
-- [LearnWeb3DAO](https://www.learnweb3.io/) Curious about Web3 as a developer? Wonder what are NFTs, DAOs, DeFi, and Smart Contracts? This is the place for you!.
-- [Web3 University](https://www.web3.university/) Teaching Web3 to 20k+ developers worldwide.
-- [WebXDAO](https://bio.link/webxdao) An Open Source Community that focuses on decentralized applications, web 3, and blockchain technologies 🚀
-
-## SDKs
-
-- [Moralis](https://moralis.io/) The Ultimate Web3 Development Platform.
-- [thirdweb](https://thirdweb.com/) Smart contracts you control. Tools that accelerate your workflow. Intuitive SDKs and widgets for developers.
-
 ## Oracles
 
 [What is a Blockchain Oracle? Twitter thread](https://twitter.com/FrancescoCiull4/status/1481895919121534979)
@@ -162,103 +266,6 @@ An Ethereum client is the software that allows Ethereum nodes to read the block 
 
 - [Ceramic Network](https://ceramic.network/) Ceramic is a decentralized data network that brings unlimited data composability to Web3 applications.
 - [Gun](https://gun.eco/) The decentralized distributed graph database engine. GunDB is the Open Source Firebase alternative, a web3 data protocol.
-
-## NFT Marketplaces
-
-- [Axie Infinity](https://marketplace.axieinfinity.com/) Axie Marketplace is the online shop for the video game Axie Infinity.
-- [Decentraland](https://decentraland.org/) Decentraland is completely based on the fantasy (Metaverse), with pretty much the same functionality as the real world.
-- [Looksrare](https://looksrare.org/) LooksRare is a community-first NFT marketplace with rewards for participating.
-- [OpenSea](https://opensea.io/) Opensea is the largest NFT marketplace and the one I used to mint my first NFT.
-- [Rarible](https://rarible.com/) A very large marketplace, partnered with Adobe. To use the marketplace, you need its own token "Rarible"
-
-## Node Providers
-
-[Node Providers Twitter Thread](https://twitter.com/FrancescoCiull4/status/1496711754776199168)
-
-- [Alchemy](https://www.alchemy.com/) One magic line of code supercharges your development with the world’s most powerful blockchain developer platform, relied upon by the majority of the world's top blockchain apps.
-- [Chainstack](https://www.chainstack.com/) From startups to large enterprises, thousands of businesses of all sizes use Chainstack’s software and APIs to build, run, and scale blockchain applications.
-- [Infura](https://infura.io/) Suite of high availability APIs and Developer Tools that can provide quick, reliable access to the Ethereum and IPFS networks so you can focus on building and scaling next generation software.
-- [Quicknode](https://www.quicknode.com/) Hosted Blockchain Infrastructure as a Service.
-
-## 📂 File Storage 
-
-Decentralized Storage [thread](https://twitter.com/FrancescoCiull4/status/1483295727078060034)
-
-- [Arweave](https://www.arweave.org/) Arweave enables you to store documents and applications forever.
-- [Filecoin](https://filecoin.io/) Filecoin is an open-source, public cryptocurrency and digital payment system intended to be a blockchain-based cooperative digital storage and data retrieval method.
-- [IPFS](https://ipfs.io/) A peer-to-peer hypermedia protocol designed to preserve and grow humanity's knowledge by making the web upgradeable, resilient, and more open.
-- [Swarm](https://ethersphere.github.io/swarm-home/) Swarm is a distributed storage platform and content distribution service, a native base layer service of the ethereum web3 stack that aims to provide a decentralized and redundant store for dapp code, user data, blockchain and state data. Swarm sets out to provide various base layer services for web3, including node-to-node messaging, media streaming, decentralised database services and scalable state-channel infrastructure for decentralised service economies.
-
-## Ethereum Development Environment
-
-- [Brownie](https://eth-brownie.readthedocs.io/en/stable/toctree.html) Brownie is a Python-based development and testing framework for smart contracts targeting the Ethereum Virtual Machine.
-- [Foundry](https://github.com/foundry-rs/foundry) Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
-- [Hardhat](https://hardhat.org/) Ethereum development environment for professionals.
-- [Truffle](https://trufflesuite.com/) A world class development environment, testing framework and asset pipeline for blockchains using the Ethereum Virtual Machine (EVM), aiming to make life as a developer easier.
-
-## Ethereum Development IDEs
-
-- [Remix IDE](https://remix.ethereum.org/) Web IDE with built in static analysis, test blockchain VM.
-- [VS Code with Solidity Extensions](https://marketplace.visualstudio.com/items?itemName=JuanBlanco.solidity) Visutal Studio Code Solidity Extension.
-
-## 🎭 Identity
-
-- [MetaMask](https://metamask.io) MetaMask is a software cryptocurrency wallet used to interact with the Ethereum blockchain.
-- [Phantom](https://phantom.app/) Phantom makes it safe & easy for you to store, buy, send, receive, swap tokens and collect NFTs on the Solana blockchain.
-- [WalletConnect](https://walletconnect.com/) WalletConnect is the web3 standard to connect blockchain wallets to dapps.
-
-## Indexing
-
-- [The Graph](https://thegraph.com/en/) The Graph is an indexing protocol for querying networks like Ethereum and IPFS.
-
-## Client SDKs
-
-- [Ether.js](https://docs.ethers.io/) The ethers.js library aims to be a complete and compact library for interacting with the Ethereum Blockchain and its ecosystem.
-- [Web3.js](https://web3js.readthedocs.io/) Web3.js is a collection of libraries that allow you to interact with a local or remote ethereum node using HTTP, IPC or WebSocket.
-
-## Blockchains
-
-A list of currently active Blockchains projects. Sorted Alphabetically.
-
-- [Algorand](https://www.algorand.com/) Algorand is a blockchain cryptocurrency protocol based on proof of stake and a Byzantine agreement that aims to be scalable.
-- [Arbitrum](https://offchainlabs.com/) The ideal scaling solution for many DeFi apps Arbitrum Rollup can scale any Ethereum contract.
-- [Avalanche](https://www.avax.network/) Avalanche is a decentralized, open-source blockchain with smart contract functionality.
-- [Binance Smart Chain](https://www.binance.com/en/support/announcement/854415cf3d214371a7b60cf01ead0918) BNB, is the blockchain gas token that fuels transactions on BNB Chain.
-- [BitCoin](https://bitcoin.org/en/) Bitcoin is an innovative payment network and a new kind of money.
-- [Cardano](https://cardano.org/) Cardano is a public blockchain platform. It is open-source and decentralized, with consensus achieved using proof of stake.
-- [Celo](https://celo.org/) Celo is global payments infrastructure that makes financial tools accessible to anyone with a mobile phone.
-- [Corda](https://www.corda.net/) Build digital financial solutions quickly on the only private, secure, and scalable DLT platform designed for regulated markets.
-- [Cosmos](https://cosmos.network/) Cosmos is an ever-expanding ecosystem of interconnected apps and services, built for a decentralized future.
-- [EOSIO](https://eos.io/) EOSIO is an open-source blockchain platform that helps developers, investors, and businesses build with confidence.
-- [Ethereum](https://ethereum.org/en/) Ethereum is the community-run technology powering the cryptocurrency ether (ETH) and thousands of decentralized applications.
-- [Fantom](https://fantom.foundation/) Fantom is a highly scalable blockchain platform for DeFi, crypto dApps, and enterprise applications.
-- [Harmony](https://www.harmony.one/) is an open and fast layer-1 blockchain. It is compatible with EVM and Solidity. It supports very low transaction fees. Its native crypto is ONE.
-- [Hedera Hashgraph](https://hedera.com/) Hashgraph is a distributed ledger technology that has been described as an alternative to blockchains.
-- [Hyperledger Fabric](https://www.hyperledger.org/use/fabric) Hyperledger Fabric is intended as a foundation for developing apps or solutions with a modular architecture.
-- [IBM Blockchain](https://www.ibm.com/blockchain) Trusted data exchange and workflow automation beyond the boundaries with distributed ledger and blockchain.
-- [Klaytn](https://www.klaytn.com/) Kakao’s global public blockchain project Klaytn is an enterprise-grade, service-centric platform that brings user-friendly blockchain experience to millions.
-- [Lightning Network](https://lightning.network/) Scalable, Instant Bitcoin/Blockchain Transactions.
-- [MultiChain](https://www.multichain.com/) MultiChain helps organizations to build and deploy blockchain applications with speed.
-- [Near](https://near.org/) Through simple, secure, and scalable technology, NEAR empowers millions to invent and explore new experiences.
-- [Oasis](https://oasisprotocol.org/) A privacy-enabled blockchain platform for open finance and a responsible data economy.
-- [Optimism](https://www.optimism.io/) Optimism is a low-cost and lightning-fast Ethereum L2 blockchain.
-- [Oracle Blockchain](https://www.oracle.com/blockchain/) Oracle offers easy ways to adopt blockchain technology including a cloud service, an on-premises edition, and a SaaS application for supply chain.
-- [Polkadot](https://polkadot.network/) Polkadot is an open source, blockchain platform and cryptocurrency that allows for distributed computing.
-- [Polygon](https://polygon.technology/) Polygon is a decentralized Ethereum scaling platform that enables devs to build scalable user-friendly dApps.
-- [Solana](https://solana.com/) Solana is a decentralized blockchain built to enable scalable, user-friendly apps for the world.
-- [Starknet](https://starkware.co/starknet/) StarkNet is a permissionless decentralized ZK-Rollup. It operates as an L2 network over Ethereum.
-- [Stellar](https://www.stellar.org/) Stellar is an open network for storing and moving money.
-- [Tezos](https://tezos.com/) Tezos is a decentralized blockchain that can execute p2p transactions and serve as a platform for deploying smart contracts.
-- [Tron](https://tron.network/) TRON is a decentralized, blockchain-based operating system with smart contract functionality and proof-of-stake consensus.
-- [XinFin](https://xinfin.org/) Enterprise Ready Hybrid Blockchain For Global Trade and Finance.
-- [ZkSync](https://zksync.io/) zkSync is a ZK rollup solving Ethereum scalability with zero security compromises.
-
-## 👨‍💻 Learning Platforms
-
-A list of Blockchain Learning Platforms.
-
-- [LearnWeb3](https://learnweb3.io) LearnWeb3 is the best, fastest growing, and completely free web3 education platform for new and experienced web2 developers.
- 
  
 ## Solana
 
@@ -311,17 +318,3 @@ A list of Blockchain Learning Platforms.
 - [web3.py](https://github.com/ethereum/web3.py)
 - [XuperChain](https://github.com/xuperchain/xuperchain)
 - [Zilliqa](https://github.com/Zilliqa/Zilliqa)
-
-## Youtube Channels 
- 
-- [Dapp University](https://youtu.be/uGPC9wNTBbw)
-- [Whiteboard Crypto](https://www.youtube.com/c/WhiteboardCrypto)
-- [Ethereum Foundation](https://youtu.be/TDGq4aeevgY)
-- [Moralis Web3](https://youtu.be/P87pLayUD8c) 
-- [Clever Programmer](https://youtu.be/Lz3m4BI1EfY)
-- [Smart Contract Programmer](https://www.youtube.com/channel/UCJWh7F3AFyQ_x01VKzr9eyA)
-- [Code Eater](https://www.youtube.com/c/CodeEater21)
-- [EatTheBlocks](https://www.youtube.com/c/EatTheBlocks)
-- [Nader Dabit](https://www.youtube.com/c/naderdabit)
-- [Austin Griffith](https://www.youtube.com/channel/UC_HI2i2peo1A-STdG22GFsA)
-- [Block Explorer](https://www.youtube.com/c/BlockExplorerMedia/videos)
