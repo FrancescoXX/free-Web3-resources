@@ -316,6 +316,9 @@ A list of Blockchain Learning Platforms.
 - [XuperChain](https://github.com/xuperchain/xuperchain)
 - [Zilliqa](https://github.com/Zilliqa/Zilliqa)
 
+##In-person presentation sessions
+
+
 ## Youtube Channels 
  
 - [Dapp University](https://youtu.be/uGPC9wNTBbw)
