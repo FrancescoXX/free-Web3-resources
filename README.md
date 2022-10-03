@@ -34,11 +34,11 @@ This is a list of Free Web3 Resources links to learn Blockchain development.
 ## Web3 Roadmaps (Video)
 
 - [Become a Web 3 & Blockchain Developer in 2022 | Practical Step by Step Solidity and Web3 Roadmap](https://www.youtube.com/watch?v=aVQJGr2J8io) by Javascript Mastery
+- [A simple guide to the web3 developer stack](https://www.coinbase.com/blog/a-simple-guide-to-the-web3-developer-stack) by Coinbase
 - [How to Become a Blockchain Developer? Complete web3 Developer Roadmap](https://www.youtube.com/watch?v=q54j35z3fPQ) by Ishan Sharma
 - [Complete Blockchain Development Roadmap 2022 🔥| Project Ideas | Solidity | Web3js | Truffle](https://www.youtube.com/watch?v=36ubP5Ydh-A) by Nishant Chahar
 - [How to become a Blockchain Developer in 2022? | 🔥 Complete Roadmap + Salary + Tech Stack](https://www.youtube.com/watch?v=uULy2rc6YDc) by Apna College
 - [How to get started with Web3 Development - Become Blockchain Developer in 2022 Complete Roadmap](https://www.youtube.com/watch?v=XRIpjWGbGmA) by Coding Money
-
 
 ## Ethereum Development Tools 🛠️
 
@@ -76,6 +76,7 @@ This is a list of Free Web3 Resources links to learn Blockchain development.
 
 - [Solidity Cheatsheet](https://intellipaat.com/mediaFiles/2019/03/Solidity-Cheat-Sheet.jpg) A comprehensive Solidity Cheatsheet.
 - [Solidity Cheatsheet by Manojpramesh](https://github.com/manojpramesh/solidity-cheatsheet) Cheat sheet and best practices for solidity. Write smart contracts for Ethereum.
+- [Solidity Cheatsheet](https://github.com/patrickd-/cheatsheet.sol) A working .sol file for easy access and recall with Solidity.
 - [CryptoZombies Course](https://cryptozombies.io/en/course/) Learn how to create and work on smart contracts in an interactive and fun way.
 
 #### Tutorials
@@ -260,7 +261,8 @@ A list of currently active Blockchains projects. Sorted Alphabetically.
 A list of Blockchain Learning Platforms.
 
 - [LearnWeb3](https://learnweb3.io) LearnWeb3 is the best, fastest growing, and completely free web3 education platform for new and experienced web2 developers.
- 
+- [Bankless Academy](https://app.banklessacademy.com/) The Bankless Academy is on a mission to introduce 1 billion people to the exciting possibilities of cryptocurrency, DeFi, and beyond.
+- [Crypto Zombies](https://cryptozombies.io/) CryptoZombies is an interactive school that teaches you all things technical about blockchains. Learn to write smart contracts by making your own crypto-collectibles game.
  
 ## Solana
 
@@ -327,3 +329,5 @@ A list of Blockchain Learning Platforms.
 - [Nader Dabit](https://www.youtube.com/c/naderdabit)
 - [Austin Griffith](https://www.youtube.com/channel/UC_HI2i2peo1A-STdG22GFsA)
 - [Block Explorer](https://www.youtube.com/c/BlockExplorerMedia/videos)
+
+
