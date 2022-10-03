@@ -79,6 +79,7 @@ This is a list of Free Web3 Resources links to learn Blockchain development.
 - [Solidity Cheatsheet by Manojpramesh](https://github.com/manojpramesh/solidity-cheatsheet) Cheat sheet and best practices for solidity. Write smart contracts for Ethereum.
 - [Solidity Cheatsheet](https://github.com/patrickd-/cheatsheet.sol) A working .sol file for easy access and recall with Solidity.
 - [CryptoZombies Course](https://cryptozombies.io/en/course/) Learn how to create and work on smart contracts in an interactive and fun way.
+- [Solidity Course](https://metaschool.so/course/10-days-of-solidity) 10 Days of solidity for Beginners
 - [Ethernauts](https://ethernaut.openzeppelin.com/) Learn solidity by hacking the smart contracts.
 - [Capture The Ether](https://capturetheether.com/) Capture the Ether is a game in which you hack Ethereum smart contracts to learn about security.
 
