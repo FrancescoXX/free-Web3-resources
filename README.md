@@ -27,15 +27,22 @@ This is a list of Free Web3 Resources links to learn Blockchain development.
 - [The Complete Roadmap and Resources to Become a Web3 Developer in 2022](https://betterprogramming.pub/has-anyone-seen-web3-a-complete-roadmap-free-resources-to-become-web3-developer-4e5dc9332c1f) by Nagaraj Pandith
 - [Web 3.0: A Developer Roadmap, Guide, and Resources to Get Started](https://blog.idrisolubisi.com/web-3-a-developer-roadmap-and-resources-to-get-started) by Olubisi Idris Ayinde
 - [Your Roadmap To Becoming A Web 3.0 Developer](https://blog.oliverjumpertz.dev/your-roadmap-to-becoming-a-web-30-developer) by Oliver Jumpertz
+- [Blockchain Developer Roadmap (Step by Step)](https://roadmap.sh/blockchain) by Kamran Ahmed
 - [Complete Web3 Developer Roadmap - 2022](https://remote3.co/blog-post/complete-web3-developer-roadmap-2022) by Remote3
+- [Blockchain Roadmap!](https://roadmap.sh/blockchain)
 
 ## Web3 Roadmaps (Video)
 
 - [Become a Web 3 & Blockchain Developer in 2022 | Practical Step by Step Solidity and Web3 Roadmap](https://www.youtube.com/watch?v=aVQJGr2J8io) by Javascript Mastery
+- [A simple guide to the web3 developer stack](https://www.coinbase.com/blog/a-simple-guide-to-the-web3-developer-stack) by Coinbase
 - [How to Become a Blockchain Developer? Complete web3 Developer Roadmap](https://www.youtube.com/watch?v=q54j35z3fPQ) by Ishan Sharma
 - [Complete Blockchain Development Roadmap 2022 🔥| Project Ideas | Solidity | Web3js | Truffle](https://www.youtube.com/watch?v=36ubP5Ydh-A) by Nishant Chahar
 - [How to become a Blockchain Developer in 2022? | 🔥 Complete Roadmap + Salary + Tech Stack](https://www.youtube.com/watch?v=uULy2rc6YDc) by Apna College
 - [How to get started with Web3 Development - Become Blockchain Developer in 2022 Complete Roadmap](https://www.youtube.com/watch?v=XRIpjWGbGmA) by Coding Money
+
+## Web3 Roadmaps (Hindi/ Urdu)
+
+- [Complete Blockchain Development Roadmap 🔥 What is Blockchain and how to get started? Salary & Course](https://youtu.be/n_5oeZWbseY)
 
 ## Ethereum Development Tools 🛠️
 
@@ -70,6 +77,7 @@ This is a list of Free Web3 Resources links to learn Blockchain development.
 
 - [Solidity Cheatsheet](https://intellipaat.com/mediaFiles/2019/03/Solidity-Cheat-Sheet.jpg) A comprehensive Solidity Cheatsheet.
 - [Solidity Cheatsheet by Manojpramesh](https://github.com/manojpramesh/solidity-cheatsheet) Cheat sheet and best practices for solidity. Write smart contracts for Ethereum.
+- [Solidity Cheatsheet](https://github.com/patrickd-/cheatsheet.sol) A working .sol file for easy access and recall with Solidity.
 - [CryptoZombies Course](https://cryptozombies.io/en/course/) Learn how to create and work on smart contracts in an interactive and fun way.
 - [Ethernauts](https://ethernaut.openzeppelin.com/) Learn solidity by hacking the smart contracts.
 - [Capture The Ether](https://capturetheether.com/) Capture the Ether is a game in which you hack Ethereum smart contracts to learn about security.
@@ -77,6 +85,15 @@ This is a list of Free Web3 Resources links to learn Blockchain development.
 #### Tutorials
 
 - [Learn Blockchain, Solidity, and Full Stack JavaScript Development](https://www.freecodecamp.org/news/learn-blockchain-solidity-full-stack-javascript-development/) This course will give you a full introduction into all of the core concepts related to blockchain, smart contracts, Solidity, full-stack Web3 dapps, decentralized finance (DeFi), Chainlink, and more.
+- [Learn Solidity: The COMPLETE Beginner’s Guide](https://www.youtube.com/watch?v=EhPeHeoKF88) A video tutorial to learn Solidity language and to make smart contract.
+
+## Vyper
+- [Vyper Cheatsheet by Manojpramesh](https://github.com/manojpramesh/vyper-cheatsheet) A comprehensive vyper cheatsheet
+- [Awesome Vyper by Spade Builders](https://github.com/spadebuilders/awesome-vyper)
+
+#### Tutorials
+- [Learn Vyper by building a pokemon Game](https://learn.vyperlang.org/#/)
+- [Vyper Programming Tutorial for Ethereum Smart Contract Development (Blockchain)](https://www.youtube.com/watch?v=-RHTgegox8I) by Dapp University
 
 ## 👨‍💼 Ethereum Clients
 
@@ -248,6 +265,9 @@ A list of currently active Blockchains projects. Sorted Alphabetically.
 A list of Blockchain Learning Platforms.
 
 - [LearnWeb3](https://learnweb3.io) LearnWeb3 is the best, fastest growing, and completely free web3 education platform for new and experienced web2 developers.
+- [Bankless Academy](https://app.banklessacademy.com/) The Bankless Academy is on a mission to introduce 1 billion people to the exciting possibilities of cryptocurrency, DeFi, and beyond.
+- [Crypto Zombies](https://cryptozombies.io/) CryptoZombies is an interactive school that teaches you all things technical about blockchains. Learn to write smart contracts by making your own crypto-collectibles game.
+ 
 
 ## Solana
 
@@ -301,8 +321,10 @@ A list of Blockchain Learning Platforms.
 - [XuperChain](https://github.com/xuperchain/xuperchain)
 - [Zilliqa](https://github.com/Zilliqa/Zilliqa)
 
-## Youtube Channels
+##In-person presentation sessions
 
+
+## Youtube Channels 
 - [Dapp University](https://youtu.be/uGPC9wNTBbw)
 - [Whiteboard Crypto](https://www.youtube.com/c/WhiteboardCrypto)
 - [Ethereum Foundation](https://youtu.be/TDGq4aeevgY)
@@ -314,3 +336,5 @@ A list of Blockchain Learning Platforms.
 - [Nader Dabit](https://www.youtube.com/c/naderdabit)
 - [Austin Griffith](https://www.youtube.com/channel/UC_HI2i2peo1A-STdG22GFsA)
 - [Block Explorer](https://www.youtube.com/c/BlockExplorerMedia/videos)
+
+
