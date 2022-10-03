@@ -331,12 +331,11 @@ A list of Blockchain Learning Platforms.
 - [Whiteboard Crypto](https://www.youtube.com/c/WhiteboardCrypto)
 - [Ethereum Foundation](https://youtu.be/TDGq4aeevgY)
 - [Moralis Web3](https://youtu.be/P87pLayUD8c)
-- [Clever Programmer](https://youtu.be/Lz3m4BI1EfY)
 - [Smart Contract Programmer](https://www.youtube.com/channel/UCJWh7F3AFyQ_x01VKzr9eyA)
 - [Code Eater](https://www.youtube.com/c/CodeEater21)
 - [EatTheBlocks](https://www.youtube.com/c/EatTheBlocks)
 - [Nader Dabit](https://www.youtube.com/c/naderdabit)
 - [Austin Griffith](https://www.youtube.com/channel/UC_HI2i2peo1A-STdG22GFsA)
 - [Block Explorer](https://www.youtube.com/c/BlockExplorerMedia/videos)
-
+- [Simply Explained](https://www.youtube.com/c/Savjee/community)
 
