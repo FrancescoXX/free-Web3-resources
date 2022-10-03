@@ -1,8 +1,8 @@
-# Free Web3 Resources
+# Free Web3 Resources 🚀
 
 This is a list of Free Web3 Resources links to learn Blockchain development.
 
-## Start here
+## Start here 👇
 🏁 Join the Community: [free web3 project on 4C](https://discord.com/invite/cRjhjFRRre)
 
 📝 All Francescos' Twitter posts [here](https://github.com/FrancescoXX/free-Web3-resources/blob/main/twitter-posts.md)
@@ -17,7 +17,8 @@ This is a list of Free Web3 Resources links to learn Blockchain development.
 - [Ethereum Whitepaper](https://ethereum.org/en/whitepaper/) Introductory paper published in 2014 by Vitalik Buterin, Ethereum's founder, before the launch in 2015.
 - [Ethereum Yellowpaper](https://ethereum.github.io/yellowpaper/paper.pdf) The "Yellow Paper": Ethereum's formal specification
 
-## Web3 Roadmaps
+
+## Web3 Roadmaps (Article / Blog)
 
 - [Complete Web3.0 And Solidity Development Roadmap 2022](https://vitto.cc/web3-and-solidity-smart-contracts-development-roadmap/) by [Vittorio Rivabella](https://vitto.cc/)
 - [How To Get Into Crypto? 2022 Roadmap For A Web3 Developer](https://medium.com/theweb3stack/how-to-get-into-crypto-a-roadmap-for-a-web3-developer-4a5806f61869) by Darrius Singleton
@@ -28,15 +29,25 @@ This is a list of Free Web3 Resources links to learn Blockchain development.
 - [Web 3.0: A Developer Roadmap, Guide, and Resources to Get Started](https://blog.idrisolubisi.com/web-3-a-developer-roadmap-and-resources-to-get-started) by Olubisi Idris Ayinde
 - [Your Roadmap To Becoming A Web 3.0 Developer](https://blog.oliverjumpertz.dev/your-roadmap-to-becoming-a-web-30-developer) by Oliver Jumpertz
 - [Blockchain Developer Roadmap (Step by Step)](https://roadmap.sh/blockchain) by Kamran Ahmed
+- [Complete Web3 Developer Roadmap - 2022](https://remote3.co/blog-post/complete-web3-developer-roadmap-2022) by Remote3
 
-## Ethereum Development Tools
+## Web3 Roadmaps (Video)
+
+- [Become a Web 3 & Blockchain Developer in 2022 | Practical Step by Step Solidity and Web3 Roadmap](https://www.youtube.com/watch?v=aVQJGr2J8io) by Javascript Mastery
+- [How to Become a Blockchain Developer? Complete web3 Developer Roadmap](https://www.youtube.com/watch?v=q54j35z3fPQ) by Ishan Sharma
+- [Complete Blockchain Development Roadmap 2022 🔥| Project Ideas | Solidity | Web3js | Truffle](https://www.youtube.com/watch?v=36ubP5Ydh-A) by Nishant Chahar
+- [How to become a Blockchain Developer in 2022? | 🔥 Complete Roadmap + Salary + Tech Stack](https://www.youtube.com/watch?v=uULy2rc6YDc) by Apna College
+- [How to get started with Web3 Development - Become Blockchain Developer in 2022 Complete Roadmap](https://www.youtube.com/watch?v=XRIpjWGbGmA) by Coding Money
+
+
+## Ethereum Development Tools 🛠️
 
 - [Rainbow Dev Kit](https://www.rainbowkit.com/) RainbowKit is a React library that makes it easy to add wallet connection to your dapp. 
 - [scaffoldETH](https://github.com/scaffold-eth/scaffold-eth)  Scaffold-eth is everything you need to get started building decentralized applications on Ethereum!
 - [WAGMI](http://wagmi.sh) wagmi.sh is a collection of React Hooks containing everything you need to start working with Ethereum.
 
 
-## Ethereum free resources
+## 💡 Ethereum free resources 
 
 - [Awesome Ethereum by bekatom](https://github.com/bekatom/awesome-ethereum) Awesome Ethereum Resources
 - [Awesome Ethereum Security](https://github.com/crytic/awesome-ethereum-security) A curated list of awesome Ethereum security references
@@ -65,13 +76,22 @@ This is a list of Free Web3 Resources links to learn Blockchain development.
 
 - [Solidity Cheatsheet](https://intellipaat.com/mediaFiles/2019/03/Solidity-Cheat-Sheet.jpg) A comprehensive Solidity Cheatsheet.
 - [Solidity Cheatsheet by Manojpramesh](https://github.com/manojpramesh/solidity-cheatsheet) Cheat sheet and best practices for solidity. Write smart contracts for Ethereum.
+- [CryptoZombies Course](https://cryptozombies.io/en/course/) Learn how to create and work on smart contracts in an interactive and fun way.
 
 #### Tutorials
 
 - [Learn Blockchain, Solidity, and Full Stack JavaScript Development](https://www.freecodecamp.org/news/learn-blockchain-solidity-full-stack-javascript-development/) This course will give you a full introduction into all of the core concepts related to blockchain, smart contracts, Solidity, full-stack Web3 dapps, decentralized finance (DeFi), Chainlink, and more.
 - [Learn Solidity: The COMPLETE Beginner’s Guide](https://www.youtube.com/watch?v=EhPeHeoKF88) A video tutorial to learn Solidity language and to make smart contract.
 
-## Ethereum Clients
+## Vyper
+- [Vyper Cheatsheet by Manojpramesh](https://github.com/manojpramesh/vyper-cheatsheet) A comprehensive vyper cheatsheet
+- [Awesome Vyper by Spade Builders](https://github.com/spadebuilders/awesome-vyper)
+
+#### Tutorials
+- [Learn Vyper by building a pokemon Game](https://learn.vyperlang.org/#/)
+- [Vyper Programming Tutorial for Ethereum Smart Contract Development (Blockchain)](https://www.youtube.com/watch?v=-RHTgegox8I) by Dapp University
+
+## 👨‍💼 Ethereum Clients
 
 An Ethereum client is the software that allows Ethereum nodes to read the block on the Ethereum network. [(more...)](https://twitter.com/FrancescoCiull4/status/1484415980293996544)
 
@@ -80,7 +100,7 @@ An Ethereum client is the software that allows Ethereum nodes to read the block 
 - [Geth](https://github.com/ethereum/go-ethereum) Official Go implementation of the Ethereum protocol
 - [Nethermind](https://github.com/NethermindEth/nethermind) flagship .NET Core Ethereum client for Linux, Windows, MacOs - full and actively developed.
 
-## Ethereum in different languages
+## 🌐 Ethereum in different languages 
 
 - [ethereum.org in different languages](https://ethereum.org/en/languages) Ethereum docs in 43 languages
 
@@ -100,6 +120,10 @@ An Ethereum client is the software that allows Ethereum nodes to read the block 
 
 - [Learn Solidity](https://docs.microsoft.com/de-de/learn/modules/blockchain-learning-solidity/) Microsoft website to learn Solidity in German
 
+### Hindi
+
+- [Ethereum Hindi](https://ethereum.org/hi/eth/) Main website for Ethereum Content, Communities and Events in Hindi
+
 ### Italian
 
 - [Ethereum Italy](https://t.co/oyX6mujXek) Main website for Ethereum Content, Communities and Events in Italian.
@@ -115,7 +139,7 @@ An Ethereum client is the software that allows Ethereum nodes to read the block 
 ### Vietnamese
 - [Tino Group](https://wiki.tino.org/ethereum-la-gi/) Ethereum info, wallets and FAQ in Vietnamese
 
-## DAO Communities
+## DAO Communities 
 
 - [Buildspace](https://buildspace.so/) Onboarding devs to web3. Start building cool stuff right now, earn NFTs, access secret opportunities in crypto.
 - [Cadena](https://cadena.dev/) - Build smart contracts, dapps, on multiple chains with a community and earn a Cadena NFT Certificate.
@@ -158,7 +182,7 @@ An Ethereum client is the software that allows Ethereum nodes to read the block 
 - [Infura](https://infura.io/) Suite of high availability APIs and Developer Tools that can provide quick, reliable access to the Ethereum and IPFS networks so you can focus on building and scaling next generation software.
 - [Quicknode](https://www.quicknode.com/) Hosted Blockchain Infrastructure as a Service.
 
-## File Storage
+## 📂 File Storage 
 
 Decentralized Storage [thread](https://twitter.com/FrancescoCiull4/status/1483295727078060034)
 
@@ -179,7 +203,7 @@ Decentralized Storage [thread](https://twitter.com/FrancescoCiull4/status/148329
 - [Remix IDE](https://remix.ethereum.org/) Web IDE with built in static analysis, test blockchain VM.
 - [VS Code with Solidity Extensions](https://marketplace.visualstudio.com/items?itemName=JuanBlanco.solidity) Visutal Studio Code Solidity Extension.
 
-## Identity
+## 🎭 Identity
 
 - [MetaMask](https://metamask.io) MetaMask is a software cryptocurrency wallet used to interact with the Ethereum blockchain.
 - [Phantom](https://phantom.app/) Phantom makes it safe & easy for you to store, buy, send, receive, swap tokens and collect NFTs on the Solana blockchain.
@@ -231,7 +255,7 @@ A list of currently active Blockchains projects. Sorted Alphabetically.
 - [XinFin](https://xinfin.org/) Enterprise Ready Hybrid Blockchain For Global Trade and Finance.
 - [ZkSync](https://zksync.io/) zkSync is a ZK rollup solving Ethereum scalability with zero security compromises.
 
-## Learning Platforms
+## 👨‍💻 Learning Platforms
 
 A list of Blockchain Learning Platforms.
 
@@ -242,6 +266,53 @@ A list of Blockchain Learning Platforms.
 
  - [Complete Guide to Full Stack Solana Development by Nader Dabit](https://dev.to/edge-and-node/the-complete-guide-to-full-stack-solana-development-with-react-anchor-rust-and-phantom-3291)
  - [How to Mint an NFT on Solana](https://www.quicknode.com/guides/web3-sdks/how-to-mint-an-nft-on-solana )
+ 
+ ## 👨‍💻 Open Source Projects you can contribute to 
+
+- [Aelf](https://github.com/AElfProject/AElf)
+- [Bitcoin](https://github.com/bitcoin/bitcoin)
+- [Brownie](https://github.com/eth-brownie/brownie)
+- [Blockchain CLI](https://github.com/0xs34n/blockchain-cli)
+- [Chainlink](https://github.com/smartcontractkit/chainlink)
+- [chia-blockchain](https://github.com/Chia-Network/chia-blockchain)
+- [Cicero](https://github.com/accordproject/cicero)
+- [Corda](https://github.com/corda/corda)
+- [Cosmos](https://github.com/cosmos)
+- [create-web3-dapp](https://github.com/Eversmile12/create-web3-dapp)
+- [Diem](https://github.com/diem/diem)
+- [EIPs](https://github.com/ethereum/EIPs)
+- [Embark](https://github.com/embarklabs/embark)
+- [Enterprise Ethereum Alliance](https://github.com/EntEthAlliance)
+- [ethers.js](https://github.com/ethers-io/ethers.js)
+- [fabric](https://github.com/hyperledger/fabric)
+- [Foundry](https://github.com/foundry-rs/foundry)
+- [Ganache UI](https://github.com/trufflesuite/ganache-ui)
+- [go-ethereum](https://github.com/ethereum/go-ethereum)
+- [Hardhat](https://github.com/NomicFoundation/hardhat)
+- [Holochain](https://github.com/holochain)
+- [Hyperledger](https://github.com/hyperledger/)
+- [ipfs](https://github.com/ipfs/ipfs)
+- [LBRY](https://github.com/lbryio/lbry-desktop)
+- [Lisk](https://github.com/LiskHQ)
+- [Metamask](https://github.com/MetaMask)
+- [Monero](https://github.com/monero-project/monero)
+- [Neo](https://github.com/neo-project/neo)
+- [Openchain](https://github.com/openchain)
+- [OpenZeppelin](https://github.com/OpenZeppelin/openzeppelin-contracts)
+- [Quorum](https://github.com/ConsenSys/quorum)
+- [RemixProject](https://github.com/ethereum/remix-project)
+- [Solana](https://github.com/solana-labs/solana)
+- [Solidity](https://github.com/ethereum/solidity)
+- [truffle](https://github.com/trufflesuite/truffle)
+- [Wallet](https://github.com/DemocracyEarth/wallet)
+- [Web3j](https://github.com/web3j/web3j)
+- [Web3Swift](https://github.com/skywinder/web3swift)
+- [web3.swift](https://github.com/Boilertalk/Web3.swift)
+- [web3.js](https://github.com/ChainSafe/web3.js)
+- [web3.php](https://github.com/web3p/web3.php)
+- [web3.py](https://github.com/ethereum/web3.py)
+- [XuperChain](https://github.com/xuperchain/xuperchain)
+- [Zilliqa](https://github.com/Zilliqa/Zilliqa)
 
 ## Youtube Channels 
  
@@ -251,3 +322,8 @@ A list of Blockchain Learning Platforms.
 - [Moralis Web3](https://youtu.be/P87pLayUD8c) 
 - [Clever Programmer](https://youtu.be/Lz3m4BI1EfY)
 - [Smart Contract Programmer](https://www.youtube.com/channel/UCJWh7F3AFyQ_x01VKzr9eyA)
+- [Code Eater](https://www.youtube.com/c/CodeEater21)
+- [EatTheBlocks](https://www.youtube.com/c/EatTheBlocks)
+- [Nader Dabit](https://www.youtube.com/c/naderdabit)
+- [Austin Griffith](https://www.youtube.com/channel/UC_HI2i2peo1A-STdG22GFsA)
+- [Block Explorer](https://www.youtube.com/c/BlockExplorerMedia/videos)
