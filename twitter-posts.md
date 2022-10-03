@@ -293,8 +293,8 @@ You can find Francesco [here](http://francescociulla.com)
 | 27-9-2022     |Web3 good tutorials links|https://twitter.com/FrancescoCiull4/status/1574899682651906067|
 | 28-9-2022     |Running a local node pro and cons thread|https://twitter.com/FrancescoCiull4/status/1575036217443246080|
 | 29-9-2022     |Ethereum Virtuial Machine|https://twitter.com/FrancescoCiull4/status/1575165099374804994|
-| 30-9-2022     ||
-| 1-10-2022     ||
+| 30-9-2022     |Hacktoberfest web3 resources|https://twitter.com/FrancescoCiull4/status/1575944598488129536|
+| 1-10-2022     |Hacktoberfest livestream|https://twitter.com/FrancescoCiull4/status/1575845316779442178|
 | 2-10-2022     ||
 | 3-10-2022     ||
 | 4-10-2022     ||
