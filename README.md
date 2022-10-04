@@ -347,4 +347,4 @@ A list of Blockchain Learning Platforms.
 - [Austin Griffith](https://www.youtube.com/channel/UC_HI2i2peo1A-STdG22GFsA)
 - [Block Explorer](https://www.youtube.com/c/BlockExplorerMedia/videos)
 - [Simply Explained](https://www.youtube.com/c/Savjee/community)
-
+- [Clever Programmer](https://www.youtube.com/c/CleverProgrammer)
