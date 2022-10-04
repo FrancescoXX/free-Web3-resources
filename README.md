@@ -249,6 +249,7 @@ A list of currently active Blockchains projects. Sorted Alphabetically.
 - [EOSIO](https://eos.io/) EOSIO is an open-source blockchain platform that helps developers, investors, and businesses build with confidence.
 - [Ethereum](https://ethereum.org/en/) Ethereum is the community-run technology powering the cryptocurrency ether (ETH) and thousands of decentralized applications.
 - [Fantom](https://fantom.foundation/) Fantom is a highly scalable blockchain platform for DeFi, crypto dApps, and enterprise applications.
+- [Flow](https://flow.com/) ‍Flow is a fast, decentralized, and developer-friendly blockchain, designed as the foundation for a new generation of games, apps, and the digital assets that power them.
 - [Harmony](https://www.harmony.one/) is an open and fast layer-1 blockchain. It is compatible with EVM and Solidity. It supports very low transaction fees. Its native crypto is ONE.
 - [Hedera Hashgraph](https://hedera.com/) Hashgraph is a distributed ledger technology that has been described as an alternative to blockchains.
 - [Hyperledger Fabric](https://www.hyperledger.org/use/fabric) Hyperledger Fabric is intended as a foundation for developing apps or solutions with a modular architecture.
