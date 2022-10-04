@@ -31,6 +31,9 @@ This is a list of Free Web3 Resources links to learn Blockchain development.
 - [Complete Web3 Developer Roadmap - 2022](https://remote3.co/blog-post/complete-web3-developer-roadmap-2022) by Remote3
 - [Web3 Roadmap for beginners, Resources to master Blockchain!](https://www.commclassroom.org/blockchain-roadmap) by [commclassroom](https://www.commclassroom.org/)
 - [Blockchain Roadmap!](https://roadmap.sh/blockchain)
+- [Web3 Beyond the Hype by Mckinsey](https://www.mckinsey.com/industries/financial-services/our-insights/web3-beyond-the-hype)
+- [Introduction to Web3 and its importance by Ethereum.org](https://ethereum.org/en/web3/)
+- 
 
 ## Web3 Roadmaps (Video)
 
