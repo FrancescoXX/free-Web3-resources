@@ -33,7 +33,7 @@ This is a list of Free Web3 Resources links to learn Blockchain development.
 - [Blockchain Roadmap!](https://roadmap.sh/blockchain)
 - [Web3 Beyond the Hype by Mckinsey](https://www.mckinsey.com/industries/financial-services/our-insights/web3-beyond-the-hype)
 - [Introduction to Web3 and its importance by Ethereum.org](https://ethereum.org/en/web3/)
-- 
+
 
 ## Web3 Roadmaps (Video)
 
@@ -335,7 +335,7 @@ A list of Blockchain Learning Platforms.
 - [XuperChain](https://github.com/xuperchain/xuperchain)
 - [Zilliqa](https://github.com/Zilliqa/Zilliqa)
 
-##In-person presentation sessions
+## In-person presentation sessions
 
 
 ## Youtube Channels 
