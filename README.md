@@ -348,3 +348,4 @@ A list of Blockchain Learning Platforms.
 - [Block Explorer](https://www.youtube.com/c/BlockExplorerMedia/videos)
 - [Simply Explained](https://www.youtube.com/c/Savjee/community)
 - [Clever Programmer](https://www.youtube.com/c/CleverProgrammer)
+- [Patrick Collins](https://www.youtube.com/c/PatrickCollins)
