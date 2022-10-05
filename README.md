@@ -168,6 +168,7 @@ A list of currently active Blockchains projects. Sorted Alphabetically.
 - [Simply Explained](https://www.youtube.com/c/Savjee/community)
 - [Clever Programmer](https://www.youtube.com/c/CleverProgrammer)
 - [Patrick Collins](https://www.youtube.com/c/PatrickCollins)
+- [Alchemy](https://www.youtube.com/c/AlchemyPlatform)
 
 
 ## 👨‍💻 Learning Platforms
