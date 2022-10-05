@@ -408,8 +408,7 @@ What is a Blockchain Oracle? Twitter [thread](https://twitter.com/FrancescoCiull
 - [XuperChain](https://github.com/xuperchain/xuperchain)
 - [Zilliqa](https://github.com/Zilliqa/Zilliqa)
 
-
-##In-person presentation sessions
+## In-person presentation sessions
 
 
 ## Youtube Channels 
