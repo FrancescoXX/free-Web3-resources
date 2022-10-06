@@ -295,9 +295,9 @@ You can find Francesco [here](http://francescociulla.com)
 | 29-9-2022     |Ethereum Virtuial Machine|https://twitter.com/FrancescoCiull4/status/1575165099374804994|
 | 30-9-2022     |Hacktoberfest web3 resources|https://twitter.com/FrancescoCiull4/status/1575944598488129536|
 | 1-10-2022     |Hacktoberfest livestream|https://twitter.com/FrancescoCiull4/status/1575845316779442178|
-| 2-10-2022     ||
-| 3-10-2022     ||
-| 4-10-2022     ||
+| 2-10-2022     |What is EVM?|https://twitter.com/FrancescoCiull4/status/1576544628081594369|
+| 3-10-2022     |Ethereum Whitepaper|https://twitter.com/FrancescoCiull4/status/1576823826096484352|
+| 4-10-2022     |Merged 20 Prs for HAcktoberfest|https://twitter.com/FrancescoCiull4/status/1577041137805955072|
 | 5-10-2022     ||
 | 6-10-2022     ||
 | 7-10-2022     ||
