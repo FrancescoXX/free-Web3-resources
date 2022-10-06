@@ -38,17 +38,11 @@ This is a list of Free Web3 Resources links to learn Blockchain development.
 
 - [Become a Web 3 & Blockchain Developer in 2022 | Practical Step by Step Solidity and Web3 Roadmap](https://www.youtube.com/watch?v=aVQJGr2J8io) by Javascript Mastery
 - [A simple guide to the web3 developer stack](https://www.coinbase.com/blog/a-simple-guide-to-the-web3-developer-stack) by Coinbase
-- [How to Become a Blockchain Developer? Complete web3 Developer Roadmap](https://www.youtube.com/watch?v=q54j35z3fPQ) by Ishan Sharma
+- [How to Become a Blockchain Developer? Complete web3 Developer Roadmap](https://www.youtube.com/watch?v=q54j35z3fPQ) by [Harpalsinh Jadeja](https://twitter.com/HarpalJadeja11) on Ishan Sharma's Youtube Channel
 - [Complete Blockchain Development Roadmap 2022 🔥| Project Ideas | Solidity | Web3js | Truffle](https://www.youtube.com/watch?v=36ubP5Ydh-A) by Nishant Chahar
 - [How to become a Blockchain Developer in 2022? | 🔥 Complete Roadmap + Salary + Tech Stack](https://www.youtube.com/watch?v=uULy2rc6YDc) by Apna College
 - [How to get started with Web3 Development - Become Blockchain Developer in 2022 Complete Roadmap](https://www.youtube.com/watch?v=XRIpjWGbGmA) by Coding Money
 
-## Web3 Roadmaps (Hindi/ Urdu)
-
-- [Complete Blockchain Development Roadmap 🔥 What is Blockchain and how to get started? Salary & Course](https://youtu.be/n_5oeZWbseY)
-
-## Blogs
-- [Hashnode Web3 Blog](https://web3.hashnode.com/) by [Hashnode](https://hashnode.com).
 
 ## Web3 Roadmaps (Hindi/ Urdu)
 
@@ -57,6 +51,7 @@ This is a list of Free Web3 Resources links to learn Blockchain development.
 
 ## Blogs
 - [Hashnode Web3 Blog](https://web3.hashnode.com/) by [Hashnode](https://hashnode.com).
+- [Celo Developer Blog](https://medium.com/celodevelopers)
 
 
 ## Blockchains
@@ -199,6 +194,7 @@ A list of Blockchain Learning Platforms.
 - [Rainbow Dev Kit](https://www.rainbowkit.com/) RainbowKit is a React library that makes it easy to add wallet connection to your dapp. 
 - [scaffoldETH](https://github.com/scaffold-eth/scaffold-eth)  Scaffold-eth is everything you need to get started building decentralized applications on Ethereum!
 - [WAGMI](http://wagmi.sh) wagmi.sh is a collection of React Hooks containing everything you need to start working with Ethereum.
+- [celo-composer](https://github.com/celo-org/celo-composer) Celo Composer allows you to quickly build, deploy, and iterate on decentralized applications using Celo. It provides a number of frameworks, examples, and Celo specific functionality to help you get started with your next dApp.
 
 
 ## 👨‍💼 Ethereum Clients
@@ -367,6 +363,7 @@ What is a Blockchain Oracle? Twitter [thread](https://twitter.com/FrancescoCiull
 - [Bitcoin](https://github.com/bitcoin/bitcoin)
 - [Brownie](https://github.com/eth-brownie/brownie)
 - [Blockchain CLI](https://github.com/0xs34n/blockchain-cli)
+- [celo-composer](https://github.com/celo-org/celo-composer)
 - [Chainlink](https://github.com/smartcontractkit/chainlink)
 - [chia-blockchain](https://github.com/Chia-Network/chia-blockchain)
 - [Cicero](https://github.com/accordproject/cicero)
