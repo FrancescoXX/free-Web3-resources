@@ -56,7 +56,7 @@ This is a list of Free Web3 Resources links to learn Blockchain development.
 ## Blogs
 
 - [Hashnode Web3 Blog](https://web3.hashnode.com/) by [Hashnode](https://hashnode.com).
-
+- [What is happening in Blockchain?](https://innovationatwork.ieee.org/whats-happening-in-blockchain/) by [Faizan]
 ## Blockchains
 
 A list of currently active Blockchains projects. Sorted Alphabetically.
