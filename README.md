@@ -106,10 +106,6 @@ A list of currently active Blockchains projects. Sorted Alphabetically.
 - [Phantom](https://phantom.app/) Phantom makes it safe & easy for you to store, buy, send, receive, swap tokens and collect NFTs on the Solana blockchain.
 - [WalletConnect](https://walletconnect.com/) WalletConnect is the web3 standard to connect blockchain wallets to dapps.
 
-- [Rainbow Dev Kit](https://www.rainbowkit.com/) RainbowKit is a React library that makes it easy to add wallet connection to your dapp.
-- [scaffoldETH](https://github.com/scaffold-eth/scaffold-eth) Scaffold-eth is everything you need to get started building decentralized applications on Ethereum!
-- [WAGMI](http://wagmi.sh) wagmi.sh is a collection of React Hooks containing everything you need to start working with Ethereum.
-
 
 ## 💡 Ethereum free resources
 
@@ -411,21 +407,3 @@ What is a Blockchain Oracle? Twitter [thread](https://twitter.com/FrancescoCiull
 - [web3.py](https://github.com/ethereum/web3.py)
 - [XuperChain](https://github.com/xuperchain/xuperchain)
 - [Zilliqa](https://github.com/Zilliqa/Zilliqa)
-
-## In-person presentation sessions
-
-
-## Youtube Channels 
-- [Dapp University](https://youtu.be/uGPC9wNTBbw)
-- [Whiteboard Crypto](https://www.youtube.com/c/WhiteboardCrypto)
-- [Ethereum Foundation](https://youtu.be/TDGq4aeevgY)
-- [Moralis Web3](https://youtu.be/P87pLayUD8c)
-- [Smart Contract Programmer](https://www.youtube.com/channel/UCJWh7F3AFyQ_x01VKzr9eyA)
-- [Code Eater](https://www.youtube.com/c/CodeEater21)
-- [EatTheBlocks](https://www.youtube.com/c/EatTheBlocks)
-- [Nader Dabit](https://www.youtube.com/c/naderdabit)
-- [Austin Griffith](https://www.youtube.com/channel/UC_HI2i2peo1A-STdG22GFsA)
-- [Block Explorer](https://www.youtube.com/c/BlockExplorerMedia/videos)
-- [Simply Explained](https://www.youtube.com/c/Savjee/community)
-- [Clever Programmer](https://www.youtube.com/c/CleverProgrammer)
-- [Patrick Collins](https://www.youtube.com/c/PatrickCollins)
