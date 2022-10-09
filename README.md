@@ -172,7 +172,7 @@ A list of Blockchain Learning Platforms.
 - [LearnWeb3](https://learnweb3.io) LearnWeb3 is the best, fastest growing, and completely free web3 education platform for new and experienced web2 developers.
 - [Bankless Academy](https://app.banklessacademy.com/) The Bankless Academy is on a mission to introduce 1 billion people to the exciting possibilities of cryptocurrency, DeFi, and beyond.
 - [Crypto Zombies](https://cryptozombies.io/) CryptoZombies is an interactive school that teaches you all things technical about blockchains. Learn to write smart contracts by making your own crypto-collectibles game.
-- [Alchemy's Road To Web3](https://docs.alchemy.com/docs/welcome-to-the-road-to-web3) Road-to-Web3 is a 10-week, self-paced web3 developer program by Alchemy to help new blockchain devs go from beginner to advanced.
+- [Alchemy University](https://docs.alchemy.com/docs/welcome-to-the-road-to-web3) Alchemy University is a 20-week bootcamp with interactive coding challenges, video lessons, projects and expert instructors to teach you to build smart contracts, master solidity and become a web3 developer. Includes Coding Basics [Apply for early access], Web3 dev bootcamp [Apply for early access] & [Road to Web3](https://docs.alchemy.com/docs/welcome-to-the-road-to-web3) [Available now!]
 - [BlockTrain](https://www.blocktrain.info/course) Long videos with all the information you need to get started in the world of web3 and blockchain for free.
 
 ## Ethereum Development IDEs
