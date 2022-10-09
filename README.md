@@ -8,6 +8,8 @@ This is a list of Free Web3 Resources links to learn Blockchain development.
 
 📝 All Francesco's Twitter posts [here](https://github.com/FrancescoXX/free-Web3-resources/blob/main/twitter-posts.md)
 
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/FrancescoXX/free-Web3-resources/issues)
+
 ![WEB3 FREE RESOURCES](https://user-images.githubusercontent.com/18360871/162364470-56cc28da-d50c-426f-82a4-7ea06234d4bf.png)
 
 ## Getting Involved
