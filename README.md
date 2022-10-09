@@ -44,6 +44,7 @@ This is a list of Free Web3 Resources links to learn Blockchain development.
 - [How to get started with Web3 Development - Become Blockchain Developer in 2022 Complete Roadmap](https://www.youtube.com/watch?v=XRIpjWGbGmA) by Coding Money
 
 ## Web3 Roadmaps (Hindi/ Urdu)
+
 - [Complete Blockchain Development Roadmap 🔥 What is Blockchain and how to get started? Salary & Course](https://youtu.be/n_5oeZWbseY)
 
 ## Blogs
