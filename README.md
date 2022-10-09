@@ -180,6 +180,7 @@ A list of Blockchain Learning Platforms.
 - [scaffoldETH](https://github.com/scaffold-eth/scaffold-eth) Scaffold-eth is everything you need to get started building decentralized applications on Ethereum!
 - [WAGMI](http://wagmi.sh) wagmi.sh is a collection of React Hooks containing everything you need to start working with Ethereum.
 - [create-eth-app](https://github.com/PaulRBerg/create-eth-app) Create Ethereum-powered apps with one command. Comes with a wide offering of UI frameworks and Defi templates to choose from.
+- [hardhat-starter-kit](https://github.com/smartcontractkit/hardhat-starter-kit) A repo for boilerplate code for testing, deploying, and shipping chainlink solidity code.
 
 ## 👨‍💼 Ethereum Clients
 
