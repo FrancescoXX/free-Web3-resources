@@ -30,9 +30,9 @@ This is a list of Free Web3 Resources links to learn Blockchain development.
 - [Blockchain Developer Roadmap (Step by Step)](https://roadmap.sh/blockchain) by Kamran Ahmed
 - [Complete Web3 Developer Roadmap - 2022](https://remote3.co/blog-post/complete-web3-developer-roadmap-2022) by Remote3
 - [Web3 Roadmap for beginners, Resources to master Blockchain!](https://www.commclassroom.org/blockchain-roadmap) by [commclassroom](https://www.commclassroom.org/)
-- [Blockchain Roadmap!](https://roadmap.sh/blockchain)
-- [Web3 Beyond the Hype by Mckinsey](https://www.mckinsey.com/industries/financial-services/our-insights/web3-beyond-the-hype)
-- [Introduction to Web3 and its importance by Ethereum. org](https://ethereum.org/en/web3/)
+- [Blockchain Roadmap!](https://roadmap.sh/blockchain) by [Kamran Ahmed](https://twitter.com/kamranahmedse)
+- [Web3 Beyond the Hype by Mckinsey](https://www.mckinsey.com/industries/financial-services/our-insights/web3-beyond-the-hype) by [Anutosh Banerjee](https://www.mckinsey.com/our-people/anutosh-banerjee)
+- [Introduction to Web3 and its importance](https://ethereum.org/en/web3/) by [Ethereum.org](https://ethereum.org/en)
 
 ## Web3 Roadmaps (Video)
 
@@ -43,15 +43,15 @@ This is a list of Free Web3 Resources links to learn Blockchain development.
 - [How to become a Blockchain Developer in 2022? | 🔥 Complete Roadmap + Salary + Tech Stack](https://www.youtube.com/watch?v=uULy2rc6YDc) by Apna College
 - [How to get started with Web3 Development - Become Blockchain Developer in 2022 Complete Roadmap](https://www.youtube.com/watch?v=XRIpjWGbGmA) by Coding Money
 - [Your Roadmap to becoming a Frontend + Web 3.0 Developer in 2022 | 3-Day React JS + Web 3.0 Challenge](https://www.youtube.com/watch?v=Lz3m4BI1EfY) by Clever Programmer
-- [Complete Blockchain Development Roadmap 🔥 What is Blockchain and how to get started? Salary & Course](https://youtu.be/n_5oeZWbseY)
-- [Blockchain roadmap by Apna College](https://www.youtube.com/watch?v=uULy2rc6YDc)
-- [Blockchain roadmap 2022](https://www.youtube.com/watch?v=36ubP5Ydh-A)
+- [Complete Blockchain Development Roadmap 🔥 What is Blockchain and how to get started? Salary & Course](https://youtu.be/n_5oeZWbseY) by [Anuj Bhaiya](https://www.youtube.com/c/AnujBhaiya)
+- [Blockchain roadmap](https://www.youtube.com/watch?v=uULy2rc6YDc) by [Apna College](https://www.youtube.com/c/ApnaCollegeOfficial)
+- [Blockchain roadmap 2022](https://www.youtube.com/watch?v=36ubP5Ydh-A) by [Nishant Chahar](https://www.youtube.com/c/NishantChahar11)
 
 ## Web3 Roadmaps (Hindi/ Urdu)
 
-- [Complete Blockchain Development Roadmap 🔥 What is Blockchain and how to get started? Salary & Course](https://youtu.be/n_5oeZWbseY)
-- [Blockchain roadmap by Apna College](https://www.youtube.com/watch?v=uULy2rc6YDc)
-- [Blockchain roadmap 2022](https://www.youtube.com/watch?v=36ubP5Ydh-A)
+- [Complete Blockchain Development Roadmap 🔥 What is Blockchain and how to get started? Salary & Course](https://youtu.be/n_5oeZWbseY) by [Anuj Bhaiya](https://www.youtube.com/c/AnujBhaiya)
+- [Blockchain roadmap](https://www.youtube.com/watch?v=uULy2rc6YDc) by [Apna College](https://www.youtube.com/c/ApnaCollegeOfficial)
+- [Blockchain roadmap 2022](https://www.youtube.com/watch?v=36ubP5Ydh-A) by [Nishant Chahar](https://www.youtube.com/c/NishantChahar11)
 
 ## Blogs
 
