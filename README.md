@@ -1,4 +1,4 @@
-# Free Web3 Resources 🚀
+# <a href="https://www.github.com/FrancescoXX/free-Web3-resources" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> Free Web3 Resources 🚀
 
 This is a list of Free Web3 Resources links to learn Blockchain development.
 
