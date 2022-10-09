@@ -43,14 +43,9 @@ This is a list of Free Web3 Resources links to learn Blockchain development.
 - [How to become a Blockchain Developer in 2022? | 🔥 Complete Roadmap + Salary + Tech Stack](https://www.youtube.com/watch?v=uULy2rc6YDc) by Apna College
 - [How to get started with Web3 Development - Become Blockchain Developer in 2022 Complete Roadmap](https://www.youtube.com/watch?v=XRIpjWGbGmA) by Coding Money
 - [Your Roadmap to becoming a Frontend + Web 3.0 Developer in 2022 | 3-Day React JS + Web 3.0 Challenge](https://www.youtube.com/watch?v=Lz3m4BI1EfY) by Clever Programmer
-
-## Web3 Roadmaps (Hindi/ Urdu)
-
 - [Complete Blockchain Development Roadmap 🔥 What is Blockchain and how to get started? Salary & Course](https://youtu.be/n_5oeZWbseY)
-
-## Blogs
-
-- [Hashnode Web3 Blog](https://web3.hashnode.com/) by [Hashnode](https://hashnode.com).
+- [Blockchain roadmap by Apna College](https://www.youtube.com/watch?v=uULy2rc6YDc)
+- [Blockchain roadmap 2022](https://www.youtube.com/watch?v=36ubP5Ydh-A)
 
 ## Web3 Roadmaps (Hindi/ Urdu)
 
@@ -106,7 +101,7 @@ A list of currently active Blockchains projects. Sorted Alphabetically.
 - [Phantom](https://phantom.app/) Phantom makes it safe & easy for you to store, buy, send, receive, swap tokens and collect NFTs on the Solana blockchain.
 - [WalletConnect](https://walletconnect.com/) WalletConnect is the web3 standard to connect blockchain wallets to dapps.
 
-## 💡 Ethereum free resources
+## 💡 Ethereum 
 
 - [Awesome Ethereum by bekatom](https://github.com/bekatom/awesome-ethereum) Awesome Ethereum Resources
 - [Awesome Ethereum Security](https://github.com/crytic/awesome-ethereum-security) A curated list of awesome Ethereum security references
@@ -121,13 +116,8 @@ A list of currently active Blockchains projects. Sorted Alphabetically.
 - [EthHub](https://docs.ethhub.io) The goal of EthHub is to provide a single source for essential Ethereum information.
 - [Solidity Docs](https://docs.soliditylang.org/en/v0.8.13/) Solidity documentation
 - [Intro to Fullstack Ethereum Development](https://github.com/ChristianChiarulli/intro-fullstack-ethereum#readme) by ChristianChiarulli
-
-## Ethereum Languages
-
 - [Solidity](https://docs.soliditylang.org/en/v0.8.13/) Solidity is an object-oriented, high-level language for implementing smart contracts.
 - [Vyper](https://vyper.readthedocs.io/en/stable/) Vyper is a contract-oriented, pythonic programming language that targets the Ethereum Virtual Machine (EVM).
-
-## Solidity
 
 - [Solidity Cheatsheet](https://intellipaat.com/mediaFiles/2019/03/Solidity-Cheat-Sheet.jpg) A comprehensive Solidity Cheatsheet.
 - [Solidity Cheatsheet by Manojpramesh](https://github.com/manojpramesh/solidity-cheatsheet) Cheat sheet and best practices for solidity. Write smart contracts for Ethereum.
@@ -136,19 +126,11 @@ A list of currently active Blockchains projects. Sorted Alphabetically.
 - [Solidity Course](https://metaschool.so/course/10-days-of-solidity) 10 Days of solidity for Beginners
 - [Ethernauts](https://ethernaut.openzeppelin.com/) Learn solidity by hacking smart contracts.
 - [Capture The Ether](https://capturetheether.com/) Capture the Ether is a game in which you hack Ethereum smart contracts to learn about security.
-
-#### Tutorials
-
-- [Learn Blockchain, Solidity, and Full Stack JavaScript Development](https://www.freecodecamp.org/news/learn-blockchain-solidity-full-stack-javascript-development/) This course will give you a full introduction to all of the core concepts related to blockchain, smart contracts, Solidity, full-stack Web3 dapps, decentralized finance (Defi), Chainlink, and more.
-- [Learn Solidity: The COMPLETE Beginner’s Guide](https://www.youtube.com/watch?v=EhPeHeoKF88) A video tutorial to learn Solidity language and to make a smart contract.
-
-## Vyper
+- [Learn Blockchain, Solidity, and Full Stack JavaScript Development](https://www.freecodecamp.org/news/learn-blockchain-solidity-full-stack-javascript-development/) This course will give you a full introduction into all of the core concepts related to blockchain, smart contracts, Solidity, full-stack Web3 dapps, decentralized finance (DeFi), Chainlink, and more.
+- [Learn Solidity: The COMPLETE Beginner’s Guide](https://www.youtube.com/watch?v=EhPeHeoKF88) A video tutorial to learn Solidity language and to make smart contract.
 
 - [Vyper Cheatsheet by Manojpramesh](https://github.com/manojpramesh/vyper-cheatsheet) A comprehensive vyper cheatsheet
 - [Awesome Vyper by Spade Builders](https://github.com/spadebuilders/awesome-vyper)
-
-#### Tutorials
-
 - [Learn Vyper by building a pokemon Game](https://learn.vyperlang.org/#/)
 - [Vyper Programming Tutorial for Ethereum Smart Contract Development (Blockchain)](https://www.youtube.com/watch?v=-RHTgegox8I) by Dapp University
 
@@ -177,7 +159,7 @@ A list of Blockchain Learning Platforms.
 - [LearnWeb3](https://learnweb3.io) LearnWeb3 is the best, fastest-growing, and completely free web3 education platform for new and experienced web2 developers.
 - [Bankless Academy](https://app.banklessacademy.com/) The Bankless Academy is on a mission to introduce 1 billion people to the exciting possibilities of cryptocurrency, Defi, and beyond.
 - [Crypto Zombies](https://cryptozombies.io/) CryptoZombies is an interactive school that teaches you all things technical about blockchains. Learn to write smart contracts by making your own crypto-collectibles game.
-- [Alchemy's Road To Web3](https://docs.alchemy.com/docs/welcome-to-the-road-to-web3) Road-to-Web3 is a 10-week, self-paced web3 developer program by Alchemy to help new blockchain devs go from beginner to advanced.
+- [Alchemy University](https://docs.alchemy.com/docs/welcome-to-the-road-to-web3) Alchemy University is a 20-week bootcamp with interactive coding challenges, video lessons, projects and expert instructors to teach you to build smart contracts, master solidity and become a web3 developer. Includes Coding Basics [Apply for early access], Web3 dev bootcamp [Apply for early access] & [Road to Web3](https://docs.alchemy.com/docs/welcome-to-the-road-to-web3) [Available now!]
 - [BlockTrain](https://www.blocktrain.info/course) Long videos with all the information you need to get started in the world of web3 and blockchain for free.
 
 ## Ethereum Development IDEs
