@@ -47,13 +47,6 @@ This is a list of Free Web3 Resources links to learn Blockchain development.
 ## Web3 Roadmaps (Hindi/ Urdu)
 
 - [Complete Blockchain Development Roadmap 🔥 What is Blockchain and how to get started? Salary & Course](https://youtu.be/n_5oeZWbseY)
-
-## Blogs
-- [Hashnode Web3 Blog](https://web3.hashnode.com/) by [Hashnode](https://hashnode.com).
-
-## Web3 Roadmaps (Hindi/ Urdu)
-
-- [Complete Blockchain Development Roadmap 🔥 What is Blockchain and how to get started? Salary & Course](https://youtu.be/n_5oeZWbseY)
 - [Blockchain roadmap by Apna College](https://www.youtube.com/watch?v=uULy2rc6YDc)
 - [Blockchain roadmap 2022](https://www.youtube.com/watch?v=36ubP5Ydh-A)
 
