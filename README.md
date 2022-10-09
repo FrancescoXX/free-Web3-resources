@@ -332,26 +332,26 @@ What is a Blockchain Oracle? Twitter [thread](https://twitter.com/FrancescoCiull
 - [go-ethereum](https://github.com/ethereum/go-ethereum)  It is a Official Go Implementation of the Ethereum protocol.
 - [Hardhat](https://github.com/NomicFoundation/hardhat) Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software. Get Solidity stack traces & console.log.
 - [Holochain](https://github.com/holochain)  Scalable framework for P2P distributed apps. 
-- [Hyperledger](https://github.com/hyperledger/)
-- [ipfs](https://github.com/ipfs/ipfs)
-- [LBRY](https://github.com/lbryio/lbry-desktop)
-- [Lisk](https://github.com/LiskHQ)
-- [Metamask](https://github.com/MetaMask)
-- [Monero](https://github.com/monero-project/monero)
-- [Neo](https://github.com/neo-project/neo)
-- [Openchain](https://github.com/openchain)
-- [OpenZeppelin](https://github.com/OpenZeppelin/openzeppelin-contracts)
-- [Quorum](https://github.com/ConsenSys/quorum)
-- [RemixProject](https://github.com/ethereum/remix-project)
-- [Solana](https://github.com/solana-labs/solana)
-- [Solidity](https://github.com/ethereum/solidity)
-- [truffle](https://github.com/trufflesuite/truffle)
-- [Wallet](https://github.com/DemocracyEarth/wallet)
-- [Web3j](https://github.com/web3j/web3j)
-- [Web3Swift](https://github.com/skywinder/web3swift)
-- [web3.swift](https://github.com/Boilertalk/Web3.swift)
-- [web3.js](https://github.com/ChainSafe/web3.js)
-- [web3.php](https://github.com/web3p/web3.php)
-- [web3.py](https://github.com/ethereum/web3.py)
-- [XuperChain](https://github.com/xuperchain/xuperchain)
-- [Zilliqa](https://github.com/Zilliqa/Zilliqa)
+- [Hyperledger](https://github.com/hyperledger/) Hyperledger Foundation is an open source community focused on developing a suite of stable frameworks, tools and libraries for enterprise-grade blockchain deployments.
+- [ipfs](https://github.com/ipfs/ipfs) A peer-to-peer hypermedia protocol designed to preserve and grow humanity's knowledge by making the web         upgradeable, resilient, and more open
+- [LBRY](https://github.com/lbryio/lbry-desktop) This repo contains the UI code that powers the official LBRY desktop app. The LBRY app is a graphical browser for the decentralized content marketplace provided by the LBRY protocol. It is essentially the lbry daemon bundled with a UI using Electron.
+- [Lisk](https://github.com/LiskHQ) Lisk is a blockchain application platform. We make blockchain accessible by creating a world in which everyone benefits from this technology.
+- [Metamask](https://github.com/MetaMask) MetaMask is a global community of developers and designers dedicated to making the world a better place with blockchain technology.
+- [Monero](https://github.com/monero-project/monero) The Monero Research Lab is an open forum where the community coordinates research into Monero cryptography, protocols, fungibility, analysis, and more.
+- [Neo](https://github.com/neo-project/neo) Neo is an open-source community driven blockchain platform.
+- [Openchain](https://github.com/openchain) Enterprise-ready Blockchain technology.
+- [OpenZeppelin](https://github.com/OpenZeppelin/openzeppelin-contracts) OpenZeppelin provides security products to build, automate, and operate decentralized applications.
+- [Quorum](https://github.com/ConsenSys/quorum) GoQuorum is an Ethereum-based distributed ledger protocol with transaction/contract privacy and new consensus mechanisms.
+- [RemixProject](https://github.com/ethereum/remix-project) Remix Project is a rich toolset including Remix IDE, a comprehensive smart contract development tool. The Remix Project also includes Remix Plugin Engine and Remix Libraries which are low-level tools for wider use.
+- [Solana](https://github.com/solana-labs/solana) Solana is a decentralized blockchain built to enable scalable, user-friendly apps for the world.
+- [Solidity](https://github.com/ethereum/solidity) Solidity is a statically typed, contract-oriented, high-level language for implementing smart contracts on the Ethereum platform.
+- [truffle](https://github.com/trufflesuite/truffle) Truffle is a development environment, testing framework and asset pipeline for Ethereum, aiming to make life as an Ethereum developer easier.
+- [Wallet](https://github.com/DemocracyEarth/wallet) Decentralized human identity without sybils or bots. Built with Kleros and the Ethereum community.
+- [Web3j](https://github.com/web3j/web3j) Web3j is a lightweight, highly modular, reactive, type safe Java and Android library for working with Smart Contracts and integrating with clients (nodes) on the Ethereum network.
+- [Web3Swift](https://github.com/skywinder/web3swift) web3swift is an iOS toolbelt for interaction with the Ethereum network.
+- [web3.swift](https://github.com/Boilertalk/Web3.swift) Web3.swift is a Swift library for signing transactions and interacting with Smart Contracts in the Ethereum Network.
+- [web3.js](https://github.com/ChainSafe/web3.js) This is the Ethereum JavaScript API which connects to the Generic JSON-RPC spec.
+- [web3.php](https://github.com/web3p/web3.php) A php interface for interacting with the Ethereum blockchain and ecosystem.
+- [web3.py](https://github.com/ethereum/web3.py) A Python library for interacting with Ethereum, inspired by web3.js.
+- [XuperChain](https://github.com/xuperchain/xuperchain) XuperChain, the first open source project of XuperChain Lab, introduces a underlying solution to build the super alliance network. Based on the dynamic kernel of xupercore. You can use xuberchain as a blockchain infrastructure to build a compliant blockchain network.
+- [Zilliqa](https://github.com/Zilliqa/Zilliqa) Zilliqa is a scalable smart contract platform that aims to tackle the congestion issue plaguing the blockchain industry.
