@@ -295,13 +295,13 @@ You can find Francesco [here](http://francescociulla.com)
 | 29-9-2022     |Ethereum Virtuial Machine|https://twitter.com/FrancescoCiull4/status/1575165099374804994|
 | 30-9-2022     |Hacktoberfest web3 resources|https://twitter.com/FrancescoCiull4/status/1575944598488129536|
 | 1-10-2022     |Hacktoberfest livestream|https://twitter.com/FrancescoCiull4/status/1575845316779442178|
-| 2-10-2022     ||
-| 3-10-2022     ||
-| 4-10-2022     ||
-| 5-10-2022     ||
-| 6-10-2022     ||
-| 7-10-2022     ||
-| 8-10-2022     ||
+| 2-10-2022     |What is EVM?|https://twitter.com/FrancescoCiull4/status/1576544628081594369|
+| 3-10-2022     |Ethereum Whitepaper|https://twitter.com/FrancescoCiull4/status/1576823826096484352|
+| 4-10-2022     |Merged 20 Prs for HAcktoberfest|https://twitter.com/FrancescoCiull4/status/1577041137805955072|
+| 5-10-2022     |24 Web3 threads|https://twitter.com/FrancescoCiull4/status/1577987940675948545|
+| 6-10-2022     |Solidity projects on giyHub|https://twitter.com/FrancescoCiull4/status/1578059382029434880|
+| 7-10-2022     |What is Solidity? video|https://twitter.com/FrancescoCiull4/status/1578366192707698688|
+| 8-10-2022     |Free Web3 Newsletter|https://www.getrevue.co/profile/francescociull4/issues/vitalik-buterin-reveals-ethereum-s-eth-end-game-names-several-big-visions-for-future-near-joins-forces-with-google-cloud-to-accelerate-web3-startups-moralis-x-google-2022-defining-defi-hackathon-in-6-days-link-earn-your-web3-degree-with-alchemy-1387730|
 | 9-10-2022     ||
 | 10-10-2022     ||
 | 11-10-2022     ||
