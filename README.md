@@ -42,6 +42,7 @@ This is a list of Free Web3 Resources links to learn Blockchain development.
 - [Complete Blockchain Development Roadmap 2022 🔥| Project Ideas | Solidity | Web3js | Truffle](https://www.youtube.com/watch?v=36ubP5Ydh-A) by Nishant Chahar
 - [How to become a Blockchain Developer in 2022? | 🔥 Complete Roadmap + Salary + Tech Stack](https://www.youtube.com/watch?v=uULy2rc6YDc) by Apna College
 - [How to get started with Web3 Development - Become Blockchain Developer in 2022 Complete Roadmap](https://www.youtube.com/watch?v=XRIpjWGbGmA) by Coding Money
+- [Your Roadmap to becoming a Frontend + Web 3.0 Developer in 2022 | 3-Day React JS + Web 3.0 Challenge](https://www.youtube.com/watch?v=Lz3m4BI1EfY) by Clever Programmer
 
 ## Web3 Roadmaps (Hindi/ Urdu)
 
@@ -53,7 +54,8 @@ This is a list of Free Web3 Resources links to learn Blockchain development.
 ## Web3 Roadmaps (Hindi/ Urdu)
 
 - [Complete Blockchain Development Roadmap 🔥 What is Blockchain and how to get started? Salary & Course](https://youtu.be/n_5oeZWbseY)
-
+- [Blockchain roadmap by Apna College](https://www.youtube.com/watch?v=uULy2rc6YDc)
+- [Blockchain roadmap 2022](https://www.youtube.com/watch?v=36ubP5Ydh-A)
 
 ## Blogs
 - [Hashnode Web3 Blog](https://web3.hashnode.com/) by [Hashnode](https://hashnode.com).
@@ -74,6 +76,7 @@ A list of currently active Blockchains projects. Sorted Alphabetically.
 - [Cosmos](https://cosmos.network/) Cosmos is an ever-expanding ecosystem of interconnected apps and services, built for a decentralized future.
 - [EOSIO](https://eos.io/) EOSIO is an open-source blockchain platform that helps developers, investors, and businesses build with confidence.
 - [Ethereum](https://ethereum.org/en/) Ethereum is the community-run technology powering the cryptocurrency ether (ETH) and thousands of decentralized applications.
+- [Elrond](https://elrond.com) Elrond is a highly scalable, fast and secure blockchain platform for distributed apps, enterprise use cases and the new internet economy.
 - [Fantom](https://fantom.foundation/) Fantom is a highly scalable blockchain platform for DeFi, crypto dApps, and enterprise applications.
 - [Harmony](https://www.harmony.one/) is an open and fast layer-1 blockchain. It is compatible with EVM and Solidity. It supports very low transaction fees. Its native crypto is ONE.
 - [Hedera Hashgraph](https://hedera.com/) Hashgraph is a distributed ledger technology that has been described as an alternative to blockchains.
@@ -102,10 +105,6 @@ A list of currently active Blockchains projects. Sorted Alphabetically.
 - [MetaMask](https://metamask.io) MetaMask is a software cryptocurrency wallet used to interact with the Ethereum blockchain.
 - [Phantom](https://phantom.app/) Phantom makes it safe & easy for you to store, buy, send, receive, swap tokens and collect NFTs on the Solana blockchain.
 - [WalletConnect](https://walletconnect.com/) WalletConnect is the web3 standard to connect blockchain wallets to dapps.
-
-- [Rainbow Dev Kit](https://www.rainbowkit.com/) RainbowKit is a React library that makes it easy to add wallet connection to your dapp.
-- [scaffoldETH](https://github.com/scaffold-eth/scaffold-eth) Scaffold-eth is everything you need to get started building decentralized applications on Ethereum!
-- [WAGMI](http://wagmi.sh) wagmi.sh is a collection of React Hooks containing everything you need to start working with Ethereum.
 
 
 ## 💡 Ethereum free resources
@@ -169,6 +168,7 @@ A list of currently active Blockchains projects. Sorted Alphabetically.
 - [Clever Programmer](https://www.youtube.com/c/CleverProgrammer)
 - [Patrick Collins](https://www.youtube.com/c/PatrickCollins)
 - [Alchemy](https://www.youtube.com/c/AlchemyPlatform)
+- [Web3 Foundation](https://www.youtube.com/c/WEB3Foundation)
 
 
 ## 👨‍💻 Learning Platforms
@@ -408,21 +408,3 @@ What is a Blockchain Oracle? Twitter [thread](https://twitter.com/FrancescoCiull
 - [web3.py](https://github.com/ethereum/web3.py)
 - [XuperChain](https://github.com/xuperchain/xuperchain)
 - [Zilliqa](https://github.com/Zilliqa/Zilliqa)
-
-## In-person presentation sessions
-
-
-## Youtube Channels 
-- [Dapp University](https://youtu.be/uGPC9wNTBbw)
-- [Whiteboard Crypto](https://www.youtube.com/c/WhiteboardCrypto)
-- [Ethereum Foundation](https://youtu.be/TDGq4aeevgY)
-- [Moralis Web3](https://youtu.be/P87pLayUD8c)
-- [Smart Contract Programmer](https://www.youtube.com/channel/UCJWh7F3AFyQ_x01VKzr9eyA)
-- [Code Eater](https://www.youtube.com/c/CodeEater21)
-- [EatTheBlocks](https://www.youtube.com/c/EatTheBlocks)
-- [Nader Dabit](https://www.youtube.com/c/naderdabit)
-- [Austin Griffith](https://www.youtube.com/channel/UC_HI2i2peo1A-STdG22GFsA)
-- [Block Explorer](https://www.youtube.com/c/BlockExplorerMedia/videos)
-- [Simply Explained](https://www.youtube.com/c/Savjee/community)
-- [Clever Programmer](https://www.youtube.com/c/CleverProgrammer)
-- [Patrick Collins](https://www.youtube.com/c/PatrickCollins)
