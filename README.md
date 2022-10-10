@@ -52,6 +52,7 @@ This is a list of Free Web3 Resources links to learn Blockchain development.
 - [Complete Blockchain Development Roadmap 🔥 What is Blockchain and how to get started? Salary & Course](https://youtu.be/n_5oeZWbseY) by [Anuj Bhaiya](https://www.youtube.com/c/AnujBhaiya)
 - [Blockchain roadmap](https://www.youtube.com/watch?v=uULy2rc6YDc) by [Apna College](https://www.youtube.com/c/ApnaCollegeOfficial)
 - [Blockchain roadmap 2022](https://www.youtube.com/watch?v=36ubP5Ydh-A) by [Nishant Chahar](https://www.youtube.com/c/NishantChahar11)
+- [How to become a Blockchain Developer ?](https://youtu.be/oEOkjango9Y) by [Code Eater](https://www.youtube.com/c/CodeEater21)
 
 ## Blogs
 
@@ -196,23 +197,32 @@ An Ethereum client is the software that allows Ethereum nodes to read the block 
 
 - [ethereum.org in different languages](https://ethereum.org/en/languages) Ethereum docs in 43 languages
 
-### Portuguese - [Web3dev](https://www.web3dev.com.br/) Content and community for web 3 developers in Portuguese.
+### Portuguese 
+- [Web3dev](https://www.web3dev.com.br/) Content and community for web 3 developers in Portuguese.
 
-### Chinese - [Ethereum Wiki](https://github.com/ethereum/wiki/wiki/%5B%E4%B8%AD%E6%96%87%5D-%E4%BB%A5%E5%A4%AA%E5%9D%8A%E7%99%BD%E7%9A%AE%E4%B9%A6) Ethereum Wiki in Chinese
+### Chinese 
+- [Ethereum Wiki](https://github.com/ethereum/wiki/wiki/%5B%E4%B8%AD%E6%96%87%5D-%E4%BB%A5%E5%A4%AA%E5%9D%8A%E7%99%BD%E7%9A%AE%E4%B9%A6) Ethereum Wiki in Chinese
 
-### French  - [Ethereum France](https://www.ethereum-france.com/) is the Main website for Ethereum Content, Communities, and Events in French.
+### French  
+- [Ethereum France](https://www.ethereum-france.com/) is the Main website for Ethereum Content, Communities, and Events in French.
 
-### German  - [Learn Solidity](https://docs.microsoft.com/de-de/learn/modules/blockchain-learning-solidity/) Microsoft website to learn Solidity in German
+### German  
+- [Learn Solidity](https://docs.microsoft.com/de-de/learn/modules/blockchain-learning-solidity/) Microsoft website to learn Solidity in German
 
-### Hindi  - [Ethereum Hindi](https://ethereum.org/hi/eth/) Main website for Ethereum Content, Communities, and Events in Hindi
+### Hindi  
+- [Ethereum Hindi](https://ethereum.org/hi/eth/) Main website for Ethereum Content, Communities, and Events in Hindi
 
-### Italian  - [Ethereum Italy](https://t.co/oyX6mujXek) Main website for Ethereum Content, Communities, and Events in Italian.
+### Italian  
+- [Ethereum Italy](https://t.co/oyX6mujXek) Main website for Ethereum Content, Communities, and Events in Italian.
 
-### Spanish  - [Cointelegraph](https://es.cointelegraph.com/ethereum-for-beginners) Ethereum guide for Web3 beginners in Spanish.
+### Spanish  
+- [Cointelegraph](https://es.cointelegraph.com/ethereum-for-beginners) Ethereum guide for Web3 beginners in Spanish.
 
-### Turkish  [BTK Academy](https://www.btkakademi.gov.tr/portal/course/blokzincir-ve-kripto-paralar-10569#!/about) blockchain and cryptocurrency-focused course in Turkish.
+### Turkish  
+- [BTK Academy](https://www.btkakademi.gov.tr/portal/course/blokzincir-ve-kripto-paralar-10569#!/about) blockchain and cryptocurrency-focused course in Turkish.
 
-### Vietnamese  [Tino Group](https://wiki.tino.org/ethereum-la-gi/) Ethereum info, wallets, and FAQ in Vietnamese
+### Vietnamese  
+- [Tino Group](https://wiki.tino.org/ethereum-la-gi/) Ethereum info, wallets, and FAQ in Vietnamese
 
 ## Client SDKs
 
