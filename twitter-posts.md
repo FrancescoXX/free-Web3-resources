@@ -302,8 +302,8 @@ You can find Francesco [here](http://francescociulla.com)
 | 6-10-2022     |Solidity projects on giyHub|https://twitter.com/FrancescoCiull4/status/1578059382029434880|
 | 7-10-2022     |What is Solidity? video|https://twitter.com/FrancescoCiull4/status/1578366192707698688|
 | 8-10-2022     |Free Web3 Newsletter|https://www.getrevue.co/profile/francescociull4/issues/vitalik-buterin-reveals-ethereum-s-eth-end-game-names-several-big-visions-for-future-near-joins-forces-with-google-cloud-to-accelerate-web3-startups-moralis-x-google-2022-defining-defi-hackathon-in-6-days-link-earn-your-web3-degree-with-alchemy-1387730|
-| 9-10-2022     ||
-| 10-10-2022     ||
+| 9-10-2022     |HAcktoberfest october 12h challenge|https://youtu.be/4mYzYrSYGKI|
+| 10-10-2022     |MErkle tree thread|https://twitter.com/FrancescoCiull4/status/1579341823105171458|
 | 11-10-2022     ||
 | 12-10-2022     ||
 | 13-10-2022     ||
