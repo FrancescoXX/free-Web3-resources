@@ -383,3 +383,23 @@ What is a Blockchain Oracle? Twitter [thread](https://twitter.com/FrancescoCiull
 - [web3.swift](https://github.com/Boilertalk/Web3.swift) A Swift library for signing transactions and interacting with Smart Contracts in the Ethereum Network.
 - [XuperChain](https://github.com/xuperchain/xuperchain) XuperChain, the first open source project of XuperChain Lab, introduces a underlying solution to build the super alliance network. Based on the dynamic kernel of xupercore. You can use xuberchain as a blockchain infrastructure to build a compliant blockchain network.
 - [Zilliqa](https://github.com/Zilliqa/Zilliqa) Zilliqa is a scalable smart contract platform that aims to tackle the congestion issue plaguing the blockchain industry.
+## Polygon 
+![image](https://user-images.githubusercontent.com/111836493/195151950-fa48697f-fed6-4b43-b4eb-4db5b9f320bc.png)
+
+Polygon (formerly MATIC Network) is an Indian blockchain scalability platform. It addresses the challenges faced by Ethereum such as high fees, poor user experience, and low transaction count per second. One of the methods used to address these issues is providing a framework for Proof of Stake transactions.
+
+ Resources
+
+- [PolygonBlog](https://polygon.technology/)
+
+- [Finematics](https://www.youtube.com/watch?v=IijtdpAtOt0)
+
+- [WhiteboardCrypto](https://www.youtube.com/watch?v=GWUwFDFOipo)
+
+- [MoneyZG](https://www.youtube.com/watch?v=SKY-FMv_kko)
+
+
+
+
+
+
