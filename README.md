@@ -153,7 +153,14 @@ A list of currently active Blockchains projects. Sorted Alphabetically.
 - [Patrick Collins](https://www.youtube.com/c/PatrickCollins)   Web3 focused 
 - [Alchemy](https://www.youtube.com/c/AlchemyPlatform)   Content on Web3 Development , NFT.
 - [Web3 Foundation](https://www.youtube.com/c/WEB3Foundation)    "Web3 Focused" , content on Web3 Foundation Workshops.
-- 
+
+## Youtube Channels [Hindi]
+- [Code Eater](https://www.youtube.com/c/CodeEater21) blockchain focused content on Blockchain development in Hindi
+- [Yash Deharia](https://www.youtube.com/channel/UC6D_7hpQFOd7XXoM1LRCN9w) Solidity course in Hindi + English
+
+
+
+
 ## 👨‍💻 Learning Platforms
 
 A list of Blockchain Learning Platforms.
