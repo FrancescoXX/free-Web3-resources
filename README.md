@@ -78,6 +78,7 @@ A list of currently active Blockchains projects. Sorted Alphabetically.
 - [Hedera Hashgraph](https://hedera.com/) Hashgraph is a distributed ledger technology that has been described as an alternative to blockchains.
 - [Hyperledger Fabric](https://www.hyperledger.org/use/fabric) Hyperledger Fabric is intended as a foundation for developing apps or solutions with a modular architecture.
 - [IBM Blockchain](https://www.ibm.com/blockchain) Trusted data exchange and workflow automation beyond the boundaries with distributed ledger and blockchain.
+- [Kadena](https://kadena.io/) Kadena is a public blockchain that aims to optimize for scalability and features a new smart contract language, dubbed Pact, which comes equipped with formal verification and upgradeable smart contracts.
 - [Klaytn](https://www.klaytn.com/) Kakao’s global public blockchain project Klaytn is an enterprise-grade, service-centric platform that brings user-friendly blockchain experience to millions.
 - [Lightning Network](https://lightning.network/) Scalable, Instant Bitcoin/Blockchain Transactions.
 - [MultiChain](https://www.multichain.com/) MultiChain helps organizations to build and deploy blockchain applications with speed.
@@ -94,9 +95,11 @@ A list of currently active Blockchains projects. Sorted Alphabetically.
 - [Tron](https://tron.network/) TRON is a decentralized, blockchain-based operating system with smart contract functionality and proof-of-stake consensus.
 - [XinFin](https://xinfin.org/) Enterprise Ready Hybrid Blockchain For Global Trade and Finance.
 - [ZkSync](https://zksync.io/) zkSync is a ZK rollup solving Ethereum scalability with zero security compromises.
+- [Zilliqa](https://www.zilliqa.com/) Zilliqa is an ERC-20 blockchain with a focus on high transaction throughput. Currently, the Zilliqa blockchain can handle 2,828 transactions per second. 
 
 ## 🎭 Identity
 
+- [AlphaWallet](https://alphawallet.com/) AlphaWallet is the only self-custodial wallet, that’s 100% open source.
 - [MetaMask](https://metamask.io) MetaMask is a software cryptocurrency wallet used to interact with the Ethereum blockchain.
 - [Phantom](https://phantom.app/) Phantom makes it safe & easy for you to store, buy, send, receive, swap tokens and collect NFTs on the Solana blockchain.
 - [WalletConnect](https://walletconnect.com/) WalletConnect is the web3 standard to connect blockchain wallets to dapps.
@@ -160,6 +163,8 @@ A list of Blockchain Learning Platforms.
 - [Crypto Zombies](https://cryptozombies.io/) CryptoZombies is an interactive school that teaches you all things technical about blockchains. Learn to write smart contracts by making your own crypto-collectibles game.
 - [Alchemy University](https://docs.alchemy.com/docs/welcome-to-the-road-to-web3) Alchemy University is a 20-week bootcamp with interactive coding challenges, video lessons, projects and expert instructors to teach you to build smart contracts, master solidity and become a web3 developer. Includes Coding Basics [Apply for early access], Web3 dev bootcamp [Apply for early access] & [Road to Web3](https://docs.alchemy.com/docs/welcome-to-the-road-to-web3) [Available now!]
 - [BlockTrain](https://www.blocktrain.info/course) Long videos with all the information you need to get started in the world of web3 and blockchain for free.
+- [Moonbeam](https://academy.moonbeam.network/) This Academy has been designed for devs to learn how to build multi-chain applications on Moonbeam and Moonriver.
+- [Dev3](https://dev3.sh/) Dev3 enables frontend and mobile devs to build complex, production-ready web3 apps with ease.
 
 ## Ethereum Development IDEs
 
