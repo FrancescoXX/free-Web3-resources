@@ -1,0 +1,27 @@
+name: 📚 Documentation
+description: Report an issue related to documentation
+labels: ["documentation"]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: 📚 Documentation
+      description: A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+    validations:
+      required: true
+
+  - type: textarea
+    id: solution
+    attributes:
+      label: Add relevant screenshot or video (if any)
+      description: (Add here)
+    validations:
+      required: false
+
+  - type: textarea
+    id: extrainfo
+    attributes:
+      label: Additional context
+      description: Add any other context about the issue here.
+    validations:
+      required: false
