@@ -139,6 +139,7 @@ A list of currently active Blockchains projects. Sorted Alphabetically.
 - [Awesome Vyper by Spade Builders](https://github.com/spadebuilders/awesome-vyper)
 - [Learn Vyper by building a pokemon Game](https://learn.vyperlang.org/#/)
 - [Vyper Programming Tutorial for Ethereum Smart Contract Development (Blockchain)](https://www.youtube.com/watch?v=-RHTgegox8I) by Dapp University
+- [Understanding the Ethereum Blockchain Protocol](https://www.youtube.com/watch?v=gjwr-7PgpN8&t=289s) by [Vitalik Buterin](https://twitter.com/VitalikButerin)
 
 ## Youtube Channels
 - [Dapp University](https://youtu.be/uGPC9wNTBbw)   Web3 Focused and has content on Blockchain development .
