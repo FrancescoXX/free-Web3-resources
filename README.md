@@ -356,5 +356,6 @@ What is a Blockchain Oracle? Twitter [thread](https://twitter.com/FrancescoCiull
 - [web3.js](https://github.com/ChainSafe/web3.js) This is the Ethereum JavaScript API which connects to the Generic JSON-RPC spec.
 - [web3.php](https://github.com/web3p/web3.php) A php interface for interacting with the Ethereum blockchain and ecosystem.
 - [web3.py](https://github.com/ethereum/web3.py) A Python library for interacting with Ethereum, inspired by web3.js.
+- [web3.swift](https://github.com/Boilertalk/Web3.swift) A Swift library for signing transactions and interacting with Smart Contracts in the Ethereum Network.
 - [XuperChain](https://github.com/xuperchain/xuperchain) XuperChain, the first open source project of XuperChain Lab, introduces a underlying solution to build the super alliance network. Based on the dynamic kernel of xupercore. You can use xuberchain as a blockchain infrastructure to build a compliant blockchain network.
 - [Zilliqa](https://github.com/Zilliqa/Zilliqa) Zilliqa is a scalable smart contract platform that aims to tackle the congestion issue plaguing the blockchain industry.
