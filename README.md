@@ -52,10 +52,12 @@ This is a list of Free Web3 Resources links to learn Blockchain development.
 - [Complete Blockchain Development Roadmap 🔥 What is Blockchain and how to get started? Salary & Course](https://youtu.be/n_5oeZWbseY) by [Anuj Bhaiya](https://www.youtube.com/c/AnujBhaiya)
 - [Blockchain roadmap](https://www.youtube.com/watch?v=uULy2rc6YDc) by [Apna College](https://www.youtube.com/c/ApnaCollegeOfficial)
 - [Blockchain roadmap 2022](https://www.youtube.com/watch?v=36ubP5Ydh-A) by [Nishant Chahar](https://www.youtube.com/c/NishantChahar11)
+- [How to become a Blockchain Developer ?](https://youtu.be/oEOkjango9Y) by [Code Eater](https://www.youtube.com/c/CodeEater21)
 
 ## Blogs
 
-- [Hashnode Web3 Blog](https://web3.hashnode.com/) by [Hashnode](https://hashnode.com).
+- [Hashnode Web3 Blog](https://web3.hashnode.com/) by [Hashnode](https://hashnode.com)
+.
 
 ## Blockchains
 
@@ -88,6 +90,7 @@ A list of currently active Blockchains projects. Sorted Alphabetically.
 - [Oracle Blockchain](https://www.oracle.com/blockchain/) Oracle offers easy ways to adopt blockchain technology including a cloud service, an on-premises edition, and a SaaS application for the supply chain.
 - [Polkadot](https://polkadot.network/) Polkadot is an open-source, blockchain platform and cryptocurrency that allows for distributed computing.
 - [Polygon](https://polygon.technology/) Polygon is a decentralized Ethereum scaling platform that enables devs to build scalable user-friendly dApps.
+- [Skale](https://skale.space/) SKALE is the first blockchain network fully optimized for Web3 user experience and security.
 - [Solana](https://solana.com/) Solana is a decentralized blockchain built to enable scalable, user-friendly apps for the world.
 - [Starknet](https://starkware.co/starknet/) StarkNet is a permissionless decentralized ZK-Rollup. It operates as an L2 network over Ethereum.
 - [Stellar](https://www.stellar.org/) Stellar is an open network for storing and moving money.
@@ -146,14 +149,21 @@ A list of currently active Blockchains projects. Sorted Alphabetically.
 - [Code Eater](https://www.youtube.com/c/CodeEater21)      Web3 Focused and Web3 content in "HINDI".
 - [EatTheBlocks](https://www.youtube.com/c/EatTheBlocks)   U can Find Roadmaps , Tutorials and Blockchain carrer advice.
 - [Nader Dabit](https://www.youtube.com/c/naderdabit)      Web3 Focused  ,Content on Blockchain , React and Serverless .
-- [Austin Griffith](https://www.youtube.com/channel/UC_HI2i2peo1A-STdG22GFsA) b Content on How to build Ethereum.
+- [Austin Griffith](https://www.youtube.com/channel/UC_HI2i2peo1A-STdG22GFsA) Content on How to build on Ethereum.
 - [Block Explorer](https://www.youtube.com/c/BlockExplorerMedia/videos)  Focusses on Blockchain Focused Technologies.
 - [Simply Explained](https://www.youtube.com/c/Savjee/community)   Web3 Focused and explain complex topic in plain English.
 - [Clever Programmer](https://www.youtube.com/c/CleverProgrammer)  Tutorials on python , Javascript and content on Web3.
 - [Patrick Collins](https://www.youtube.com/c/PatrickCollins)   Web3 focused 
 - [Alchemy](https://www.youtube.com/c/AlchemyPlatform)   Content on Web3 Development , NFT.
 - [Web3 Foundation](https://www.youtube.com/c/WEB3Foundation)    "Web3 Focused" , content on Web3 Foundation Workshops.
-- 
+
+## Youtube Channels [Hindi]
+- [Code Eater](https://www.youtube.com/c/CodeEater21) blockchain focused content on Blockchain development in Hindi
+- [Yash Deharia](https://www.youtube.com/channel/UC6D_7hpQFOd7XXoM1LRCN9w) Solidity course in Hindi + English
+
+
+
+
 ## 👨‍💻 Learning Platforms
 
 A list of Blockchain Learning Platforms.
@@ -165,6 +175,8 @@ A list of Blockchain Learning Platforms.
 - [BlockTrain](https://www.blocktrain.info/course) Long videos with all the information you need to get started in the world of web3 and blockchain for free.
 - [Moonbeam](https://academy.moonbeam.network/) This Academy has been designed for devs to learn how to build multi-chain applications on Moonbeam and Moonriver.
 - [Dev3](https://dev3.sh/) Dev3 enables frontend and mobile devs to build complex, production-ready web3 apps with ease.
+- [Metaschool](https://metaschool.so/) Metaschool is a platform where developers hangout to learn web3 with each other, collaborate on projects, earn NFTs for completing their work, and connect with talented folks building the future of the web!
+- [Binance Academy](https://academy.binance.com/en) Your one-stop guide to all things crypto. Whether you're a rookie trying to understand mining or a veteran looking to develop a trading strategy.
 
 ## Ethereum Development IDEs
 
@@ -201,23 +213,32 @@ An Ethereum client is the software that allows Ethereum nodes to read the block 
 
 - [ethereum.org in different languages](https://ethereum.org/en/languages) Ethereum docs in 43 languages
 
-### Portuguese - [Web3dev](https://www.web3dev.com.br/) Content and community for web 3 developers in Portuguese.
+### Portuguese 
+- [Web3dev](https://www.web3dev.com.br/) Content and community for web 3 developers in Portuguese.
 
-### Chinese - [Ethereum Wiki](https://github.com/ethereum/wiki/wiki/%5B%E4%B8%AD%E6%96%87%5D-%E4%BB%A5%E5%A4%AA%E5%9D%8A%E7%99%BD%E7%9A%AE%E4%B9%A6) Ethereum Wiki in Chinese
+### Chinese 
+- [Ethereum Wiki](https://github.com/ethereum/wiki/wiki/%5B%E4%B8%AD%E6%96%87%5D-%E4%BB%A5%E5%A4%AA%E5%9D%8A%E7%99%BD%E7%9A%AE%E4%B9%A6) Ethereum Wiki in Chinese
 
-### French  - [Ethereum France](https://www.ethereum-france.com/) is the Main website for Ethereum Content, Communities, and Events in French.
+### French  
+- [Ethereum France](https://www.ethereum-france.com/) is the Main website for Ethereum Content, Communities, and Events in French.
 
-### German  - [Learn Solidity](https://docs.microsoft.com/de-de/learn/modules/blockchain-learning-solidity/) Microsoft website to learn Solidity in German
+### German  
+- [Learn Solidity](https://docs.microsoft.com/de-de/learn/modules/blockchain-learning-solidity/) Microsoft website to learn Solidity in German
 
-### Hindi  - [Ethereum Hindi](https://ethereum.org/hi/eth/) Main website for Ethereum Content, Communities, and Events in Hindi
+### Hindi  
+- [Ethereum Hindi](https://ethereum.org/hi/eth/) Main website for Ethereum Content, Communities, and Events in Hindi
 
-### Italian  - [Ethereum Italy](https://t.co/oyX6mujXek) Main website for Ethereum Content, Communities, and Events in Italian.
+### Italian  
+- [Ethereum Italy](https://t.co/oyX6mujXek) Main website for Ethereum Content, Communities, and Events in Italian.
 
-### Spanish  - [Cointelegraph](https://es.cointelegraph.com/ethereum-for-beginners) Ethereum guide for Web3 beginners in Spanish.
+### Spanish  
+- [Cointelegraph](https://es.cointelegraph.com/ethereum-for-beginners) Ethereum guide for Web3 beginners in Spanish.
 
-### Turkish  [BTK Academy](https://www.btkakademi.gov.tr/portal/course/blokzincir-ve-kripto-paralar-10569#!/about) blockchain and cryptocurrency-focused course in Turkish.
+### Turkish  
+- [BTK Academy](https://www.btkakademi.gov.tr/portal/course/blokzincir-ve-kripto-paralar-10569#!/about) blockchain and cryptocurrency-focused course in Turkish.
 
-### Vietnamese  [Tino Group](https://wiki.tino.org/ethereum-la-gi/) Ethereum info, wallets, and FAQ in Vietnamese
+### Vietnamese  
+- [Tino Group](https://wiki.tino.org/ethereum-la-gi/) Ethereum info, wallets, and FAQ in Vietnamese
 
 ## Client SDKs
 
@@ -226,6 +247,7 @@ An Ethereum client is the software that allows Ethereum nodes to read the block 
 
 ## SDKs
 
+- [Alchemy](https://www.alchemy.com/sdk) The Alchemy SDK is the easiest way to connect your dApp to the blockchain.
 - [Moralis](https://moralis.io/) The Ultimate Web3 Development Platform.
 - [thirdweb](https://thirdweb.com/) Smart contracts you control. Tools that accelerate your workflow. Intuitive SDKs and widgets for developers.
 
@@ -260,8 +282,8 @@ Decentralized Storage [thread](https://twitter.com/FrancescoCiull4/status/148329
 - [Web3 University](https://www.web3.university/) Teaching Web3 to 20k+ developers worldwide.
 - [WebXDAO](https://bio.link/webxdao) An Open Source Community that focuses on decentralized applications, web 3, and blockchain technologies 🚀
 - [LabsLumos](https://twitter.com/LabsLumos) Global Web3 community
+- [Metaschool](https://metaschool.so/) Metaschool is a platform where developers hangout to learn web3 with each other, collaborate on projects, earn NFTs for completing their work, and connect with talented folks building the future of the web!
 
-https://twitter.com/LabsLumos
 
 ## SDKs
 
@@ -312,8 +334,7 @@ What is a Blockchain Oracle? Twitter [thread](https://twitter.com/FrancescoCiull
 - [Getting Started with Solana](https://docs.solana.com/developing/clients/javascript-api)
 - [Complete Guide to Full Stack Solana Development by Nader Dabit](https://dev.to/edge-and-node/the-complete-guide-to-full-stack-solana-development-with-react-anchor-rust-and-phantom-3291)
 - [How to Mint an NFT on Solana](https://www.quicknode.com/guides/web3-sdks/how-to-mint-an-nft-on-solana)
-- [Complete Guide to Full Stack Solana Development by Nader Dabit](https://dev.to/edge-and-node/the-complete-guide-to-full-stack-solana-development-with-react-anchor-rust-and-phantom-3291)
-- [How to Mint an NFT on Solana](https://www.quicknode.com/guides/web3-sdks/how-to-mint-an-nft-on-solana)
+
 
 ## 👨‍💻 Open Source Projects you can contribute to
 
@@ -359,5 +380,6 @@ What is a Blockchain Oracle? Twitter [thread](https://twitter.com/FrancescoCiull
 - [web3.js](https://github.com/ChainSafe/web3.js) This is the Ethereum JavaScript API which connects to the Generic JSON-RPC spec.
 - [web3.php](https://github.com/web3p/web3.php) A php interface for interacting with the Ethereum blockchain and ecosystem.
 - [web3.py](https://github.com/ethereum/web3.py) A Python library for interacting with Ethereum, inspired by web3.js.
+- [web3.swift](https://github.com/Boilertalk/Web3.swift) A Swift library for signing transactions and interacting with Smart Contracts in the Ethereum Network.
 - [XuperChain](https://github.com/xuperchain/xuperchain) XuperChain, the first open source project of XuperChain Lab, introduces a underlying solution to build the super alliance network. Based on the dynamic kernel of xupercore. You can use xuberchain as a blockchain infrastructure to build a compliant blockchain network.
 - [Zilliqa](https://github.com/Zilliqa/Zilliqa) Zilliqa is a scalable smart contract platform that aims to tackle the congestion issue plaguing the blockchain industry.
