@@ -145,7 +145,7 @@ A list of currently active Blockchains projects. Sorted Alphabetically.
 - [Code Eater](https://www.youtube.com/c/CodeEater21)      Web3 Focused and Web3 content in "HINDI".
 - [EatTheBlocks](https://www.youtube.com/c/EatTheBlocks)   U can Find Roadmaps , Tutorials and Blockchain carrer advice.
 - [Nader Dabit](https://www.youtube.com/c/naderdabit)      Web3 Focused  ,Content on Blockchain , React and Serverless .
-- [Austin Griffith](https://www.youtube.com/channel/UC_HI2i2peo1A-STdG22GFsA) b Content on How to build Ethereum.
+- [Austin Griffith](https://www.youtube.com/channel/UC_HI2i2peo1A-STdG22GFsA) Content on How to build on Ethereum.
 - [Block Explorer](https://www.youtube.com/c/BlockExplorerMedia/videos)  Focusses on Blockchain Focused Technologies.
 - [Simply Explained](https://www.youtube.com/c/Savjee/community)   Web3 Focused and explain complex topic in plain English.
 - [Clever Programmer](https://www.youtube.com/c/CleverProgrammer)  Tutorials on python , Javascript and content on Web3.
