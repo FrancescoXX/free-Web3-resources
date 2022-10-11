@@ -88,6 +88,7 @@ A list of currently active Blockchains projects. Sorted Alphabetically.
 - [Oracle Blockchain](https://www.oracle.com/blockchain/) Oracle offers easy ways to adopt blockchain technology including a cloud service, an on-premises edition, and a SaaS application for the supply chain.
 - [Polkadot](https://polkadot.network/) Polkadot is an open-source, blockchain platform and cryptocurrency that allows for distributed computing.
 - [Polygon](https://polygon.technology/) Polygon is a decentralized Ethereum scaling platform that enables devs to build scalable user-friendly dApps.
+- [Skale](https://skale.space/) SKALE is the first blockchain network fully optimized for Web3 user experience and security.
 - [Solana](https://solana.com/) Solana is a decentralized blockchain built to enable scalable, user-friendly apps for the world.
 - [Starknet](https://starkware.co/starknet/) StarkNet is a permissionless decentralized ZK-Rollup. It operates as an L2 network over Ethereum.
 - [Stellar](https://www.stellar.org/) Stellar is an open network for storing and moving money.
