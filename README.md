@@ -55,7 +55,8 @@ This is a list of Free Web3 Resources links to learn Blockchain development.
 
 ## Blogs
 
-- [Hashnode Web3 Blog](https://web3.hashnode.com/) by [Hashnode](https://hashnode.com).
+- [Hashnode Web3 Blog](https://web3.hashnode.com/) by [Hashnode](https://hashnode.com)
+.
 
 ## Blockchains
 
@@ -161,6 +162,7 @@ A list of Blockchain Learning Platforms.
 - [Alchemy University](https://docs.alchemy.com/docs/welcome-to-the-road-to-web3) Alchemy University is a 20-week bootcamp with interactive coding challenges, video lessons, projects and expert instructors to teach you to build smart contracts, master solidity and become a web3 developer. Includes Coding Basics [Apply for early access], Web3 dev bootcamp [Apply for early access] & [Road to Web3](https://docs.alchemy.com/docs/welcome-to-the-road-to-web3) [Available now!]
 - [BlockTrain](https://www.blocktrain.info/course) Long videos with all the information you need to get started in the world of web3 and blockchain for free.
 - [Metaschool](https://metaschool.so/) Metaschool is a platform where developers hangout to learn web3 with each other, collaborate on projects, earn NFTs for completing their work, and connect with talented folks building the future of the web!
+- [Binance Academy](https://academy.binance.com/en) Your one-stop guide to all things crypto. Whether you're a rookie trying to understand mining or a veteran looking to develop a trading strategy.
 
 ## Ethereum Development IDEs
 
@@ -222,6 +224,7 @@ An Ethereum client is the software that allows Ethereum nodes to read the block 
 
 ## SDKs
 
+- [Alchemy](https://www.alchemy.com/sdk) The Alchemy SDK is the easiest way to connect your dApp to the blockchain.
 - [Moralis](https://moralis.io/) The Ultimate Web3 Development Platform.
 - [thirdweb](https://thirdweb.com/) Smart contracts you control. Tools that accelerate your workflow. Intuitive SDKs and widgets for developers.
 
@@ -308,8 +311,7 @@ What is a Blockchain Oracle? Twitter [thread](https://twitter.com/FrancescoCiull
 - [Getting Started with Solana](https://docs.solana.com/developing/clients/javascript-api)
 - [Complete Guide to Full Stack Solana Development by Nader Dabit](https://dev.to/edge-and-node/the-complete-guide-to-full-stack-solana-development-with-react-anchor-rust-and-phantom-3291)
 - [How to Mint an NFT on Solana](https://www.quicknode.com/guides/web3-sdks/how-to-mint-an-nft-on-solana)
-- [Complete Guide to Full Stack Solana Development by Nader Dabit](https://dev.to/edge-and-node/the-complete-guide-to-full-stack-solana-development-with-react-anchor-rust-and-phantom-3291)
-- [How to Mint an NFT on Solana](https://www.quicknode.com/guides/web3-sdks/how-to-mint-an-nft-on-solana)
+
 
 ## 👨‍💻 Open Source Projects you can contribute to
 
@@ -355,5 +357,6 @@ What is a Blockchain Oracle? Twitter [thread](https://twitter.com/FrancescoCiull
 - [web3.js](https://github.com/ChainSafe/web3.js) This is the Ethereum JavaScript API which connects to the Generic JSON-RPC spec.
 - [web3.php](https://github.com/web3p/web3.php) A php interface for interacting with the Ethereum blockchain and ecosystem.
 - [web3.py](https://github.com/ethereum/web3.py) A Python library for interacting with Ethereum, inspired by web3.js.
+- [web3.swift](https://github.com/Boilertalk/Web3.swift) A Swift library for signing transactions and interacting with Smart Contracts in the Ethereum Network.
 - [XuperChain](https://github.com/xuperchain/xuperchain) XuperChain, the first open source project of XuperChain Lab, introduces a underlying solution to build the super alliance network. Based on the dynamic kernel of xupercore. You can use xuberchain as a blockchain infrastructure to build a compliant blockchain network.
 - [Zilliqa](https://github.com/Zilliqa/Zilliqa) Zilliqa is a scalable smart contract platform that aims to tackle the congestion issue plaguing the blockchain industry.
