@@ -230,6 +230,17 @@ A list of currently active Blockchains projects. Sorted Alphabetically.
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
+## Some Useful Udemy courses
+
+Udemy courses to master blockchains.
+
+- [Udemy]([https://www.youtube.com/c/CodeEater21](https://www.udemy.com/course/build-your-blockchain-az/) Blockchain A-Z™: Learn How To Build Your First Blockchain
+- [Udemy]([https://www.youtube.com/channel/UC6D_7hpQFOd7XXoM1LRCN9w](https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/) Ethereum and Solidity: The Complete Developer's Guide
+
+<div align="right">
+  <b><a href="#index">↥ Back To Top</a></b>
+</div>
+
 ## 👨‍💻 Learning Platforms
 
 A list of Blockchain Learning Platforms.
@@ -481,7 +492,6 @@ What is a Blockchain Oracle? Twitter [thread](https://twitter.com/FrancescoCiull
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
-
 
 ## 👨‍💻 Open Source Projects you can contribute to
 
