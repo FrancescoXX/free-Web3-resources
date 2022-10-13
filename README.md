@@ -309,6 +309,7 @@ What is a Blockchain Oracle? Twitter [thread](https://twitter.com/FrancescoCiull
 - [Looksrare](https://looksrare.org/) LooksRare is a community-first NFT marketplace with rewards for participating.
 - [OpenSea](https://opensea.io/) Opensea is the largest NFT marketplace and the one I used to mint my first NFT.
 - [Rarible](https://rarible.com/) A very large marketplace, partnered with Adobe. To use the marketplace, you need its own token "Rarible"
+- [KachingNFT](https://www.kachingnft.io/) The first specialised marketplace for non-fungible tokens (NFTs) on blockchain games. Trade and collect exclusive collectibles, items, skins, and characters.
 
 ## Oracles
 
