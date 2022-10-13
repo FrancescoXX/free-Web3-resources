@@ -225,9 +225,10 @@ A list of currently active Blockchains projects. Sorted Alphabetically.
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
-## Youtube Channels [Hindi]
+## Youtube Channels [Hindi/Urdu]
 - [Code Eater](https://www.youtube.com/c/CodeEater21) blockchain focused content on Blockchain development in Hindi
 - [Yash Deharia](https://www.youtube.com/channel/UC6D_7hpQFOd7XXoM1LRCN9w) Solidity course in Hindi + English
+- [Emerging Technologies](https://www.youtube.com/watch?v=t0Bb7Tl6bw4&list=PL1Xmyl4aKTRjyFTjaekHCtxZZdsNBUZKW) Blockchain Engineer Course in Urdu/Hindi
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
