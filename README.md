@@ -41,11 +41,9 @@ This is a list of Free Web3 Resources links to learn Blockchain development.
 <li><a href="#-file-storage"> File Storage</a></li>
 <li><a href="#indexing">Indexing</a></li>
 <li><a href="#dao-communities">DAO Communities</a></li>
-<li><a href="#sdks">SDKs</a></li>
-<li><a href="#oracles">Oracles</a></li>
-<li><a href="#off-chain-data-protocols">Off-Chain Data Protocols</a></li>
 <li><a href="#nft-marketplaces">NFT Marketplaces</a></li>
 <li><a href="#oracles">Oracles</a></li>
+<li><a href="#off-chain-data-protocols">Off-Chain Data Protocols</a></li>
 <li><a href="#solana">Solana</a></li>
 <li><a href="#-open-source-projects-you-can-contribute-to"> Open Source Projects you can contribute to</a></li> 
 </ul>
@@ -112,6 +110,7 @@ This is a list of Free Web3 Resources links to learn Blockchain development.
 
 A list of currently active Blockchains projects. Sorted Alphabetically.
 
+- [Aeternity](https://aeternity.com/) Aeternity is an easily accessible blockchain platform for the global public by being powerful, scalable and secure at virtually every level.
 - [Algorand](https://www.algorand.com/) Algorand is a blockchain cryptocurrency protocol based on proof of stake and a Byzantine agreement that aims to be scalable.
 - [Arbitrum](https://offchainlabs.com/) The ideal scaling solution for many Defi apps Arbitrum Rollup can scale any Ethereum contract.
 - [Avalanche](https://www.avax.network/) Avalanche is a decentralized, open-source blockchain with smart contract functionality.
@@ -119,6 +118,7 @@ A list of currently active Blockchains projects. Sorted Alphabetically.
 - [BitCoin](https://bitcoin.org/en/) Bitcoin is an innovative payment network and a new kind of money.
 - [Cardano](https://cardano.org/) Cardano is a public blockchain platform. It is open-source and decentralized, with consensus achieved using proof of stake.
 - [Celo](https://celo.org/) Celo is global payments infrastructure that makes financial tools accessible to anyone with a mobile phone.
+- [Chia](https://www.chia.net/) Chia Network is building a better blockchain and smart transaction platform which is more secure, more sustainable, and more powerful.
 - [Corda](https://www.corda.net/) Build digital financial solutions quickly on the only private, secure, and scalable DLT platform designed for regulated markets.
 - [Cosmos](https://cosmos.network/) Cosmos is an ever-expanding ecosystem of interconnected apps and services, built for a decentralized future.
 - [EOSIO](https://eos.io/) EOSIO is an open-source blockchain platform that helps developers, investors, and businesses build with confidence.
@@ -129,6 +129,7 @@ A list of currently active Blockchains projects. Sorted Alphabetically.
 - [Hedera Hashgraph](https://hedera.com/) Hashgraph is a distributed ledger technology that has been described as an alternative to blockchains.
 - [Hyperledger Fabric](https://www.hyperledger.org/use/fabric) Hyperledger Fabric is intended as a foundation for developing apps or solutions with a modular architecture.
 - [IBM Blockchain](https://www.ibm.com/blockchain) Trusted data exchange and workflow automation beyond the boundaries with distributed ledger and blockchain.
+- [Internet Computer](https://internetcomputer.org/) The Internet Computer (IC) is the only general-purpose blockchain that runs decentralized apps at web speed.
 - [Kadena](https://kadena.io/) Kadena is a public blockchain that aims to optimize for scalability and features a new smart contract language, dubbed Pact, which comes equipped with formal verification and upgradeable smart contracts.
 - [Klaytn](https://www.klaytn.com/) Kakao’s global public blockchain project Klaytn is an enterprise-grade, service-centric platform that brings user-friendly blockchain experience to millions.
 - [Lightning Network](https://lightning.network/) Scalable, Instant Bitcoin/Blockchain Transactions.
@@ -143,11 +144,13 @@ A list of currently active Blockchains projects. Sorted Alphabetically.
 - [Solana](https://solana.com/) Solana is a decentralized blockchain built to enable scalable, user-friendly apps for the world.
 - [Starknet](https://starkware.co/starknet/) StarkNet is a permissionless decentralized ZK-Rollup. It operates as an L2 network over Ethereum.
 - [Stellar](https://www.stellar.org/) Stellar is an open network for storing and moving money.
+- [Telos](https://www.telos.net/) Telos is a leading ESG Blockchain, positioning itself for mass adoption by real world users around the world by being extremely fast, virtually fee-less and more powerful than major competitors.
 - [Tezos](https://tezos.com/) Tezos is a decentralized blockchain that can execute p2p transactions and serve as a platform for deploying smart contracts.
 - [Tron](https://tron.network/) TRON is a decentralized, blockchain-based operating system with smart contract functionality and proof-of-stake consensus.
 - [XinFin](https://xinfin.org/) Enterprise Ready Hybrid Blockchain For Global Trade and Finance.
 - [ZkSync](https://zksync.io/) zkSync is a ZK rollup solving Ethereum scalability with zero security compromises.
-- [Zilliqa](https://www.zilliqa.com/) Zilliqa is an ERC-20 blockchain with a focus on high transaction throughput. Currently, the Zilliqa blockchain can handle 2,828 transactions per second. 
+- [Zilliqa](https://www.zilliqa.com/) Zilliqa is an ERC-20 blockchain with a focus on high transaction throughput. Currently, the Zilliqa blockchain can handle 2,828 transactions per second.
+- [5ire](https://www.5ire.org/) 5ire is a layer one blockchain ecosystem designed with economic and environmental sustainability at its core. We’re one of India’s fastest growing unicorns; enabled by a community from all over the world.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -402,44 +405,15 @@ Decentralized Storage [thread](https://twitter.com/FrancescoCiull4/status/148329
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
-
-## SDKs
-
-- [Moralis](https://moralis.io/) The Ultimate Web3 Development Platform.
-- [thirdweb](https://thirdweb.com/) Smart contracts you control. Tools that accelerate your workflow. Intuitive SDKs and widgets for developers.
-
-<div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
-</div>
-
-
-## Oracles
-
-What is a Blockchain Oracle? Twitter [thread](https://twitter.com/FrancescoCiull4/status/1481895919121534979)
-
-- [Chainlink](https://chain.link/) Chainlink decentralized oracle networks provide tamper-proof inputs, outputs, and computations to support advanced smart contracts on any blockchain.
-- [Flux](https://runonflux.io/) Flux is the trustless data layer for web3. Flux is a cross-chain oracle that provides smart contracts with access to economically secure data feeds on anything.
-
-<div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
-</div>
-
-## Off-Chain Data Protocols
-
-- [Ceramic Network](https://ceramic.network/) Ceramic is a decentralized data network that brings unlimited data composability to Web3 applications.
-- [Gun](https://gun.eco/) The decentralized distributed graph database engine. GunDB is the Open Source Firebase alternative, a web3 data protocol.
-
-<div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
-</div>
-
 ## NFT Marketplaces
 
 - [Axie Infinity](https://marketplace.axieinfinity.com/) Axie Marketplace is the online shop for the video game Axie Infinity.
 - [Decentraland](https://decentraland.org/) Decentraland is completely based on fantasy (Metaverse), with pretty much the same functionality as the real world.
 - [Looksrare](https://looksrare.org/) LooksRare is a community-first NFT marketplace with rewards for participating.
-- [OpenSea](https://opensea.io/) Opensea is the largest NFT marketplace and the one I used to mint my first NFT.
-- [Rarible](https://rarible.com/) A very large marketplace, partnered with Adobe. To use the marketplace, you need its own token "Rarible"
+- [Magic Eden](https://magiceden.io/) Magic Eden is the largest NFT marketplace on the Solana blockchain.
+- [OpenSea](https://opensea.io/) Opensea is the largest NFT marketplace and the one I used to mint my first NFT
+- [Rarible](https://rarible.com/) A very large marketplace, partnered with Adobe. To use the marketplace, you need its own token "Rarible".
+- [SuperRare](https://superrare.com/) SuperRare is a high-end digital art marketplace that attracts designer collaborations and celebrity collectors.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
