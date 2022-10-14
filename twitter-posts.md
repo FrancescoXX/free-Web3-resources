@@ -307,4 +307,4 @@ You can find Francesco [here](http://francescociulla.com)
 | 11-10-2022     |Solidity Contract|https://www.linkedin.com/posts/francesco-ciulla-roma_a-solidity-contract-is-similar-to-a-class-activity-6985448768779259904-idiQ|
 | 12-10-2022     |Solidity Events|https://www.linkedin.com/posts/francesco-ciulla-roma_events-in-solidity-one-of-my-favorite-solidity-activity-6985840624562278400-FrZo|
 | 13-10-2022     |Intagram Carousel What is an NFT|https://www.instagram.com/p/CjpBNIGD_oW|
-| 14-10-2022     ||
+| 14-10-2022     |Web3 Stack. October 2022|https://twitter.com/FrancescoCiull4/status/1580796021088563200|
