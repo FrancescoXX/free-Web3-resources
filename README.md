@@ -418,27 +418,6 @@ Decentralized Storage [thread](https://twitter.com/FrancescoCiull4/status/148329
   <b><a href="#">↥ Back To Top</a></b>
 </div>
 
-
-## ⭐ Oracles
-
-What is a Blockchain Oracle? Twitter [thread](https://twitter.com/FrancescoCiull4/status/1481895919121534979)
-
-- [Chainlink](https://chain.link/) Chainlink decentralized oracle networks provide tamper-proof inputs, outputs, and computations to support advanced smart contracts on any blockchain.
-- [Flux](https://runonflux.io/) Flux is the trustless data layer for web3. Flux is a cross-chain oracle that provides smart contracts with access to economically secure data feeds on anything.
-
-<div align="right">
-  <b><a href="#">↥ Back To Top</a></b>
-</div>
-
-## 🧾 Off-Chain Data Protocols
-
-- [Ceramic Network](https://ceramic.network/) Ceramic is a decentralized data network that brings unlimited data composability to Web3 applications.
-- [Gun](https://gun.eco/) The decentralized distributed graph database engine. GunDB is the Open Source Firebase alternative, a web3 data protocol.
-
-<div align="right">
-  <b><a href="#">↥ Back To Top</a></b>
-</div>
-
 ## 📈 NFT Marketplaces
 
 - [Axie Infinity](https://marketplace.axieinfinity.com/) Axie Marketplace is the online shop for the video game Axie Infinity.
