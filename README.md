@@ -10,7 +10,7 @@ This is a list of Free Web3 Resources links to learn Blockchain development.
 
 ![WEB3 FREE RESOURCES](https://user-images.githubusercontent.com/18360871/162364470-56cc28da-d50c-426f-82a4-7ea06234d4bf.png)
 
-## Getting Involved
+## 🔀 Getting Involved
 
 - [Blockchain Trilemma](https://medium.com/certik/the-blockchain-trilemma-decentralized-scalable-and-secure-e9d8c41a87b3) An article about the Blockchain Trilemma.
 - [Endgame](https://vitalik.ca/general/2021/12/06/endgame.html) An Article by Vitalik Buterin to have an idea of the direction Ethereum is taking.
@@ -18,7 +18,7 @@ This is a list of Free Web3 Resources links to learn Blockchain development.
 - [Ethereum Yellowpaper](https://ethereum.github.io/yellowpaper/paper.pdf) The "Yellow Paper": Ethereum's formal specification
 
 
-## Index
+## 📃 Index
 <ul>
 <li><a href="#web3-roadmaps-article-blog">Web3 Roadmaps (Article/Blog)</a></li>
 <li><a href="#web3-roadmaps-video">Web3 Roadmaps (Video)</a></li>
@@ -51,7 +51,7 @@ This is a list of Free Web3 Resources links to learn Blockchain development.
 </ul>
 
 
-## Web3 Roadmaps (Article/ Blog)
+## 📰 Web3 Roadmaps (Article/ Blog)
 
 - [Complete Web3.0 And Solidity Development Roadmap 2022](https://vitto.cc/web3-and-solidity-smart-contracts-development-roadmap/) by [Vittorio Rivabella](https://vitto.cc/)
 - [How To Get Into Crypto? 2022 Roadmap For A Web3 Developer](https://medium.com/theweb3stack/how-to-get-into-crypto-a-roadmap-for-a-web3-developer-4a5806f61869) by Darrius Singleton
@@ -72,7 +72,7 @@ This is a list of Free Web3 Resources links to learn Blockchain development.
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
-## Web3 Roadmaps (Video)
+## 📽 Web3 Roadmaps (Video)
 
 - [Become a Web 3 & Blockchain Developer in 2022 | Practical Step by Step Solidity and Web3 Roadmap](https://www.youtube.com/watch?v=aVQJGr2J8io) by Javascript Mastery
 - [A simple guide to the web3 developer stack](https://www.coinbase.com/blog/a-simple-guide-to-the-web3-developer-stack) by Coinbase
@@ -90,7 +90,7 @@ This is a list of Free Web3 Resources links to learn Blockchain development.
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
-## Web3 Roadmaps (Hindi/ Urdu)
+## ☸ Web3 Roadmaps (Hindi/ Urdu)
 
 - [Complete Blockchain Development Roadmap 🔥 What is Blockchain and how to get started? Salary & Course](https://youtu.be/n_5oeZWbseY) by [Anuj Bhaiya](https://www.youtube.com/c/AnujBhaiya)
 - [Blockchain roadmap](https://www.youtube.com/watch?v=uULy2rc6YDc) by [Apna College](https://www.youtube.com/c/ApnaCollegeOfficial)
@@ -102,7 +102,7 @@ This is a list of Free Web3 Resources links to learn Blockchain development.
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
-## Blogs
+## 📃 Blogs
 
 - [Hashnode Web3 Blog](https://web3.hashnode.com/) by [Hashnode](https://hashnode.com)
 
@@ -110,7 +110,7 @@ This is a list of Free Web3 Resources links to learn Blockchain development.
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
-## Blockchains
+## ⛓ Blockchains
 
 A list of currently active Blockchains projects. Sorted Alphabetically.
 
@@ -204,7 +204,7 @@ A list of currently active Blockchains projects. Sorted Alphabetically.
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
-## Youtube Channels
+## 🟥 Youtube Channels
 - [Dapp University](https://youtu.be/uGPC9wNTBbw)   Web3 Focused and has content on Blockchain development .
 - [Whiteboard Crypto](https://www.youtube.com/c/WhiteboardCrypto)   U will get lots of Crypto Knowledge here.
 - [Ethereum Foundation](https://youtu.be/TDGq4aeevgY)     Lots of Information on DEVCON.
@@ -225,7 +225,7 @@ A list of currently active Blockchains projects. Sorted Alphabetically.
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
-## Youtube Channels [Hindi/Urdu]
+## 🔴 Youtube Channels [Hindi/Urdu]
 - [Code Eater](https://www.youtube.com/c/CodeEater21) blockchain focused content on Blockchain development in Hindi
 - [Yash Deharia](https://www.youtube.com/channel/UC6D_7hpQFOd7XXoM1LRCN9w) Solidity course in Hindi + English
 - [Emerging Technologies](https://www.youtube.com/watch?v=t0Bb7Tl6bw4&list=PL1Xmyl4aKTRjyFTjaekHCtxZZdsNBUZKW) Blockchain Engineer Course in Urdu/Hindi
@@ -252,7 +252,7 @@ A list of Blockchain Learning Platforms.
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
-## Ethereum Development IDEs
+## 👨‍💻 Ethereum Development IDEs
 
 - [Remix IDE](https://remix.ethereum.org/) Web IDE with built-in static analysis, test blockchain VM.
 - [VS Code with Solidity Extensions](https://marketplace.visualstudio.com/items?itemName=JuanBlanco.solidity) Visual Studio Code Solidity Extension.
@@ -261,7 +261,7 @@ A list of Blockchain Learning Platforms.
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
-## Ethereum Development Environment
+## ⚡ Ethereum Development Environment
 
 - [Brownie](https://eth-brownie.readthedocs.io/en/stable/toctree.html) Brownie is a Python-based development and testing framework for smart contracts targeting the Ethereum Virtual Machine.
 - [Foundry](https://github.com/foundry-rs/foundry) Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
@@ -273,7 +273,7 @@ A list of Blockchain Learning Platforms.
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
-## Ethereum Development Tools 🛠️
+## 🛠️ Ethereum Development Tools
 
 - [Rainbow Dev Kit](https://www.rainbowkit.com/) RainbowKit is a React library that makes it easy to add a wallet connection to your dapp.
 - [scaffoldETH](https://github.com/scaffold-eth/scaffold-eth) Scaffold-eth is everything you need to get started building decentralized applications on Ethereum!
@@ -334,7 +334,7 @@ An Ethereum client is the software that allows Ethereum nodes to read the block 
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
-## Client SDKs
+## 📦 Client SDKs
 
 - [Ether.js](https://docs.ethers.io/) The ethers.js library aims to be a complete and compact library for interacting with the Ethereum Blockchain and its ecosystem.
 - [Web3.js](https://web3js.readthedocs.io/) Web3.js is a collection of libraries that allow you to interact with a local or remote Ethereum node using HTTP, IPC, or WebSocket.
@@ -344,7 +344,7 @@ An Ethereum client is the software that allows Ethereum nodes to read the block 
 </div>
 
 
-## SDKs
+## 🎁 SDKs
 
 - [Alchemy](https://www.alchemy.com/sdk) The Alchemy SDK is the easiest way to connect your dApp to the blockchain.
 - [Moralis](https://moralis.io/) The Ultimate Web3 Development Platform.
@@ -355,7 +355,7 @@ An Ethereum client is the software that allows Ethereum nodes to read the block 
 </div>
 
 
-## Node Providers
+## 💻 Node Providers
 
 [Node Providers Twitter Thread](https://twitter.com/FrancescoCiull4/status/1496711754776199168)
 
@@ -382,7 +382,7 @@ Decentralized Storage [thread](https://twitter.com/FrancescoCiull4/status/148329
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
-## Indexing
+## 🗂 Indexing
 
 - [The Graph](https://thegraph.com/en/) The Graph is an indexing protocol for querying networks like Ethereum and IPFS.
 
@@ -390,7 +390,7 @@ Decentralized Storage [thread](https://twitter.com/FrancescoCiull4/status/148329
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
-## DAO Communities
+## 💪 DAO Communities
 
 - [Buildspace](https://buildspace.so/) Onboarding devs to web3. Start building cool stuff right now, earn NFTs, and access secret opportunities in crypto.
 - [Cadena](https://cadena.dev/) - Build smart contracts, and dapps, on multiple chains with a community and earn a Cadena NFT Certificate.
@@ -407,7 +407,7 @@ Decentralized Storage [thread](https://twitter.com/FrancescoCiull4/status/148329
 </div>
 
 
-## SDKs
+## 📦 SDKs
 
 - [Moralis](https://moralis.io/) The Ultimate Web3 Development Platform.
 - [thirdweb](https://thirdweb.com/) Smart contracts you control. Tools that accelerate your workflow. Intuitive SDKs and widgets for developers.
@@ -417,7 +417,7 @@ Decentralized Storage [thread](https://twitter.com/FrancescoCiull4/status/148329
 </div>
 
 
-## Oracles
+## ⭐ Oracles
 
 What is a Blockchain Oracle? Twitter [thread](https://twitter.com/FrancescoCiull4/status/1481895919121534979)
 
@@ -428,7 +428,7 @@ What is a Blockchain Oracle? Twitter [thread](https://twitter.com/FrancescoCiull
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
-## Off-Chain Data Protocols
+## 🧾 Off-Chain Data Protocols
 
 - [Ceramic Network](https://ceramic.network/) Ceramic is a decentralized data network that brings unlimited data composability to Web3 applications.
 - [Gun](https://gun.eco/) The decentralized distributed graph database engine. GunDB is the Open Source Firebase alternative, a web3 data protocol.
@@ -437,7 +437,7 @@ What is a Blockchain Oracle? Twitter [thread](https://twitter.com/FrancescoCiull
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
-## NFT Marketplaces
+## 📈 NFT Marketplaces
 
 - [Axie Infinity](https://marketplace.axieinfinity.com/) Axie Marketplace is the online shop for the video game Axie Infinity.
 - [Decentraland](https://decentraland.org/) Decentraland is completely based on fantasy (Metaverse), with pretty much the same functionality as the real world.
@@ -450,7 +450,7 @@ What is a Blockchain Oracle? Twitter [thread](https://twitter.com/FrancescoCiull
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
-## Oracles
+## ⭐ Oracles
 
 [What is a Blockchain Oracle? Twitter thread](https://twitter.com/FrancescoCiull4/status/1481895919121534979)
 
@@ -461,7 +461,7 @@ What is a Blockchain Oracle? Twitter [thread](https://twitter.com/FrancescoCiull
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
-## Off-Chain Data Protocols
+## 🧾 Off-Chain Data Protocols
 
 - [Ceramic Network](https://ceramic.network/) Ceramic is a decentralized data network that brings unlimited data composability to Web3 applications.
 - [Gun](https://gun.eco/) The decentralized distributed graph database engine. GunDB is the Open Source Firebase alternative, a web3 data protocol.
@@ -475,7 +475,7 @@ What is a Blockchain Oracle? Twitter [thread](https://twitter.com/FrancescoCiull
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
-## Solana
+## 🔮 Solana
 
 ![image](https://user-images.githubusercontent.com/89864818/193443511-1a552e0f-199f-465d-a492-187aca0620bf.png)
 Solana is a public blockchain platform with smart contract functionality. Its native cryptocurrency is SOL.
@@ -542,7 +542,7 @@ Solana achieves consensus using a proof-of-stake mechanism and its model, known 
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
-## Polygon 
+## ❇ Polygon 
 ![image](https://user-images.githubusercontent.com/111836493/195151950-fa48697f-fed6-4b43-b4eb-4db5b9f320bc.png)
 
 Polygon (formerly MATIC Network) is an Indian blockchain scalability platform. It addresses the challenges faced by Ethereum such as high fees, poor user experience, and low transaction count per second. One of the methods used to address these issues is providing a framework for Proof of Stake transactions.
