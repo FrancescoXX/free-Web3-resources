@@ -6,9 +6,9 @@ You can find Francesco [here](http://francescociulla.com)
 
 
 
-| Day           | Topic | Link|
-| ------------- | ------------- |------------- |
-| 19-12-2021    |Solidity Contract|https://twitter.com/FrancescoCiull4/status/1472497765083189248|
+| DayNumber | Topic__________________________________________ | Link|
+| --- | ----------------- |----------------- |
+| 19-12-2021 |Solidity Contract|https://twitter.com/FrancescoCiull4/status/1472497765083189248|
 | 20-12-2021    |Solidity projects on GitHub|https://twitter.com/FrancescoCiull4/status/1472816770692042752|
 | 21-12-2021    |Solidity reserved keywords|https://twitter.com/FrancescoCiull4/status/1473157550862442500|
 | 22-12-2021    |NFT projects on GitHub|https://twitter.com/FrancescoCiull4/status/1473536967195467780|
@@ -307,4 +307,69 @@ You can find Francesco [here](http://francescociulla.com)
 | 11-10-2022     |Solidity Contract|https://www.linkedin.com/posts/francesco-ciulla-roma_a-solidity-contract-is-similar-to-a-class-activity-6985448768779259904-idiQ|
 | 12-10-2022     |Solidity Events|https://www.linkedin.com/posts/francesco-ciulla-roma_events-in-solidity-one-of-my-favorite-solidity-activity-6985840624562278400-FrZo|
 | 13-10-2022     |Intagram Carousel What is an NFT|https://www.instagram.com/p/CjpBNIGD_oW|
-| 14-10-2022     ||
+| 14-10-2022     |DAY 300! Web3 Stack. October 2022|https://twitter.com/FrancescoCiull4/status/1580796021088563200|
+| 15-10-2022| How to get started with Web3|https://twitter.com/FrancescoCiull4/status/1581188624606842881|
+| 16-10-2022|||
+| 17-10-2022|||
+| 18-10-2022|||
+| 19-10-2022|||
+| 20-10-2022|||
+| 21-10-2022|||
+| 22-10-2022|||
+| 23-10-2022|||
+| 24-10-2022|||
+| 25-10-2022|||
+| 26-10-2022|||
+| 27-10-2022|||
+| 28-10-2022|||
+| 29-10-2022|||
+| 30-10-2022|||
+| 31-10-2022|||
+| 1-11-2022|||
+| 2-11-2022|||
+| 3-11-2022|||
+| 4-11-2022|||
+| 5-11-2022|||
+| 6-11-2022|||
+| 7-11-2022|||
+| 8-11-2022|||
+| 9-11-2022|||
+| 10-11-2022|||
+| 11-11-2022|||
+| 12-11-2022|||
+| 13-11-2022|||
+| 14-11-2022|||
+| 15-11-2022|||
+| 16-11-2022|||
+| 17-11-2022|||
+| 18-11-2022|||
+| 19-11-2022|||
+| 20-11-2022|||
+| 21-11-2022|||
+| 22-11-2022|||
+| 23-11-2022|||
+| 24-11-2022|||
+| 25-11-2022|||
+| 26-11-2022|||
+| 27-11-2022|||
+| 28-11-2022|||
+| 29-11-2022|||
+| 30-11-2022|||
+| 1-12-2022|||
+| 2-12-2022|||
+| 3-12-2022|||
+| 4-12-2022|||
+| 5-12-2022|||
+| 6-12-2022|||
+| 7-12-2022|||
+| 8-12-2022|||
+| 9-12-2022|||
+| 10-12-2022|||
+| 11-12-2022|||
+| 12-12-2022|||
+| 13-12-2022|||
+| 14-12-2022|||
+| 15-12-2022|||
+| 16-12-2022|||
+| 17-12-2022|||
+| 18-12-2022|||
