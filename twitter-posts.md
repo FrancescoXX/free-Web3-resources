@@ -310,7 +310,7 @@ You can find Francesco [here](http://francescociulla.com)
 | 14-10-2022     |DAY 300! Web3 Stack. October 2022|https://twitter.com/FrancescoCiull4/status/1580796021088563200|
 | 15-10-2022| How to get started with Web3|https://twitter.com/FrancescoCiull4/status/1581188624606842881|
 | 16-10-2022|Livestream Hacktoberfest PR merge|https://youtu.be/7sjUQJHnASA|
-| 17-10-2022|||
+| 17-10-2022|Rust repositories|https://twitter.com/FrancescoCiull4/status/1581903077778796548|
 | 18-10-2022|||
 | 19-10-2022|||
 | 20-10-2022|||
