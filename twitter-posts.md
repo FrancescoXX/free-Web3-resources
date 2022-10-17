@@ -309,7 +309,7 @@ You can find Francesco [here](http://francescociulla.com)
 | 13-10-2022     |Intagram Carousel What is an NFT|https://www.instagram.com/p/CjpBNIGD_oW|
 | 14-10-2022     |DAY 300! Web3 Stack. October 2022|https://twitter.com/FrancescoCiull4/status/1580796021088563200|
 | 15-10-2022| How to get started with Web3|https://twitter.com/FrancescoCiull4/status/1581188624606842881|
-| 16-10-2022|||
+| 16-10-2022|Livestream Hacktoberfest PR merge|https://youtu.be/7sjUQJHnASA|
 | 17-10-2022|||
 | 18-10-2022|||
 | 19-10-2022|||
