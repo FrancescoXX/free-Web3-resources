@@ -223,6 +223,7 @@ A list of currently active Blockchains projects. Sorted Alphabetically.
 - [Patrick Collins](https://www.youtube.com/c/PatrickCollins)   Web3 focused 
 - [Alchemy](https://www.youtube.com/c/AlchemyPlatform)   Content on Web3 Development , NFT.
 - [Web3 Foundation](https://www.youtube.com/c/WEB3Foundation)    "Web3 Focused" , content on Web3 Foundation Workshops.
+-[Francesco Ciulla](https://www.youtube.com/c/FrancescoCiulla) Youtube channel on Devops, Web3, Podcasts
 
 <div align="right">
   <b><a href="#">↥ Back To Top</a></b>
