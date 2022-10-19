@@ -312,7 +312,7 @@ You can find Francesco [here](http://francescociulla.com)
 | 16-10-2022|Livestream Hacktoberfest PR merge|https://youtu.be/7sjUQJHnASA|
 | 17-10-2022|Rust repositories|https://twitter.com/FrancescoCiull4/status/1581903077778796548|
 | 18-10-2022|4 Decentralize Storage technologies|https://twitter.com/FrancescoCiull4/status/1582443855575912448|
-| 19-10-2022|||
+| 19-10-2022|Decentralized Storage thread|https://twitter.com/FrancescoCiull4/status/1582588224723353602|
 | 20-10-2022|||
 | 21-10-2022|||
 | 22-10-2022|||
