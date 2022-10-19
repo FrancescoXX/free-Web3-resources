@@ -20,31 +20,31 @@ This is a list of Free Web3 Resources links to learn Blockchain development.
 
 ## 📃 Index
 <ul>
-<li><a href="#web3-roadmaps-article-blog">Web3 Roadmaps (Article/Blog)</a></li>
-<li><a href="#web3-roadmaps-video">Web3 Roadmaps (Video)</a></li>
-<li><a href="#web3-roadmaps-hindi-urdu">Web3 Roadmaps (Hindi/Urdu)</a></li>
-<li><a href="#blogs">Blogs</a></li>
-<li><a href="#blockchains">Blockchain</a></li>
+<li><a href="#-web3-roadmaps-article-blog">Web3 Roadmaps (Article/Blog)</a></li>
+<li><a href="#-web3-roadmaps-video">Web3 Roadmaps (Video)</a></li>
+<li><a href="#-web3-roadmaps-hindi-urdu">Web3 Roadmaps (Hindi/Urdu)</a></li>
+<li><a href="#-blogs">Blogs</a></li>
+<li><a href="#-blockchains">Blockchain</a></li>
 <li><a href="#-identity"> Identity</a></li>
 <li><a href="#-ethereum"> Ethereum</a></li>
-<li><a href="#youtube-channels">Youtube Channels</a></li>
-<li><a href="#youtube-channels-hindi">Youtube Channels [Hindi]</a></li>
+<li><a href="#-youtube-channels">Youtube Channels</a></li>
+<li><a href="#-youtube-channels-hindi-urdu">Youtube Channels (Hindi/Urdu) </a></li>
 <li><a href="#-learning-platforms"> Learning Platforms</a></li>
-<li><a href="#ethereum-development-ides">Ethereum Development IDEs</a></li>
-<li><a href="#ethereum-development-environment">Ethereum Development Environment</a></li>
-<li><a href="ethereum-development-tools">Ethereum Development Tools </a></li>
+<li><a href="#-ethereum-development-ides">Ethereum Development IDEs</a></li>
+<li><a href="#-ethereum-development-environment">Ethereum Development Environment</a></li>
+<li><a href="-ethereum-development-tools">Ethereum Development Tools </a></li>
 <li><a href="#-ethereum-clients"> Ethereum Clients</a></li>
 <li><a href="#-ethereum-in-different-languages"> Ethereum in different languages</a></li>
-<li><a href="#client-sdks">Client SDKs</a></li>
-<li><a href="#sdks">SDKs</a></li>
-<li><a href="#node-providers">Node Providers</a></li>
+<li><a href="#-client-sdks">Client SDKs</a></li>
+<li><a href="#-sdks">SDKs</a></li>
+<li><a href="#-node-providers">Node Providers</a></li>
 <li><a href="#-file-storage"> File Storage</a></li>
-<li><a href="#indexing">Indexing</a></li>
-<li><a href="#dao-communities">DAO Communities</a></li>
-<li><a href="#nft-marketplaces">NFT Marketplaces</a></li>
-<li><a href="#oracles">Oracles</a></li>
-<li><a href="#off-chain-data-protocols">Off-Chain Data Protocols</a></li>
-<li><a href="#solana">Solana</a></li>
+<li><a href="#-indexing">Indexing</a></li>
+<li><a href="#-dao-communities">DAO Communities</a></li>
+<li><a href="#-nft-marketplaces">NFT Marketplaces</a></li>
+<li><a href="#-oracles">Oracles</a></li>
+<li><a href="#-off-chain-data-protocols">Off-Chain Data Protocols</a></li>
+<li><a href="#-solana">Solana</a></li>
 <li><a href="#-open-source-projects-you-can-contribute-to"> Open Source Projects you can contribute to</a></li> 
 </ul>
 
