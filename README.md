@@ -169,43 +169,7 @@ A list of currently active Blockchains projects. Sorted Alphabetically.
   <b><a href="#">↥ Back To Top</a></b>
 </div>
 
-## 💡 Ethereum 
 
-- [Awesome Ethereum by bekatom](https://github.com/bekatom/awesome-ethereum) Awesome Ethereum Resources
-- [Awesome Ethereum Security](https://github.com/crytic/awesome-ethereum-security) A curated list of awesome Ethereum security references
-- [Decentralizing Everything](https://www.youtube.com/watch?v=WSN5BaCzsbo&ab_channel=TechCrunch) Naval Ravikant brings Ethereum's Vitalik Buterin onstage to explain what it is and why it's useful.
-- [District0x](https://education.district0x.io/general-topics/understanding-ethereum/) An educational resource about Ethereum targeted at beginners.
-- [ethereum.org](https://ethereum.org/) ethereum.org is your portal into the world of Ethereum.
-- [Ethereumbook](https://github.com/ethereumbook/ethereumbook) Mastering Ethereum, by Andreas M. Antonopoulos, Gavin Wood
-- [EtherWorld](https://etherworld.co/tag/ethereum/) An Ethereum educational resource in the form of blogs and video guides
-- [Ethereum Boilerplate](https://github.com/ethereum-boilerplate/ethereum-boilerplate) Ethereum Dapp Boilerplate by Moralis. Despite the name, it also works with any EVM and Solana
-- [Ethereum Foundation YT Channel](https://www.youtube.com/channel/UCNOfzGXD_C9YMYmnefmPH0g) Ethereum Foundation YouTube Channel. It currently has 45k Subscribers
-- [Ethereum Wiki](https://eth.wiki/) Ethereum wiki covers all things related to Ethereum.
-- [EthHub](https://docs.ethhub.io) The goal of EthHub is to provide a single source for essential Ethereum information.
-- [Solidity Docs](https://docs.soliditylang.org/en/v0.8.13/) Solidity documentation
-- [Intro to Fullstack Ethereum Development](https://github.com/ChristianChiarulli/intro-fullstack-ethereum#readme) by ChristianChiarulli
-- [Solidity](https://docs.soliditylang.org/en/v0.8.13/) Solidity is an object-oriented, high-level language for implementing smart contracts.
-- [Vyper](https://vyper.readthedocs.io/en/stable/) Vyper is a contract-oriented, pythonic programming language that targets the Ethereum Virtual Machine (EVM).
-
-- [Solidity Cheatsheet](https://intellipaat.com/mediaFiles/2019/03/Solidity-Cheat-Sheet.jpg) A comprehensive Solidity Cheatsheet.
-- [Solidity Cheatsheet by Manojpramesh](https://github.com/manojpramesh/solidity-cheatsheet) Cheat sheet and best practices for solidity. Write smart contracts for Ethereum.
-- [Solidity Cheatsheet](https://github.com/patrickd-/cheatsheet.sol) A working .sol file for easy access and recall with Solidity.
-- [CryptoZombies Course](https://cryptozombies.io/en/course/) Learn how to create and work on smart contracts in an interactive and fun way.
-- [Solidity Course](https://metaschool.so/course/10-days-of-solidity) 10 Days of solidity for Beginners
-- [Ethernauts](https://ethernaut.openzeppelin.com/) Learn solidity by hacking smart contracts.
-- [Capture The Ether](https://capturetheether.com/) Capture the Ether is a game in which you hack Ethereum smart contracts to learn about security.
-- [Learn Blockchain, Solidity, and Full Stack JavaScript Development](https://www.freecodecamp.org/news/learn-blockchain-solidity-full-stack-javascript-development/) This course will give you a full introduction into all of the core concepts related to blockchain, smart contracts, Solidity, full-stack Web3 dapps, decentralized finance (DeFi), Chainlink, and more.
-- [Learn Solidity: The COMPLETE Beginner’s Guide](https://www.youtube.com/watch?v=EhPeHeoKF88) A video tutorial to learn Solidity language and to make smart contract.
-
-- [Vyper Cheatsheet by Manojpramesh](https://github.com/manojpramesh/vyper-cheatsheet) A comprehensive vyper cheatsheet
-- [Awesome Vyper by Spade Builders](https://github.com/spadebuilders/awesome-vyper)
-- [Learn Vyper by building a pokemon Game](https://learn.vyperlang.org/#/)
-- [Vyper Programming Tutorial for Ethereum Smart Contract Development (Blockchain)](https://www.youtube.com/watch?v=-RHTgegox8I) by Dapp University
-- [Understanding the Ethereum Blockchain Protocol](https://www.youtube.com/watch?v=gjwr-7PgpN8&t=289s) by [Vitalik Buterin](https://twitter.com/VitalikButerin)
-
-<div align="right">
-  <b><a href="#">↥ Back To Top</a></b>
-</div>
 
 ## 🟥 Youtube Channels
 - [Dapp University](https://youtu.be/uGPC9wNTBbw)   Web3 Focused and has content on Blockchain development .
@@ -255,7 +219,86 @@ A list of Blockchain Learning Platforms.
   <b><a href="#">↥ Back To Top</a></b>
 </div>
 
-## 👨‍💻 Ethereum Development IDEs
+# Top 10 Blockchain Networks for Developers
+
+## ETHEREUM 
+<details>
+<summary>ETH</summary>
+<br>
+  
+  <details>
+<summary>About It</summary>
+<br> 
+
+- [Awesome Ethereum by bekatom](https://github.com/bekatom/awesome-ethereum) Awesome Ethereum Resources
+- [Awesome Ethereum Security](https://github.com/crytic/awesome-ethereum-security) A curated list of awesome Ethereum security references
+- [Decentralizing Everything](https://www.youtube.com/watch?v=WSN5BaCzsbo&ab_channel=TechCrunch) Naval Ravikant brings Ethereum's Vitalik Buterin onstage to explain what it is and why it's useful.
+- [District0x](https://education.district0x.io/general-topics/understanding-ethereum/) An educational resource about Ethereum targeted at beginners.
+- [ethereum.org](https://ethereum.org/) ethereum.org is your portal into the world of Ethereum.
+- [Ethereumbook](https://github.com/ethereumbook/ethereumbook) Mastering Ethereum, by Andreas M. Antonopoulos, Gavin Wood
+- [EtherWorld](https://etherworld.co/tag/ethereum/) An Ethereum educational resource in the form of blogs and video guides
+- [Ethereum Boilerplate](https://github.com/ethereum-boilerplate/ethereum-boilerplate) Ethereum Dapp Boilerplate by Moralis. Despite the name, it also works with any EVM and Solana
+- [Ethereum Foundation YT Channel](https://www.youtube.com/channel/UCNOfzGXD_C9YMYmnefmPH0g) Ethereum Foundation YouTube Channel. It currently has 45k Subscribers
+- [Ethereum Wiki](https://eth.wiki/) Ethereum wiki covers all things related to Ethereum.
+- [EthHub](https://docs.ethhub.io) The goal of EthHub is to provide a single source for essential Ethereum information.
+- [Solidity Docs](https://docs.soliditylang.org/en/v0.8.13/) Solidity documentation
+- [Intro to Fullstack Ethereum Development](https://github.com/ChristianChiarulli/intro-fullstack-ethereum#readme) by ChristianChiarulli
+- [Solidity](https://docs.soliditylang.org/en/v0.8.13/) Solidity is an object-oriented, high-level language for implementing smart contracts.
+- [Vyper](https://vyper.readthedocs.io/en/stable/) Vyper is a contract-oriented, pythonic programming language that targets the Ethereum Virtual Machine (EVM).
+
+- [Solidity Cheatsheet](https://intellipaat.com/mediaFiles/2019/03/Solidity-Cheat-Sheet.jpg) A comprehensive Solidity Cheatsheet.
+- [Solidity Cheatsheet by Manojpramesh](https://github.com/manojpramesh/solidity-cheatsheet) Cheat sheet and best practices for solidity. Write smart contracts for Ethereum.
+- [Solidity Cheatsheet](https://github.com/patrickd-/cheatsheet.sol) A working .sol file for easy access and recall with Solidity.
+- [CryptoZombies Course](https://cryptozombies.io/en/course/) Learn how to create and work on smart contracts in an interactive and fun way.
+- [Solidity Course](https://metaschool.so/course/10-days-of-solidity) 10 Days of solidity for Beginners
+- [Ethernauts](https://ethernaut.openzeppelin.com/) Learn solidity by hacking smart contracts.
+- [Capture The Ether](https://capturetheether.com/) Capture the Ether is a game in which you hack Ethereum smart contracts to learn about security.
+- [Learn Blockchain, Solidity, and Full Stack JavaScript Development](https://www.freecodecamp.org/news/learn-blockchain-solidity-full-stack-javascript-development/) This course will give you a full introduction into all of the core concepts related to blockchain, smart contracts, Solidity, full-stack Web3 dapps, decentralized finance (DeFi), Chainlink, and more.
+- [Learn Solidity: The COMPLETE Beginner’s Guide](https://www.youtube.com/watch?v=EhPeHeoKF88) A video tutorial to learn Solidity language and to make smart contract.
+
+- [Vyper Cheatsheet by Manojpramesh](https://github.com/manojpramesh/vyper-cheatsheet) A comprehensive vyper cheatsheet
+- [Awesome Vyper by Spade Builders](https://github.com/spadebuilders/awesome-vyper)
+- [Learn Vyper by building a pokemon Game](https://learn.vyperlang.org/#/)
+- [Vyper Programming Tutorial for Ethereum Smart Contract Development (Blockchain)](https://www.youtube.com/watch?v=-RHTgegox8I) by Dapp University
+- [Understanding the Ethereum Blockchain Protocol](https://www.youtube.com/watch?v=gjwr-7PgpN8&t=289s) by [Vitalik Buterin](https://twitter.com/VitalikButerin)
+
+<div align="right">
+  <b><a href="#">↥ Back To Top</a></b>
+</div>
+
+</details>
+  
+  <details>
+<summary>Platforms Built Over Ethereum Network</summary>
+<br>
+    
+   <details>
+<summary>DAOs</summary>
+<br>
+
+</details>
+    
+  <details>
+<summary>DApps</summary>
+<br>
+
+</details>
+    
+  <details>
+<summary>DEXs</summary>
+<br>
+
+</details>
+
+<br>
+
+</details>
+  
+  <details>
+<summary> Miscellaneous </summary>
+<br>
+    
+    ## 👨‍💻 Ethereum Development IDEs
 
 - [Remix IDE](https://remix.ethereum.org/) Web IDE with built-in static analysis, test blockchain VM.
 - [VS Code with Solidity Extensions](https://marketplace.visualstudio.com/items?itemName=JuanBlanco.solidity) Visual Studio Code Solidity Extension.
@@ -263,7 +306,9 @@ A list of Blockchain Learning Platforms.
 <div align="right">
   <b><a href="#">↥ Back To Top</a></b>
 </div>
-
+  
+ <br>
+  
 ## ⚡ Ethereum Development Environment
 
 - [Brownie](https://eth-brownie.readthedocs.io/en/stable/toctree.html) Brownie is a Python-based development and testing framework for smart contracts targeting the Ethereum Virtual Machine.
@@ -275,8 +320,10 @@ A list of Blockchain Learning Platforms.
 <div align="right">
   <b><a href="#">↥ Back To Top</a></b>
 </div>
-
-## 🛠️ Ethereum Development Tools
+  
+ <br>
+  
+  ## 🛠️ Ethereum Development Tools
 
 - [Rainbow Dev Kit](https://www.rainbowkit.com/) RainbowKit is a React library that makes it easy to add a wallet connection to your dapp.
 - [scaffoldETH](https://github.com/scaffold-eth/scaffold-eth) Scaffold-eth is everything you need to get started building decentralized applications on Ethereum!
@@ -288,7 +335,7 @@ A list of Blockchain Learning Platforms.
 <div align="right">
   <b><a href="#">↥ Back To Top</a></b>
 </div>
-
+  
 ## 👨‍💼 Ethereum Clients
 
 An Ethereum client is the software that allows Ethereum nodes to read the block on the Ethereum network. [(more...)](https://twitter.com/FrancescoCiull4/status/1484415980293996544)
@@ -336,6 +383,126 @@ An Ethereum client is the software that allows Ethereum nodes to read the block 
 <div align="right">
   <b><a href="#">↥ Back To Top</a></b>
 </div>
+
+    
+</details>
+
+</details>
+
+## SOLANA
+
+<details>
+<summary> SOL </summary>
+<br>
+  
+  <details>
+<summary>About It</summary>
+<br>
+   
+
+![image](https://user-images.githubusercontent.com/89864818/193443511-1a552e0f-199f-465d-a492-187aca0620bf.png)
+Solana is a public blockchain platform with smart contract functionality. Its native cryptocurrency is SOL.
+Solana achieves consensus using a proof-of-stake mechanism and its model, known as "proof-of-history" mechanism. Proof of history enables the network to operate faster because nodes do not need to communicate to validate a block. The Solana whitepaper describes this design as a decentralized clock. 
+
+- [Getting Started with Solana](https://docs.solana.com/developing/clients/javascript-api)
+- [Complete Guide to Full Stack Solana Development by Nader Dabit](https://dev.to/edge-and-node/the-complete-guide-to-full-stack-solana-development-with-react-anchor-rust-and-phantom-3291)
+- [How to Mint an NFT on Solana](https://www.quicknode.com/guides/web3-sdks/how-to-mint-an-nft-on-solana)
+
+<div align="right">
+  <b><a href="#">↥ Back To Top</a></b>
+</div>
+
+</details>
+
+  <details>
+<summary>Platforms Built Over Solana Network</summary>
+<br>
+    
+   <details>
+<summary>DAOs</summary>
+<br>
+
+</details>
+    
+  <details>
+<summary>DApps</summary>
+<br>
+
+</details>
+    
+  <details>
+<summary>DEXs</summary>
+<br>
+
+</details>
+  
+</details>
+
+</details>
+
+## POLYGON
+
+<details>
+<summary> MATIC </summary>
+<br>
+  
+  <details>
+<summary>About It</summary>
+<br>
+  
+  
+![image](https://user-images.githubusercontent.com/111836493/195151950-fa48697f-fed6-4b43-b4eb-4db5b9f320bc.png)
+
+Polygon (formerly MATIC Network) is an Indian blockchain scalability platform. It addresses the challenges faced by Ethereum such as high fees, poor user experience, and low transaction count per second. One of the methods used to address these issues is providing a framework for Proof of Stake transactions.
+
+ Resources
+
+- [PolygonBlog](https://polygon.technology/)
+
+- [Finematics](https://www.youtube.com/watch?v=IijtdpAtOt0)
+
+- [WhiteboardCrypto](https://www.youtube.com/watch?v=GWUwFDFOipo)
+
+- [MoneyZG](https://www.youtube.com/watch?v=SKY-FMv_kko)
+    
+</details>
+  
+  <details>
+<summary>Platforms Built Over Solana Network</summary>
+<br>
+    
+   <details>
+<summary>DAOs</summary>
+<br>
+
+</details>
+    
+  <details>
+<summary>DApps</summary>
+<br>
+
+</details>
+    
+  <details>
+<summary>DEXs</summary>
+<br>
+
+</details>
+  
+</details>
+
+</details>
+
+
+
+
+<div align="right">
+  <b><a href="#">↥ Back To Top</a></b>
+</div>
+    
+</details>
+
+<br>
 
 ## 📦 Client SDKs
 
@@ -459,19 +626,7 @@ Decentralized Storage [thread](https://twitter.com/FrancescoCiull4/status/148329
   <b><a href="#">↥ Back To Top</a></b>
 </div>
 
-## 🔮 Solana
 
-![image](https://user-images.githubusercontent.com/89864818/193443511-1a552e0f-199f-465d-a492-187aca0620bf.png)
-Solana is a public blockchain platform with smart contract functionality. Its native cryptocurrency is SOL.
-Solana achieves consensus using a proof-of-stake mechanism and its model, known as "proof-of-history" mechanism. Proof of history enables the network to operate faster because nodes do not need to communicate to validate a block. The Solana whitepaper describes this design as a decentralized clock. 
-
-- [Getting Started with Solana](https://docs.solana.com/developing/clients/javascript-api)
-- [Complete Guide to Full Stack Solana Development by Nader Dabit](https://dev.to/edge-and-node/the-complete-guide-to-full-stack-solana-development-with-react-anchor-rust-and-phantom-3291)
-- [How to Mint an NFT on Solana](https://www.quicknode.com/guides/web3-sdks/how-to-mint-an-nft-on-solana)
-
-<div align="right">
-  <b><a href="#">↥ Back To Top</a></b>
-</div>
 
 
 ## 👨‍💻 Open Source Projects you can contribute to
@@ -526,26 +681,7 @@ Solana achieves consensus using a proof-of-stake mechanism and its model, known 
   <b><a href="#">↥ Back To Top</a></b>
 </div>
 
-## ❇ Polygon 
-![image](https://user-images.githubusercontent.com/111836493/195151950-fa48697f-fed6-4b43-b4eb-4db5b9f320bc.png)
 
-Polygon (formerly MATIC Network) is an Indian blockchain scalability platform. It addresses the challenges faced by Ethereum such as high fees, poor user experience, and low transaction count per second. One of the methods used to address these issues is providing a framework for Proof of Stake transactions.
-
- Resources
-
-- [PolygonBlog](https://polygon.technology/)
-
-- [Finematics](https://www.youtube.com/watch?v=IijtdpAtOt0)
-
-- [WhiteboardCrypto](https://www.youtube.com/watch?v=GWUwFDFOipo)
-
-- [MoneyZG](https://www.youtube.com/watch?v=SKY-FMv_kko)
-
-
-
-<div align="right">
-  <b><a href="#">↥ Back To Top</a></b>
-</div>
 
 
 
