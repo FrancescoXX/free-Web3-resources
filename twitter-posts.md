@@ -314,10 +314,10 @@ You can find Francesco [here](http://francescociulla.com)
 | 18-10-2022|4 Decentralize Storage technologies|https://twitter.com/FrancescoCiull4/status/1582443855575912448|
 | 19-10-2022|Decentralized Storage thread|https://twitter.com/FrancescoCiull4/status/1582588224723353602|
 | 20-10-2022|Tatum livestream|https://youtu.be/fiv0aagW98M|
-| 21-10-2022|Ethereum dapps thread|https://twitter.com/FrancescoCiull4/status/1583926601330601984|
-| 22-10-2022|Francesco's Newsletter|https://www.getrevue.co/profile/francescociull4/issues/francesco-s-newsletter-vitalik-buterin-wants-to-solve-twitter-s-bot-problem-gavin-wood-steps-down-from-ceo-role-at-blockchain-s-builder-1409454|
-| 23-10-2022|||
-| 24-10-2022|||
+| 21-10-2022|Alchemy early access|https://twitter.com/FrancescoCiull4/status/1583350955042430976|
+| 22-10-2022|Ethereum dapps thread|https://twitter.com/FrancescoCiull4/status/1583926601330601984|
+| 23-10-2022|Francesco's Newsletter|https://www.getrevue.co/profile/francescociull4/issues/francesco-s-newsletter-vitalik-buterin-wants-to-solve-twitter-s-bot-problem-gavin-wood-steps-down-from-ceo-role-at-blockchain-s-builder-1409454|
+| 24-10-2022|14 Web3 projects on gitHub thread||
 | 25-10-2022|||
 | 26-10-2022|||
 | 27-10-2022|||
