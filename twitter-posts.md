@@ -318,7 +318,7 @@ You can find Francesco [here](http://francescociulla.com)
 | 22-10-2022|Ethereum dapps thread|https://twitter.com/FrancescoCiull4/status/1583926601330601984|
 | 23-10-2022|Francesco's Newsletter|https://www.getrevue.co/profile/francescociull4/issues/francesco-s-newsletter-vitalik-buterin-wants-to-solve-twitter-s-bot-problem-gavin-wood-steps-down-from-ceo-role-at-blockchain-s-builder-1409454|
 | 24-10-2022|14 Web3 projects on gitHub thread||
-| 25-10-2022|||
+| 25-10-2022|Learn Web3 for free:|https://twitter.com/FrancescoCiull4/status/1584782793145348096?cxt=HHwWgMCj-bjjo_4rAAAA|
 | 26-10-2022|||
 | 27-10-2022|||
 | 28-10-2022|||
