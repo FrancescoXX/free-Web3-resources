@@ -52,6 +52,7 @@ This is a list of Free Web3 Resources links to learn Blockchain development.
 ## 📰 Web3 Roadmaps (Article/ Blog)
 
 - [Complete Web3.0 And Solidity Development Roadmap 2022](https://vitto.cc/web3-and-solidity-smart-contracts-development-roadmap/) by [Vittorio Rivabella](https://vitto.cc/)
+- [How to Become a Blockchain Developer?](https://www.geeksforgeeks.org/how-to-become-a-blockchain-developer/) by geeksforgeeks
 - [How To Get Into Crypto? 2022 Roadmap For A Web3 Developer](https://medium.com/theweb3stack/how-to-get-into-crypto-a-roadmap-for-a-web3-developer-4a5806f61869) by Darrius Singleton
 - [My roadmap in web 3](https://dev.to/jesusantguerrero/my-roadmap-in-web-3-1hgo) by Jesus Guerrero
 - [My web3 journey in 100 days](https://eda.hashnode.dev/my-web3-journey-day-100-of-100daysofweb3) by [Eda](https://twitter.com/edatweets_)
