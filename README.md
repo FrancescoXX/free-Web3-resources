@@ -46,6 +46,7 @@ This is a list of Free Web3 Resources links to learn Blockchain development.
 <li><a href="#-off-chain-data-protocols">Off-Chain Data Protocols</a></li>
 <li><a href="#-solana">Solana</a></li>
 <li><a href="#-open-source-projects-you-can-contribute-to"> Open Source Projects you can contribute to</a></li> 
+<li><a href="#-polygon">Polygon</a></li> 
 </ul>
 
 
