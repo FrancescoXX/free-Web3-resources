@@ -127,6 +127,7 @@ A list of currently active Blockchains projects. Sorted Alphabetically.
 - [Ethereum](https://ethereum.org/en/) Ethereum is the community-run technology powering the cryptocurrency ether (ETH) and thousands of decentralized applications.
 - [Elrond](https://elrond.com) Elrond is a highly scalable, fast, and secure blockchain platform for distributed apps, enterprise use cases, and the new internet economy.
 - [Fantom](https://fantom.foundation/) Fantom is a highly scalable blockchain platform for Defi, crypto dApps, and enterprise applications.
+- [Flow](https://flow.com/) Flow is a fast, secure, and developer-friendly blockchain built for games, apps, and digital assets.
 - [Harmony](https://www.harmony.one/) is an open and fast layer-1 blockchain. It is compatible with EVM and Solidity. It supports very low transaction fees. Its native crypto is ONE.
 - [Hedera Hashgraph](https://hedera.com/) Hashgraph is a distributed ledger technology that has been described as an alternative to blockchains.
 - [Hyperledger Fabric](https://www.hyperledger.org/use/fabric) Hyperledger Fabric is intended as a foundation for developing apps or solutions with a modular architecture.
