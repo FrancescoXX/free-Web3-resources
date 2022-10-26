@@ -89,6 +89,7 @@ This is a list of Free Web3 Resources links to learn Blockchain development.
 - [Solidity Course](https://metaschool.so/course/10-days-of-solidity) 10 Days of solidity for Beginners
 - [Ethernauts](https://ethernaut.openzeppelin.com/) Learn solidity by hacking the smart contracts.
 - [Capture The Ether](https://capturetheether.com/) Capture the Ether is a game in which you hack Ethereum smart contracts to learn about security.
+- [Solidity-30Days-Challenge](https://codedamn.com/learn/solidity-thirty) Practice Solidity by building small smart contracts.
 
 #### Tutorials
 
