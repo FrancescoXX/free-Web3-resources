@@ -320,8 +320,8 @@ You can find Francesco [here](http://francescociulla.com)
 | 24-10-2022|14 Web3 projects on gitHub thread|https://twitter.com/FrancescoCiull4/status/1584304857825300481|
 | 25-10-2022|Learn Web3 for free links|https://twitter.com/FrancescoCiull4/status/1584782793145348096|
 | 26-10-2022|Web3 roadmaps - October 2022|https://twitter.com/FrancescoCiull4/status/1585152264117055488|
-| 27-10-2022|||
-| 28-10-2022|||
+| 27-10-2022|12 resources to learn Ethereum thread|https://twitter.com/FrancescoCiull4/status/1585525075398230018|
+| 28-10-2022|The Graph thread introduction|https://twitter.com/FrancescoCiull4/status/1585845313595527168|
 | 29-10-2022|||
 | 30-10-2022|||
 | 31-10-2022|||
