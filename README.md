@@ -387,6 +387,14 @@ Decentralized Storage [thread](https://twitter.com/FrancescoCiull4/status/148329
   <b><a href="#">↥ Back To Top</a></b>
 </div>
 
+## ✉️ Communication
+
+- [Push Protocol](https://push.org/) PUSH Protocol (previously EPNS) is the world’s first decentralized notification protocol for Web3. Push Protocol also has built Push Chat, a web3-native secure, wallet-to-wallet messaging to everyday users.
+
+<div align="right">
+  <b><a href="#">↥ Back To Top</a></b>
+</div>
+
 ## 💪 DAO Communities
 
 - [Buildspace](https://buildspace.so/) Onboarding devs to web3. Start building cool stuff right now, earn NFTs, and access secret opportunities in crypto.
