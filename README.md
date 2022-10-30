@@ -91,7 +91,9 @@ This is a list of Free Web3 Resources links to learn Blockchain development.
 
 ## Blogs
 - [Hashnode Web3 Blog](https://web3.hashnode.com/) by [Hashnode](https://hashnode.com).
+- [Build your first web3 application using HTML,CSS and JS](https://blogbyvivek.hashnode.dev/build-your-first-web-30-application-with-html-css-javascript-and-remix-ide) by [Vivek Suthar](https://viveksuthar.me/).
 - [Celo Developer Blog](https://medium.com/celodevelopers)
+
 
 <div align="right">
   <b><a href="#">↥ Back To Top</a></b>
