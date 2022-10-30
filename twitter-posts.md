@@ -6,9 +6,9 @@ You can find Francesco [here](http://francescociulla.com)
 
 
 
-| Day           | Topic | Link|
-| ------------- | ------------- |------------- |
-| 19-12-2021    |Solidity Contract|https://twitter.com/FrancescoCiull4/status/1472497765083189248|
+| DayNumber | Topic__________________________________________ | Link|
+| --- | ----------------- |----------------- |
+| 19-12-2021 |Solidity Contract|https://twitter.com/FrancescoCiull4/status/1472497765083189248|
 | 20-12-2021    |Solidity projects on GitHub|https://twitter.com/FrancescoCiull4/status/1472816770692042752|
 | 21-12-2021    |Solidity reserved keywords|https://twitter.com/FrancescoCiull4/status/1473157550862442500|
 | 22-12-2021    |NFT projects on GitHub|https://twitter.com/FrancescoCiull4/status/1473536967195467780|
@@ -295,16 +295,81 @@ You can find Francesco [here](http://francescociulla.com)
 | 29-9-2022     |Ethereum Virtuial Machine|https://twitter.com/FrancescoCiull4/status/1575165099374804994|
 | 30-9-2022     |Hacktoberfest web3 resources|https://twitter.com/FrancescoCiull4/status/1575944598488129536|
 | 1-10-2022     |Hacktoberfest livestream|https://twitter.com/FrancescoCiull4/status/1575845316779442178|
-| 2-10-2022     ||
-| 3-10-2022     ||
-| 4-10-2022     ||
-| 5-10-2022     ||
-| 6-10-2022     ||
-| 7-10-2022     ||
-| 8-10-2022     ||
-| 9-10-2022     ||
-| 10-10-2022     ||
-| 11-10-2022     ||
-| 12-10-2022     ||
-| 13-10-2022     ||
-| 14-10-2022     ||
+| 2-10-2022     |What is EVM?|https://twitter.com/FrancescoCiull4/status/1576544628081594369|
+| 3-10-2022     |Ethereum Whitepaper|https://twitter.com/FrancescoCiull4/status/1576823826096484352|
+| 4-10-2022     |Merged 20 Prs for HAcktoberfest|https://twitter.com/FrancescoCiull4/status/1577041137805955072|
+| 5-10-2022     |24 Web3 threads|https://twitter.com/FrancescoCiull4/status/1577987940675948545|
+| 6-10-2022     |Solidity projects on giyHub|https://twitter.com/FrancescoCiull4/status/1578059382029434880|
+| 7-10-2022     |What is Solidity? video|https://twitter.com/FrancescoCiull4/status/1578366192707698688|
+| 8-10-2022     |Free Web3 Newsletter|https://www.getrevue.co/profile/francescociull4/issues/vitalik-buterin-reveals-ethereum-s-eth-end-game-names-several-big-visions-for-future-near-joins-forces-with-google-cloud-to-accelerate-web3-startups-moralis-x-google-2022-defining-defi-hackathon-in-6-days-link-earn-your-web3-degree-with-alchemy-1387730|
+| 9-10-2022     |HAcktoberfest october 12h challenge|https://youtu.be/4mYzYrSYGKI|
+| 10-10-2022     |MErkle tree thread|https://twitter.com/FrancescoCiull4/status/1579341823105171458|
+| 11-10-2022     |Solidity Contract|https://www.linkedin.com/posts/francesco-ciulla-roma_a-solidity-contract-is-similar-to-a-class-activity-6985448768779259904-idiQ|
+| 12-10-2022     |Solidity Events|https://www.linkedin.com/posts/francesco-ciulla-roma_events-in-solidity-one-of-my-favorite-solidity-activity-6985840624562278400-FrZo|
+| 13-10-2022     |Intagram Carousel What is an NFT|https://www.instagram.com/p/CjpBNIGD_oW|
+| 14-10-2022     |DAY 300! Web3 Stack. October 2022|https://twitter.com/FrancescoCiull4/status/1580796021088563200|
+| 15-10-2022| How to get started with Web3|https://twitter.com/FrancescoCiull4/status/1581188624606842881|
+| 16-10-2022|Livestream Hacktoberfest PR merge|https://youtu.be/7sjUQJHnASA|
+| 17-10-2022|Rust repositories|https://twitter.com/FrancescoCiull4/status/1581903077778796548|
+| 18-10-2022|4 Decentralize Storage technologies|https://twitter.com/FrancescoCiull4/status/1582443855575912448|
+| 19-10-2022|Decentralized Storage thread|https://twitter.com/FrancescoCiull4/status/1582588224723353602|
+| 20-10-2022|Tatum livestream|https://youtu.be/fiv0aagW98M|
+| 21-10-2022|Alchemy early access|https://twitter.com/FrancescoCiull4/status/1583350955042430976|
+| 22-10-2022|Ethereum dapps thread|https://twitter.com/FrancescoCiull4/status/1583926601330601984|
+| 23-10-2022|Francesco's Newsletter|https://www.getrevue.co/profile/francescociull4/issues/francesco-s-newsletter-vitalik-buterin-wants-to-solve-twitter-s-bot-problem-gavin-wood-steps-down-from-ceo-role-at-blockchain-s-builder-1409454|
+| 24-10-2022|14 Web3 projects on gitHub thread|https://twitter.com/FrancescoCiull4/status/1584304857825300481|
+| 25-10-2022|Learn Web3 for free links|https://twitter.com/FrancescoCiull4/status/1584782793145348096|
+| 26-10-2022|Web3 roadmaps - October 2022|https://twitter.com/FrancescoCiull4/status/1585152264117055488|
+| 27-10-2022|12 resources to learn Ethereum thread|https://twitter.com/FrancescoCiull4/status/1585525075398230018|
+| 28-10-2022|The Graph thread introduction|https://twitter.com/FrancescoCiull4/status/1585845313595527168|
+| 29-10-2022|Francesco's Newsletter|https://www.getrevue.co/profile/francescociull4/issues/francesco-s-newsletter-freecodecamp-s-future-plans-for-web3-google-cloud-launching-a-blockchain-node-hosting-service-that-supports-ethereum-1421906|
+| 30-10-2022|||
+| 31-10-2022|||
+| 1-11-2022|||
+| 2-11-2022|||
+| 3-11-2022|||
+| 4-11-2022|||
+| 5-11-2022|||
+| 6-11-2022|||
+| 7-11-2022|||
+| 8-11-2022|||
+| 9-11-2022|||
+| 10-11-2022|||
+| 11-11-2022|||
+| 12-11-2022|||
+| 13-11-2022|||
+| 14-11-2022|||
+| 15-11-2022|||
+| 16-11-2022|||
+| 17-11-2022|||
+| 18-11-2022|||
+| 19-11-2022|||
+| 20-11-2022|||
+| 21-11-2022|||
+| 22-11-2022|||
+| 23-11-2022|||
+| 24-11-2022|||
+| 25-11-2022|||
+| 26-11-2022|||
+| 27-11-2022|||
+| 28-11-2022|||
+| 29-11-2022|||
+| 30-11-2022|||
+| 1-12-2022|||
+| 2-12-2022|||
+| 3-12-2022|||
+| 4-12-2022|||
+| 5-12-2022|||
+| 6-12-2022|||
+| 7-12-2022|||
+| 8-12-2022|||
+| 9-12-2022|||
+| 10-12-2022|||
+| 11-12-2022|||
+| 12-12-2022|||
+| 13-12-2022|||
+| 14-12-2022|||
+| 15-12-2022|||
+| 16-12-2022|||
+| 17-12-2022|||
+| 18-12-2022|||
