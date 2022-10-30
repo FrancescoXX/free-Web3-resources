@@ -195,6 +195,10 @@ A list of currently active Blockchains projects. Sorted Alphabetically.
 - [Solidity Course](https://metaschool.so/course/10-days-of-solidity) 10 Days of solidity for Beginners
 - [Ethernauts](https://ethernaut.openzeppelin.com/) Learn solidity by hacking smart contracts.
 - [Capture The Ether](https://capturetheether.com/) Capture the Ether is a game in which you hack Ethereum smart contracts to learn about security.
+- [Solidity-30Days-Challenge](https://codedamn.com/learn/solidity-thirty) Practice Solidity by building small smart contracts.
+
+#### Tutorials
+
 - [Learn Blockchain, Solidity, and Full Stack JavaScript Development](https://www.freecodecamp.org/news/learn-blockchain-solidity-full-stack-javascript-development/) This course will give you a full introduction into all of the core concepts related to blockchain, smart contracts, Solidity, full-stack Web3 dapps, decentralized finance (DeFi), Chainlink, and more.
 - [Learn Solidity: The COMPLETE Beginner’s Guide](https://www.youtube.com/watch?v=EhPeHeoKF88) A video tutorial to learn Solidity language and to make smart contract.
 
