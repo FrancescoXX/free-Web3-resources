@@ -1,3 +1,12 @@
+# [0.5.0](https://github.com/FrancescoXX/free-Web3-resources/compare/v0.4.0...v0.5.0) (2022-10-30)
+
+
+### Features
+
+* Add blog ([#228](https://github.com/FrancescoXX/free-Web3-resources/issues/228)) ([9a526af](https://github.com/FrancescoXX/free-Web3-resources/commit/9a526af5024be7c60aa04803151c05d3ae720c67))
+
+
+
 # [0.4.0](https://github.com/FrancescoXX/free-Web3-resources/compare/v0.3.0...v0.4.0) (2022-10-16)
 
 

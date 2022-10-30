@@ -46,12 +46,14 @@ This is a list of Free Web3 Resources links to learn Blockchain development.
 <li><a href="#-off-chain-data-protocols">Off-Chain Data Protocols</a></li>
 <li><a href="#-solana">Solana</a></li>
 <li><a href="#-open-source-projects-you-can-contribute-to"> Open Source Projects you can contribute to</a></li> 
+<li><a href="#-polygon">Polygon</a></li> 
 </ul>
 
 
 ## 📰 Web3 Roadmaps (Article/ Blog)
 
 - [Complete Web3.0 And Solidity Development Roadmap 2022](https://vitto.cc/web3-and-solidity-smart-contracts-development-roadmap/) by [Vittorio Rivabella](https://vitto.cc/)
+- [How to Become a Blockchain Developer?](https://www.geeksforgeeks.org/how-to-become-a-blockchain-developer/) by geeksforgeeks
 - [How To Get Into Crypto? 2022 Roadmap For A Web3 Developer](https://medium.com/theweb3stack/how-to-get-into-crypto-a-roadmap-for-a-web3-developer-4a5806f61869) by Darrius Singleton
 - [My roadmap in web 3](https://dev.to/jesusantguerrero/my-roadmap-in-web-3-1hgo) by Jesus Guerrero
 - [My web3 journey in 100 days](https://eda.hashnode.dev/my-web3-journey-day-100-of-100daysofweb3) by [Eda](https://twitter.com/edatweets_)
@@ -74,7 +76,7 @@ This is a list of Free Web3 Resources links to learn Blockchain development.
 
 - [Become a Web 3 & Blockchain Developer in 2022 | Practical Step by Step Solidity and Web3 Roadmap](https://www.youtube.com/watch?v=aVQJGr2J8io) by Javascript Mastery
 - [A simple guide to the web3 developer stack](https://www.coinbase.com/blog/a-simple-guide-to-the-web3-developer-stack) by Coinbase
-- [How to Become a Blockchain Developer? Complete web3 Developer Roadmap](https://www.youtube.com/watch?v=q54j35z3fPQ) by Ishan Sharma
+- [How to Become a Blockchain Developer? Complete web3 Developer Roadmap](https://www.youtube.com/watch?v=q54j35z3fPQ) by [Harpalsinh Jadeja](https://twitter.com/HarpalJadeja11) on Ishan Sharma's Youtube Channel
 - [Complete Blockchain Development Roadmap 2022 🔥| Project Ideas | Solidity | Web3js | Truffle](https://www.youtube.com/watch?v=36ubP5Ydh-A) by Nishant Chahar
 - [How to become a Blockchain Developer in 2022? | 🔥 Complete Roadmap + Salary + Tech Stack](https://www.youtube.com/watch?v=uULy2rc6YDc) by Apna College
 - [How to get started with Web3 Development - Become Blockchain Developer in 2022 Complete Roadmap](https://www.youtube.com/watch?v=XRIpjWGbGmA) by Coding Money
@@ -83,25 +85,18 @@ This is a list of Free Web3 Resources links to learn Blockchain development.
 - [Blockchain roadmap](https://www.youtube.com/watch?v=uULy2rc6YDc) by [Apna College](https://www.youtube.com/c/ApnaCollegeOfficial)
 - [Blockchain roadmap 2022](https://www.youtube.com/watch?v=36ubP5Ydh-A) by [Nishant Chahar](https://www.youtube.com/c/NishantChahar11)
 -[The Complete Guide to Full Stack Web3 Development](https://www.youtube.com/watch?v=nRMo5jjgCr4) by [ Nader Dabit](https://www.youtube.com/c/naderdabit)
+- [How to become a web3 Developer](https://www.youtube.com/watch?v=rOmE-aDWh2w) by [EatTheBlocks](https://www.youtube.com/c/EatTheBlocks)
+- [How To Become a Highly Paid Blockchain Developer in 2022](https://www.youtube.com/watch?v=uGPC9wNTBbw&t=2394s) by [Dapp University](https://www.youtube.com/c/DappUniversity)
 
 <div align="right">
   <b><a href="#">↥ Back To Top</a></b>
 </div>
 
-## ☸ Web3 Roadmaps (Hindi/ Urdu)
 
-- [Complete Blockchain Development Roadmap 🔥 What is Blockchain and how to get started? Salary & Course](https://youtu.be/n_5oeZWbseY) by [Anuj Bhaiya](https://www.youtube.com/c/AnujBhaiya)
-- [Blockchain roadmap](https://www.youtube.com/watch?v=uULy2rc6YDc) by [Apna College](https://www.youtube.com/c/ApnaCollegeOfficial)
-- [Blockchain roadmap 2022](https://www.youtube.com/watch?v=36ubP5Ydh-A) by [Nishant Chahar](https://www.youtube.com/c/NishantChahar11)
-- [Blockchain Developer Roadmap 2022] (https://youtu.be/1kNfwU6pc0w) by [Coding Ninjas] (https://www.youtube.com/c/CodingNinjasIndia)
-- [How to become a Blockchain Developer ?](https://youtu.be/oEOkjango9Y) by [Code Eater](https://www.youtube.com/c/CodeEater21)
-
-<div align="right">
-  <b><a href="#">↥ Back To Top</a></b>
-</div>
-
-## 📃 Blogs
-
+## Blogs
+- [Hashnode Web3 Blog](https://web3.hashnode.com/) by [Hashnode](https://hashnode.com).
+- [Build your first web3 application using HTML,CSS and JS](https://blogbyvivek.hashnode.dev/build-your-first-web-30-application-with-html-css-javascript-and-remix-ide) by [Vivek Suthar](https://viveksuthar.me/).
+- [Celo Developer Blog](https://medium.com/celodevelopers)
 - [Hashnode Web3 Blog](https://web3.hashnode.com/) by [Hashnode](https://hashnode.com)
 - [Web3 Foundation Blog](https://medium.com/web3foundation) by [Medium](https://medium.com)
 - [LogRocket Blog](https://blog.logrocket.com/tag/web3/) by [LogRocket](https://blog.logrocket.com)
@@ -132,6 +127,7 @@ A list of currently active Blockchains projects. Sorted Alphabetically.
 - [Ethereum](https://ethereum.org/en/) Ethereum is the community-run technology powering the cryptocurrency ether (ETH) and thousands of decentralized applications.
 - [Elrond](https://elrond.com) Elrond is a highly scalable, fast, and secure blockchain platform for distributed apps, enterprise use cases, and the new internet economy.
 - [Fantom](https://fantom.foundation/) Fantom is a highly scalable blockchain platform for Defi, crypto dApps, and enterprise applications.
+- [Flow](https://flow.com/) Flow is a fast, secure, and developer-friendly blockchain built for games, apps, and digital assets.
 - [Harmony](https://www.harmony.one/) is an open and fast layer-1 blockchain. It is compatible with EVM and Solidity. It supports very low transaction fees. Its native crypto is ONE.
 - [Hedera Hashgraph](https://hedera.com/) Hashgraph is a distributed ledger technology that has been described as an alternative to blockchains.
 - [Hyperledger Fabric](https://www.hyperledger.org/use/fabric) Hyperledger Fabric is intended as a foundation for developing apps or solutions with a modular architecture.
@@ -228,6 +224,7 @@ A list of currently active Blockchains projects. Sorted Alphabetically.
 - [Patrick Collins](https://www.youtube.com/c/PatrickCollins)   Web3 focused 
 - [Alchemy](https://www.youtube.com/c/AlchemyPlatform)   Content on Web3 Development , NFT.
 - [Web3 Foundation](https://www.youtube.com/c/WEB3Foundation)    "Web3 Focused" , content on Web3 Foundation Workshops.
+-[Francesco Ciulla](https://www.youtube.com/c/FrancescoCiulla) Youtube channel on Devops, Web3, Podcasts
 
 <div align="right">
   <b><a href="#">↥ Back To Top</a></b>
@@ -286,9 +283,11 @@ A list of Blockchain Learning Platforms.
 - [Rainbow Dev Kit](https://www.rainbowkit.com/) RainbowKit is a React library that makes it easy to add a wallet connection to your dapp.
 - [scaffoldETH](https://github.com/scaffold-eth/scaffold-eth) Scaffold-eth is everything you need to get started building decentralized applications on Ethereum!
 - [WAGMI](http://wagmi.sh) wagmi.sh is a collection of React Hooks containing everything you need to start working with Ethereum.
+- [celo-composer](https://github.com/celo-org/celo-composer) Celo Composer allows you to quickly build, deploy, and iterate on decentralized applications using Celo. It provides a number of frameworks, examples, and Celo specific functionality to help you get started with your next dApp.
 - [create-eth-app](https://github.com/PaulRBerg/create-eth-app) Create Ethereum-powered apps with one command. Comes with a wide offering of UI frameworks and Defi templates to choose from.
 - [hardhat-starter-kit](https://github.com/smartcontractkit/hardhat-starter-kit) A repo for boilerplate code for testing, deploying, and shipping chainlink solidity code.
 - [foundry-starter-kit](https://github.com/smartcontractkit/foundry-starter-kit) Foundry Starter Kit is a repo that shows developers how to quickly build, test, and deploy smart contracts with one of the fastest frameworks out there.
+
 
 <div align="right">
   <b><a href="#">↥ Back To Top</a></b>
@@ -398,6 +397,14 @@ Decentralized Storage [thread](https://twitter.com/FrancescoCiull4/status/148329
   <b><a href="#">↥ Back To Top</a></b>
 </div>
 
+## ✉️ Communication
+
+- [Push Protocol](https://push.org/) PUSH Protocol (previously EPNS) is the world’s first decentralized notification protocol for Web3. Push Protocol also has built Push Chat, a web3-native secure, wallet-to-wallet messaging to everyday users.
+
+<div align="right">
+  <b><a href="#">↥ Back To Top</a></b>
+</div>
+
 ## 💪 DAO Communities
 
 - [Buildspace](https://buildspace.so/) Onboarding devs to web3. Start building cool stuff right now, earn NFTs, and access secret opportunities in crypto.
@@ -485,6 +492,7 @@ Solana achieves consensus using a proof-of-stake mechanism and its model, known 
 - [Bitcoin](https://github.com/bitcoin/bitcoin)  It connects to the Bitcoin peer-to-peer network to download and fully validate blocks and transactions.
 - [Brownie](https://github.com/eth-brownie/brownie)  Brownie is a Python-based development and testing framework for smart contracts targeting the Ethereum Virtual Machine.
 - [Blockchain CLI](https://github.com/0xs34n/blockchain-cli)   Build a bitcoin wallet, payment processor, or bitcoin merchant portal in javascript.
+- [celo-composer](https://github.com/celo-org/celo-composer)
 - [Chainlink](https://github.com/smartcontractkit/chainlink)  Chainlink expands the capabilities of smart contracts by enabling access to real-world data.
 - [chia-blockchain](https://github.com/Chia-Network/chia-blockchain) Chia is a modern cryptocurrency built from scratch, designed to be efficient, decentralized, and secure.
 - [Cicero](https://github.com/accordproject/cicero)  Cicero allows you to define natural language contract and clause templates that can be executed by a computer.
@@ -553,4 +561,21 @@ Polygon (formerly MATIC Network) is an Indian blockchain scalability platform. I
 </div>
 
 
+## In-person presentation sessions
+
+
+## Youtube Channels 
+- [Dapp University](https://youtu.be/uGPC9wNTBbw)
+- [Whiteboard Crypto](https://www.youtube.com/c/WhiteboardCrypto)
+- [Ethereum Foundation](https://youtu.be/TDGq4aeevgY)
+- [Moralis Web3](https://youtu.be/P87pLayUD8c)
+- [Smart Contract Programmer](https://www.youtube.com/channel/UCJWh7F3AFyQ_x01VKzr9eyA)
+- [Code Eater](https://www.youtube.com/c/CodeEater21)
+- [EatTheBlocks](https://www.youtube.com/c/EatTheBlocks)
+- [Nader Dabit](https://www.youtube.com/c/naderdabit)
+- [Austin Griffith](https://www.youtube.com/channel/UC_HI2i2peo1A-STdG22GFsA)
+- [Block Explorer](https://www.youtube.com/c/BlockExplorerMedia/videos)
+- [Simply Explained](https://www.youtube.com/c/Savjee/community)
+- [Clever Programmer](https://www.youtube.com/c/CleverProgrammer)
+- [Patrick Collins](https://www.youtube.com/c/PatrickCollins)
 
