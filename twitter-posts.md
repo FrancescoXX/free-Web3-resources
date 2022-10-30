@@ -317,12 +317,12 @@ You can find Francesco [here](http://francescociulla.com)
 | 21-10-2022|Alchemy early access|https://twitter.com/FrancescoCiull4/status/1583350955042430976|
 | 22-10-2022|Ethereum dapps thread|https://twitter.com/FrancescoCiull4/status/1583926601330601984|
 | 23-10-2022|Francesco's Newsletter|https://www.getrevue.co/profile/francescociull4/issues/francesco-s-newsletter-vitalik-buterin-wants-to-solve-twitter-s-bot-problem-gavin-wood-steps-down-from-ceo-role-at-blockchain-s-builder-1409454|
-| 24-10-2022|14 Web3 projects on gitHub thread||
-| 25-10-2022|||
-| 26-10-2022|||
-| 27-10-2022|||
-| 28-10-2022|||
-| 29-10-2022|||
+| 24-10-2022|14 Web3 projects on gitHub thread|https://twitter.com/FrancescoCiull4/status/1584304857825300481|
+| 25-10-2022|Learn Web3 for free links|https://twitter.com/FrancescoCiull4/status/1584782793145348096|
+| 26-10-2022|Web3 roadmaps - October 2022|https://twitter.com/FrancescoCiull4/status/1585152264117055488|
+| 27-10-2022|12 resources to learn Ethereum thread|https://twitter.com/FrancescoCiull4/status/1585525075398230018|
+| 28-10-2022|The Graph thread introduction|https://twitter.com/FrancescoCiull4/status/1585845313595527168|
+| 29-10-2022|Francesco's Newsletter|https://www.getrevue.co/profile/francescociull4/issues/francesco-s-newsletter-freecodecamp-s-future-plans-for-web3-google-cloud-launching-a-blockchain-node-hosting-service-that-supports-ethereum-1421906|
 | 30-10-2022|||
 | 31-10-2022|||
 | 1-11-2022|||
