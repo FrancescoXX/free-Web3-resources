@@ -30,6 +30,7 @@ This is a list of Free Web3 Resources links to learn Blockchain development.
 <li><a href="#-youtube-channels">Youtube Channels</a></li>
 <li><a href="#-youtube-channels-hindi-urdu">Youtube Channels (Hindi/Urdu) </a></li>
 <li><a href="#-learning-platforms"> Learning Platforms</a></li>
+<li><a href="#-job-boards">Job Boards</a></li>
 <li><a href="#-ethereum-development-ides">Ethereum Development IDEs</a></li>
 <li><a href="#-ethereum-development-environment">Ethereum Development Environment</a></li>
 <li><a href="-ethereum-development-tools">Ethereum Development Tools </a></li>
@@ -256,6 +257,14 @@ A list of Blockchain Learning Platforms.
 - [Dev3](https://dev3.sh/) Dev3 enables frontend and mobile devs to build complex, production-ready web3 apps with ease.
 - [Metaschool](https://metaschool.so/) Metaschool is a platform where developers hangout to learn web3 with each other, collaborate on projects, earn NFTs for completing their work, and connect with talented folks building the future of the web!
 - [Binance Academy](https://academy.binance.com/en) Your one-stop guide to all things crypto. Whether you're a rookie trying to understand mining or a veteran looking to develop a trading strategy.
+
+<div align="right">
+  <b><a href="#">↥ Back To Top</a></b>
+</div>
+
+## 💼 Job Boards
+
+- [MyWeb3Jobs](https://myweb3jobs.com) My web3 jobs allows you to easily find or post new web3 jobs!
 
 <div align="right">
   <b><a href="#">↥ Back To Top</a></b>
