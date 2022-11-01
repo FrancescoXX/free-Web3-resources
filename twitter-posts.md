@@ -325,7 +325,7 @@ You can find Francesco [here](http://francescociulla.com)
 | 29-10-2022|Francesco's Newsletter|https://www.getrevue.co/profile/francescociull4/issues/francesco-s-newsletter-freecodecamp-s-future-plans-for-web3-google-cloud-launching-a-blockchain-node-hosting-service-that-supports-ethereum-1421906|
 | 30-10-2022|Free Web3 resources PRs merge||
 | 31-10-2022|7 Open Source Web3 projects in JavaScript|https://twitter.com/FrancescoCiull4/status/1587113616343502855|
-| 1-11-2022|||
+| 1-11-2022|Polkadot projects on Github|https://twitter.com/FrancescoCiull4/status/1587427634673246209|
 | 2-11-2022|||
 | 3-11-2022|||
 | 4-11-2022|||
