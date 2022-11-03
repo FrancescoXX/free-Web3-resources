@@ -544,7 +544,9 @@ Solana achieves consensus using a proof-of-stake mechanism and its model, known 
 </div>
 
 ## ❇ Polygon 
-![image](https://user-images.githubusercontent.com/111836493/195151950-fa48697f-fed6-4b43-b4eb-4db5b9f320bc.png)
+<div align="center">
+<img src="assets/polygon.png">
+</div>
 
 Polygon (formerly MATIC Network) is an Indian blockchain scalability platform. It addresses the challenges faced by Ethereum such as high fees, poor user experience, and low transaction count per second. One of the methods used to address these issues is providing a framework for Proof of Stake transactions.
 
