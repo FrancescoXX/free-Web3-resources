@@ -327,7 +327,7 @@ You can find Francesco [here](http://francescociulla.com)
 | 31-10-2022|7 Open Source Web3 projects in JavaScript|https://twitter.com/FrancescoCiull4/status/1587113616343502855|
 | 1-11-2022|Polkadot projects on Github|https://twitter.com/FrancescoCiull4/status/1587427634673246209|
 | 2-11-2022|Smart Contract Thread|https://twitter.com/FrancescoCiull4/status/1587680407767683075|
-| 3-11-2022|||
+| 3-11-2022|Open Zeppelin thread|https://twitter.com/FrancescoCiull4/status/1588469992256786432|
 | 4-11-2022|||
 | 5-11-2022|||
 | 6-11-2022|||
