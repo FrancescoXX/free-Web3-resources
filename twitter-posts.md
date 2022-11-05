@@ -329,7 +329,7 @@ You can find Francesco [here](http://francescociulla.com)
 | 2-11-2022|Smart Contract Thread|https://twitter.com/FrancescoCiull4/status/1587680407767683075|
 | 3-11-2022|Oracles thread|https://twitter.com/FrancescoCiull4/status/1588064645130190848|
 | 4-11-2022|Open Zeppelin thread|https://twitter.com/FrancescoCiull4/status/1588469992256786432|
-| 5-11-2022|||
+| 5-11-2022|Ethereum Public and Private networks|https://twitter.com/FrancescoCiull4/status/1588904962607570944|
 | 6-11-2022|||
 | 7-11-2022|||
 | 8-11-2022|||
