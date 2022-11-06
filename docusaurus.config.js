@@ -3,7 +3,7 @@
 
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
-4C Community repositories
+
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Free Web3 resources',
