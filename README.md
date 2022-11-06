@@ -1,78 +1,43 @@
-# <a href="https://www.github.com/FrancescoXX/free-Web3-resources" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> Free Web3 Resources 🚀
+# Website
 
-This is a list of Free Web3 Resources links to learn Blockchain development.
+This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
-## Start here 👇
+### Installation
 
-🏁 Join the Community: [free web3 project on 4C](https://discord.com/invite/cRjhjFRRre)
+```
+$ yarn
+```
 
-📝 All Francesco's Twitter posts [here](https://github.com/FrancescoXX/free-Web3-resources/blob/main/twitter-posts.md)
+### Local Development
 
-![WEB3 FREE RESOURCES](https://user-images.githubusercontent.com/18360871/162364470-56cc28da-d50c-426f-82a4-7ea06234d4bf.png)
+```
+$ yarn start
+```
 
-## 🔀 Getting Involved
+This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
 
-- [Blockchain Trilemma](https://medium.com/certik/the-blockchain-trilemma-decentralized-scalable-and-secure-e9d8c41a87b3) An article about the Blockchain Trilemma.
-- [Endgame](https://vitalik.ca/general/2021/12/06/endgame.html) An Article by Vitalik Buterin to have an idea of the direction Ethereum is taking.
-- [Ethereum Whitepaper](https://ethereum.org/en/whitepaper/) Introductory paper published in 2014 by Vitalik Buterin, Ethereum's founder, before the launch in 2015.
-- [Ethereum Yellowpaper](https://ethereum.github.io/yellowpaper/paper.pdf) The "Yellow Paper": Ethereum's formal specification
+### Build
 
+```
+$ yarn build
+```
 
-## 📃 Index
-<ul>
-<li><a href="#-web3-roadmaps-article-blog">Web3 Roadmaps (Article/Blog)</a></li>
-<li><a href="#-web3-roadmaps-video">Web3 Roadmaps (Video)</a></li>
-<li><a href="#-web3-roadmaps-hindi-urdu">Web3 Roadmaps (Hindi/Urdu)</a></li>
-<li><a href="#-blogs">Blogs</a></li>
-<li><a href="#-blockchains">Blockchain</a></li>
-<li><a href="#-identity"> Identity</a></li>
-<li><a href="#-ethereum"> Ethereum</a></li>
-<li><a href="#-youtube-channels">Youtube Channels</a></li>
-<li><a href="#-youtube-channels-hindi-urdu">Youtube Channels (Hindi/Urdu) </a></li>
-<li><a href="#-learning-platforms"> Learning Platforms</a></li>
-<li><a href="#-ethereum-development-ides">Ethereum Development IDEs</a></li>
-<li><a href="#-ethereum-development-environment">Ethereum Development Environment</a></li>
-<li><a href="-ethereum-development-tools">Ethereum Development Tools </a></li>
-<li><a href="#-ethereum-clients"> Ethereum Clients</a></li>
-<li><a href="#-ethereum-in-different-languages"> Ethereum in different languages</a></li>
-<li><a href="#-client-sdks">Client SDKs</a></li>
-<li><a href="#-sdks">SDKs</a></li>
-<li><a href="#-node-providers">Node Providers</a></li>
-<li><a href="#-file-storage"> File Storage</a></li>
-<li><a href="#-indexing">Indexing</a></li>
-<li><a href="#-dao-communities">DAO Communities</a></li>
-<li><a href="#-nft-marketplaces">NFT Marketplaces</a></li>
-<li><a href="#-oracles">Oracles</a></li>
-<li><a href="#-off-chain-data-protocols">Off-Chain Data Protocols</a></li>
-<li><a href="#-solana">Solana</a></li>
-<li><a href="#-open-source-projects-you-can-contribute-to"> Open Source Projects you can contribute to</a></li> 
-<li><a href="#-polygon">Polygon</a></li> 
-</ul>
+This command generates static content into the `build` directory and can be served using any static contents hosting service.
 
+### Deployment
 
-## 📰 Web3 Roadmaps (Article/ Blog)
+Using SSH:
 
-- [Complete Web3.0 And Solidity Development Roadmap 2022](https://vitto.cc/web3-and-solidity-smart-contracts-development-roadmap/) by [Vittorio Rivabella](https://vitto.cc/)
-- [How to Become a Blockchain Developer?](https://www.geeksforgeeks.org/how-to-become-a-blockchain-developer/) by geeksforgeeks
-- [How To Get Into Crypto? 2022 Roadmap For A Web3 Developer](https://medium.com/theweb3stack/how-to-get-into-crypto-a-roadmap-for-a-web3-developer-4a5806f61869) by Darrius Singleton
-- [My roadmap in web 3](https://dev.to/jesusantguerrero/my-roadmap-in-web-3-1hgo) by Jesus Guerrero
-- [My web3 journey in 100 days](https://eda.hashnode.dev/my-web3-journey-day-100-of-100daysofweb3) by [Eda](https://twitter.com/edatweets_)
-- [Roadmap to becoming a web3 developer](https://dev.to/darshancodes/roadmap-to-become-a-web3-developer-412j) by Darshancodes
-- [The Complete Roadmap and Resources to Become a Web3 Developer in 2022](https://betterprogramming.pub/has-anyone-seen-web3-a-complete-roadmap-free-resources-to-become-web3-developer-4e5dc9332c1f) by Nagaraj Pandith
-- [Web 3.0: A Developer Roadmap, Guide, and Resources to Get Started](https://blog.idrisolubisi.com/web-3-a-developer-roadmap-and-resources-to-get-started) by Olubisi Idris Ayinde
-- [Your Roadmap To Becoming A Web 3.0 Developer](https://blog.oliverjumpertz.dev/your-roadmap-to-becoming-a-web-30-developer) by Oliver Jumpertz
-- [Blockchain Developer Roadmap (Step by Step)](https://roadmap.sh/blockchain) by Kamran Ahmed
-- [Complete Web3 Developer Roadmap - 2022](https://remote3.co/blog-post/complete-web3-developer-roadmap-2022) by Remote3
-- [Web3 Roadmap for beginners, Resources to master Blockchain!](https://www.commclassroom.org/blockchain-roadmap) by [commclassroom](https://www.commclassroom.org/)
-- [Blockchain Roadmap!](https://roadmap.sh/blockchain) by [Kamran Ahmed](https://twitter.com/kamranahmedse)
-- [Web3 Beyond the Hype by Mckinsey](https://www.mckinsey.com/industries/financial-services/our-insights/web3-beyond-the-hype) by [Anutosh Banerjee](https://www.mckinsey.com/our-people/anutosh-banerjee)
-- [Introduction to Web3 and its importance](https://ethereum.org/en/web3/) by [Ethereum.org](https://ethereum.org/en)
+```
+$ USE_SSH=true yarn deploy
+```
 
-<div align="right">
-  <b><a href="#">↥ Back To Top</a></b>
-</div>
+Not using SSH:
 
-## 📽 Web3 Roadmaps (Video)
+```
+$ GIT_USER=<Your GitHub username> yarn deploy
+```
+
 
 - [Become a Web 3 & Blockchain Developer in 2022 | Practical Step by Step Solidity and Web3 Roadmap](https://www.youtube.com/watch?v=aVQJGr2J8io) by Javascript Mastery
 - [A simple guide to the web3 developer stack](https://www.coinbase.com/blog/a-simple-guide-to-the-web3-developer-stack) by Coinbase
@@ -615,7 +580,9 @@ By using this system, Tezos aimed to reduce the chances its blockchain might for
 - [Tezos Developer Portal](https://tezos.com/developers/)
 
 
-
 <div align="right">
   <b><a href="#">↥ Back To Top</a></b>
 </div>
+
+If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+
