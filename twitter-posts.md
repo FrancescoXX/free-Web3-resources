@@ -331,8 +331,8 @@ You can find Francesco [here](http://francescociulla.com)
 | 4-11-2022|Open Zeppelin thread|https://twitter.com/FrancescoCiull4/status/1588469992256786432|
 | 5-11-2022|Ethereum Public and Private networks|https://twitter.com/FrancescoCiull4/status/1588904962607570944|
 | 6-11-2022|Blockchains to keep an eye on. November 2022|https://twitter.com/FrancescoCiull4/status/1589156382330146816|
-| 7-11-2022|||
-| 8-11-2022|||
+| 7-11-2022|15 EVM Concepts|https://twitter.com/FrancescoCiull4/status/1589501623973605377|
+| 8-11-2022|Free Web3 tutorials links|https://twitter.com/FrancescoCiull4/status/1589892189278334977|
 | 9-11-2022|||
 | 10-11-2022|||
 | 11-11-2022|||
