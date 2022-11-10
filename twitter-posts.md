@@ -333,7 +333,7 @@ You can find Francesco [here](http://francescociulla.com)
 | 6-11-2022|Blockchains to keep an eye on. November 2022|https://twitter.com/FrancescoCiull4/status/1589156382330146816|
 | 7-11-2022|15 EVM Concepts|https://twitter.com/FrancescoCiull4/status/1589501623973605377|
 | 8-11-2022|Free Web3 tutorials links|https://twitter.com/FrancescoCiull4/status/1589892189278334977|
-| 9-11-2022|||
+| 9-11-2022|32 solidity style guidelines|https://twitter.com/FrancescoCiull4/status/1590216047885680640|
 | 10-11-2022|||
 | 11-11-2022|||
 | 12-11-2022|||
