@@ -390,11 +390,6 @@ Decentralized Storage [thread](https://twitter.com/FrancescoCiull4/status/148329
   <b><a href="#">↥ Back To Top</a></b>
 </div>
 
-## 📦 SDKs
-
-- [Moralis](https://moralis.io/) The Ultimate Web3 Development Platform.
-- [thirdweb](https://thirdweb.com/) Smart contracts you control. Tools that accelerate your workflow. Intuitive SDKs and widgets for developers.
-
 <div align="right">
   <b><a href="#">↥ Back To Top</a></b>
 </div>
@@ -544,7 +539,6 @@ Flow is one of the leading blockchains for the next generation of apps, NFTs, an
 - [Emerald Academy](https://discord.gg/kS6sxt9k)
 
 ## In-person presentation sessions
-
 
 ## Youtube Channels 
 - [Dapp University](https://youtu.be/uGPC9wNTBbw)
