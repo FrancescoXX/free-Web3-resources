@@ -22,4 +22,14 @@ contract nameAndAge {
         return age;
     }
     
+    // This function allows you to change the name
+    function changeName(string memory _newName) public {
+        name = _newName;
+    }
+
+    // This function allows you to change the age
+    function changeAge(uint _newAge) public {
+        age = _newAge;
+    }
+    
 }
