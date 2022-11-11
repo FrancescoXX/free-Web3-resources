@@ -1,0 +1,52 @@
+---
+sidebar_position: 1
+---
+
+# 👨‍💻 Open Source Projects you can contribute to
+
+- [Aelf](https://github.com/AElfProject/AElf)  AElf is a blockchain system aiming to achieve scalability and extensibility through the use of side-chains and a flexible design.
+- [Bitcoin](https://github.com/bitcoin/bitcoin)  It connects to the Bitcoin peer-to-peer network to download and fully validate blocks and transactions.
+- [Brownie](https://github.com/eth-brownie/brownie)  Brownie is a Python-based development and testing framework for smart contracts targeting the Ethereum Virtual Machine.
+- [Blockchain CLI](https://github.com/0xs34n/blockchain-cli)   Build a bitcoin wallet, payment processor, or bitcoin merchant portal in javascript.
+- [celo-composer](https://github.com/celo-org/celo-composer)
+- [Chainlink](https://github.com/smartcontractkit/chainlink)  Chainlink expands the capabilities of smart contracts by enabling access to real-world data.
+- [chia-blockchain](https://github.com/Chia-Network/chia-blockchain) Chia is a modern cryptocurrency built from scratch, designed to be efficient, decentralized, and secure.
+- [Cicero](https://github.com/accordproject/cicero)  Cicero allows you to define natural language contract and clause templates that can be executed by a computer.
+- [Corda](https://github.com/corda/corda) Corda is an open source blockchain project, designed for business from the start.
+- [Cosmos](https://github.com/cosmos)  ⛓️ A Framework for Building High Value Public Blockchains ✨
+- [create-web3-dapp](https://github.com/Eversmile12/create-web3-dapp) This package includes the global command for Create Web3 DApp.
+- [Diem](https://github.com/diem/diem)  Diem Core implements a decentralized, programmable database which provides a financial infrastructure that can empower billions of people.
+- [EIPs](https://github.com/ethereum/EIPs)  The goal of the EIP project is to document standardized protocols for Ethereum clients and applications and to document them in a high-quality and implementable way.
+- [Embark](https://github.com/embarklabs/embark) Provides Framework for serverless Decentralized Applications using Ethereum, IPFS and other platforms.
+- [Enterprise Ethereum Alliance](https://github.com/EntEthAlliance)  The Enterprise Ethereum Alliance connects Fortune 500 enterprises, startups, academics, and technology vendors with Ethereum subject matter experts.
+- [ethers.js](https://github.com/ethers-io/ethers.js) A complete Ethereum wallet implementation and utilities in JavaScript (and TypeScript).
+- [fabric](https://github.com/hyperledger/fabric) Hyperledger Fabric is a platform for distributed ledger solutions, underpinned by a modular architecture delivering high degrees of confidentiality, resiliency, flexibility and scalability.
+- [Foundry](https://github.com/foundry-rs/foundry) Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
+- [Ganache UI](https://github.com/trufflesuite/ganache-ui) Ganache is your personal blockchain for Ethereum development.
+- [go-ethereum](https://github.com/ethereum/go-ethereum)  It is a Official Go Implementation of the Ethereum protocol.
+- [Hardhat](https://github.com/NomicFoundation/hardhat) Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software. Get Solidity stack traces & console.log.
+- [Holochain](https://github.com/holochain)  Scalable framework for P2P distributed apps. 
+- [Hyperledger](https://github.com/hyperledger/) Hyperledger Foundation is an open source community focused on developing a suite of stable frameworks, tools and libraries for enterprise-grade blockchain deployments.
+- [ipfs](https://github.com/ipfs/ipfs) A peer-to-peer hypermedia protocol designed to preserve and grow humanity's knowledge by making the web         upgradeable, resilient, and more open
+- [LBRY](https://github.com/lbryio/lbry-desktop) This repo contains the UI code that powers the official LBRY desktop app. The LBRY app is a graphical browser for the decentralized content marketplace provided by the LBRY protocol. It is essentially the lbry daemon bundled with a UI using Electron.
+- [Lisk](https://github.com/LiskHQ) Lisk is a blockchain application platform. We make blockchain accessible by creating a world in which everyone benefits from this technology.
+- [Metamask](https://github.com/MetaMask) MetaMask is a global community of developers and designers dedicated to making the world a better place with blockchain technology.
+- [Monero](https://github.com/monero-project/monero) The Monero Research Lab is an open forum where the community coordinates research into Monero cryptography, protocols, fungibility, analysis, and more.
+- [Neo](https://github.com/neo-project/neo) Neo is an open-source community driven blockchain platform.
+- [Openchain](https://github.com/openchain) Enterprise-ready Blockchain technology.
+- [OpenZeppelin](https://github.com/OpenZeppelin/openzeppelin-contracts) OpenZeppelin provides security products to build, automate, and operate decentralized applications.
+- [Quorum](https://github.com/ConsenSys/quorum) GoQuorum is an Ethereum-based distributed ledger protocol with transaction/contract privacy and new consensus mechanisms.
+- [RemixProject](https://github.com/ethereum/remix-project) Remix Project is a rich toolset including Remix IDE, a comprehensive smart contract development tool. The Remix Project also includes Remix Plugin Engine and Remix Libraries which are low-level tools for wider use.
+- [Solana](https://github.com/solana-labs/solana) Solana is a decentralized blockchain built to enable scalable, user-friendly apps for the world.
+- [Solidity](https://github.com/ethereum/solidity) Solidity is a statically typed, contract-oriented, high-level language for implementing smart contracts on the Ethereum platform.
+- [truffle](https://github.com/trufflesuite/truffle) Truffle is a development environment, testing framework and asset pipeline for Ethereum, aiming to make life as an Ethereum developer easier.
+- [Wallet](https://github.com/DemocracyEarth/wallet) Decentralized human identity without sybils or bots. Built with Kleros and the Ethereum community.
+- [Web3j](https://github.com/web3j/web3j) Web3j is a lightweight, highly modular, reactive, type safe Java and Android library for working with Smart Contracts and integrating with clients (nodes) on the Ethereum network.
+- [Web3Swift](https://github.com/skywinder/web3swift) web3swift is an iOS toolbelt for interaction with the Ethereum network.
+- [web3.swift](https://github.com/Boilertalk/Web3.swift) Web3.swift is a Swift library for signing transactions and interacting with Smart Contracts in the Ethereum Network.
+- [web3.js](https://github.com/ChainSafe/web3.js) This is the Ethereum JavaScript API which connects to the Generic JSON-RPC spec.
+- [web3.php](https://github.com/web3p/web3.php) A php interface for interacting with the Ethereum blockchain and ecosystem.
+- [web3.py](https://github.com/ethereum/web3.py) A Python library for interacting with Ethereum, inspired by web3.js.
+- [web3.swift](https://github.com/Boilertalk/Web3.swift) A Swift library for signing transactions and interacting with Smart Contracts in the Ethereum Network.
+- [XuperChain](https://github.com/xuperchain/xuperchain) XuperChain, the first open source project of XuperChain Lab, introduces a underlying solution to build the super alliance network. Based on the dynamic kernel of xupercore. You can use xuberchain as a blockchain infrastructure to build a compliant blockchain network.
+- [Zilliqa](https://github.com/Zilliqa/Zilliqa) Zilliqa is a scalable smart contract platform that aims to tackle the congestion issue plaguing the blockchain industry.

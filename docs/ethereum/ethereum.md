@@ -41,3 +41,66 @@ sidebar_position: 1
 - [Learn Vyper by building a pokemon Game](https://learn.vyperlang.org/#/)
 - [Vyper Programming Tutorial for Ethereum Smart Contract Development (Blockchain)](https://www.youtube.com/watch?v=-RHTgegox8I) by Dapp University
 - [Understanding the Ethereum Blockchain Protocol](https://www.youtube.com/watch?v=gjwr-7PgpN8&t=289s) by [Vitalik Buterin](https://twitter.com/VitalikButerin)
+
+## 👨‍💻 Ethereum Development IDEs
+
+- [Remix IDE](https://remix.ethereum.org/) Web IDE with built-in static analysis, test blockchain VM.
+- [VS Code with Solidity Extensions](https://marketplace.visualstudio.com/items?itemName=JuanBlanco.solidity) Visual Studio Code Solidity Extension.
+
+## ⚡ Ethereum Development Environment
+
+- [Brownie](https://eth-brownie.readthedocs.io/en/stable/toctree.html) Brownie is a Python-based development and testing framework for smart contracts targeting the Ethereum Virtual Machine.
+- [Foundry](https://github.com/foundry-rs/foundry) Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
+- [Hardhat](https://hardhat.org/) Ethereum development environment for professionals.
+- [Truffle](https://trufflesuite.com/) A world-class development environment, testing framework, and asset pipeline for blockchains using the Ethereum Virtual Machine (EVM), aiming to make life as a developer easier.
+- [Embark](https://framework.embarklabs.io/) The all-in-one developer platform for building and deploying decentralized applications.
+
+## 🛠️ Ethereum Development Tools
+
+- [Rainbow Dev Kit](https://www.rainbowkit.com/) RainbowKit is a React library that makes it easy to add a wallet connection to your dapp.
+- [scaffoldETH](https://github.com/scaffold-eth/scaffold-eth) Scaffold-eth is everything you need to get started building decentralized applications on Ethereum!
+- [WAGMI](http://wagmi.sh) wagmi.sh is a collection of React Hooks containing everything you need to start working with Ethereum.
+- [celo-composer](https://github.com/celo-org/celo-composer) Celo Composer allows you to quickly build, deploy, and iterate on decentralized applications using Celo. It provides a number of frameworks, examples, and Celo specific functionality to help you get started with your next dApp.
+- [create-eth-app](https://github.com/PaulRBerg/create-eth-app) Create Ethereum-powered apps with one command. Comes with a wide offering of UI frameworks and Defi templates to choose from.
+- [hardhat-starter-kit](https://github.com/smartcontractkit/hardhat-starter-kit) A repo for boilerplate code for testing, deploying, and shipping chainlink solidity code.
+- [foundry-starter-kit](https://github.com/smartcontractkit/foundry-starter-kit) Foundry Starter Kit is a repo that shows developers how to quickly build, test, and deploy smart contracts with one of the fastest frameworks out there.
+
+## 👨‍💼 Ethereum Clients
+
+An Ethereum client is the software that allows Ethereum nodes to read the block on the Ethereum network. [(more...)](https://twitter.com/FrancescoCiull4/status/1484415980293996544)
+
+- [Besu](https://github.com/hyperledger/besu) An enterprise-grade Java-based, Apache 2.0 licensed Ethereum client
+- [Erigon](https://github.com/ledgerwatch/erigon) Ethereum implementation on the efficiency frontier
+- [Geth](https://github.com/ethereum/go-ethereum) Official Go implementation of the Ethereum protocol
+- [Nethermind](https://github.com/NethermindEth/nethermind) flagship .NET Core Ethereum client for Linux, Windows, and macOS - full and actively developed.
+
+## 🌐 Ethereum in different languages
+
+- [ethereum.org in different languages](https://ethereum.org/en/languages) Ethereum docs in 43 languages
+
+### Portuguese 
+- [Web3dev](https://www.web3dev.com.br/) Content and community for web 3 developers in Portuguese.
+
+### Chinese 
+- [Ethereum Wiki](https://github.com/ethereum/wiki/wiki/%5B%E4%B8%AD%E6%96%87%5D-%E4%BB%A5%E5%A4%AA%E5%9D%8A%E7%99%BD%E7%9A%AE%E4%B9%A6) Ethereum Wiki in Chinese
+
+### French  
+- [Ethereum France](https://www.ethereum-france.com/) is the Main website for Ethereum Content, Communities, and Events in French.
+
+### German  
+- [Learn Solidity](https://docs.microsoft.com/de-de/learn/modules/blockchain-learning-solidity/) Microsoft website to learn Solidity in German
+
+### Hindi  
+- [Ethereum Hindi](https://ethereum.org/hi/eth/) Main website for Ethereum Content, Communities, and Events in Hindi
+
+### Italian  
+- [Ethereum Italy](https://t.co/oyX6mujXek) Main website for Ethereum Content, Communities, and Events in Italian.
+
+### Spanish  
+- [Cointelegraph](https://es.cointelegraph.com/ethereum-for-beginners) Ethereum guide for Web3 beginners in Spanish.
+
+### Turkish  
+- [BTK Academy](https://www.btkakademi.gov.tr/portal/course/blokzincir-ve-kripto-paralar-10569#!/about) blockchain and cryptocurrency-focused course in Turkish.
+
+### Vietnamese  
+- [Tino Group](https://wiki.tino.org/ethereum-la-gi/) Ethereum info, wallets, and FAQ in Vietnamese
