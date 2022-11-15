@@ -338,7 +338,7 @@ You can find Francesco [here](http://francescociulla.com)
 | 11-11-2022|Free WEb3 resources Site|https://youtu.be/WhTJisIr4X4|
 | 12-11-2022|How to spin up your node|https://twitter.com/FrancescoCiull4/status/1591433139301351432|
 | 13-11-2022|NFT introduction thread|https://twitter.com/FrancescoCiull4/status/1591679198992949249|
-| 14-11-2022|||
+| 14-11-2022|zero-knowledge proof protocol|https://twitter.com/FrancescoCiull4/status/1592108168502730752|
 | 15-11-2022|||
 | 16-11-2022|||
 | 17-11-2022|||
