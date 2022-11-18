@@ -342,7 +342,7 @@ You can find Francesco [here](http://francescociulla.com)
 | 15-11-2022|Solidity tips: erc-20 token smart contract|https://twitter.com/FrancescoCiull4/status/1592613912079630337|
 | 16-11-2022|Solidity integration|https://twitter.com/FrancescoCiull4/status/1592791226688106498|
 | 17-11-2022|Learn web3 links|https://twitter.com/FrancescoCiull4/status/1593267314564255747|
-| 18-11-2022|||
+| 18-11-2022|Solidity Cheatsheet. November 2022|https://twitter.com/FrancescoCiull4/status/1593521497158688770|
 | 19-11-2022|||
 | 20-11-2022|||
 | 21-11-2022|||
