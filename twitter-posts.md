@@ -345,7 +345,7 @@ You can find Francesco [here](http://francescociulla.com)
 | 18-11-2022|Solidity Cheatsheet. November 2022|https://twitter.com/FrancescoCiull4/status/1593521497158688770|
 | 19-11-2022|Events in Solidity|https://twitter.com/FrancescoCiull4/status/1593853590711726080|
 | 20-11-2022|24 Web3 projects to keep an eyen on. November 2022|https://twitter.com/FrancescoCiull4/status/1594249352041603077|
-| 21-11-2022|||
+| 21-11-2022|DAO vs traditional organization|https://twitter.com/FrancescoCiull4/status/1594660369901010944|
 | 22-11-2022|||
 | 23-11-2022|||
 | 24-11-2022|||
