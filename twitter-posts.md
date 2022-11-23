@@ -347,7 +347,7 @@ You can find Francesco [here](http://francescociulla.com)
 | 20-11-2022|24 Web3 projects to keep an eyen on. November 2022|https://twitter.com/FrancescoCiull4/status/1594249352041603077|
 | 21-11-2022|DAO vs traditional organization|https://twitter.com/FrancescoCiull4/status/1594660369901010944|
 | 22-11-2022|Blockchain transactions|https://twitter.com/FrancescoCiull4/status/1594957145371725824|
-| 23-11-2022|||
+| 23-11-2022|Solidityy Open Source projects on GitHub|https://twitter.com/FrancescoCiull4/status/1595521520964624394|
 | 24-11-2022|||
 | 25-11-2022|||
 | 26-11-2022|||
