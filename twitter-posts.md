@@ -348,7 +348,7 @@ You can find Francesco [here](http://francescociulla.com)
 | 21-11-2022|DAO vs traditional organization|https://twitter.com/FrancescoCiull4/status/1594660369901010944|
 | 22-11-2022|Blockchain transactions|https://twitter.com/FrancescoCiull4/status/1594957145371725824|
 | 23-11-2022|Solidityy Open Source projects on GitHub|https://twitter.com/FrancescoCiull4/status/1595521520964624394|
-| 24-11-2022|||
+| 24-11-2022|launch your Ico video|https://youtu.be/hQD_bt-XSZw|
 | 25-11-2022|||
 | 26-11-2022|||
 | 27-11-2022|||
