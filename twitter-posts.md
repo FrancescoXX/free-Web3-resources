@@ -350,8 +350,8 @@ You can find Francesco [here](http://francescociulla.com)
 | 23-11-2022|Solidityy Open Source projects on GitHub|https://twitter.com/FrancescoCiull4/status/1595521520964624394|
 | 24-11-2022|launch your Ico video|https://youtu.be/hQD_bt-XSZw|
 | 25-11-2022|Ethereum Network Addresses|https://twitter.com/FrancescoCiull4/status/1596101889506025474|
-| 26-11-2022|||
-| 27-11-2022|||
+| 26-11-2022|Decentralized Confiddential Computing|https://youtu.be/dSQtGs4Jink|
+| 27-11-2022|Alchemy university 12-hour livestream|https://youtu.be/BgxsPVO-jBg|
 | 28-11-2022|||
 | 29-11-2022|||
 | 30-11-2022|||
