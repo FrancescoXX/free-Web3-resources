@@ -38,7 +38,6 @@ Not using SSH:
 $ GIT_USER=<Your GitHub username> yarn deploy
 ```
 
-
 - [Become a Web 3 & Blockchain Developer in 2022 | Practical Step by Step Solidity and Web3 Roadmap](https://www.youtube.com/watch?v=aVQJGr2J8io) by Javascript Mastery
 - [A simple guide to the web3 developer stack](https://www.coinbase.com/blog/a-simple-guide-to-the-web3-developer-stack) by Coinbase
 - [How to Become a Blockchain Developer? Complete web3 Developer Roadmap](https://www.youtube.com/watch?v=q54j35z3fPQ) by [Harpalsinh Jadeja](https://twitter.com/HarpalJadeja11) on Ishan Sharma's Youtube Channel
@@ -48,8 +47,7 @@ $ GIT_USER=<Your GitHub username> yarn deploy
 - [Your Roadmap to becoming a Frontend + Web 3.0 Developer in 2022 | 3-Day React JS + Web 3.0 Challenge](https://www.youtube.com/watch?v=Lz3m4BI1EfY) by Clever Programmer
 - [Complete Blockchain Development Roadmap 🔥 What is Blockchain and how to get started? Salary & Course](https://youtu.be/n_5oeZWbseY) by [Anuj Bhaiya](https://www.youtube.com/c/AnujBhaiya)
 - [Blockchain roadmap](https://www.youtube.com/watch?v=uULy2rc6YDc) by [Apna College](https://www.youtube.com/c/ApnaCollegeOfficial)
-- [Blockchain roadmap 2022](https://www.youtube.com/watch?v=36ubP5Ydh-A) by [Nishant Chahar](https://www.youtube.com/c/NishantChahar11)
--[The Complete Guide to Full Stack Web3 Development](https://www.youtube.com/watch?v=nRMo5jjgCr4) by [ Nader Dabit](https://www.youtube.com/c/naderdabit)
+- [Blockchain roadmap 2022](https://www.youtube.com/watch?v=36ubP5Ydh-A) by [Nishant Chahar](https://www.youtube.com/c/NishantChahar11) -[The Complete Guide to Full Stack Web3 Development](https://www.youtube.com/watch?v=nRMo5jjgCr4) by [ Nader Dabit](https://www.youtube.com/c/naderdabit)
 - [How to become a web3 Developer](https://www.youtube.com/watch?v=rOmE-aDWh2w) by [EatTheBlocks](https://www.youtube.com/c/EatTheBlocks)
 - [How To Become a Highly Paid Blockchain Developer in 2022](https://www.youtube.com/watch?v=uGPC9wNTBbw&t=2394s) by [Dapp University](https://www.youtube.com/c/DappUniversity)
 
@@ -57,8 +55,8 @@ $ GIT_USER=<Your GitHub username> yarn deploy
   <b><a href="#">↥ Back To Top</a></b>
 </div>
 
-
 ## Blogs
+
 - [Hashnode Web3 Blog](https://web3.hashnode.com/) by [Hashnode](https://hashnode.com).
 - [Build your first web3 application using HTML,CSS and JS](https://blogbyvivek.hashnode.dev/build-your-first-web-30-application-with-html-css-javascript-and-remix-ide) by [Vivek Suthar](https://viveksuthar.me/).
 - [Celo Developer Blog](https://medium.com/celodevelopers)
@@ -66,7 +64,7 @@ $ GIT_USER=<Your GitHub username> yarn deploy
 - [Web3 Foundation Blog](https://medium.com/web3foundation) by [Medium](https://medium.com)
 - [LogRocket Blog](https://blog.logrocket.com/tag/web3/) by [LogRocket](https://blog.logrocket.com)
 - [Web3labs Blog](https://blog.web3labs.com/) by [web3labs](https://web3labs.com)
-- [Power Ecosystem Blog](https://thepower.io/blog) by  [Power Ecosystem](https://thepower.io)
+- [Power Ecosystem Blog](https://thepower.io/blog) by [Power Ecosystem](https://thepower.io)
 - [Web3 University Blog](https://www.web3.university/find) by [Web3 University](https://www.web3.university)
 
 <div align="right">
@@ -135,7 +133,7 @@ A list of currently active Blockchains projects. Sorted Alphabetically.
   <b><a href="#">↥ Back To Top</a></b>
 </div>
 
-## 💡 Ethereum 
+## 💡 Ethereum
 
 - [Awesome Ethereum by bekatom](https://github.com/bekatom/awesome-ethereum) Awesome Ethereum Resources
 - [Awesome Ethereum Security](https://github.com/crytic/awesome-ethereum-security) A curated list of awesome Ethereum security references
@@ -178,28 +176,30 @@ A list of currently active Blockchains projects. Sorted Alphabetically.
 </div>
 
 ## 🟥 Youtube Channels
-- [Dapp University](https://youtu.be/uGPC9wNTBbw)   Web3 Focused and has content on Blockchain development .
-- [Whiteboard Crypto](https://www.youtube.com/c/WhiteboardCrypto)   U will get lots of Crypto Knowledge here.
-- [Ethereum Foundation](https://youtu.be/TDGq4aeevgY)     Lots of Information on DEVCON.
-- [Moralis Web3](https://youtu.be/P87pLayUD8c)            Interviews , Web3 Game Programming "Web3 Focused"
-- [Smart Contract Programmer](https://www.youtube.com/channel/UCJWh7F3AFyQ_x01VKzr9eyA)  Tutorials On Learning Vyper , Hack solidity.
-- [Code Eater](https://www.youtube.com/c/CodeEater21)      Web3 Focused and Web3 content in "HINDI".
-- [EatTheBlocks](https://www.youtube.com/c/EatTheBlocks)   U can Find Roadmaps , Tutorials and Blockchain carrer advice.
-- [Nader Dabit](https://www.youtube.com/c/naderdabit)      Web3 Focused  ,Content on Blockchain , React and Serverless .
+
+- [Dapp University](https://youtu.be/uGPC9wNTBbw) Web3 Focused and has content on Blockchain development .
+- [Whiteboard Crypto](https://www.youtube.com/c/WhiteboardCrypto) U will get lots of Crypto Knowledge here.
+- [Ethereum Foundation](https://youtu.be/TDGq4aeevgY) Lots of Information on DEVCON.
+- [Moralis Web3](https://youtu.be/P87pLayUD8c) Interviews , Web3 Game Programming "Web3 Focused"
+- [Smart Contract Programmer](https://www.youtube.com/channel/UCJWh7F3AFyQ_x01VKzr9eyA) Tutorials On Learning Vyper , Hack solidity.
+- [Code Eater](https://www.youtube.com/c/CodeEater21) Web3 Focused and Web3 content in "HINDI".
+- [EatTheBlocks](https://www.youtube.com/c/EatTheBlocks) U can Find Roadmaps , Tutorials and Blockchain carrer advice.
+- [Nader Dabit](https://www.youtube.com/c/naderdabit) Web3 Focused ,Content on Blockchain , React and Serverless .
 - [Austin Griffith](https://www.youtube.com/channel/UC_HI2i2peo1A-STdG22GFsA) Content on How to build on Ethereum.
-- [Block Explorer](https://www.youtube.com/c/BlockExplorerMedia/videos)  Focusses on Blockchain Focused Technologies.
-- [Simply Explained](https://www.youtube.com/c/Savjee/community)   Web3 Focused and explain complex topic in plain English.
-- [Clever Programmer](https://www.youtube.com/c/CleverProgrammer)  Tutorials on python , Javascript and content on Web3.
-- [Patrick Collins](https://www.youtube.com/c/PatrickCollins)   Web3 focused 
-- [Alchemy](https://www.youtube.com/c/AlchemyPlatform)   Content on Web3 Development , NFT.
-- [Web3 Foundation](https://www.youtube.com/c/WEB3Foundation)    "Web3 Focused" , content on Web3 Foundation Workshops.
--[Francesco Ciulla](https://www.youtube.com/c/FrancescoCiulla) Youtube channel on Devops, Web3, Podcasts
+- [Block Explorer](https://www.youtube.com/c/BlockExplorerMedia/videos) Focusses on Blockchain Focused Technologies.
+- [Simply Explained](https://www.youtube.com/c/Savjee/community) Web3 Focused and explain complex topic in plain English.
+- [Clever Programmer](https://www.youtube.com/c/CleverProgrammer) Tutorials on python , Javascript and content on Web3.
+- [Patrick Collins](https://www.youtube.com/c/PatrickCollins) Web3 focused
+- [Alchemy](https://www.youtube.com/c/AlchemyPlatform) Content on Web3 Development , NFT.
+- [Web3 Foundation](https://www.youtube.com/c/WEB3Foundation) "Web3 Focused" , content on Web3 Foundation Workshops.
+- [Francesco Ciulla](https://www.youtube.com/c/FrancescoCiulla) Youtube channel on Devops, Web3, Podcasts
 
 <div align="right">
   <b><a href="#">↥ Back To Top</a></b>
 </div>
 
 ## 🔴 Youtube Channels [Hindi/Urdu]
+
 - [Code Eater](https://www.youtube.com/c/CodeEater21) blockchain focused content on Blockchain development in Hindi
 - [Yash Deharia](https://www.youtube.com/channel/UC6D_7hpQFOd7XXoM1LRCN9w) Solidity course in Hindi + English
 - [Emerging Technologies](https://www.youtube.com/watch?v=t0Bb7Tl6bw4&list=PL1Xmyl4aKTRjyFTjaekHCtxZZdsNBUZKW) Blockchain Engineer Course in Urdu/Hindi
@@ -257,7 +257,6 @@ A list of Blockchain Learning Platforms.
 - [hardhat-starter-kit](https://github.com/smartcontractkit/hardhat-starter-kit) A repo for boilerplate code for testing, deploying, and shipping chainlink solidity code.
 - [foundry-starter-kit](https://github.com/smartcontractkit/foundry-starter-kit) Foundry Starter Kit is a repo that shows developers how to quickly build, test, and deploy smart contracts with one of the fastest frameworks out there.
 
-
 <div align="right">
   <b><a href="#">↥ Back To Top</a></b>
 </div>
@@ -279,31 +278,40 @@ An Ethereum client is the software that allows Ethereum nodes to read the block 
 
 - [ethereum.org in different languages](https://ethereum.org/en/languages) Ethereum docs in 43 languages
 
-### Portuguese 
+### Portuguese
+
 - [Web3dev](https://www.web3dev.com.br/) Content and community for web 3 developers in Portuguese.
 
-### Chinese 
+### Chinese
+
 - [Ethereum Wiki](https://github.com/ethereum/wiki/wiki/%5B%E4%B8%AD%E6%96%87%5D-%E4%BB%A5%E5%A4%AA%E5%9D%8A%E7%99%BD%E7%9A%AE%E4%B9%A6) Ethereum Wiki in Chinese
 
-### French  
+### French
+
 - [Ethereum France](https://www.ethereum-france.com/) is the Main website for Ethereum Content, Communities, and Events in French.
 
-### German  
+### German
+
 - [Learn Solidity](https://docs.microsoft.com/de-de/learn/modules/blockchain-learning-solidity/) Microsoft website to learn Solidity in German
 
-### Hindi  
+### Hindi
+
 - [Ethereum Hindi](https://ethereum.org/hi/eth/) Main website for Ethereum Content, Communities, and Events in Hindi
 
-### Italian  
+### Italian
+
 - [Ethereum Italy](https://t.co/oyX6mujXek) Main website for Ethereum Content, Communities, and Events in Italian.
 
-### Spanish  
+### Spanish
+
 - [Cointelegraph](https://es.cointelegraph.com/ethereum-for-beginners) Ethereum guide for Web3 beginners in Spanish.
 
-### Turkish  
+### Turkish
+
 - [BTK Academy](https://www.btkakademi.gov.tr/portal/course/blokzincir-ve-kripto-paralar-10569#!/about) blockchain and cryptocurrency-focused course in Turkish.
 
-### Vietnamese  
+### Vietnamese
+
 - [Tino Group](https://wiki.tino.org/ethereum-la-gi/) Ethereum info, wallets, and FAQ in Vietnamese
 
 <div align="right">
@@ -319,7 +327,6 @@ An Ethereum client is the software that allows Ethereum nodes to read the block 
   <b><a href="#">↥ Back To Top</a></b>
 </div>
 
-
 ## 🎁 SDKs
 
 - [Alchemy](https://www.alchemy.com/sdk) The Alchemy SDK is the easiest way to connect your dApp to the blockchain.
@@ -329,7 +336,6 @@ An Ethereum client is the software that allows Ethereum nodes to read the block 
 <div align="right">
   <b><a href="#">↥ Back To Top</a></b>
 </div>
-
 
 ## 💻 Node Providers
 
@@ -343,7 +349,6 @@ An Ethereum client is the software that allows Ethereum nodes to read the block 
 <div align="right">
   <b><a href="#">↥ Back To Top</a></b>
 </div>
-
 
 ## 📂 File Storage
 
@@ -385,7 +390,6 @@ Decentralized Storage [thread](https://twitter.com/FrancescoCiull4/status/148329
 - [LabsLumos](https://twitter.com/LabsLumos) Global Web3 community
 - [Metaschool](https://metaschool.so/) Metaschool is a platform where developers hangout to learn web3 with each other, collaborate on projects, earn NFTs for completing their work, and connect with talented folks building the future of the web!
 
-
 <div align="right">
   <b><a href="#">↥ Back To Top</a></b>
 </div>
@@ -404,7 +408,6 @@ Decentralized Storage [thread](https://twitter.com/FrancescoCiull4/status/148329
 - [OpenSea](https://opensea.io/) Opensea is the largest NFT marketplace and the one I used to mint my first NFT.
 - [Rarible](https://rarible.com/) A very large marketplace, partnered with Adobe. To use the marketplace, you need its own token "Rarible"
 - [KachingNFT](https://www.kachingnft.io/) The first specialised marketplace for non-fungible tokens (NFTs) on blockchain games. Trade and collect exclusive collectibles, items, skins, and characters.
-
 
 <div align="right">
   <b><a href="#">↥ Back To Top</a></b>
@@ -439,7 +442,7 @@ Decentralized Storage [thread](https://twitter.com/FrancescoCiull4/status/148329
 
 ![image](https://user-images.githubusercontent.com/89864818/193443511-1a552e0f-199f-465d-a492-187aca0620bf.png)
 Solana is a public blockchain platform with smart contract functionality. Its native cryptocurrency is SOL.
-Solana achieves consensus using a proof-of-stake mechanism and its model, known as "proof-of-history" mechanism. Proof of history enables the network to operate faster because nodes do not need to communicate to validate a block. The Solana whitepaper describes this design as a decentralized clock. 
+Solana achieves consensus using a proof-of-stake mechanism and its model, known as "proof-of-history" mechanism. Proof of history enables the network to operate faster because nodes do not need to communicate to validate a block. The Solana whitepaper describes this design as a decentralized clock.
 
 - [Getting Started with Solana](https://docs.solana.com/developing/clients/javascript-api)
 - [Complete Guide to Full Stack Solana Development by Nader Dabit](https://dev.to/edge-and-node/the-complete-guide-to-full-stack-solana-development-with-react-anchor-rust-and-phantom-3291)
@@ -449,33 +452,32 @@ Solana achieves consensus using a proof-of-stake mechanism and its model, known 
   <b><a href="#">↥ Back To Top</a></b>
 </div>
 
-
 ## 👨‍💻 Open Source Projects you can contribute to
 
-- [Aelf](https://github.com/AElfProject/AElf)  AElf is a blockchain system aiming to achieve scalability and extensibility through the use of side-chains and a flexible design.
-- [Bitcoin](https://github.com/bitcoin/bitcoin)  It connects to the Bitcoin peer-to-peer network to download and fully validate blocks and transactions.
-- [Brownie](https://github.com/eth-brownie/brownie)  Brownie is a Python-based development and testing framework for smart contracts targeting the Ethereum Virtual Machine.
-- [Blockchain CLI](https://github.com/0xs34n/blockchain-cli)   Build a bitcoin wallet, payment processor, or bitcoin merchant portal in javascript.
+- [Aelf](https://github.com/AElfProject/AElf) AElf is a blockchain system aiming to achieve scalability and extensibility through the use of side-chains and a flexible design.
+- [Bitcoin](https://github.com/bitcoin/bitcoin) It connects to the Bitcoin peer-to-peer network to download and fully validate blocks and transactions.
+- [Brownie](https://github.com/eth-brownie/brownie) Brownie is a Python-based development and testing framework for smart contracts targeting the Ethereum Virtual Machine.
+- [Blockchain CLI](https://github.com/0xs34n/blockchain-cli) Build a bitcoin wallet, payment processor, or bitcoin merchant portal in javascript.
 - [celo-composer](https://github.com/celo-org/celo-composer)
-- [Chainlink](https://github.com/smartcontractkit/chainlink)  Chainlink expands the capabilities of smart contracts by enabling access to real-world data.
+- [Chainlink](https://github.com/smartcontractkit/chainlink) Chainlink expands the capabilities of smart contracts by enabling access to real-world data.
 - [chia-blockchain](https://github.com/Chia-Network/chia-blockchain) Chia is a modern cryptocurrency built from scratch, designed to be efficient, decentralized, and secure.
-- [Cicero](https://github.com/accordproject/cicero)  Cicero allows you to define natural language contract and clause templates that can be executed by a computer.
+- [Cicero](https://github.com/accordproject/cicero) Cicero allows you to define natural language contract and clause templates that can be executed by a computer.
 - [Corda](https://github.com/corda/corda) Corda is an open source blockchain project, designed for business from the start.
-- [Cosmos](https://github.com/cosmos)  ⛓️ A Framework for Building High Value Public Blockchains ✨
+- [Cosmos](https://github.com/cosmos) ⛓️ A Framework for Building High Value Public Blockchains ✨
 - [create-web3-dapp](https://github.com/Eversmile12/create-web3-dapp) This package includes the global command for Create Web3 DApp.
-- [Diem](https://github.com/diem/diem)  Diem Core implements a decentralized, programmable database which provides a financial infrastructure that can empower billions of people.
-- [EIPs](https://github.com/ethereum/EIPs)  The goal of the EIP project is to document standardized protocols for Ethereum clients and applications and to document them in a high-quality and implementable way.
+- [Diem](https://github.com/diem/diem) Diem Core implements a decentralized, programmable database which provides a financial infrastructure that can empower billions of people.
+- [EIPs](https://github.com/ethereum/EIPs) The goal of the EIP project is to document standardized protocols for Ethereum clients and applications and to document them in a high-quality and implementable way.
 - [Embark](https://github.com/embarklabs/embark) Provides Framework for serverless Decentralized Applications using Ethereum, IPFS and other platforms.
-- [Enterprise Ethereum Alliance](https://github.com/EntEthAlliance)  The Enterprise Ethereum Alliance connects Fortune 500 enterprises, startups, academics, and technology vendors with Ethereum subject matter experts.
+- [Enterprise Ethereum Alliance](https://github.com/EntEthAlliance) The Enterprise Ethereum Alliance connects Fortune 500 enterprises, startups, academics, and technology vendors with Ethereum subject matter experts.
 - [ethers.js](https://github.com/ethers-io/ethers.js) A complete Ethereum wallet implementation and utilities in JavaScript (and TypeScript).
 - [fabric](https://github.com/hyperledger/fabric) Hyperledger Fabric is a platform for distributed ledger solutions, underpinned by a modular architecture delivering high degrees of confidentiality, resiliency, flexibility and scalability.
 - [Foundry](https://github.com/foundry-rs/foundry) Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
 - [Ganache UI](https://github.com/trufflesuite/ganache-ui) Ganache is your personal blockchain for Ethereum development.
-- [go-ethereum](https://github.com/ethereum/go-ethereum)  It is a Official Go Implementation of the Ethereum protocol.
+- [go-ethereum](https://github.com/ethereum/go-ethereum) It is a Official Go Implementation of the Ethereum protocol.
 - [Hardhat](https://github.com/NomicFoundation/hardhat) Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software. Get Solidity stack traces & console.log.
-- [Holochain](https://github.com/holochain)  Scalable framework for P2P distributed apps. 
+- [Holochain](https://github.com/holochain) Scalable framework for P2P distributed apps.
 - [Hyperledger](https://github.com/hyperledger/) Hyperledger Foundation is an open source community focused on developing a suite of stable frameworks, tools and libraries for enterprise-grade blockchain deployments.
-- [ipfs](https://github.com/ipfs/ipfs) A peer-to-peer hypermedia protocol designed to preserve and grow humanity's knowledge by making the web         upgradeable, resilient, and more open
+- [ipfs](https://github.com/ipfs/ipfs) A peer-to-peer hypermedia protocol designed to preserve and grow humanity's knowledge by making the web upgradeable, resilient, and more open
 - [LBRY](https://github.com/lbryio/lbry-desktop) This repo contains the UI code that powers the official LBRY desktop app. The LBRY app is a graphical browser for the decentralized content marketplace provided by the LBRY protocol. It is essentially the lbry daemon bundled with a UI using Electron.
 - [Lisk](https://github.com/LiskHQ) Lisk is a blockchain application platform. We make blockchain accessible by creating a world in which everyone benefits from this technology.
 - [Metamask](https://github.com/MetaMask) MetaMask is a global community of developers and designers dedicated to making the world a better place with blockchain technology.
@@ -503,14 +505,15 @@ Solana achieves consensus using a proof-of-stake mechanism and its model, known 
   <b><a href="#">↥ Back To Top</a></b>
 </div>
 
-## ❇ Polygon 
+## ❇ Polygon
+
 <div align="center">
 <img src="assets/polygon.png">
 </div>
 
 Polygon (formerly MATIC Network) is an Indian blockchain scalability platform. It addresses the challenges faced by Ethereum such as high fees, poor user experience, and low transaction count per second. One of the methods used to address these issues is providing a framework for Proof of Stake transactions.
 
- Resources
+Resources
 
 - [PolygonBlog](https://polygon.technology/)
 
@@ -520,17 +523,17 @@ Polygon (formerly MATIC Network) is an Indian blockchain scalability platform. I
 
 - [MoneyZG](https://www.youtube.com/watch?v=SKY-FMv_kko)
 
-
 <div align="right">
   <b><a href="#">↥ Back To Top</a></b>
 </div>
 
 ## 🌊 Flow
+
 ![image](https://assets.website-files.com/5bf4437b68f8b29e67b7ebdc/605235166c5c86fb55388373_flow-blockchain-quantstamp.png)
 
 Flow is one of the leading blockchains for the next generation of apps, NFTs, and games. It’s designed to scale in a way that doesn’t use sharding techniques, so transactions are fast and low-cost. Most notably, Flow is focused on reducing the complexity that is seen in other blockchains. Take, for example, purchasing a CryptoKitty. Behind the scenes, that process can involve dozens of blockchain transactions. But on Flow, the same action is handled by one atomic transaction in a single block.The Flow blockchain is designed not just to improve the end-user experience but also to allow developers to build, test, and launch projects quickly and sustainably.
 
- #### Resources
+#### Resources
 
 - [Flow's Official Website](https://flow.com/)
 
@@ -540,7 +543,8 @@ Flow is one of the leading blockchains for the next generation of apps, NFTs, an
 
 ## In-person presentation sessions
 
-## Youtube Channels 
+## Youtube Channels
+
 - [Dapp University](https://youtu.be/uGPC9wNTBbw)
 - [Whiteboard Crypto](https://www.youtube.com/c/WhiteboardCrypto)
 - [Ethereum Foundation](https://youtu.be/TDGq4aeevgY)
@@ -555,19 +559,18 @@ Flow is one of the leading blockchains for the next generation of apps, NFTs, an
 - [Clever Programmer](https://www.youtube.com/c/CleverProgrammer)
 - [Patrick Collins](https://www.youtube.com/c/PatrickCollins)
 
-
 <div align="right">
   <b><a href="#">↥ Back To Top</a></b>
 </div>
 
+## ⚡ Tezos
 
-## ⚡ Tezos 
 ![image](https://mms.businesswire.com/media/20220331006098/en/1408296/5/TezosLogo_Horizontal_Black.jpg)
 
-Tezos set out in 2014 to create what it called a “self-amending blockchain”. Complex in implementation, at its core, the concept was simple: Tezos would allow anyone who owned its XTZ cryptocurrency to vote on possible changes to its rules, and once decided, the software would automatically update to ensure the changes were made. 
-By using this system, Tezos aimed to reduce the chances its blockchain might fork, creating two separate cryptocurrencies with two distinct prices. 
+Tezos set out in 2014 to create what it called a “self-amending blockchain”. Complex in implementation, at its core, the concept was simple: Tezos would allow anyone who owned its XTZ cryptocurrency to vote on possible changes to its rules, and once decided, the software would automatically update to ensure the changes were made.
+By using this system, Tezos aimed to reduce the chances its blockchain might fork, creating two separate cryptocurrencies with two distinct prices.
 
- Resources
+Resources
 
 - [Tezos Official Website](https://tezos.com/)
 
@@ -575,11 +578,8 @@ By using this system, Tezos aimed to reduce the chances its blockchain might for
 
 - [Tezos Developer Portal](https://tezos.com/developers/)
 
-
-
 <div align="right">
   <b><a href="#">↥ Back To Top</a></b>
 </div>
 
 If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
-
