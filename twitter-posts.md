@@ -354,7 +354,7 @@ You can find Francesco [here](http://francescociulla.com)
 | 27-11-2022|Alchemy university 12-hour livestream|https://youtu.be/BgxsPVO-jBg|
 | 28-11-2022|Proof of Stake|https://twitter.com/FrancescoCiull4/status/1597182854290886656|
 | 29-11-2022|8 Web3 Open Source Projects on GitHub|https://twitter.com/FrancescoCiull4/status/1597460083541442563|
-| 30-11-2022|Twitter spaace about free web3 resources project||
+| 30-11-2022|Solidity influences|https://twitter.com/FrancescoCiull4/status/1598020609522692096|
 | 1-12-2022|||
 | 2-12-2022|||
 | 3-12-2022|||
