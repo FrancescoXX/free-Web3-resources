@@ -358,7 +358,7 @@ You can find Francesco [here](http://francescociulla.com)
 | 1-12-2022|15 Concepts on the Ethereum Virtual MAchine|https://twitter.com/FrancescoCiull4/status/1598401240433848320|
 | 2-12-2022|Ethereum Dapps|https://twitter.com/FrancescoCiull4/status/1598782000327819264|
 | 3-12-2022|Solidity Cheatsheet - December 2022|https://twitter.com/FrancescoCiull4/status/1598971445975322625|
-| 4-12-2022|||
+| 4-12-2022|Blockchain implemented in different languages|https://twitter.com/FrancescoCiull4/status/1599290449210277888|
 | 5-12-2022|||
 | 6-12-2022|||
 | 7-12-2022|||
