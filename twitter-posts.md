@@ -361,7 +361,7 @@ You can find Francesco [here](http://francescociulla.com)
 | 4-12-2022|Blockchain implemented in different languages|https://twitter.com/FrancescoCiull4/status/1599290449210277888|
 | 5-12-2022|Uniswap protocol thread|https://twitter.com/FrancescoCiull4/status/1599835263575826432|
 | 6-12-2022|6 Blockchains that use Rust|https://twitter.com/FrancescoCiull4/status/1600216881486393345|
-| 7-12-2022|||
+| 7-12-2022|6 Solidity projects on GitHub|https://twitter.com/FrancescoCiull4/status/1600330328379645953|
 | 8-12-2022|||
 | 9-12-2022|||
 | 10-12-2022|||
