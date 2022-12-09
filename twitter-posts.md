@@ -363,7 +363,7 @@ You can find Francesco [here](http://francescociulla.com)
 | 6-12-2022|6 Blockchains that use Rust|https://twitter.com/FrancescoCiull4/status/1600216881486393345|
 | 7-12-2022|6 Solidity projects on GitHub|https://twitter.com/FrancescoCiull4/status/1600330328379645953|
 | 8-12-2022|||
-| 9-12-2022|||
+| 9-12-2022|Cryptozombies part 6|https://youtu.be/GSJjrS63s00|
 | 10-12-2022|||
 | 11-12-2022|||
 | 12-12-2022|||
