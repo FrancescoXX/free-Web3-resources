@@ -365,7 +365,7 @@ You can find Francesco [here](http://francescociulla.com)
 | 8-12-2022|Web3 stack|https://twitter.com/FrancescoCiull4/status/1600911722428084224|
 | 9-12-2022|Cryptozombies part 6|https://youtu.be/GSJjrS63s00|
 | 10-12-2022|MSG global variable|https://twitter.com/FrancescoCiull4/status/1601692294641745921|
-| 11-12-2022|||
+| 11-12-2022|12h livestream||
 | 12-12-2022|||
 | 13-12-2022|||
 | 14-12-2022|||
