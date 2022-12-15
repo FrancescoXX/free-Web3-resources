@@ -369,7 +369,7 @@ You can find Francesco [here](http://francescociulla.com)
 | 12-12-2022|RLP for Ethereum|https://twitter.com/FrancescoCiull4/status/1602211279418056706|
 | 13-12-2022|Blockchain Bridges|https://twitter.com/FrancescoCiull4/status/1602730537986269185|
 | 14-12-2022|REquire in Solidity|https://twitter.com/FrancescoCiull4/status/1603139688998604805|
-| 15-12-2022|||
+| 15-12-2022|Block Explorers thread|https://twitter.com/FrancescoCiull4/status/1603286678143062016|
 | 16-12-2022|||
 | 17-12-2022|||
 | 18-12-2022|||
