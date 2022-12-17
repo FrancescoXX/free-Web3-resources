@@ -1,7 +1,5 @@
 # FREE Web3 resources
 
-![FREE WEB3 RESOURCES](https://user-images.githubusercontent.com/18360871/201461398-53114387-0386-4bb0-a47a-8a14a6f2938e.png)
-
 ### Installation
 
 ```
