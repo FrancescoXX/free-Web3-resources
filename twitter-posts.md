@@ -370,6 +370,6 @@ You can find Francesco [here](http://francescociulla.com)
 | 13-12-2022|Blockchain Bridges|https://twitter.com/FrancescoCiull4/status/1602730537986269185|
 | 14-12-2022|REquire in Solidity|https://twitter.com/FrancescoCiull4/status/1603139688998604805|
 | 15-12-2022|Block Explorers thread|https://twitter.com/FrancescoCiull4/status/1603286678143062016|
-| 16-12-2022|||
-| 17-12-2022|||
+| 16-12-2022|OpenZeppelin thread|https://twitter.com/FrancescoCiull4/status/1603714146436014081|
+| 17-12-2022|How to learn Web3? thread + video|https://twitter.com/FrancescoCiull4/status/1604083676068941824|
 | 18-12-2022|||
