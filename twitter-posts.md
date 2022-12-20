@@ -372,4 +372,9 @@ You can find Francesco [here](http://francescociulla.com)
 | 15-12-2022|Block Explorers thread|https://twitter.com/FrancescoCiull4/status/1603286678143062016|
 | 16-12-2022|OpenZeppelin thread|https://twitter.com/FrancescoCiull4/status/1603714146436014081|
 | 17-12-2022|How to learn Web3? thread + video|https://twitter.com/FrancescoCiull4/status/1604083676068941824|
-| 18-12-2022||18 Concepts about the Ethereum Blockchain | https://twitter.com/FrancescoCiull4/status/1604359062354685952|
+| 18-12-2022|365 DAYS 18 Concepts about the Ethereum Blockchain | https://twitter.com/FrancescoCiull4/status/1604359062354685952|
+| 19-12-2022|MSG global variable|https://twitter.com/FrancescoCiull4/status/1604907501119541249|
+| 20-12-2022|||
+| 21-12-2022|||
+| 22-12-2022|||
+| 23-12-2022|||
