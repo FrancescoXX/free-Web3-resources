@@ -374,7 +374,7 @@ You can find Francesco [here](http://francescociulla.com)
 | 17-12-2022|How to learn Web3? thread + video|https://twitter.com/FrancescoCiull4/status/1604083676068941824|
 | 18-12-2022|365 DAYS 18 Concepts about the Ethereum Blockchain | https://twitter.com/FrancescoCiull4/status/1604359062354685952|
 | 19-12-2022|MSG global variable|https://twitter.com/FrancescoCiull4/status/1604907501119541249|
-| 20-12-2022|||
-| 21-12-2022|||
+| 20-12-2022|Web2 and Web3 differences|https://twitter.com/FrancescoCiull4/status/1605261411550109711|
+| 21-12-2022|Web3 projects to keep an eye on in 2023|https://twitter.com/FrancescoCiull4/status/1605623235789430786|
 | 22-12-2022|||
 | 23-12-2022|||
