@@ -376,5 +376,5 @@ You can find Francesco [here](http://francescociulla.com)
 | 19-12-2022|MSG global variable|https://twitter.com/FrancescoCiull4/status/1604907501119541249|
 | 20-12-2022|Web2 and Web3 differences|https://twitter.com/FrancescoCiull4/status/1605261411550109711|
 | 21-12-2022|Web3 projects to keep an eye on in 2023|https://twitter.com/FrancescoCiull4/status/1605623235789430786|
-| 22-12-2022|||
+| 22-12-2022|Best Web3 tutorials|https://twitter.com/FrancescoCiull4/status/1605862155454136320|
 | 23-12-2022|||
