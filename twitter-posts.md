@@ -378,7 +378,7 @@ You can find Francesco [here](http://francescociulla.com)
 | 21-12-2022|Web3 projects to keep an eye on in 2023|https://twitter.com/FrancescoCiull4/status/1605623235789430786|
 | 22-12-2022|Best Web3 tutorials|https://twitter.com/FrancescoCiull4/status/1605862155454136320|
 | 23-12-2022|ENS thread|https://twitter.com/FrancescoCiull4/status/1606373125242904576|
-| 24-12-2022|||
+| 24-12-2022|Ethereum Clients|https://twitter.com/FrancescoCiull4/status/1606606393632587777|
 | 25-12-2022|||
 | 26-12-2022|||
 | 27-12-2022|||
@@ -393,5 +393,5 @@ You can find Francesco [here](http://francescociulla.com)
 | 5-01-2023|||
 | 6-01-2023|||
 | 7-01-2023|||
-| 801-2023|||
+| 8-01-2023|||
 
