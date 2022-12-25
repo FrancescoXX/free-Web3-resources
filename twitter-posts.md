@@ -379,7 +379,7 @@ You can find Francesco [here](http://francescociulla.com)
 | 22-12-2022|Best Web3 tutorials|https://twitter.com/FrancescoCiull4/status/1605862155454136320|
 | 23-12-2022|ENS thread|https://twitter.com/FrancescoCiull4/status/1606373125242904576|
 | 24-12-2022|Ethereum Clients|https://twitter.com/FrancescoCiull4/status/1606606393632587777|
-| 25-12-2022|||
+| 25-12-2022|Open Source RUST GitHub repos for Web3 Developers|https://twitter.com/FrancescoCiull4/status/1606964796548866048|
 | 26-12-2022|||
 | 27-12-2022|||
 | 28-12-2022|||
