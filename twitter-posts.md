@@ -380,7 +380,7 @@ You can find Francesco [here](http://francescociulla.com)
 | 23-12-2022|ENS thread|https://twitter.com/FrancescoCiull4/status/1606373125242904576|
 | 24-12-2022|Ethereum Clients|https://twitter.com/FrancescoCiull4/status/1606606393632587777|
 | 25-12-2022|Open Source RUST GitHub repos for Web3 Developers|https://twitter.com/FrancescoCiull4/status/1606964796548866048|
-| 26-12-2022|||
+| 26-12-2022|8 Open Source Blockchain projects in JavaScript|https://twitter.com/FrancescoCiull4/status/1607352870776541184|
 | 27-12-2022|||
 | 28-12-2022|||
 | 29-12-2022|||
