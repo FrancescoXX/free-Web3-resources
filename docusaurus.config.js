@@ -37,7 +37,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/FrancescoXX/free-Web3-resources',
+            'https://github.com/FrancescoXX/free-Web3-resources/docs/edit/main',
         },
         blog: {
           showReadingTime: true,
