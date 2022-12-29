@@ -48,6 +48,7 @@ $ GIT_USER=<Your GitHub username> yarn deploy
 - [Blockchain roadmap 2022](https://www.youtube.com/watch?v=36ubP5Ydh-A) by [Nishant Chahar](https://www.youtube.com/c/NishantChahar11) -[The Complete Guide to Full Stack Web3 Development](https://www.youtube.com/watch?v=nRMo5jjgCr4) by [ Nader Dabit](https://www.youtube.com/c/naderdabit)
 - [How to become a web3 Developer](https://www.youtube.com/watch?v=rOmE-aDWh2w) by [EatTheBlocks](https://www.youtube.com/c/EatTheBlocks)
 - [How To Become a Highly Paid Blockchain Developer in 2022](https://www.youtube.com/watch?v=uGPC9wNTBbw&t=2394s) by [Dapp University](https://www.youtube.com/c/DappUniversity)
+- [How to Become a Blockchain Developer in 2023 (Roadmap)](https://www.youtube.com/watch?v=zglv3lCchSo) by Whiteboard Crypto
 
 <div align="right">
   <b><a href="#">↥ Back To Top</a></b>
