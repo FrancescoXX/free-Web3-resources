@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# YouTube Channels in Hindi-Hurdu
+# YouTube Channels in Hindi/Urdu
 
 - [Code Eater](https://www.youtube.com/c/CodeEater21) blockchain focused content on Blockchain development in Hindi
 - [Yash Deharia](https://www.youtube.com/channel/UC6D_7hpQFOd7XXoM1LRCN9w) Solidity course in Hindi + English
