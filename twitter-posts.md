@@ -382,12 +382,12 @@ You can find Francesco [here](http://francescociulla.com)
 | 25-12-2022|Open Source RUST GitHub repos for Web3 Developers|https://twitter.com/FrancescoCiull4/status/1606964796548866048|
 | 26-12-2022|8 Open Source Blockchain projects in JavaScript|https://twitter.com/FrancescoCiull4/status/1607352870776541184|
 | 27-12-2022|7 Open Source Blockchain projects in Python|https://twitter.com/FrancescoCiull4/status/1607651547650859009|
-| 28-12-2022|||
-| 29-12-2022|||
+| 28-12-2022|Solidity hello world thread|https://twitter.com/FrancescoCiull4/status/1607998095849312256|
+| 29-12-2022|Ethereum improvement proposals EIP thread|https://twitter.com/FrancescoCiull4/status/1608379799256301568|
 | 30-12-2022|||
 | 31-12-2022|||
 | 1-01-2023|||
-| 2-01-2023|||
+| 2-01-2023|380 days||
 | 3-01-2023|||
 | 4-01-2023|||
 | 5-01-2023|||
