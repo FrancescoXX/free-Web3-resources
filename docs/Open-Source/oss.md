@@ -43,7 +43,6 @@ sidebar_position: 1
 - [Wallet](https://github.com/DemocracyEarth/wallet) Decentralized human identity without sybils or bots. Built with Kleros and the Ethereum community.
 - [Web3j](https://github.com/web3j/web3j) Web3j is a lightweight, highly modular, reactive, type safe Java and Android library for working with Smart Contracts and integrating with clients (nodes) on the Ethereum network.
 - [Web3Swift](https://github.com/skywinder/web3swift) web3swift is an iOS toolbelt for interaction with the Ethereum network.
-- [web3.swift](https://github.com/Boilertalk/Web3.swift) Web3.swift is a Swift library for signing transactions and interacting with Smart Contracts in the Ethereum Network.
 - [web3.js](https://github.com/ChainSafe/web3.js) This is the Ethereum JavaScript API which connects to the Generic JSON-RPC spec.
 - [web3.php](https://github.com/web3p/web3.php) A php interface for interacting with the Ethereum blockchain and ecosystem.
 - [web3.py](https://github.com/ethereum/web3.py) A Python library for interacting with Ethereum, inspired by web3.js.
