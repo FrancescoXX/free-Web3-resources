@@ -14,6 +14,6 @@ sidebar_position: 1
 - [Complete Blockchain Development Roadmap 🔥 What is Blockchain and how to get started? Salary & Course](https://youtu.be/n_5oeZWbseY) by [Anuj Bhaiya](https://www.youtube.com/c/AnujBhaiya)
 - [Blockchain roadmap](https://www.youtube.com/watch?v=uULy2rc6YDc) by [Apna College](https://www.youtube.com/c/ApnaCollegeOfficial)
 - [Blockchain roadmap 2022](https://www.youtube.com/watch?v=36ubP5Ydh-A) by [Nishant Chahar](https://www.youtube.com/c/NishantChahar11)
--[The Complete Guide to Full Stack Web3 Development](https://www.youtube.com/watch?v=nRMo5jjgCr4) by [ Nader Dabit](https://www.youtube.com/c/naderdabit)
+- [The Complete Guide to Full Stack Web3 Development](https://www.youtube.com/watch?v=nRMo5jjgCr4) by [ Nader Dabit](https://www.youtube.com/c/naderdabit)
 - [How to become a web3 Developer](https://www.youtube.com/watch?v=rOmE-aDWh2w) by [EatTheBlocks](https://www.youtube.com/c/EatTheBlocks)
 - [How To Become a Highly Paid Blockchain Developer in 2022](https://www.youtube.com/watch?v=uGPC9wNTBbw&t=2394s) by [Dapp University](https://www.youtube.com/c/DappUniversity)
