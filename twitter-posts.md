@@ -384,7 +384,7 @@ You can find Francesco [here](http://francescociulla.com)
 | 27-12-2022|7 Open Source Blockchain projects in Python|https://twitter.com/FrancescoCiull4/status/1607651547650859009|
 | 28-12-2022|Solidity hello world thread|https://twitter.com/FrancescoCiull4/status/1607998095849312256|
 | 29-12-2022|Ethereum improvement proposals EIP thread|https://twitter.com/FrancescoCiull4/status/1608379799256301568|
-| 30-12-2022|||
+| 30-12-2022|Account to follow (web3 section)|https://twitter.com/FrancescoCiull4/status/1608712669997199360|
 | 31-12-2022|||
 | 1-01-2023|||
 | 2-01-2023|380 days||
