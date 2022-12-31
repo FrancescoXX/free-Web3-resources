@@ -116,7 +116,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} By 4c,.`,
+        copyright: `Copyright © ${new Date().getFullYear()} By 4c.`,
       },
       prism: {
         theme: lightCodeTheme,
