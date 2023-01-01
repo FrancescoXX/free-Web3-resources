@@ -386,7 +386,7 @@ You can find Francesco [here](http://francescociulla.com)
 | 29-12-2022|Ethereum improvement proposals EIP thread|https://twitter.com/FrancescoCiull4/status/1608379799256301568|
 | 30-12-2022|Account to follow (web3 section)|https://twitter.com/FrancescoCiull4/status/1608712669997199360|
 | 31-12-2022|2022 recap for Web3 conferences and repository|https://twitter.com/FrancescoCiull4/status/1609111932891447297|
-| 1-01-2023|||
+| 1-01-2023|ABI thread|https://twitter.com/FrancescoCiull4/status/1609514776362721281|
 | 2-01-2023|380 days||
 | 3-01-2023|||
 | 4-01-2023|||
