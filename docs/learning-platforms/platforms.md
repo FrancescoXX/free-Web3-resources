@@ -4,6 +4,8 @@ sidebar_position: 1
 
 # Learning Platforms
 
+- [DApp World](https://dapp-world.com) - One stop platform for web3 developers, Everything you need to Upskill yourself in the web3 domain.
+You can learn through free certification Courses, Tutorials, Guides, Articles, Quizzes Assessments, and much more.
 - [LearnWeb3](https://learnweb3.io) LearnWeb3 is the best, fastest-growing, and completely free web3 education platform for new and experienced web2 developers.
 - [Bankless Academy](https://app.banklessacademy.com/) The Bankless Academy is on a mission to introduce 1 billion people to the exciting possibilities of cryptocurrency, Defi, and beyond.
 - [Crypto Zombies](https://cryptozombies.io/) CryptoZombies is an interactive school that teaches you all things technical about blockchains. Learn to write smart contracts by making your own crypto-collectibles game.
