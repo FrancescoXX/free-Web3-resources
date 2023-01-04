@@ -15,6 +15,7 @@ sidebar_position: 1
 - [Corda](https://github.com/corda/corda) Corda is an open source blockchain project, designed for business from the start.
 - [Cosmos](https://github.com/cosmos)  ⛓️ A Framework for Building High Value Public Blockchains ✨
 - [create-web3-dapp](https://github.com/Eversmile12/create-web3-dapp) This package includes the global command for Create Web3 DApp.
+- [DB3Network](https://github.com/dbpunk-labs/db3) DB3 is a community-driven layer2 decentralized database network.
 - [Diem](https://github.com/diem/diem)  Diem Core implements a decentralized, programmable database which provides a financial infrastructure that can empower billions of people.
 - [EIPs](https://github.com/ethereum/EIPs)  The goal of the EIP project is to document standardized protocols for Ethereum clients and applications and to document them in a high-quality and implementable way.
 - [Embark](https://github.com/embarklabs/embark) Provides Framework for serverless Decentralized Applications using Ethereum, IPFS and other platforms.
