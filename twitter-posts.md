@@ -389,7 +389,7 @@ You can find Francesco [here](http://francescociulla.com)
 | 1-01-2023|ABI thread|https://twitter.com/FrancescoCiull4/status/1609514776362721281|
 | 2-01-2023|380 days - The Graph threads |https://twitter.com/FrancescoCiull4/status/1609790991250096129|
 | 3-01-2023|Web3 good text-format tutorials|https://twitter.com/FrancescoCiull4/status/1610395173497835520|
-| 4-01-2023|||
+| 4-01-2023|12hour livestream announcement|https://twitter.com/FrancescoCiull4/status/1610730263251922944|
 | 5-01-2023|||
 | 6-01-2023|||
 | 7-01-2023|||
