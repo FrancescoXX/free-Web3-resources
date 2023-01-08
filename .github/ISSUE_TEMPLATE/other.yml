@@ -1,14 +1,14 @@
-name: Documentation Report
-description: Suggest improvements for the docs
-title: '[Docs]: '
+name: Other
+description: Use this, Please DO NOT create blank issues
+title: '[Other]: '
 labels: ['🚦 status: awaiting triage']
 body:
   - type: textarea
     id: description
     attributes:
       label: Description
-      description: A clear and concise description of what have to be updated.
-      placeholder: When I go to the commands.md doc, I notice that it doesn't have a table of contents
+      description: A clear and concise description of what this issue is about.
+      placeholder: If you are not using the wiki tab, please hide it
     validations:
       required: true
 
@@ -27,5 +27,5 @@ body:
     attributes:
       label: Code of Conduct
       options:
-        - label: I agree to follow this project's [Code of Conduct](https://github.com/FrancescoXX/4c-site/blob/main/docs/CODE_OF_CONDUCT.md)
+        - label: I agree to follow this project's [Code of Conduct](https://github.com/krshkun/FrancescoXX/blob/main/docs/CODE_OF_CONDUCT.md)
           required: true
