@@ -1,1 +1,8 @@
-blank_issues_enabled: true
+blank_issues_enabled: false
+contact_links:
+  - name: 4C Discussions
+    url: https://github.com/FrancescoXX/free-Web3-resources/discussions
+    about: Please ask and answer questions here.
+  - name: Discord Community
+    url: https://4c.rocks/join
+    about: Join 4C Community, here
