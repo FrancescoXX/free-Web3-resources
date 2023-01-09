@@ -1,10 +1,7 @@
-# 300-days-of-Web3
+# 400-days-of-Web3
 This is a list of the content I shared about Web3 for the upcoming 200 days
 
 You can find Francesco [here](http://francescociulla.com)
-
-
-
 
 | DayNumber | Topic__________________________________________ | Link|
 | --- | ----------------- |----------------- |
@@ -390,8 +387,37 @@ You can find Francesco [here](http://francescociulla.com)
 | 2-01-2023|380 days - The Graph threads |https://twitter.com/FrancescoCiull4/status/1609790991250096129|
 | 3-01-2023|Web3 good text-format tutorials|https://twitter.com/FrancescoCiull4/status/1610395173497835520|
 | 4-01-2023|12hour livestream announcement|https://twitter.com/FrancescoCiull4/status/1610730263251922944|
-| 5-01-2023|||
-| 6-01-2023|||
-| 7-01-2023|||
-| 8-01-2023|||
+| 5-01-2023|What do you like about web3?|https://twitter.com/FrancescoCiull4/status/1610926372662435840|
+| 6-01-2023|SOLIDITY TIPS Function Types.|https://twitter.com/FrancescoCiull4/status/1611446871469461504|
+| 7-01-2023|12-hour livestream Alchemy bootcamp|https://youtube.com/live/NbnpJH4zpMI|
+| 7-01-2023|Open Source Web3 repositories for Typescript Developers:|https://twitter.com/FrancescoCiull4/status/1611834533707452416|
+| 9-01-2023|5 open source github repositories for blockchain developers|https://twitter.com/FrancescoCiull4/status/1612425934145044481|
+| 10-01-2023|||
+| 11-01-2023|||
+| 12-01-2023|||
+| 13-01-2023|||
+| 14-01-2023|||
+| 15-01-2023|||
+| 16-01-2023|||
+| 17-01-2023|||
+| 18-01-2023|||
+| 19-01-2023|||
+| 20-01-2023|||
+| 21-01-2023|||
+| 22-01-2023|400||
+| 23-01-2023|||
+| 24-01-2023|||
+| 25-01-2023|||
+| 26-01-2023|||
+| 27-01-2023|||
+| 28-01-2023|||
+| 29-01-2023|||
+| 30-01-2023|||
+| 31-01-2023|||
+
+
+
+
+
+
 
