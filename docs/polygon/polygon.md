@@ -19,3 +19,7 @@ Polygon (formerly MATIC Network) is an Indian blockchain scalability platform. I
 - [WhiteboardCrypto](https://www.youtube.com/watch?v=GWUwFDFOipo)
 
 - [MoneyZG](https://www.youtube.com/watch?v=SKY-FMv_kko)
+
+Courses
+
+-[Full Course on Polygon Development | Build Blockchain Apps on Polygon](https://youtu.be/pc1yLO56pbg)
