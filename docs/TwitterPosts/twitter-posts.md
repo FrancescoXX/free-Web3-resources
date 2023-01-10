@@ -392,7 +392,7 @@ You can find Francesco [here](http://francescociulla.com)
 | 7-01-2023|12-hour livestream Alchemy bootcamp|https://youtube.com/live/NbnpJH4zpMI|
 | 7-01-2023|Open Source Web3 repositories for Typescript Developers:|https://twitter.com/FrancescoCiull4/status/1611834533707452416|
 | 9-01-2023|5 open source github repositories for blockchain developers|https://twitter.com/FrancescoCiull4/status/1612425934145044481|
-| 10-01-2023|||
+| 10-01-2023|How to learn Web3 in 2023|https://www.youtube.com/watch?v=N0XOyo6TEHo&feature=youtu.be&ab_channel=FrancescoCiulla|
 | 11-01-2023|||
 | 12-01-2023|||
 | 13-01-2023|||
