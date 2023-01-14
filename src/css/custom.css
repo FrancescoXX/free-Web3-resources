@@ -155,14 +155,9 @@ div[class^='announcementBar_'] {
     var(--site-primary-hue-saturation),
     95%
   );
-  background: repeating-linear-gradient(
-    35deg,
-    var(--site-announcement-bar-stripe-color1),
-    var(--site-announcement-bar-stripe-color1) 20px,
-    var(--site-announcement-bar-stripe-color2) 10px,
-    var(--site-announcement-bar-stripe-color2) 40px
-  );
+  background: linear-gradient( 34deg, rgba(68, 18, 115, 1) 0%, rgba(5, 30, 75, 1) 21%, rgba(52, 79, 141, 1) 58%, rgba(106, 137, 223, 1) 80%, rgba(145, 227, 226, 1) 99% );
   font-weight: bold;
+  font-size: 1.34rem;
 }
 
 .red > a {
