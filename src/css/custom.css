@@ -581,7 +581,7 @@ html[data-theme='light'] .menu__link:before {
 
 .main-wrapper {
   padding-bottom: 15%;
-  background-image: url('https://assets.website-files.com/5e0a5d9d743608d0f3ea6753/619650c123dedf5abe6feaa5_CTA%20Footer%20Circles.png');
+  /* background-image: url('https://assets.website-files.com/5e0a5d9d743608d0f3ea6753/619650c123dedf5abe6feaa5_CTA%20Footer%20Circles.png'); */
   background-repeat: no-repeat;
   background-position: center bottom;
   background-size: contain;
