@@ -395,9 +395,9 @@ You can find Francesco [here](http://francescociulla.com)
 | 10-01-2023|How to learn Web3 in 2023|https://www.youtube.com/watch?v=N0XOyo6TEHo&feature=youtu.be&ab_channel=FrancescoCiulla|
 | 11-01-2023|Frameworks, libraries, IDEs, SDKs|https://twitter.com/FrancescoCiull4/status/1613258436778811392|
 | 12-01-2023|Web3 Roadmaps|https://twitter.com/FrancescoCiull4/status/1613656532100554773|
-| 13-01-2023|LEns Protocol announcement|https://twitter.com/FrancescoCiull4/status/1613848563657703424|
-| 14-01-2023|||
-| 15-01-2023|||
+| 13-01-2023|Lens Protocol announcement and interaction|https://twitter.com/FrancescoCiull4/status/1613848563657703424|
+| 14-01-2023|4Castle call|https://twitter.com/FrancescoCiull4/status/1614216811838324737|
+| 15-01-2023|Set newsletter|https://cdn.forms-content.sg-form.com/71b3f15c-9495-11ed-be9a-ba854da8d35f|
 | 16-01-2023|||
 | 17-01-2023|||
 | 18-01-2023|||
