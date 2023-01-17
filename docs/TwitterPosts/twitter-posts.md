@@ -399,7 +399,7 @@ You can find Francesco [here](http://francescociulla.com)
 | 14-01-2023|4Castle call|https://twitter.com/FrancescoCiull4/status/1614216811838324737|
 | 15-01-2023|Set newsletter|https://cdn.forms-content.sg-form.com/71b3f15c-9495-11ed-be9a-ba854da8d35f|
 | 16-01-2023|||
-| 17-01-2023|||
+| 17-01-2023|devrel video (web3)||
 | 18-01-2023|||
 | 19-01-2023|||
 | 20-01-2023|||
