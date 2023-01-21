@@ -403,7 +403,7 @@ You can find Francesco [here](http://francescociulla.com)
 | 18-01-2023|||
 | 19-01-2023|||
 | 20-01-2023|||
-| 21-01-2023|||
+| 21-01-2023|Ethereum Virtual machine||
 | 22-01-2023|400||
 | 23-01-2023|||
 | 24-01-2023|||
