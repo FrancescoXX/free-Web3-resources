@@ -398,12 +398,12 @@ You can find Francesco [here](http://francescociulla.com)
 | 13-01-2023|Lens Protocol announcement and interaction|https://twitter.com/FrancescoCiull4/status/1613848563657703424|
 | 14-01-2023|4Castle call|https://twitter.com/FrancescoCiull4/status/1614216811838324737|
 | 15-01-2023|Set newsletter|https://cdn.forms-content.sg-form.com/71b3f15c-9495-11ed-be9a-ba854da8d35f|
-| 16-01-2023|||
-| 17-01-2023|devrel video (web3)||
-| 18-01-2023|||
-| 19-01-2023|||
-| 20-01-2023|||
-| 21-01-2023|Ethereum Virtual machine||
+| 16-01-2023|Best Blockchain to start with|https://twitter.com/FrancescoCiull4/status/1615055222279180312|
+| 17-01-2023|devrel video (web3)|https://www.youtube.com/watch?v=vI6bQJ463Sc&ab_channel=FrancescoCiulla|
+| 18-01-2023|DevRel unlocked process|https://twitter.com/FrancescoCiull4/status/1615675514441854977|
+| 19-01-2023|2023 topics|https://twitter.com/FrancescoCiull4/status/1616141195658264577|
+| 20-01-2023||Merkle trees|https://twitter.com/FrancescoCiull4/status/1616525244503572481|
+| 21-01-2023|Ethereum Virtual machine|https://twitter.com/FrancescoCiull4/status/1616888652021243909|
 | 22-01-2023|400||
 | 23-01-2023|||
 | 24-01-2023|||
