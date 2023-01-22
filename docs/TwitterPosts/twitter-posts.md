@@ -404,7 +404,7 @@ You can find Francesco [here](http://francescociulla.com)
 | 19-01-2023|2023 topics|https://twitter.com/FrancescoCiull4/status/1616141195658264577|
 | 20-01-2023||Merkle trees|https://twitter.com/FrancescoCiull4/status/1616525244503572481|
 | 21-01-2023|Ethereum Virtual machine|https://twitter.com/FrancescoCiull4/status/1616888652021243909|
-| 22-01-2023|400||
+| 22-01-2023|400 Open Source rust repositories|https://twitter.com/FrancescoCiull4/status/1617225850948292611|
 | 23-01-2023|||
 | 24-01-2023|||
 | 25-01-2023|||
