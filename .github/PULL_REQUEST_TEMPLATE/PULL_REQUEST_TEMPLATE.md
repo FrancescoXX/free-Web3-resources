@@ -1,67 +1,36 @@
-## Related Issue
+<!-- If your PR fixes an open issue, use `Closes #999` to link your PR with the issue. #999 stands for the issue number you are fixing -->
 
-Closes: # `<!-- issue number that will be closed through this PR -->`
+## Fixes Issue
 
-### Describe the changes you've made
+<!-- Remove this section if not applicable -->
 
-<!-- Give a clear description of what modifications you have made -->
+<!-- Example: Closes #31 -->
 
-## How has this been tested?
+## Changes proposed
 
-<!-- Describe how have you verified the changes made -->
+<!-- List all the proposed changes in your PR -->
 
-## Checklist
-
+<!-- Mark all the applicable boxes. To mark the box as done follow the following conventions -->
 <!--
-Example how to mark a checkbox:-
-- [x] I have performed a self-review of my own code.
+[x] - Correct; marked as done
+[X] - Correct; marked as done
+
+[ ] - Not correct; marked as **not** done
 -->
 
-- [ ] I have performed a self-review of my own code.
-- [ ] I have commented on my code, particularly wherever it was hard to understand.
-- [ ] I have made corresponding changes to the documentation.
-- [ ] I have followed the code style of the project
-- [ ] I have tested my code, and it works without errors
+## Check List (Check all the applicable boxes) <!-- Follow the above conventions to check the box -->
 
-## Additional Information
+- [ ] My code follows the code style of this project.
+- [ ] My change requires changes to the documentation.
+- [ ] I have updated the documentation accordingly.
+- [ ] All new and existing tests passed.
+- [ ] This PR does not contain plagiarized content.
+- [ ] The title of my pull request is a short description of the requested changes.
 
-<!-- Screenshots, notes for reviewers, anything? -->
+## Screenshots
 
-## Code of Conduct
+<!-- Add all the screenshots which support your changes -->
 
-- [ ] I agree to follow this project's [Code of Conduct](https://github.com/FrancescoXX/4c-site/blob/main/docs/CODE_OF_CONDUCT.md)## Related Issue
+## Note to reviewers
 
-Closes: # `<!-- issue number that will be closed through this PR -->`
-
-### Describe the changes you've made
-
-<!-- Give a clear description of what modifications you have made -->
-
-## How has this been tested?
-
-<!-- Describe how have you verified the changes made -->
-
-## Checklist
-
-<!--
-Example how to mark a checkbox:-
-- [x] I have performed a self-review of my own code.
--->
-
-- [ ] I have performed a self-review of my own code.
-- [ ] I have commented on my code, particularly wherever it was hard to understand.
-- [ ] I have made corresponding changes to the documentation.
-- [ ] I have followed the code style of the project
-- [ ] I have tested my code, and it works without errors
-
-## Additional Information
-
-<!-- Screenshots, notes for reviewers, anything? -->
-
-## Code of Conduct
-
-- [ ] I agree to follow this project's [Code of Conduct](https://github.com/FrancescoXX/4c-site/blob/main/docs/CODE_OF_CONDUCT.md)
-
-**Please keep up with the [Discord Conversation](https://discord.gg/4c) for more information.**
-
-<!-- Thanks for contributing, keep up the good work 🔥 --><!-- If your PR fixes an open issue, use `Closes #101` to link your PR with the issue. #101 stands for the issue number you are fixing -->
+<!-- Add notes to reviewers if applicable -->
