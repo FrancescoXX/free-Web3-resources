@@ -5,11 +5,13 @@
   "scripts": {
     "docusaurus": "docusaurus",
     "start": "docusaurus start",
+    "commit": "commit",
     "build": "docusaurus build",
     "swizzle": "docusaurus swizzle",
     "deploy": "docusaurus deploy",
     "clear": "docusaurus clear",
     "serve": "docusaurus serve",
+    "prepare": "husky install",
     "write-translations": "docusaurus write-translations",
     "write-heading-ids": "docusaurus write-heading-ids"
   },
@@ -26,7 +28,14 @@
     "@commitlint/cli": "^17.4.0",
     "@commitlint/config-conventional": "^17.4.0",
     "@docusaurus/module-type-aliases": "2.2.0",
-    "husky": "^8.0.3"
+    "semantic-release": "^19.0.5",
+    "@semantic-release/changelog": "^6.0.2",
+    "@semantic-release/commit-analyzer": "^9.0.2",
+    "@semantic-release/git": "^10.0.1",
+    "@semantic-release/github": "^8.0.7",
+    "@semantic-release/release-notes-generator": "^10.0.3",
+    "husky": "^8.0.3",
+    "yarn": "^1.22.19"
   },
   "browserslist": {
     "production": [
