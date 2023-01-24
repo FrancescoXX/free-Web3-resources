@@ -1,3 +1,25 @@
+# [0.6.0](https://github.com/FrancescoXX/free-Web3-resources/compare/v0.5.0...v0.6.0) (2023-01-24)
+
+
+### Bug Fixes
+
+* replace social links ([#318](https://github.com/FrancescoXX/free-Web3-resources/issues/318)) ([a2b0f8c](https://github.com/FrancescoXX/free-Web3-resources/commit/a2b0f8c1fa8a9dfe04ed4466a3d4cb7c38feab23))
+
+
+### Features
+
+* add announcement bar ([c2f8542](https://github.com/FrancescoXX/free-Web3-resources/commit/c2f854226549d10a78c61d7c778851bcb405e843))
+* add commit lint for linting commit messages ([1bce7f0](https://github.com/FrancescoXX/free-Web3-resources/commit/1bce7f0eb39190227203c6f8abfb953962b3c3b5))
+* add commit lint for linting commit messages ([ccebff3](https://github.com/FrancescoXX/free-Web3-resources/commit/ccebff3423e40a9e80e733d624c68440bd1d27fd))
+* add project ideas ([f0f27b3](https://github.com/FrancescoXX/free-Web3-resources/commit/f0f27b36cbf3d219a9499004b86912ab11fb7ce9))
+* add releases configuration ([39749aa](https://github.com/FrancescoXX/free-Web3-resources/commit/39749aa5007ad3eed279c504e2bf98cdd9390b0b))
+* add releases configuration ([7b301ca](https://github.com/FrancescoXX/free-Web3-resources/commit/7b301cae8c4985791e1dccafe4d1b8f17a048482))
+* add releases configuration ([120a825](https://github.com/FrancescoXX/free-Web3-resources/commit/120a825c1b753d199e04167471b08f618551b514))
+* add releases configuration ([c0ec98f](https://github.com/FrancescoXX/free-Web3-resources/commit/c0ec98f96c0c14caa745283380a40d30bd9b25d6))
+* change entire site's UI ([534c761](https://github.com/FrancescoXX/free-Web3-resources/commit/534c76198b41d40a90d6885ac37ba2a01e12426d))
+* remove background photo ([7195d56](https://github.com/FrancescoXX/free-Web3-resources/commit/7195d56d5cfc95503c5a1ef620ef88aff42a8fa6))
+* Update gitignore for yarn ([#310](https://github.com/FrancescoXX/free-Web3-resources/issues/310)) ([1ccfd36](https://github.com/FrancescoXX/free-Web3-resources/commit/1ccfd3648f71fbe7b97b36cdbe262e44db9f9a0a))
+
 # [0.5.0](https://github.com/FrancescoXX/free-Web3-resources/compare/v0.4.0...v0.5.0) (2022-10-30)
 
 
@@ -31,6 +53,3 @@
 ### Features
 
 * new learning platform added ([e9b84ca](https://github.com/FrancescoXX/free-Web3-resources/commit/e9b84ca97bdb932b265d121c533884e3ee7bb1f3))
-
-
-
