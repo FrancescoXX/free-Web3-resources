@@ -49,6 +49,6 @@ jobs:
       - name: Install dependencies
         run: yarn install --frozen-lockfile
       - name: Release package
-        run: yarn release
+        run: npm run release
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
