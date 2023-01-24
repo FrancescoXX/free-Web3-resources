@@ -12,6 +12,7 @@
     "clear": "docusaurus clear",
     "serve": "docusaurus serve",
     "prepare": "husky install",
+    "release": "semantic-release",
     "write-translations": "docusaurus write-translations",
     "write-heading-ids": "docusaurus write-heading-ids"
   },
