@@ -406,8 +406,8 @@ You can find Francesco [here](http://francescociulla.com)
 | 21-01-2023|Ethereum Virtual machine|https://twitter.com/FrancescoCiull4/status/1616888652021243909|
 | 22-01-2023|400 Open Source rust repositories|https://twitter.com/FrancescoCiull4/status/1617225850948292611|
 | 23-01-2023|Ethereum open source projects in different languages|https://twitter.com/FrancescoCiull4/status/1617617058073804800|
-| 24-01-2023|||
-| 25-01-2023|||
+| 24-01-2023|Solidity cheatsheet purple|https://twitter.com/FrancescoCiull4/status/1618013274838122497|
+| 25-01-2023|Build web3 tiktok Livepeer|https://twitter.com/FrancescoCiull4/status/1618254077321965569|
 | 26-01-2023|||
 | 27-01-2023|||
 | 28-01-2023|||
