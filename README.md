@@ -1,6 +1,15 @@
-# FREE Web3 resources
+# 🚀FREE Web3 resources
 
-A list of FREE resources to make Web3 accessible to everyone.
+Welcome to the ultimate hangout spot for Web3 enthusiasts! We're a community of like-minded individuals who are passionate about decentralized apps and the Ethereum network. Our goal is to create an inclusive and helpful environment where content creators can share their experiences and resources to reach their goals.
+
+Are you new to the world of blockchain?🤔 No problem! Our FREE resources will make it easy for you to get started with building decentralized apps and interacting with the Ethereum network. Whether you're a beginner or a seasoned pro, we've got you covered
+
+## 👋 Join Us 
+Want to have some fun and be a part of the Web3 revolution? Join our community and participate in our weekly challenges and meetings. Let's work together to build the future of the decentralized web! 🚀
+
+Don't miss out on the Web3 action. Join us now and let's shape the future together! 🌟
+
+<a href="https://discord.com/invite/cRjhjFRRre"><img src="https://cdn.worldvectorlogo.com/logos/discord-6.svg" title="Discord" alt="Discord Community" width="40"/></a><a href="https://twitter.com/4ccommunityhq"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Twitter Account" width="40"/></a>
 
 ### Installation
 
@@ -34,3 +43,9 @@ $ npm start
 + Now you should be able to see a list of resources and an edit button underneath. 
 + Click the edit button, which will take you to this GitHub repository, add your resource and commit message  
 + Then click 'Create a new branch for this commit and start a pull request'.
+
+## 🛡️License
+Free-Web3-resources is licensed under the MIT License - see the <a href="https://github.com/FrancescoXX/free-Web3-resources/blob/6d8457aa1dada8a773791f68efc175bd534866ad/LICENSE">LICENSE</a> file for details.
+
+## 🙏Support
+Don't forget to leave a star ⭐️
