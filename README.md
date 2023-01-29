@@ -11,6 +11,15 @@ Don't miss out on the Web3 action. Join us now and let's shape the future togeth
 
 <a href="https://discord.com/invite/cRjhjFRRre"><img src="https://cdn.worldvectorlogo.com/logos/discord-6.svg" title="Discord" alt="Discord Community" width="40"/></a><a href="https://twitter.com/4ccommunityhq"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Twitter Account" width="40"/></a>
 
+## 🛠️Tech Stack
+This project was buit upon:
+- [Docusaurus](https://opensource.fb.com/projects/docusaurus/) - An open source React Framework made specifically for documentation by Meta
+
+## 🎉Want to contribute ?
+Whether you are a community member or not, we would love your point of view! Feel free to first check out our
+- [code of conduct](https://github.com/FrancescoXX/free-Web3-resources/blob/6d8457aa1dada8a773791f68efc175bd534866ad/CODE_OF_CONDUCT.md) - By following the guide we've set, your contribution will more likely be accepted if it enhances the project. 
+- [contribution guidelines](https://github.com/FrancescoXX/free-Web3-resources/blob/6d8457aa1dada8a773791f68efc175bd534866ad/CONTRIBUTING.md) - The guide outlines the process for **creating an issue** and **submitting a pull request.**
+
 ### Installation
 
 ```
@@ -23,13 +32,6 @@ $ npm
 $ npm start
 ```
 
-
-## Contributing
-+ We welcome contributions to this project! 
-+ To contribute, kindly refer to [CONTRIBUTING.md](https://github.com/FrancescoXX/free-Web3-resources/blob/main/CONTRIBUTING.md) before getting started.
-+ The guide outlines the process for **creating an issue** and **submitting a pull request.**
-+ By following the guide we've set, your contribution will more likely be accepted if it enhances the project. 
-+ We appreciate your time and effort in making this project better. *Thank you for your support!*
 
 ### Note :
 + This repository started as a README file with a list of resources, as you can imagine with many contributions.
