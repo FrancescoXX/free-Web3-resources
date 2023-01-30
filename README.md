@@ -56,7 +56,7 @@ $ npm start
 ```
 
 
-### 🖋️ Note :
+## 🖋️ Note :
 + This repository started as a README file with a list of resources, as you can imagine with many contributions.
 + It made sense to create a website and have more structure.
 + We are now working on the website : [freeweb3resources.com](https://www.freeweb3resources.com/) to easily view and edit these resources 🔗 
