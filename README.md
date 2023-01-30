@@ -29,6 +29,19 @@ It's great that you've choosen this project to contribute to. You have 2 options
 - Improve the website 
 - Local development
 
+## Adding/Updating Resources
+📈This is great if you want to add or make changes to our resources!📈
+
+   💡 The easiest way to contribute is as follows:
+
+🔗 Go to our website [freeweb3resources.com](https://www.freeweb3resources.com/), click on `Get Started`<br>
+- This will take you to the docs section and from there you can navigate the sidebar to find the section for your resource.<br>
+- Now you should be able to see a list of resources and an edit button underneath.<br>
+- Click the edit button , which will take you to this GitHub repository.<br>
+- Add your resource and commit message.<br>
+- Then click 'Create a new branch for this commit and start a pull request'.<br>
+
+👍 Let's make some awesome updates together! 👍
 
 ### Installation
 
@@ -36,25 +49,18 @@ It's great that you've choosen this project to contribute to. You have 2 options
 $ npm
 ```
 
-### Local Development
+###  💻 Local Development
 
 ```
 $ npm start
 ```
 
 
-### Note :
+## 🖋️ Note :
 + This repository started as a README file with a list of resources, as you can imagine with many contributions.
 + It made sense to create a website and have more structure.
 + We are now working on the website : [freeweb3resources.com](https://www.freeweb3resources.com/) to easily view and edit these resources 🔗 
 
-
-## Contributing Resources
-+ The easiest way to contribute is by going to our website : [freeweb3resources.com](https://www.freeweb3resources.com/) and clicking `Get Started` on the homepage. 
-+ This will take you to the `docs` section and from there you can navigate the sidebar to find the section for your resource.
-+ Now you should be able to see a list of resources and an edit button underneath. 
-+ Click the edit button, which will take you to this GitHub repository, add your resource and commit message  
-+ Then click 'Create a new branch for this commit and start a pull request'.
 
 ## 🛡️License
 Free-Web3-resources is licensed under the MIT License - see the <a href="https://github.com/FrancescoXX/free-Web3-resources/blob/6d8457aa1dada8a773791f68efc175bd534866ad/LICENSE">LICENSE</a> file for details.
