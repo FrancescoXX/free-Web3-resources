@@ -56,6 +56,30 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      algolia: {
+        // If Algolia did not provide you any appId, use 'BH4D9OD16A'
+        appId: 'TK013U555M',
+  
+        // Public API key: it is safe to commit it
+        apiKey: '0b6ed8a949437c93bb86107d8c114efa',
+  
+        indexName: '-free-web3-resources'
+  
+        // Optional: see doc section below
+  
+        // Optional: Specify domains where the navigation should occur through window.location instead on history.push. Useful when our Algolia config crawls multiple documentation sites and we want to navigate with window.location.href to them.
+
+  
+        // Optional: Algolia search parameters
+
+  
+        //... other Algolia params
+      },
+      colorMode: {
+        defaultMode: 'dark',
+        disableSwitch: false,
+        respectPrefersColorScheme: true,
+      },
       navbar: {
         title: "Free Web3 Resources",
         logo: {
