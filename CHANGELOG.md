@@ -1,3 +1,10 @@
+# [0.7.0](https://github.com/FrancescoXX/free-Web3-resources/compare/v0.6.0...v0.7.0) (2023-02-03)
+
+
+### Features
+
+* change site color to match 4c ([fbb58c7](https://github.com/FrancescoXX/free-Web3-resources/commit/fbb58c7f4385d396e14618a64346a5f3ab3b69ca))
+
 # [0.6.0](https://github.com/FrancescoXX/free-Web3-resources/compare/v0.5.0...v0.6.0) (2023-01-24)
 
 
