@@ -1,3 +1,10 @@
+# [0.8.0](https://github.com/FrancescoXX/free-Web3-resources/compare/v0.7.0...v0.8.0) (2023-02-03)
+
+
+### Features
+
+* fix text contrast of light mode with background ([830dbf1](https://github.com/FrancescoXX/free-Web3-resources/commit/830dbf1a3c80828dd232870a56e191db3e8fe59b))
+
 # [0.7.0](https://github.com/FrancescoXX/free-Web3-resources/compare/v0.6.0...v0.7.0) (2023-02-03)
 
 
