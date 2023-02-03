@@ -495,6 +495,11 @@ html[data-theme="light"] .menu__list{
  color: #fff;
 }
 
+html[data-theme="light"] .navbar__title, .menu__link, .navbar__link, 
+.table-of-contents__link, .menu__caret{
+  color: #fff !important;
+}
+
 html[data-theme="light"] .navbar-sidebar {
   background: linear-gradient(
     34deg,
