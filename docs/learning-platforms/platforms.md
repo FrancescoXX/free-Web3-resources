@@ -15,3 +15,4 @@ You can learn through free certification Courses, Tutorials, Guides, Articles, Q
 - [Dev3](https://dev3.sh/) Dev3 enables frontend and mobile devs to build complex, production-ready web3 apps with ease.
 - [Metaschool](https://metaschool.so/) Metaschool is a platform where developers hangout to learn web3 with each other, collaborate on projects, earn NFTs for completing their work, and connect with talented folks building the future of the web!
 - [Binance Academy](https://academy.binance.com/en) Your one-stop guide to all things crypto. Whether you're a rookie trying to understand mining or a veteran looking to develop a trading strategy.
+- [useWeb3](https://www.useweb3.xyz/) useWeb3 is a platform for developers to explore and learn from tutorials, courses, books, videos or code challenges and start building!
