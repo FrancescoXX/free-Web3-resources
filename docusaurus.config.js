@@ -58,25 +58,23 @@ const config = {
     ({
       algolia: {
         // If Algolia did not provide you any appId, use 'BH4D9OD16A'
-        appId: 'TK013U555M',
-  
+        appId: "TK013U555M",
+
         // Public API key: it is safe to commit it
-        apiKey: '0b6ed8a949437c93bb86107d8c114efa',
-  
-        indexName: '-free-web3-resources'
-  
+        apiKey: "0b6ed8a949437c93bb86107d8c114efa",
+
+        indexName: "-free-web3-resources",
+
         // Optional: see doc section below
-  
+
         // Optional: Specify domains where the navigation should occur through window.location instead on history.push. Useful when our Algolia config crawls multiple documentation sites and we want to navigate with window.location.href to them.
 
-  
         // Optional: Algolia search parameters
 
-  
         //... other Algolia params
       },
       colorMode: {
-        defaultMode: 'dark',
+        defaultMode: "dark",
         disableSwitch: false,
         respectPrefersColorScheme: true,
       },
@@ -140,7 +138,7 @@ const config = {
       announcementBar: {
         id: "Join us",
         content:
-          'Join 4c <a target="_blank" rel="noopener noreferrer" href="https://www.4c.rocks"> now!</a>',
+          'Are you a Content Creator? <a target="_blank" rel="noopener noreferrer" href="https://www.4c.rocks">Join the Community</a>',
         backgroundColor: "#fafbfc",
         textColor: "#091E42",
         isCloseable: true,
