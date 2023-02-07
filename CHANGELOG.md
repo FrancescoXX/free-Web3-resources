@@ -1,3 +1,10 @@
+# [0.9.0](https://github.com/FrancescoXX/free-Web3-resources/compare/v0.8.0...v0.9.0) (2023-02-07)
+
+
+### Features
+
+* change the announcement banner text ([6ae4b6b](https://github.com/FrancescoXX/free-Web3-resources/commit/6ae4b6b4c1218146c83d4cce0d75e2fc6b9e3aca))
+
 # [0.8.0](https://github.com/FrancescoXX/free-Web3-resources/compare/v0.7.0...v0.8.0) (2023-02-03)
 
 
