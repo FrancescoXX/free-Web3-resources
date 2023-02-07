@@ -46,7 +46,7 @@ It's great that you've choosen this project to contribute to. You have 2 options
 ### Installation
 
 ```
-$ npm
+$ npm i
 ```
 
 ###  💻 Local Development
