@@ -98,6 +98,7 @@ const config = {
           },
         ],
       },
+
       footer: {
         style: "dark",
         links: [
@@ -135,6 +136,7 @@ const config = {
         ],
         copyright: `Copyright © ${new Date().getFullYear()} By 4c.`,
       },
+
       announcementBar: {
         id: "Join us",
         content:

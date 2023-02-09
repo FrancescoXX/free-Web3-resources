@@ -481,22 +481,26 @@ html[data-theme="light"] .menu__link {
 
 html[data-theme="light"] {
   background: linear-gradient(
-    34deg,
-    rgba(68, 18, 115, 1) 0%,
-    rgba(5, 30, 75, 1) 21%,
-    rgba(52, 79, 141, 1) 58%,
-    rgba(106, 137, 223, 1) 80%,
-    rgba(145, 227, 226, 1) 99%
-  ) repeat center;
+      34deg,
+      rgba(68, 18, 115, 1) 0%,
+      rgba(5, 30, 75, 1) 21%,
+      rgba(52, 79, 141, 1) 58%,
+      rgba(106, 137, 223, 1) 80%,
+      rgba(145, 227, 226, 1) 99%
+    )
+    repeat center;
   color: #fff;
 }
 
-html[data-theme="light"] .menu__list{
- color: #fff;
+html[data-theme="light"] .menu__list {
+  color: #fff;
 }
 
-html[data-theme="light"] .navbar__title, .menu__link, .navbar__link, 
-.table-of-contents__link, .menu__caret{
+html[data-theme="light"] .navbar__title,
+.menu__link,
+.navbar__link,
+.table-of-contents__link,
+.menu__caret {
   color: #fff !important;
 }
 
@@ -598,6 +602,12 @@ html[data-theme="light"] .menu__link:before {
 }
 
 /* footer */
+
+.footer__col{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
 
 .footer__title {
   font-size: var(--dd-h2-font-size);
@@ -859,6 +869,6 @@ p:last-child {
 
 /* This is bad practice, should be removed later when a better solution is found */
 
-footer{
+footer {
   margin-top: 10rem;
 }
