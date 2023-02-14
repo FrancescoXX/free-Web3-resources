@@ -1,3 +1,10 @@
+# [0.10.0](https://github.com/FrancescoXX/free-Web3-resources/compare/v0.9.0...v0.10.0) (2023-02-14)
+
+
+### Features
+
+* **light-mode:** fix issue [#394](https://github.com/FrancescoXX/free-Web3-resources/issues/394) ([0fac187](https://github.com/FrancescoXX/free-Web3-resources/commit/0fac187d3dda3d545f40396bcfd6068dc9a9bdd5))
+
 # [0.9.0](https://github.com/FrancescoXX/free-Web3-resources/compare/v0.8.0...v0.9.0) (2023-02-07)
 
 
