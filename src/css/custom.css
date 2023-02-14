@@ -143,14 +143,7 @@ html[data-theme="dark"] .DocSearch {
 }
 
 html[data-theme="light"] .navbar {
-  background: linear-gradient(
-    34deg,
-    rgba(68, 18, 115, 1) 0%,
-    rgba(5, 30, 75, 1) 21%,
-    rgba(52, 79, 141, 1) 58%,
-    rgba(106, 137, 223, 1) 80%,
-    rgba(145, 227, 226, 1) 99%
-  );
+  background: linear-gradient(90deg, purple, blue);
 }
 
 div[class^="announcementBar_"] {
@@ -480,15 +473,7 @@ html[data-theme="light"] .menu__link {
 }
 
 html[data-theme="light"] {
-  background: linear-gradient(
-      34deg,
-      rgba(68, 18, 115, 1) 0%,
-      rgba(5, 30, 75, 1) 21%,
-      rgba(52, 79, 141, 1) 58%,
-      rgba(106, 137, 223, 1) 80%,
-      rgba(145, 227, 226, 1) 99%
-    )
-    repeat center;
+  background: rgb(108, 152, 234);
   color: #fff;
 }
 
