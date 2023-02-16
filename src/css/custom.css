@@ -857,3 +857,8 @@ p:last-child {
 footer {
   margin-top: 10rem;
 }
+@media screen and (max-width:500px) {
+  .navbar__title{
+    font-size: 4vw;
+  }
+}
