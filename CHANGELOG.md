@@ -1,3 +1,10 @@
+# [0.11.0](https://github.com/FrancescoXX/free-Web3-resources/compare/v0.10.0...v0.11.0) (2023-02-16)
+
+
+### Features
+
+* navbar fix ([#398](https://github.com/FrancescoXX/free-Web3-resources/issues/398)) ([5f605fb](https://github.com/FrancescoXX/free-Web3-resources/commit/5f605fb7ef5b0c270c2dc98e09ec950692b9b6bf))
+
 # [0.10.0](https://github.com/FrancescoXX/free-Web3-resources/compare/v0.9.0...v0.10.0) (2023-02-14)
 
 
