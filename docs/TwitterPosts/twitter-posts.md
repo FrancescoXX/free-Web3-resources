@@ -160,7 +160,7 @@ You can find Francesco [here](http://francescociulla.com)
 | 20-5-2022     |Proof of work and proof od stake thread|https://twitter.com/FrancescoCiull4/status/1527505902609342477|
 | 21-5-2022     |Newsletter Open contradictions Web3|https://www.getrevue.co/profile/francescociull4/issues/open-contradictions-about-ethereum-and-web3-by-vitalik-buterin-and-the-merge-happening-soon-1178790|
 | 22-5-2022     |Blockchain implemented in different languages|https://twitter.com/FrancescoCiull4/status/1528232392699396097|
-| 23-5-2022     |What is a blockchain thread with visuals|https://twitter.com/FrancescoCiull4/status/1528584652201525250|
+| 23-5-2022     |What is a Blockchain thread with visuals|https://twitter.com/FrancescoCiull4/status/1528584652201525250|
 | 24-5-2022     |Ethereum whitepaper thread|https://twitter.com/FrancescoCiull4/status/1528932943812612096|
 | 25-5-2022     |Ethereum blocks thread|https://twitter.com/FrancescoCiull4/status/1529315821989859329|
 | 26-5-2022     |Smart contracts open source Github projects thread|https://twitter.com/FrancescoCiull4/status/1529674527801851904|
@@ -204,7 +204,7 @@ You can find Francesco [here](http://francescociulla.com)
 | 3-7-2022     |Solidity Tips: Contract|https://twitter.com/FrancescoCiull4/status/1543491919594094592|
 | 4-7-2022     |Solidity Tips: Events in Solidity|https://twitter.com/FrancescoCiull4/status/1543828114203099136|
 | 5-7-2022     |ERC-20 Token Smart Contract|https://twitter.com/FrancescoCiull4/status/1544176351049138182|
-| 6-7-2022     |200 DAYS MAppings in Solidity|https://twitter.com/FrancescoCiull4/status/1544523718180982784|
+| 6-7-2022     |200 DAYS Mappings in Solidity|https://twitter.com/FrancescoCiull4/status/1544523718180982784|
 | 7-7-2022     |Ethereum Sidechains thread|https://twitter.com/FrancescoCiull4/status/1544946452794933249|
 | 8-7-2022     |21 Ethereum Concepts|https://twitter.com/FrancescoCiull4/status/1545285219959414785|
 | 9-7-2022     |Journey to Web3|https://twitter.com/i/spaces/1OdJrBBayzkJX|
