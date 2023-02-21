@@ -1,3 +1,10 @@
+## [0.11.1](https://github.com/FrancescoXX/free-Web3-resources/compare/v0.11.0...v0.11.1) (2023-02-21)
+
+
+### Bug Fixes
+
+* outline ([9d9c81c](https://github.com/FrancescoXX/free-Web3-resources/commit/9d9c81c0f209b4eab1342f8e875894404e55a9f7))
+
 # [0.11.0](https://github.com/FrancescoXX/free-Web3-resources/compare/v0.10.0...v0.11.0) (2023-02-16)
 
 
