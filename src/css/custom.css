@@ -435,11 +435,11 @@ html[data-theme="dark"] {
 }
 
 html[data-theme="dark"] *:focus-visible {
-  outline: 2px solid var(--bluecheese40) !important;
+  /* outline: 2px solid var(--bluecheese40) !important; */
 }
 
 html *:focus-visible {
-  outline: 2px solid var(--bluecheese60) !important;
+  /* outline: 2px solid var(--bluecheese60) !important; */
   /* A11y contrast not high enough, suggest Blue Cheese 90 
   #009FB3 but needs discussion with Tsahi */
 }
