@@ -82,7 +82,7 @@ const config = {
         title: "Free Web3 Resources",
         logo: {
           alt: "Free Web3 resources",
-          src: "img/logo.png",
+          src: "img/fw3-blue-logo-squared.png",
         },
         items: [
           {
