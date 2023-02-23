@@ -640,6 +640,9 @@ div[class^="announcementBar_"] {
   main .row > div {
     max-width: 100% !important;
   }
+  .col--4{
+    margin-bottom: 40px;
+  }
 }
 
 @media screen and (max-width: 1000px) {
@@ -861,4 +864,10 @@ footer {
   .navbar__title{
     font-size: 4vw;
   }
+  .col--4{
+    margin-bottom: 80px;
+  }
+}
+.container{
+  margin-top: 50px;
 }
