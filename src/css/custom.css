@@ -8,9 +8,11 @@
 
 :root {
   /*
+
   See css var + hsl color palette technique:
   https://blog.maximeheckel.com/posts/the-power-of-composition-with-css-variables/
-   */
+  
+  */
 
   --site-primary-hue-saturation: 1, 1%;
   --site-primary-hue-saturation-light: 167, 56%;
