@@ -1,3 +1,10 @@
+# [0.12.0](https://github.com/FrancescoXX/free-Web3-resources/compare/v0.11.1...v0.12.0) (2023-02-23)
+
+
+### Features
+
+* add new logo to navbar ([604992e](https://github.com/FrancescoXX/free-Web3-resources/commit/604992eac68cb33ee56f0e19ec3cafad4e337092))
+
 ## [0.11.1](https://github.com/FrancescoXX/free-Web3-resources/compare/v0.11.0...v0.11.1) (2023-02-21)
 
 
