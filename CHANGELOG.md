@@ -1,3 +1,10 @@
+## [0.12.1](https://github.com/FrancescoXX/free-Web3-resources/compare/v0.12.0...v0.12.1) (2023-02-23)
+
+
+### Bug Fixes
+
+* changed inconsistent spacing ([e234e79](https://github.com/FrancescoXX/free-Web3-resources/commit/e234e797401e825ea7804156463e5e4e0d4be594))
+
 # [0.12.0](https://github.com/FrancescoXX/free-Web3-resources/compare/v0.11.1...v0.12.0) (2023-02-23)
 
 
