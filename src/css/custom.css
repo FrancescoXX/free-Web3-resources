@@ -471,12 +471,12 @@ article {
 /************************ICONS ON MENU ITEMS**************************/
 
 html[data-theme="light"] .menu__link {
-  color: #000;
+  color: #000 !important;
 }
 
 html[data-theme="light"] {
   background: rgb(108, 152, 234);
-  color: #fff;
+  color: #000000;
 }
 
 html[data-theme="light"] .menu__list {
