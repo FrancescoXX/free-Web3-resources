@@ -473,20 +473,23 @@ html[data-theme="light"] .menu__link {
 }
 
 html[data-theme="light"] {
-  background: rgb(108, 152, 234);
-  color: #fff;
+  /* background: rgb(108, 152, 234); */
+  color:  #5A5A5A;
 }
 
 html[data-theme="light"] .menu__list {
-  color: #fff;
+  color:  #5A5A5A;
 }
 
-html[data-theme="light"] .navbar__title,
+html[data-theme="light"] 
 .menu__link,
-.navbar__link,
 .table-of-contents__link,
 .menu__caret {
-  color: #fff !important;
+  color:  #5A5A5A !important;
+}
+html[data-theme="light"] .navbar__title,
+.navbar__link{
+  color:#fff !important;
 }
 
 html[data-theme="light"] .navbar-sidebar {
@@ -503,7 +506,7 @@ html[data-theme="light"] .navbar-sidebar {
 .menu__link {
   margin-left: 1.55rem;
   color: var(--salt80);
-  color: rgb(168, 179, 255);
+  color:  #5A5A5A;
   font-weight: normal;
   font-size: 1rem;
   line-height: 1.25;
