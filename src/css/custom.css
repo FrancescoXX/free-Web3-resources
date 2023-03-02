@@ -143,7 +143,8 @@ html[data-theme="dark"] .DocSearch {
 }
 
 html[data-theme="light"] .navbar {
-  background: linear-gradient(90deg, purple, blue);
+  background: white;
+ 
 }
 
 div[class^="announcementBar_"] {
@@ -474,22 +475,22 @@ html[data-theme="light"] .menu__link {
 
 html[data-theme="light"] {
   /* background: rgb(108, 152, 234); */
-  color:  #5A5A5A;
+  color:  #434242;
 }
 
 html[data-theme="light"] .menu__list {
-  color:  #5A5A5A;
+  color:  #434242;
 }
 
 html[data-theme="light"] 
 .menu__link,
 .table-of-contents__link,
 .menu__caret {
-  color:  #5A5A5A !important;
+  color:  #434242 !important;
 }
 html[data-theme="light"] .navbar__title,
 .navbar__link{
-  color:#fff !important;
+  color:black !important;
 }
 
 html[data-theme="light"] .navbar-sidebar {
@@ -506,7 +507,7 @@ html[data-theme="light"] .navbar-sidebar {
 .menu__link {
   margin-left: 1.55rem;
   color: var(--salt80);
-  color:  #5A5A5A;
+  color:  #434242;
   font-weight: normal;
   font-size: 1rem;
   line-height: 1.25;
@@ -874,3 +875,4 @@ footer {
 .container{
   margin-top: 50px;
 }
+
