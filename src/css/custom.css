@@ -481,16 +481,29 @@ html[data-theme="light"] {
 html[data-theme="light"] .menu__list {
   color:  #434242;
 }
-
+html[data-theme="dark"] .menu_list{
+  color: white;
+}
 html[data-theme="light"] 
 .menu__link,
 .table-of-contents__link,
 .menu__caret {
   color:  #434242 !important;
 }
+html[data-theme="dark"]  
+.menu__link,
+.table-of-contents__link,
+.menu__caret{
+  color: white;
+}
+
 html[data-theme="light"] .navbar__title,
-.navbar__link{
+html[data-theme="light"] .navbar__link{
   color:black !important;
+}
+html[data-theme="dark"] .navbar__title,
+html[data-theme="dark"] .navbar__link{
+  color: white !important;
 }
 
 html[data-theme="light"] .navbar-sidebar {
