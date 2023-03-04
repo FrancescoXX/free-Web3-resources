@@ -1,3 +1,16 @@
+# [0.13.0](https://github.com/FrancescoXX/free-Web3-resources/compare/v0.12.1...v0.13.0) (2023-03-04)
+
+
+### Bug Fixes
+
+* changed navbar color and made the text darker ([5e1fd33](https://github.com/FrancescoXX/free-Web3-resources/commit/5e1fd33bd21ab29011b875e1c8f12d8e61df365d))
+* navbar text color ([863e506](https://github.com/FrancescoXX/free-Web3-resources/commit/863e506ee9ce46cba02c2f49c66d2af6b54a015d))
+
+
+### Features
+
+* light mode changes ([ccde216](https://github.com/FrancescoXX/free-Web3-resources/commit/ccde21600ddd3646ff0eb99f4313c8e86feba0be))
+
 ## [0.12.1](https://github.com/FrancescoXX/free-Web3-resources/compare/v0.12.0...v0.12.1) (2023-02-23)
 
 
