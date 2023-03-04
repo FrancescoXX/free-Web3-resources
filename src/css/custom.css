@@ -143,7 +143,8 @@ html[data-theme="dark"] .DocSearch {
 }
 
 html[data-theme="light"] .navbar {
-  background: linear-gradient(90deg, purple, blue);
+  background: white;
+ 
 }
 
 div[class^="announcementBar_"] {
@@ -473,20 +474,36 @@ html[data-theme="light"] .menu__link {
 }
 
 html[data-theme="light"] {
-  background: rgb(108, 152, 234);
-  color: #fff;
+  /* background: rgb(108, 152, 234); */
+  color:  #434242;
 }
 
 html[data-theme="light"] .menu__list {
-  color: #fff;
+  color:  #434242;
+}
+html[data-theme="dark"] .menu_list{
+  color: white;
+}
+html[data-theme="light"] 
+.menu__link,
+.table-of-contents__link,
+.menu__caret {
+  color:  #434242 !important;
+}
+html[data-theme="dark"]  
+.menu__link,
+.table-of-contents__link,
+.menu__caret{
+  color: white;
 }
 
 html[data-theme="light"] .navbar__title,
-.menu__link,
-.navbar__link,
-.table-of-contents__link,
-.menu__caret {
-  color: #fff !important;
+html[data-theme="light"] .navbar__link{
+  color:black !important;
+}
+html[data-theme="dark"] .navbar__title,
+html[data-theme="dark"] .navbar__link{
+  color: white !important;
 }
 
 html[data-theme="light"] .navbar-sidebar {
@@ -503,7 +520,7 @@ html[data-theme="light"] .navbar-sidebar {
 .menu__link {
   margin-left: 1.55rem;
   color: var(--salt80);
-  color: rgb(168, 179, 255);
+  color:  #434242;
   font-weight: normal;
   font-size: 1rem;
   line-height: 1.25;
@@ -871,3 +888,4 @@ footer {
 .container{
   margin-top: 50px;
 }
+
