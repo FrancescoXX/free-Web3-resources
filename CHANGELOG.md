@@ -1,3 +1,10 @@
+## [0.13.1](https://github.com/FrancescoXX/free-Web3-resources/compare/v0.13.0...v0.13.1) (2023-03-07)
+
+
+### Bug Fixes
+
+* navbar background in mobile view ([64ec0f1](https://github.com/FrancescoXX/free-Web3-resources/commit/64ec0f11c7d7ea2d385b2ddbb95afeeb77c1af7a))
+
 # [0.13.0](https://github.com/FrancescoXX/free-Web3-resources/compare/v0.12.1...v0.13.0) (2023-03-04)
 
 
