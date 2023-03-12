@@ -424,7 +424,7 @@ img[src="/img/logo.png"] {
   --ifm-menu-link-padding-vertical: 0.5rem;
 
   --ifm-menu-link-sublist-icon: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="16px" height="16px" viewBox="0 0 24 24"><path fill="currentcolor" d="M7.41 15.41L12 10.83l4.59 4.58L18 14l-6-6-6 6z"></path></svg>');
-  /* --ifm-menu-link-sublist-icon-before: url('../img/test.svg'); */
+  /* --ifm-menu-link-sublist-icon-before: url('../../static/img/icons/test.svg'); */
 
   /* table of contents */
   --ifm-toc-padding-vertical: 1rem;
@@ -534,62 +534,62 @@ html[data-theme="light"] .menu__link:before {
 }
 
 .theme-doc-sidebar-menu li:nth-child(1) .menu__link:before {
-  background: url('../img/roadmap2.svg') 50% / 1.25rem 1rem;
+  background: url('../../static/img/icons/roadmap2.svg') 50% / 1.25rem 1rem;
   background-repeat: no-repeat;
 }
 
 .theme-doc-sidebar-menu li:nth-child(2) .menu__link:before {
-  background: url('../img/blockchains.svg') 50% / 1.25rem 2rem;
+  background: url('../../static/img/icons/blockchains.svg') 50% / 1.25rem 2rem;
   background-repeat: no-repeat;
 }
 
 .theme-doc-sidebar-menu li:nth-child(3) .menu__link:before {
-  background: url('../img/identity2.svg') 50% / 1.25rem 1rem;
+  background: url('../../static/img/icons/identity2.svg') 50% / 1.25rem 1rem;
   background-repeat: no-repeat;
 }
 
 .theme-doc-sidebar-menu li:nth-child(4) .menu__link:before {
-  background: url('../img/gradhat2.svg') 50% / 1.25rem 1rem;
+  background: url('../../static/img/icons/gradhat2.svg') 50% / 1.25rem 1rem;
   background-repeat: no-repeat;
 }
 
 .theme-doc-sidebar-menu li:nth-child(5) .menu__link:before {
-  background: url('../img/package.svg') 50% / 1.25rem 1rem;
+  background: url('../../static/img/icons/package.svg') 50% / 1.25rem 1rem;
   background-repeat: no-repeat;
 }
 
 .theme-doc-sidebar-menu li:nth-child(6) .menu__link:before {
-  background: url('../img/sdks.svg') 50% / 1.25rem 1rem;
+  background: url('../../static/img/icons/sdks.svg') 50% / 1.25rem 1rem;
   background-repeat: no-repeat;
 }
 
 .theme-doc-sidebar-menu li:nth-child(7) .menu__link:before {
-  background: url('../img/nodes.svg') 50% / 1.25rem 1rem;
+  background: url('../../static/img/icons/nodes.svg') 50% / 1.25rem 1rem;
   background-repeat: no-repeat;
 }
 
 .theme-doc-sidebar-menu li:nth-child(8) .menu__link:before {
-  background: url('../img/filestorage.svg') 50% / 1.25rem 1rem;
+  background: url('../../static/img/icons/filestorage.svg') 50% / 1.25rem 1rem;
   background-repeat: no-repeat;
 }
 
 .theme-doc-sidebar-menu li:nth-child(9) .menu__link:before {
-  background: url('../img/indexing.svg') 50% / 1.25rem 1rem;
+  background: url('../../static/img/icons/indexing.svg') 50% / 1.25rem 1rem;
   background-repeat: no-repeat;
 }
 
 .theme-doc-sidebar-menu li:nth-child(10) .menu__link:before {
-  background: url('../img/notification.svg') 50% / 1.25rem 1rem;
+  background: url('../../static/img/icons/notification.svg') 50% / 1.25rem 1rem;
   background-repeat: no-repeat;
 }
 
 .theme-doc-sidebar-menu li:nth-child(11) .menu__link:before {
-  background: url('../img/links.svg') 50% / 1.25rem 1rem;
+  background: url('../../static/img/icons/links.svg') 50% / 1.25rem 1rem;
   background-repeat: no-repeat;
 }
 
 .theme-doc-sidebar-menu li:nth-child(12) .menu__link:before {
-  background: url('../img/layers.svg') 50% / 1.25rem 1rem;
+  background: url('../../static/img/icons/layers.svg') 50% / 1.25rem 1rem;
   background-repeat: no-repeat;
 }
 
@@ -809,7 +809,7 @@ details[open] > summary:before {
 summary:before {
   content: "";
   opacity: 0.6;
-  /* background-image: url('../img/chevron.svg'); */
+  /* background-image: url('../../static/img/icons/chevron.svg'); */
   background-repeat: no-repeat;
   background-size: 100% 100%;
   width: 2rem;
@@ -898,7 +898,7 @@ footer {
 }
 
 .theme-doc-sidebar-item-category li:nth-child(2) .menu__link:before {
-  background: url('../img/gps.svg') 50% / 1.25rem 1rem;
+  background: url('../../static/img/icons/gps.svg') 50% / 1.25rem 1rem;
 }
 
 

@@ -10,7 +10,6 @@
   width: 200px;
 }
 
-
 .grid3col{
   display: grid;
   grid-template-columns: repeat(4,minmax(0,1fr));
@@ -42,7 +41,6 @@
     margin: 0 auto;
   }
 }
-
 
 .listContainer{
   min-height: 17rem;
@@ -85,7 +83,6 @@ html[data-theme='light'] .homecard{
   border: 1px solid #a8b3cf;
   color: #000;
 }
-
 
 .homecard h2{
   margin: 8px 16px;
