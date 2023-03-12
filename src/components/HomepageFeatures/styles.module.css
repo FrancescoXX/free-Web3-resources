@@ -87,17 +87,18 @@ html[data-theme='light'] .homecard{
 .homecard h2{
   margin: 8px 16px;
   min-height: 2.4rem;
-  font-size: 1.25rem;
+  font-size: 2.25rem;
   line-height: 1.4;
 }
 
 html[data-theme='light'] .homecard a{
    color: #000;
 }
+
 .homecard a{
   color: white;
   text-decoration: underline;
-  line-height: 2rem;;
+  font-size: 1.50rem;
 }
 html[data-theme='light'] .homeIcon{
   filter: brightness(0.5);
