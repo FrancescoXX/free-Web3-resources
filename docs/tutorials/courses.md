@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# 🎓 Tutorials
+# 🎓 Courses
 
 - [LearnWeb3](https://learnweb3.io) LearnWeb3 is the best, fastest-growing, and completely free web3 education platform for new and experienced web2 developers.
 - [Bankless Academy](https://app.banklessacademy.com/) The Bankless Academy is on a mission to introduce 1 billion people to the exciting possibilities of cryptocurrency, Defi, and beyond.
