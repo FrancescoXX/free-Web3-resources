@@ -6,7 +6,6 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "Free Web3 resources",
   tagline: "A list of resources to learn Web3",
   url: "https://your-docusaurus-test-site.com",
   baseUrl: "/",
