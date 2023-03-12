@@ -1,8 +1,4 @@
 {
   "label": "Oracles",
-  "position": 18,
-  "link": {
-    "type": "generated-index",
-    "description": "Oracles"
-  }
+  "position": 18
 }

@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# 📂 File Storage
+# File Storage
 
 Decentralized Storage [thread](https://twitter.com/FrancescoCiull4/status/1483295727078060034)
 

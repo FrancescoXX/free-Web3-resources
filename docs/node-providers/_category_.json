@@ -1,8 +1,4 @@
 {
   "label": "Node Providers",
-  "position": 13,
-  "link": {
-    "type": "generated-index",
-    "description": "Node Providers"
-  }
+  "position": 13
 }
