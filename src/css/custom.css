@@ -550,6 +550,27 @@ html[data-theme="light"] .menu__link:before {
   background-repeat: no-repeat;
 }
 
+/**getting started**/
+.theme-doc-sidebar-menu li:nth-child(4) .menu__link:before {
+  background: url('../img/identity2.svg') 50% / 1.25rem 1rem;
+  background-repeat: no-repeat;
+}
+
+.theme-doc-sidebar-menu li:nth-child(5) .menu__link:before {
+  background: url('../img/gradhat2.svg') 50% / 1.25rem 1rem;
+  background-repeat: no-repeat;
+}
+
+.theme-doc-sidebar-menu li:nth-child(6) .menu__link:before {
+  background: url('../img/package.svg') 50% / 1.25rem 1rem;
+  background-repeat: no-repeat;
+}
+
+.theme-doc-sidebar-menu li:nth-child(7) .menu__link:before {
+  background: url('../img/sdks.svg') 50% / 1.25rem 1rem;
+  background-repeat: no-repeat;
+}
+
 .theme-doc-sidebar-menu li:nth-child(4) .menu__link:before {
   background: url('../../static/img/icons/gradhat3.svg') 50% / 1.25rem 1rem;
   background-repeat: no-repeat;
@@ -582,6 +603,12 @@ html[data-theme="light"] .menu__link:before {
   background-repeat: no-repeat;
 }
 
+
+.theme-doc-sidebar-menu li:nth-child(9) .menu__link:before {
+  background: url('../img/filestorage.svg') 50% / 1.25rem 1rem;
+  background-repeat: no-repeat;
+}
+
 .theme-doc-sidebar-menu li:nth-child(10) .menu__link:before {
   background: url('../../static/img/icons/notification.svg') 50% / 1.25rem 1rem;
   background-repeat: no-repeat;
@@ -594,6 +621,12 @@ html[data-theme="light"] .menu__link:before {
 
 .theme-doc-sidebar-menu li:nth-child(12) .menu__link:before {
   background: url('../../static/img/icons/layers.svg') 50% / 1.25rem 1rem;
+  background: url('../img/links.svg') 50% / 1.25rem 1rem;
+  background-repeat: no-repeat;
+}
+
+.theme-doc-sidebar-menu li:nth-child(13) .menu__link:before {
+  background: url('../img/layers.svg') 50% / 1.25rem 1rem;
   background-repeat: no-repeat;
 }
 
@@ -903,8 +936,6 @@ footer {
 .theme-doc-sidebar-item-category li:nth-child(2) .menu__link:before {
   background: url('../../static/img/icons/gps.svg') 50% / 1.25rem 1rem;
 }
-
-
 
 
 .navbar__brand {
