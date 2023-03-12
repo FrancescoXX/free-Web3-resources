@@ -10,7 +10,6 @@
   width: 200px;
 }
 
-
 .grid3col{
   display: grid;
   grid-template-columns: repeat(4,minmax(0,1fr));
