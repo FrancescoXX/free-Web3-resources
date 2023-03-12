@@ -79,7 +79,7 @@ const config = {
         respectPrefersColorScheme: true,
       },
       navbar: {
-        title: "Free Web3 Resources",
+        title: "",
         logo: {
           alt: "Free Web3 resources",
           src: "img/fw3-blue-logo-squared.png",
