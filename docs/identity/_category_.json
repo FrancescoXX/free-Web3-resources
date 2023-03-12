@@ -1,8 +1,4 @@
 {
   "label": "Identity",
-  "position": 7,
-  "link": {
-    "type": "generated-index",
-    "description": "Identity"
-  }
+  "position": 7
 }

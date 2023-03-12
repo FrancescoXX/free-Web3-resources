@@ -177,7 +177,7 @@ a {
 }
 
 img[src] {
-  border-radius: 16px;
+  border-radius: 1px;
 }
 
 img[src="/img/logo.png"] {
