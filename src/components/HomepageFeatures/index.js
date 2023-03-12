@@ -7,7 +7,9 @@ const FeatureList = [
     title: 'Getting Started',
     icon: 'img/icons/rocket.svg',
     items: [
-      {url: "docs/introduction", text: "Start here"}
+      {url: "docs/introduction", text: "🏎️ Start here"},
+      {url: "docs/roadmap/blockchain-roadmaps", text: "🛣️ Web3 Roadmap"}
+
     ]
   },
   {
