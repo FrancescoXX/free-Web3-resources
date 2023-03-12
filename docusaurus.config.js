@@ -61,7 +61,7 @@ const config = {
         appId: "TK013U555M",
 
         // Public API key: it is safe to commit it
-        apiKey: "0b6ed8a949437c93bb86107d8c114efa",
+        apiKey: "868e35b771ee2f9116e289cf1ba63d96",
 
         indexName: "-free-web3-resources",
 
