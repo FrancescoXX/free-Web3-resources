@@ -865,3 +865,7 @@ footer {
 .navbar__brand {
   margin: 0;
 }
+
+a{
+  text-decoration: none !important;  
+}
