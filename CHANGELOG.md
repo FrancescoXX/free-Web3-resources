@@ -1,3 +1,10 @@
+# [0.14.0](https://github.com/FrancescoXX/free-Web3-resources/compare/v0.13.1...v0.14.0) (2023-03-12)
+
+
+### Features
+
+* main page ([#432](https://github.com/FrancescoXX/free-Web3-resources/issues/432)) ([91fad8b](https://github.com/FrancescoXX/free-Web3-resources/commit/91fad8bafe4ef7cde17f5ab23598b9e09fb42a71))
+
 ## [0.13.1](https://github.com/FrancescoXX/free-Web3-resources/compare/v0.13.0...v0.13.1) (2023-03-07)
 
 
