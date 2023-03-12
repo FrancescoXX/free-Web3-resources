@@ -522,7 +522,7 @@ html[data-theme="light"] .menu__link:before {
 .theme-doc-sidebar-menu .menu__link:before {
   content: "";
   position: absolute;
-  /* background: var(--ifm-menu-link-sublist-icon-before) 50% / 1.25rem 1.25rem; */
+  background: var(--ifm-menu-link-sublist-icon-before) 50% / 1.25rem 1.25rem;
   height: 1.25rem;
   width: 1.25rem;
   left: 0.25rem;
@@ -535,46 +535,20 @@ html[data-theme="light"] .menu__link:before {
   background: none;
 }
 /**getting started**/
-/* .theme-doc-sidebar-menu li:nth-child(2) .menu__link:before {
-  background: url('../img/menu/getting-started.svg') 50% / 1.25rem 1rem;
-  filter: none;
+/* .theme-doc-sidebar-menu li:nth-child(1) .menu__link:before {
+  background: url('../img/rocket.svg') 50% / 1.25rem 1rem;
 } */
 
-/* .theme-doc-sidebar-menu li:nth-child(3) .menu__link:before {
-  background: url('../img/menu/setting-up-feed.svg');
-} */
-
-/* .theme-doc-sidebar-menu li:nth-child(4) .menu__link:before {
-  background: url('../img/menu/key-features.svg');
-} */
-
-/* .theme-doc-sidebar-menu li:nth-child(5) .menu__link:before {
-  background: url('../img/menu/your-profile.svg');
-} */
-
-/* .theme-doc-sidebar-menu li:nth-child(6) .menu__link:before {
-  background: url('../img/menu/customization.svg');
-} */
-
-/* .theme-doc-sidebar-menu li:nth-child(7) .menu__link:before {
-  background: url('../img/menu/useful-guides.svg');
-} */
-
-/* .theme-doc-sidebar-menu li:nth-child(8) .menu__link:before {
-  background: url('../img/menu/integration.svg');
-} */
-
-/* .theme-doc-sidebar-menu li:nth-child(9) .menu__link:before {
-  background: url('../img/menu/content-creator.svg');
-} */
-
-/* .theme-doc-sidebar-menu li:nth-child(10) .menu__link:before {
-  background: url('../img/menu/oss-contributors.svg');
-} */
-.theme-doc-sidebar-menu li:nth-child(11) .menu__link:before {
-  /* background: url('../img/menu/community.svg'); */
-  left: 0.75rem;
+.theme-doc-sidebar-menu li:nth-child(2) .menu__link:before {
+  background: url('../img/roadmap.svg') 50% / 1.25rem 1rem;
 }
+
+/**getting started**/
+.theme-doc-sidebar-menu li:nth-child(3) .menu__link:before {
+  background: url('../img/rocket.svg') 50% / 1.25rem 1rem;
+}
+
+
 
 .theme-doc-sidebar-item-link-level-2 > .menu__link {
   margin-left: 1.25rem;
@@ -880,3 +854,14 @@ footer {
   margin-top: 50px;
 }
 
+.theme-doc-sidebar-item-category li:nth-child(2) .menu__link:before {
+  background: url('../img/gps.svg') 50% / 1.25rem 1rem;
+}
+
+/* .theme-doc-sidebar-item-category li:nth-child(4) .menu__link:before {
+  background: url('../img/rocket.svg') 50% / 1.25rem 1rem;
+} */
+
+.navbar__brand {
+  margin: 0;
+}

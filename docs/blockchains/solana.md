@@ -1,8 +1,8 @@
 ---
-sidebar_position: 1
+sidebar_position: 3
 ---
 
-# 🔮 Solana
+# Solana
 
 ![image](https://user-images.githubusercontent.com/89864818/193443511-1a552e0f-199f-465d-a492-187aca0620bf.png)
 Solana is a public blockchain platform with smart contract functionality. Its native cryptocurrency is SOL.
