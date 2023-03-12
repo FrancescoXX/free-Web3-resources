@@ -7,8 +7,10 @@
   padding: 4rem 0;
   text-align: center;
   position: relative;
+  background: linear-gradient(rgba(0, 0, 0, 0.5), #0E121780);
   overflow: hidden;
-}
+  color: white;
+ }
 
 @media screen and (max-width: 996px) {
   .heroBanner {
