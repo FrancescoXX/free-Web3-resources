@@ -16,8 +16,8 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: "facebook", // Usually your GitHub org/user name.
-  projectName: "docusaurus", // Usually your repo name.
+  organizationName: "FrancescoXX", // Usually your GitHub org/user name.
+  projectName: "free-web3-resources", // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
@@ -122,13 +122,13 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} By 4c.`,
+        copyright: `Copyright © ${new Date().getFullYear()} By Francesco Ciulla, 4C Founder`,
       },
 
       announcementBar: {
         id: "Join us",
         content:
-          'Are you a Content Creator? <a target="_blank" rel="noopener noreferrer" href="https://www.4c.rocks">Join the Community</a>',
+          'Are you a Content Creator? <a target="_blank" rel="noopener noreferrer" href="https://discord.gg/4ccommunity">Join the Community</a>',
         backgroundColor: "#fafbfc",
         textColor: "#091E42",
         isCloseable: true,
