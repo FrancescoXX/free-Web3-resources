@@ -35,7 +35,6 @@
     "@semantic-release/git": "^10.0.1",
     "@semantic-release/github": "^8.0.7",
     "@semantic-release/release-notes-generator": "^10.0.3",
-    "husky": "^8.0.3",
     "yarn": "^1.22.19"
   },
   "browserslist": {
