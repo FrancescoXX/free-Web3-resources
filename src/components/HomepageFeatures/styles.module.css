@@ -10,6 +10,7 @@
   width: 200px;
 }
 
+
 .grid3col{
   display: grid;
   grid-template-columns: repeat(4,minmax(0,1fr));
@@ -42,6 +43,7 @@
   }
 }
 
+
 .listContainer{
   min-height: 17rem;
 }
@@ -66,7 +68,6 @@
     width: 1.25rem;
     left: -1.5rem;
     top: 0.5rem;
-    
   }
 
 .homecard{
