@@ -4,58 +4,73 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
-    description: (
-      <>
-        This is a simple and easy to use website to find resources for web3
-      </>
-    ),
+    title: 'Getting Started',
+    icon: 'img/icons/rocket.svg',
+    items: [
+      {url: "docs/introduction", text: "Start here"}
+    ]
   },
   {
-    title: 'Managed by a community',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
-    description: (
-      <>
-        The 4c community is the community behind the free web3 resources site
-      </>
-    ),
+    title: 'Beginner',
+    icon: 'img/icons/rocket.svg',
+    items: [
+      {url: "docs/introduction", text: "Beginner"}
+    ]
   },
   {
-    title: 'Powered by Docusaurus',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
-    description: (
-      <>
-        The React Docusaurus framework for making documentation is what this site was built with.
-      </>
-    ),
+    title: 'Intermediate',
+    icon: 'img/icons/rocket.svg',
+    items: [
+      {url: "docs/introduction", text: "Intermediate"}
+    ]
   },
+  {
+    title: 'Advanced',
+    icon: 'img/icons/rocket.svg',
+    items: [
+      {url: "docs/introduction", text: "Advanced"}
+    ]
+  },
+  
 ];
 
-function Feature({Svg, title, description}) {
+function FeatureItem({url, text}){
   return (
-    <div className={clsx('col col--4')}>
-      {/* <div className="text--center">
-        <Svg className={styles.featureSvg} role="img" />
-      </div> */}
-      <div className="text--center padding-horiz--md ">
-        <h3>{title}</h3>
-        <p>{description}</p>
-      </div>
-    </div>
+    <li><a className={styles.listContainerLink} href={url}>{text}</a></li>
   );
 }
+
+
+function Feature({title, icon, items }) {
+
+
+  return (
+    <article className={clsx('col col--4')}>
+      <div className={styles.homecard}>
+        <img src={icon} className={styles.homeIcon}></img>
+        <h2>{title}</h2>
+        <div className={styles.listContainer}>
+        <ul>
+          {items.map((props, idx) => (
+            <FeatureItem key={idx} {...props} />
+          ))}
+        </ul>
+        </div>
+      </div>
+      
+    </article>
+  );
+}
+
 
 export default function HomepageFeatures() {
   return (
     <section className={styles.features}>
-      <div className="container">
-        <div className="row">
+        <ul className={styles.grid3col}>
           {FeatureList.map((props, idx) => (
             <Feature key={idx} {...props} />
           ))}
-        </div>
-      </div>
+        </ul>
     </section>
   );
 }
