@@ -4,33 +4,40 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Getting Started',
-    icon: 'img/icons/rocket.svg',
+    title: 'Start here',
+    icon: 'img/icons/onoff.svg',
     items: [
-      {url: "/docs/roadmap/introduction", text: "🏎️ Start here"},
-      {url: "docs/roadmap/blockchain-roadmaps", text: "🛣️ Web3 Roadmap"}
-
+      {url: "/docs/roadmap/introduction", text: "Roadmap"},
     ]
   },
   {
     title: 'Beginner',
-    icon: 'img/icons/rocket.svg',
+    icon: 'img/icons/beginner.svg',
     items: [
-      {url: "/docs/roadmap/introduction", text: "Beginner"}
+      {url: "/docs/blockchains/blockchains", text: "Blockchains"},
+      {url: "/docs/identity", text: "Identity"},
+      {url: "/docs/node-providers", text: "Node Providers"},
+      {url: "/docs/oracles", text: "Oracles"},
     ]
   },
   {
     title: 'Intermediate',
-    icon: 'img/icons/rocket.svg',
+    icon: 'img/icons/sunglasses2.svg',
     items: [
-      {url: "/docs/roadmap/introduction", text: "Intermediate"}
+      {url: "/docs/courses", text: "Courses"},
+      {url: "/docs/libraries", text: "Libraries"},
+      {url: "/docs/file-storage", text: "File Storage"},
+      {url: "/docs/indexing", text: "Indexing"},
+      
     ]
   },
   {
     title: 'Advanced',
-    icon: 'img/icons/rocket.svg',
+    icon: 'img/icons/girl-graduated.svg',
     items: [
-      {url: "/docs/roadmap/introduction", text: "Advanced"}
+      {url: "/docs/sdks", text: "SDKs"},
+      {url: "/docs/notification", text: "Notifications"},
+      {url: "/docs/data-network", text: "Data Network"},
     ]
   },
   
@@ -42,10 +49,7 @@ function FeatureItem({url, text}){
   );
 }
 
-
 function Feature({title, icon, items }) {
-
-
   return (
     <article className={clsx('col col--4')}>
       <div className={styles.homecard}>
@@ -59,7 +63,6 @@ function Feature({title, icon, items }) {
         </ul>
         </div>
       </div>
-      
     </article>
   );
 }
