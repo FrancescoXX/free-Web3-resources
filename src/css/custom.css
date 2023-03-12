@@ -506,8 +506,6 @@ html[data-theme="dark"] .navbar__link{
   color: white !important;
 }
 
-
-
 .menu__link {
   margin-left: 1.55rem;
   color: var(--salt80);
@@ -534,71 +532,63 @@ html[data-theme="light"] .menu__link:before {
 .menu__list li:nth-child(1) .menu__link:before {
   background: none;
 }
-/**getting started**/
-/* .theme-doc-sidebar-menu li:nth-child(1) .menu__link:before {
-  background: url('../img/rocket.svg') 50% / 1.25rem 1rem;
-} */
 
-.theme-doc-sidebar-menu li:nth-child(2) .menu__link:before {
+.theme-doc-sidebar-menu li:nth-child(1) .menu__link:before {
   background: url('../img/roadmap2.svg') 50% / 1.25rem 1rem;
   background-repeat: no-repeat;
 }
 
-/**getting started**/
-.theme-doc-sidebar-menu li:nth-child(3) .menu__link:before {
+.theme-doc-sidebar-menu li:nth-child(2) .menu__link:before {
   background: url('../img/blockchains.svg') 50% / 1.25rem 2rem;
   background-repeat: no-repeat;
 }
 
-/**getting started**/
-.theme-doc-sidebar-menu li:nth-child(4) .menu__link:before {
+.theme-doc-sidebar-menu li:nth-child(3) .menu__link:before {
   background: url('../img/identity2.svg') 50% / 1.25rem 1rem;
   background-repeat: no-repeat;
 }
 
-.theme-doc-sidebar-menu li:nth-child(5) .menu__link:before {
+.theme-doc-sidebar-menu li:nth-child(4) .menu__link:before {
   background: url('../img/gradhat2.svg') 50% / 1.25rem 1rem;
   background-repeat: no-repeat;
 }
 
-.theme-doc-sidebar-menu li:nth-child(6) .menu__link:before {
+.theme-doc-sidebar-menu li:nth-child(5) .menu__link:before {
   background: url('../img/package.svg') 50% / 1.25rem 1rem;
   background-repeat: no-repeat;
 }
 
-.theme-doc-sidebar-menu li:nth-child(7) .menu__link:before {
+.theme-doc-sidebar-menu li:nth-child(6) .menu__link:before {
   background: url('../img/sdks.svg') 50% / 1.25rem 1rem;
   background-repeat: no-repeat;
 }
 
-
-.theme-doc-sidebar-menu li:nth-child(8) .menu__link:before {
+.theme-doc-sidebar-menu li:nth-child(7) .menu__link:before {
   background: url('../img/nodes.svg') 50% / 1.25rem 1rem;
   background-repeat: no-repeat;
 }
 
-
-.theme-doc-sidebar-menu li:nth-child(9) .menu__link:before {
+.theme-doc-sidebar-menu li:nth-child(8) .menu__link:before {
   background: url('../img/filestorage.svg') 50% / 1.25rem 1rem;
   background-repeat: no-repeat;
 }
 
-.theme-doc-sidebar-menu li:nth-child(10) .menu__link:before {
+.theme-doc-sidebar-menu li:nth-child(9) .menu__link:before {
   background: url('../img/indexing.svg') 50% / 1.25rem 1rem;
   background-repeat: no-repeat;
 }
 
-.theme-doc-sidebar-menu li:nth-child(11) .menu__link:before {
+.theme-doc-sidebar-menu li:nth-child(10) .menu__link:before {
   background: url('../img/notification.svg') 50% / 1.25rem 1rem;
   background-repeat: no-repeat;
 }
 
-.theme-doc-sidebar-menu li:nth-child(12) .menu__link:before {
+.theme-doc-sidebar-menu li:nth-child(11) .menu__link:before {
   background: url('../img/links.svg') 50% / 1.25rem 1rem;
   background-repeat: no-repeat;
 }
 
-.theme-doc-sidebar-menu li:nth-child(13) .menu__link:before {
+.theme-doc-sidebar-menu li:nth-child(12) .menu__link:before {
   background: url('../img/layers.svg') 50% / 1.25rem 1rem;
   background-repeat: no-repeat;
 }
