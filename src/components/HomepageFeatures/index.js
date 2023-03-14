@@ -14,7 +14,7 @@ const FeatureList = [
     title: 'Beginner',
     icon: 'img/icons/beginner.svg',
     items: [
-      {url: "/docs/blockchains/blockchains", text: "Blockchains"},
+      {url: "/docs/blockchains", text: "Blockchains"},
       {url: "/docs/identity", text: "Identity"},
       {url: "/docs/node-providers", text: "Node Providers"},
       {url: "/docs/oracles", text: "Oracles"},
