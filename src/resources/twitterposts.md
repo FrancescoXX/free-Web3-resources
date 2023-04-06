@@ -415,6 +415,7 @@ You can find Francesco [here](http://francescociulla.com)
 | 30-01-2023|15 Nft use cases thread|https://twitter.com/FrancescoCiull4/status/1620148933518565376|
 | 31-01-2023|||
 | 10-02-2023|What is a Blockchain|https://twitter.com/FrancescoCiull4/status/1624148304236797954|
+| 06-04-2023|What are Decentralized Social Networks?|https://twitter.com/FrancescoCiull4/status/1643974073637310468|
 
 
 
