@@ -419,6 +419,8 @@ You can find Francesco [here](http://francescociulla.com)
 | 28-05-2023|5 Blockchains that use Rust thread|https://twitter.com/FrancescoCiull4/status/1662847410123558915|
 | 29-05-2023|5 JavaScript projects web3 GitHub thread|https://twitter.com/FrancescoCiull4/status/1663052221003563008|
 | 18-08-2023|What is a Blockchain - long post|https://twitter.com/FrancescoCiull4/status/1692447788158656713|
+| 19-08-2023|15 EVM Concepts - long post|https://twitter.com/FrancescoCiull4/status/1692923772653670826|
+| 20-08-2023|Ethereum whitepaper - long post|https://twitter.com/FrancescoCiull4/status/1693147804586140001|
 
 
 
