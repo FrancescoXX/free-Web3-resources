@@ -422,7 +422,10 @@ You can find Francesco [here](http://francescociulla.com)
 | 19-08-2023|15 EVM Concepts - long post|https://twitter.com/FrancescoCiull4/status/1692923772653670826|
 | 20-08-2023|Ethereum whitepaper - long post|https://twitter.com/FrancescoCiull4/status/1693147804586140001|
 | 21-08-2023|Blockchain bridges - long post|https://twitter.com/FrancescoCiull4/status/1693534844242850268|
-
+| 22-08-2023|Learn Web3 links|https://twitter.com/FrancescoCiull4/status/1693823525469958218|
+| 23-08-2023|Twitter Space about fw3 resources|https://twitter.com/i/spaces/1vAGRAOeqnqKl)|
+| 24-08-2023|Web3 Stack - August 2023|https://twitter.com/FrancescoCiull4/status/1694616815186354561|
+| 25-08-2023|Merkle trees|https://twitter.com/FrancescoCiull4/status/1694954280120148188|
 
 
 
