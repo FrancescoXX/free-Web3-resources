@@ -426,7 +426,7 @@ You can find Francesco [here](http://francescociulla.com)
 | 23-08-2023|Twitter Space about fw3 resources|https://twitter.com/i/spaces/1vAGRAOeqnqKl)|
 | 24-08-2023|Web3 Stack - August 2023|https://twitter.com/FrancescoCiull4/status/1694616815186354561|
 | 25-08-2023|Merkle trees|https://twitter.com/FrancescoCiull4/status/1694954280120148188|
-
+| 26-08-2023|Intro to Ethereum|https://twitter.com/FrancescoCiull4/status/1695348595564703952|
 
 
 
