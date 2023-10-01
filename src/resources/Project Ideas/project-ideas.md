@@ -55,7 +55,7 @@ By end of the project, you will be able to allow users to add funds to the smart
 ##
 ## NFT collection
 
-It is 2022 and NFTs are everywhere, from Reddit to Twitter everyone is talking about them. People are making billion dollars by selling their NFTs. You can build an NFT marketplace where users can sell and buy NFTs. You can allow users to connect their wallet and bid or purchased any NFT they like based on the seller's preference.
+It is 2022 and NFTs are everywhere, from Reddit to X (formerly Twitter) everyone is talking about them. People are making billion dollars by selling their NFTs. You can build an NFT marketplace where users can sell and buy NFTs. You can allow users to connect their wallet and bid or purchased any NFT they like based on the seller's preference.
 
 ### What you will learn
 
