@@ -13,7 +13,7 @@
 .grid3col {
   display: grid;
   grid-template-columns: repeat(4, minmax(0, 1fr));
-  gap: 56px;
+  gap: 5px;
   margin: 0 auto;
   align-items: start;
 }
