@@ -5,7 +5,7 @@ Welcome to the ultimate hangout spot for Web3 enthusiasts! We're a community of 
 Are you new to the world of blockchain?🤔 No problem! Our FREE resources will make it easy for you to get started with building decentralized apps and interacting with the Ethereum network. Whether you're a beginner or a seasoned pro, we've got you covered
 
 ## 👋 Join Us 
-Want to have some fun and be a part of the Web3 revolution? Join our community and participate in our weekly challenges and meetings. Let's work together to build the future of the decentralized web! 🚀
+Want to have some fun and be a part of the Web3 revolution? Join our community and participate in our weekly challenges and meetings. Let's work together to build the future of the decentralized website! 🚀
 
 Don't miss out on the Web3 action. Join us now and let's shape the future together! 🌟
 
