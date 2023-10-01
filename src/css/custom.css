@@ -165,7 +165,8 @@ div[class^="announcementBar_"] {
     rgba(145, 227, 226, 1) 99%
   );
   font-weight: bold;
-  font-size: 1.34rem;
+  font-size: 1.54rem;
+  padding: 1.45em;
 }
 
 .red > a {
