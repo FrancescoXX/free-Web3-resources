@@ -71,6 +71,7 @@
 .homecard{
   background-color: #1c1f26;
   width: 320px;
+  max-height: 300px;
   padding: 8px;
   position: relative;
   display: block;
