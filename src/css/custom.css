@@ -488,7 +488,7 @@ html[data-theme="light"]
 .menu__link,
 .table-of-contents__link,
 .menu__caret {
-  color:  #434242 !important;
+  color:  #ffffff !important;
 }
 html[data-theme="dark"]  
 .menu__link,
