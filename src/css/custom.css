@@ -144,6 +144,7 @@ html[data-theme="dark"] .DocSearch {
 
 html[data-theme="light"] .navbar {
   background: white;
+ 
 }
 
 div[class^="announcementBar_"] {
@@ -474,39 +475,40 @@ html[data-theme="light"] .menu__link {
 
 html[data-theme="light"] {
   /* background: rgb(108, 152, 234); */
-  color: #434242;
+  color:  #000000;
 }
 
 html[data-theme="light"] .menu__list {
-  color: #000;
+  color:  #000000;
 }
-html[data-theme="dark"] .menu_list {
-  color: #000;
+html[data-theme="dark"] .menu_list{
+  color: white;
 }
 html[data-theme="light"] .menu__link,
-.table-of-contents__link,
-.menu__caret {
-  color: #ff0000 !important; /* here is when light black*/
+html[data-theme="light"] .table-of-contents__link,
+html[data-theme="light"] .menu__caret {
+  color: #000000 !important;
 }
-html[data-theme="dark"] .menu__link,
+html[data-theme="dark"]  
+.menu__link,
 .table-of-contents__link,
-.menu__caret {
-  color: #000000; /* here is when light red */
+.menu__caret{
+  color: white;
 }
 
-html[data-theme="light"] .navbar__title,
-html[data-theme="light"] .navbar__link {
-  color: black !important;
+html[data-theme="light"] .menu__link--active {
+  color: #000000 !important;
 }
-html[data-theme="dark"] .navbar__title,
-html[data-theme="dark"] .navbar__link {
-  color: #000 !important;
+
+
+html[data-theme="dark"] .table-of-contents__link .menu__link--active {
+  color: #ffffff !important;
 }
 
 .menu__link {
   margin-left: 1.55rem;
   color: var(--salt80);
-  color: #000000;
+  color:  #434242;
   font-weight: normal;
   font-size: 1rem;
   line-height: 1.25;
@@ -531,62 +533,62 @@ html[data-theme="light"] .menu__link:before {
 }
 
 .theme-doc-sidebar-menu li:nth-child(1) .menu__link:before {
-  background: url("../../static/img/icons/roadmap2.svg") 50% / 1.25rem 1rem;
+  background: url('../../static/img/icons/roadmap2.svg') 50% / 1.25rem 1rem;
   background-repeat: no-repeat;
 }
 
 .theme-doc-sidebar-menu li:nth-child(2) .menu__link:before {
-  background: url("../../static/img/icons/blockchains.svg") 50% / 1.25rem 2rem;
+  background: url('../../static/img/icons/blockchains.svg') 50% / 1.25rem 2rem;
   background-repeat: no-repeat;
 }
 
 .theme-doc-sidebar-menu li:nth-child(3) .menu__link:before {
-  background: url("../../static/img/icons/identity2.svg") 50% / 1.25rem 1rem;
+  background: url('../../static/img/icons/identity2.svg') 50% / 1.25rem 1rem;
   background-repeat: no-repeat;
 }
 
 .theme-doc-sidebar-menu li:nth-child(4) .menu__link:before {
-  background: url("../../static/img/icons/gradhat2.svg") 50% / 1.25rem 1rem;
+  background: url('../../static/img/icons/gradhat2.svg') 50% / 1.25rem 1rem;
   background-repeat: no-repeat;
 }
 
 .theme-doc-sidebar-menu li:nth-child(5) .menu__link:before {
-  background: url("../../static/img/icons/package.svg") 50% / 1.25rem 1rem;
+  background: url('../../static/img/icons/package.svg') 50% / 1.25rem 1rem;
   background-repeat: no-repeat;
 }
 
 .theme-doc-sidebar-menu li:nth-child(6) .menu__link:before {
-  background: url("../../static/img/icons/sdks.svg") 50% / 1.25rem 1rem;
+  background: url('../../static/img/icons/sdks.svg') 50% / 1.25rem 1rem;
   background-repeat: no-repeat;
 }
 
 .theme-doc-sidebar-menu li:nth-child(7) .menu__link:before {
-  background: url("../../static/img/icons/nodes.svg") 50% / 1.25rem 1rem;
+  background: url('../../static/img/icons/nodes.svg') 50% / 1.25rem 1rem;
   background-repeat: no-repeat;
 }
 
 .theme-doc-sidebar-menu li:nth-child(8) .menu__link:before {
-  background: url("../../static/img/icons/filestorage.svg") 50% / 1.25rem 1rem;
+  background: url('../../static/img/icons/filestorage.svg') 50% / 1.25rem 1rem;
   background-repeat: no-repeat;
 }
 
 .theme-doc-sidebar-menu li:nth-child(9) .menu__link:before {
-  background: url("../../static/img/icons/indexing.svg") 50% / 1.25rem 1rem;
+  background: url('../../static/img/icons/indexing.svg') 50% / 1.25rem 1rem;
   background-repeat: no-repeat;
 }
 
 .theme-doc-sidebar-menu li:nth-child(10) .menu__link:before {
-  background: url("../../static/img/icons/notification.svg") 50% / 1.25rem 1rem;
+  background: url('../../static/img/icons/notification.svg') 50% / 1.25rem 1rem;
   background-repeat: no-repeat;
 }
 
 .theme-doc-sidebar-menu li:nth-child(11) .menu__link:before {
-  background: url("../../static/img/icons/links.svg") 50% / 1.25rem 1rem;
+  background: url('../../static/img/icons/links.svg') 50% / 1.25rem 1rem;
   background-repeat: no-repeat;
 }
 
 .theme-doc-sidebar-menu li:nth-child(12) .menu__link:before {
-  background: url("../../static/img/icons/layers.svg") 50% / 1.25rem 1rem;
+  background: url('../../static/img/icons/layers.svg') 50% / 1.25rem 1rem;
   background-repeat: no-repeat;
 }
 
@@ -610,7 +612,7 @@ html[data-theme="light"] .menu__link:before {
 
 /* footer */
 
-.footer__col {
+.footer__col{
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -662,7 +664,7 @@ div[class^="announcementBar_"] {
   main .row > div {
     max-width: 100% !important;
   }
-  .col--4 {
+  .col--4{
     margin-bottom: 40px;
   }
 }
@@ -882,26 +884,29 @@ p:last-child {
 footer {
   margin-top: 10rem;
 }
-@media screen and (max-width: 500px) {
-  .navbar__title {
+@media screen and (max-width:500px) {
+  .navbar__title{
     font-size: 4vw;
   }
-  .col--4 {
+  .col--4{
     margin-bottom: 80px;
   }
 }
-.container {
+.container{
   margin-top: 50px;
 }
 
 .theme-doc-sidebar-item-category li:nth-child(2) .menu__link:before {
-  background: url("../../static/img/icons/gps.svg") 50% / 1.25rem 1rem;
+  background: url('../../static/img/icons/gps.svg') 50% / 1.25rem 1rem;
 }
+
+
+
 
 .navbar__brand {
   margin: 0;
 }
 
-a {
-  text-decoration: none !important;
+a{
+  text-decoration: none !important;  
 }
