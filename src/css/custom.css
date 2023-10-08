@@ -478,20 +478,20 @@ html[data-theme="light"] {
 }
 
 html[data-theme="light"] .menu__list {
-  color: #434242;
+  color: #000;
 }
 html[data-theme="dark"] .menu_list {
-  color: white;
+  color: #000;
 }
 html[data-theme="light"] .menu__link,
 .table-of-contents__link,
 .menu__caret {
-  color: #ffffff !important;
+  color: #ff0000 !important; /* here is when light black*/
 }
 html[data-theme="dark"] .menu__link,
 .table-of-contents__link,
 .menu__caret {
-  color: white;
+  color: #000000; /* here is when light red */
 }
 
 html[data-theme="light"] .navbar__title,
@@ -500,13 +500,13 @@ html[data-theme="light"] .navbar__link {
 }
 html[data-theme="dark"] .navbar__title,
 html[data-theme="dark"] .navbar__link {
-  color: white !important;
+  color: #000 !important;
 }
 
 .menu__link {
   margin-left: 1.55rem;
   color: var(--salt80);
-  color: #434242;
+  color: #000000;
   font-weight: normal;
   font-size: 1rem;
   line-height: 1.25;
