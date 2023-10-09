@@ -10,3 +10,5 @@ sidebar_position: 1
 
 - [Alchemy University](https://university.alchemy.com/) Alchemy University is a free, self-paced, online course that teaches you how to build Web3 applications.
 
+- [Odyssey](https://www.cryptostudyhall.xyz/) It is a great site to understand the concepts of Web3 on other topics that are related to web3. For Example, blockchain, NFTs, web3 concept, DeFi, DAO etc
+
