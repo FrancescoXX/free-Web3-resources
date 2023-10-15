@@ -56,11 +56,11 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      // algolia: {
-      //   appId: "TK013U555M",
-      //   apiKey: "868e35b771ee2f9116e289cf1ba63d96",
-      //   indexName: "-free-web3-resources",
-      // },
+      algolia: {
+        appId: "TK013U555M",
+        apiKey: "868e35b771ee2f9116e289cf1ba63d96",
+        indexName: "-free-web3-resources",
+      },
       colorMode: {
         defaultMode: "dark",
         disableSwitch: false,
