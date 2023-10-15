@@ -12,7 +12,7 @@ sidebar_position: 2
 
 
 <a href='https://twitter.com/AlchemyPlatform' >
-   <img src="https://skillicons.dev/icons?i=twitter" height='40'> 
+   <img src="https://skillicons.dev/icons?i=twitter" height='40'/> 
 </a>
 <a href='https://www.linkedin.com/company/alchemyinc/'>
    <img src="https://skillicons.dev/icons?i=linkedin" height='40' /> 
