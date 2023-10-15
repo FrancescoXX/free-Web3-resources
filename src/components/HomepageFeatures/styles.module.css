@@ -68,6 +68,7 @@
 .homecard {
   background-color: #1c1f26;
   width: 320px;
+
   padding: 3px;
   display: flex;
   flex-direction: column;

@@ -60,6 +60,8 @@ const config = {
         appId: "TK013U555M",
         apiKey: "868e35b771ee2f9116e289cf1ba63d96",
         indexName: "-free-web3-resources",
+        searchParameters: {},
+        searchPagePath: 'search',
       },
       colorMode: {
         defaultMode: "dark",
