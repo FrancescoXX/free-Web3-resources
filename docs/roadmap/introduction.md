@@ -32,7 +32,7 @@ Don't get a Roadmap as a bible to trust and to follow blindly 100%, but as a rem
 
 There are many roadmaps, and I am working on one. 
 
-For now I feel recommending the following one:
+For now, I feel recommending the following:
 
 [Complete Web3.0 and Solidity Development Roadmap 2022](https://vitto.cc/web3-and-solidity-smart-contracts-development-roadmap/))
 [![Complete Web3.0 and Solidity Development Roadmap 2022](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/s313d7dgkeeir36iun70.jpg)](https://vitto.cc/web3-and-solidity-smart-contracts-development-roadmap/)
@@ -41,7 +41,7 @@ ___
 ## Intro Article 
 &nbsp;
 What about the very first piece of content? 
-I don't suggest jumping straight into code but hold our hands for a while and start by getting a general idea of what is Web3.
+I don't suggest jumping straight into code but hold our hands for a while and start by getting a general idea of what Web3 is.
 
 [This article](https://www.freecodecamp.org/news/what-is-web3) by [Nader Dabit](https://www.youtube.com/channel/UC7mca3O0DmdSG2Cr80sOD7g) on [freecodecamp](https://www.freecodecamp.org/) is a good one to start.
 
@@ -52,7 +52,7 @@ ___
 &nbsp;
 Starting with the basics concepts you can't really be wrong.
 
-I will link specific resources for each of them, but don't take this as the only one you have to watch to understand the concepts. Take your time because all the time spent here ios time saved later!
+I will link specific resources for each of them but don't take this as the only one you have to watch to understand the concepts. Take your time because all the time spent here ios time saved later!
 
 Just remember that the Fundamentals are fundamental, so don't skip this part.
 
@@ -75,7 +75,7 @@ Each Blockchain is an ecosystem, with pros/cons.
 
 Choose a Blockchain to understand concepts and apply them, like deciding to use Node.js to build some API.
 
-I suggest to choose Ethereum for many reasons, the main one is that there is more material about it online.
+I suggest choosing Ethereum for many reasons, the main one is that there is more material about it online.
 
 ![24 Blockchains](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9bbqoqs2a3mg7p2gqpuh.jpg)
 
@@ -83,7 +83,7 @@ ___
 ## Ethereum Concepts 
 &nbsp;
 
-Once you choose the Blockchain you can start learning the fundamental of the specific Blockchain. Some concepts overlaps among the blockchains, but they can be slightly different for each of them.
+Once you choose the Blockchain you can start learning the fundamentals of the specific Blockchain. Some concepts overlap among the blockchains, but they can be slightly different for each of them.
 
 For Ethereum:
 - [Accounts](https://ethereum.org/en/developers/docs/accounts/): An account is an entity with an ether (ETH) balance that can send transactions on Ethereum. Accounts can be user-controlled or deployed as smart contracts.
@@ -105,7 +105,7 @@ If you want to dive a bit deeper, here are some articles and concepts you can lo
 - [EndGame (Vitalik Buterin)](https://vitalik.ca/general/2021/12/06/endgame.html): Vitalik Buterin's vision for a plausible roadmap for Ethereum.
 - [Ethereum Yellowpaper](https://ethereum.github.io/yellowpaper/paper.pdf): A formal definition of the Ethereum protocol.
 - [Beacon Chain](https://ethereum.org/en/upgrades/beacon-chain): The Beacon Chain is a ledger of accounts that conducts and coordinates the network of stakers.
-- [Sidechains](https://ethereum.org/en/developers/docs/scaling/sidechains): A sidechain is a separate blockchain that runs independent of Ethereum and is connected to Ethereum Mainnet by a two-way bridge. 
+- [Sidechains](https://ethereum.org/en/developers/docs/scaling/sidechains): A sidechain is a separate blockchain that runs independently of Ethereum and is connected to Ethereum Mainnet by a two-way bridge. 
 - [The Merge](https://ethereum.org/en/upgrades/merge): The Merge is the most significant upgrade in the history of Ethereum. Extensive testing and bug bounties were undertaken to ensure a safe transition to proof-of-stake.
 
 These are optional!
@@ -118,12 +118,12 @@ ___
 
 I suggest Solidity because it's the most popular one.
 ___
-## Solidity (a blazing fast intro)
+## Solidity (a blazing-fast intro)
 &nbsp;
 - It's an object-oriented, high-level language for implementing Smart Contracts. 
 - It's statically typed.
 - It's a curly-bracket language designed to target the Ethereum Virtual Machine.
-- It supports: inheritance, libraries, and complex user-defined types.
+- It supports inheritance, libraries, and complex user-defined types.
 
 This is how a Solidity file (extension: .sol) looks like
 ```solidity
@@ -165,7 +165,7 @@ Once you get the basics, you can dive deep using these tools and working in a lo
 
 
 - [Metamask](https://metamask.io/): MetaMask is a software cryptocurrency wallet used to interact with the Ethereum blockchain.
-- [Vs Code Solidity Extension](https://marketplace.visualstudio.com/items?itemName=JuanBlanco.solidity): VS Code extensions that integrates with the Nethereum code generator to create Contract integration definitions.
+- [Vs Code Solidity Extension](https://marketplace.visualstudio.com/items?itemName=JuanBlanco.solidity): VS Code extensions that integrate with the Nethereum code generator to create Contract integration definitions.
 - [Truffle](https://trufflesuite.com/docs/truffle/): Truffle is a development environment, asset pipeline, and testing framework for developing smart contracts.
 - [Hardhat](https://hardhat.org): Hardhat is an Ethereum development environment. Compile your contracts and run them on a development network.
 - [Brownie](https://eth-brownie.readthedocs.io): Brownie is a Python-based development and testing framework for smart contracts.
@@ -189,9 +189,9 @@ ___
 &nbsp;
 Here are some examples of storage you can use to store your data on the blockchain (something similar to databases).
 
-- [IPFS](https://docs.ipfs.tech/): The InterPlanetary File System is a protocol, hypermedia and file sharing peer-to-peer network for storing and sharing data in a distributed file system.
+- [IPFS](https://docs.ipfs.tech/): The InterPlanetary File System is a protocol, hypermedia, and file sharing peer-to-peer network for storing and sharing data in a distributed file system.
 - [Arweave](https://www.arweave.org/): Arweave is a data storage protocol. It's built on a technology called "blockweave".
-- [FileCoin](https://filecoin.io/): Filecoin is an open-source, public cryptocurrency and digital payment system intended to be a blockchain-based cooperative digital storage and data retrieval method. It builds on top of IPFS, and it allows to rent unused hard drive space.
+- [FileCoin](https://filecoin.io/): Filecoin is an open-source, public cryptocurrency and digital payment system intended to be a blockchain-based cooperative digital storage and data retrieval method. It builds on top of IPFS, and it allows you to rent unused hard drive space.
 
 They are a p2p network of user-operators who hold a portion of the overall data.
 
@@ -202,8 +202,8 @@ Most of them are not complicated. To be honest, they simplify the process, but i
 
 - Testing Tools: [Waffle](https://getwaffle.io/), [Ganache](https://trufflesuite.com/ganache/)
 - [OpenZeppelin](https://www.openzeppelin.com/)
-- [WalletConnect](https://walletconnect.com/): WalletConnect is an open source protocol for connecting decentralised applications to mobile wallets with QR code scanning or deep linking.
-- [Chainlink](https://chain.link/): Chainlink is a decentralized oracle networks provide tamper-proof inputs, outputs, and computations to support advanced smart contracts on any blockchain.
+- [WalletConnect](https://walletconnect.com/): WalletConnect is an open-source protocol for connecting decentralized applications to mobile wallets with QR code scanning or deep linking.
+- [Chainlink](https://chain.link/): Chainlink is a decentralized oracle network provides tamper-proof inputs, outputs, and computations to support advanced smart contracts on any blockchain.
 - [TheGraph](https://thegraph.com): The Graph is an indexing protocol for organizing blockchain data and making it easily accessible with GraphQL.
 
 ___
@@ -299,7 +299,7 @@ Not a Web3-specific thing, but if you build in public, there are some benefits f
 All I do is public:
 https://github.com/FrancescoXX/free-Web3-resources
 
-[Here a video of me followign a tutorial on LearnWeb3 DAO](https://youtu.be/1lcLLHzQDCg)
+[Here is a video of me following a tutorial on LearnWeb3 DAO](https://youtu.be/1lcLLHzQDCg)
 [![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fchnav2p4xieogoawwvk.png)](https://youtu.be/1lcLLHzQDCg)
 
 
