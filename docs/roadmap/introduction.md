@@ -142,6 +142,7 @@ ___
 &nbsp;
 Some good YouTube channels to know more about Solidity:
 
+- [Learn Solidity, Blockchain Development, & Smart Contracts | Powered By AI - Full Course](https://www.youtube.com/watch?v=umepbfKp5rI): Patrick Collins Foundry Version
 - [Learn Blockchain, Solidity, and Full Stack Web3 Development with JavaScript – 32-Hour Course](https://youtu.be/gyMwXuJrbJQ): Patrick Collins Javascript Version on [freeCodecamp](https://freecodecamp.org)
 - [Solidity, Blockchain, and Smart Contract Course – Beginner to Expert Python Tutorial](https://youtu.be/M576WGiDBdQ): Patrick Collins Python version
 - [Dapp University](https://www.youtube.com/c/DappUniversity): Gregory (Dapp University) 
