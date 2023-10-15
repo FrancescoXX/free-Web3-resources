@@ -416,12 +416,21 @@ You can find Francesco [here](http://francescociulla.com)
 | 31-01-2023|||
 | 10-02-2023|What is a Blockchain|https://twitter.com/FrancescoCiull4/status/1624148304236797954|
 | 06-04-2023|What are Decentralized Social Networks?|https://twitter.com/FrancescoCiull4/status/1643974073637310468|
-| 28-05-2023|5 Blockchainst that use Rust thread|https://twitter.com/FrancescoCiull4/status/1662847410123558915|
+| 28-05-2023|5 Blockchains that use Rust thread|https://twitter.com/FrancescoCiull4/status/1662847410123558915|
 | 29-05-2023|5 JavaScript projects web3 GitHub thread|https://twitter.com/FrancescoCiull4/status/1663052221003563008|
-
-
-
-
-
-
+| 18-08-2023|What is a Blockchain - long post|https://twitter.com/FrancescoCiull4/status/1692447788158656713|
+| 19-08-2023|15 EVM Concepts - long post|https://twitter.com/FrancescoCiull4/status/1692923772653670826|
+| 20-08-2023|Ethereum whitepaper - long post|https://twitter.com/FrancescoCiull4/status/1693147804586140001|
+| 21-08-2023|Blockchain bridges - long post|https://twitter.com/FrancescoCiull4/status/1693534844242850268|
+| 22-08-2023|Learn Web3 links|https://twitter.com/FrancescoCiull4/status/1693823525469958218|
+| 23-08-2023|Twitter Space about fw3 resources|https://twitter.com/i/spaces/1vAGRAOeqnqKl)|
+| 24-08-2023|Web3 Stack - August 2023|https://twitter.com/FrancescoCiull4/status/1694616815186354561|
+| 25-08-2023|Merkle trees|https://twitter.com/FrancescoCiull4/status/1694954280120148188|
+| 26-08-2023|Intro to Ethereum|https://twitter.com/FrancescoCiull4/status/1695348595564703952|
+| 27-08-2023|Intro to Ether|https://twitter.com/FrancescoCiull4/status/1695668203727265914|
+| 28-08-2023| Intro to Dapps|https://twitter.com/FrancescoCiull4/status/1696040482512523617|
+| 29-08-2023| ||
+| 30-08-2023| ||
+| 31-08-2023| ||
+| 03-09-2023|https://twitter.com/FrancescoCiull4/status/1698515661276766503|
 
