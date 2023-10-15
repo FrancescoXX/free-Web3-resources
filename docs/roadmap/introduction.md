@@ -4,7 +4,9 @@ sidebar_position: 0
 
 # How to learn Web3
 
-Hi, I am Francesco, and I share daily content about Web3 (mainly on [Twitter](https://twitter.com/FrancescoCiull4) and [YouTube](https://www.youtube.com/channel/UCBRxDSTfr2aJVODDh4WG_7g))
+Hi, I am Francesco.
+
+I share daily content about Web3 (mainly on [Twitter](https://twitter.com/FrancescoCiull4) and [YouTube](https://www.youtube.com/channel/UCBRxDSTfr2aJVODDh4WG_7g))
 
 
 In this article, I will summarize the steps you can take in order to learn Web3.
