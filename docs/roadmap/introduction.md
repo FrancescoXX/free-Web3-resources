@@ -69,6 +69,7 @@ Just remember that the Fundamentals are fundamental, so don't skip this part.
 - [NFT Intro](https://youtu.be/FkUn86bH34M): NFTs explained in 4 minutes.
 - [DAO Intro](https://youtu.be/KHm0uUPqmVE): A DAO, or a Decentralized Autonomous Organization, is a company set up to run by code on the blockchain.
 - [Dapp Intro](https://youtu.be/oPIupbsVimc): dApps, or Decentralized Applications are apps that run using blockchain technology.
+- [Web3 Values](https://www.kernel.community/en/): Learn about Web3 Values to educate yourself and fund the new wave of public goods and infrastructure in order to create a better world
 
 ___
 ## Choose a Blockchain 
