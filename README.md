@@ -1,3 +1,5 @@
+
+
 # 🚀FREE Web3 resources
 
 Welcome to the ultimate hangout spot for Web3 enthusiasts! We're a community of like-minded individuals who are passionate about decentralized apps and the Ethereum network. Our goal is to create an inclusive and helpful environment where content creators can share their experiences and resources to reach their goals.
@@ -54,6 +56,18 @@ $ npm i
 ```
 $ npm start
 ```
+
+# Some Block Explorer
+
+1.Etherscan: Etherscan is a popular block explorer for the Ethereum blockchain. It allows users to explore Ethereum transactions, addresses, smart contracts, and tokens. [Etherscan](https://www.etherscan.io/)
+
+2.Blockchair: Blockchair is a versatile blockchain explorer that supports multiple blockchains, including Bitcoin, Ethereum, and Bitcoin Cash. It offers advanced search and filtering options.[Blockchair](https://wwww.blockchair.com/)
+
+3.BscScan: BscScan is a blockchain explorer for the Binance Smart Chain (BSC). It provides information about BSC transactions, addresses, and tokens, making it useful for BSC users and developers. [BscScan](https://www.bscscan.com/)
+
+4.Blockchain.info: This is one of the earliest and most well-known block explorers for the Bitcoin blockchain. It provides data on Bitcoin transactions, addresses, and blocks.[Blockchain.info](https://www.blockchain.com/)
+
+5.Explorer.tronscan.org: Tronscan is the official blockchain explorer for the TRON blockchain. It offers detailed information about TRON transactions, accounts, and smart contracts.[Explorer.tronscan.org](https://www.explorer.tronscan.org/)
 
 
 ## 🖋️ Note :
