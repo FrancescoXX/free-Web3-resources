@@ -842,7 +842,7 @@ p:last-child {
 
 .markdown img {
   max-width: min(50px, 100%);
-  margin: 2 auto 2rem auto;
+  margin: 2px auto 2rem;
   display:inline-block;
   border: 2px solid var(--cabbage60);
 }
