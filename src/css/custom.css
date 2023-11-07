@@ -616,6 +616,11 @@ html[data-theme="light"] .menu__link:before {
   background-repeat: no-repeat;
 }
 
+.theme-doc-sidebar-menu li:nth-child(13) .menu__link:before {
+  background: url("../../static/img/icons/cross-chain.svg") 50% / 1.25rem 1rem;
+  background-repeat: no-repeat;
+}
+
 .theme-doc-sidebar-item-link-level-2 > .menu__link {
   margin-left: 1.25rem;
 }

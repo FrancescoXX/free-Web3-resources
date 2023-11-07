@@ -38,6 +38,7 @@ const FeatureList = [
       {url: "/docs/sdks", text: "SDKs"},
       {url: "/docs/notification", text: "Notifications"},
       {url: "/docs/data-network", text: "Data Network"},
+      {url: "/docs/cross-chain", text: "Cross-Chain"},
     ]
   },
   
