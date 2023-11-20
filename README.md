@@ -9,7 +9,7 @@ Want to have some fun and be a part of the Web3 revolution? Join our community a
 
 Don't miss out on the Web3 action. Join us now and let's shape the future together! 🌟
 
-<a href="https://discord.com/invite/cRjhjFRRre"><img src="https://cdn.worldvectorlogo.com/logos/discord-6.svg" title="Discord" alt="Discord Community" width="40"/></a><a href="https://twitter.com/4ccommunityhq"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Twitter Account" width="40"/></a>
+<a href="https://discord.com/invite/cRjhjFRRre"><img src="https://cdn.worldvectorlogo.com/logos/discord-6.svg" title="Discord" alt="Discord Community" width="40"/></a><a href="https://twitter.com/4ccommunityhq"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="X" alt="X Account" width="40"/></a>
 
 ## ⚙️ Tech Stack
 This project was built upon:
