@@ -527,6 +527,7 @@ html[data-theme="dark"] .menu__link,
 html[data-theme="dark"] .table-of-contents__link,
 html[data-theme="dark"] .menu__caret {
   color: white;
+  margin-left: 25px;
 }
 
 html[data-theme="light"] .navbar__title,
