@@ -130,7 +130,7 @@ const config = {
       announcementBar: {
         id: "Join us",
         content:
-          'Are you a Content Creator? <a target="_blank" rel="noopener noreferrer" href="https://discord.gg/4ccommunity">Join the Community</a>',
+          'Are you a Content Creator? <a target="_blank" rel="noopener noreferrer" href="https://discord.com/invite/JZ2btyTfzQ">Join the Community</a>',
         backgroundColor: "#fafbfc",
         textColor: "#091E42",
         isCloseable: true,
