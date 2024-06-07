@@ -104,7 +104,7 @@ If you want to dive a bit deeper, here are some articles and concepts you can lo
 
 - [Ethereum Whitepaper](https://ethereum.org/en/whitepaper/): An introductory paper to Ethereum, published in 2013 before its launch.
 - [Ethereum Trilemma](https://ethereum.org/en/upgrades/vision/#main-content):
-- [EndGame (Vitalik Buterin)](https://vitalik.ca/general/2021/12/06/endgame.html): Vitalik Buterin's vision for a plausible roadmap for Ethereum.
+- [EndGame (Vitalik Buterin)](https://vitalik.eth.limo/general/2021/12/06/endgame.html): Vitalik Buterin's vision for a plausible roadmap for Ethereum.
 - [Ethereum Yellowpaper](https://ethereum.github.io/yellowpaper/paper.pdf): A formal definition of the Ethereum protocol.
 - [Beacon Chain](https://ethereum.org/en/upgrades/beacon-chain): The Beacon Chain is a ledger of accounts that conducts and coordinates the network of stakers.
 - [Sidechains](https://ethereum.org/en/developers/docs/scaling/sidechains): A sidechain is a separate blockchain that runs independently of Ethereum and is connected to Ethereum Mainnet by a two-way bridge. 
