@@ -1,5 +1,5 @@
 ---
-sidebar_position: 3
+sidebar_position: 4
 ---
 
 # LearnWeb3
@@ -17,6 +17,9 @@ sidebar_position: 3
     <img height='30' src="https://skillicons.dev/icons?i=github" />
    </a>
 </p>
+
+
+
 
 
 
