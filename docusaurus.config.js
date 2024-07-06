@@ -60,6 +60,8 @@ const config = {
         appId: "TK013U555M",
         apiKey: "868e35b771ee2f9116e289cf1ba63d96",
         indexName: "-free-web3-resources",
+        searchParameters: {},
+        searchPagePath: 'search',
       },
       colorMode: {
         defaultMode: "dark",
@@ -107,7 +109,7 @@ const config = {
                 href: "https://discord.com/invite/JZ2btyTfzQ",
               },
               {
-                label: "Twitter",
+                label: "X",
                 href: "https://twitter.com/4ccommunityhq",
               },
             ],
@@ -128,7 +130,7 @@ const config = {
       announcementBar: {
         id: "Join us",
         content:
-          'Are you a Content Creator? <a target="_blank" rel="noopener noreferrer" href="https://discord.gg/4ccommunity">Join the Community</a>',
+          'Are you a Content Creator? <a target="_blank" rel="noopener noreferrer" href="https://discord.com/invite/JZ2btyTfzQ">Join the Community</a>',
         backgroundColor: "#fafbfc",
         textColor: "#091E42",
         isCloseable: true,

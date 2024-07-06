@@ -344,10 +344,10 @@ You can find Francesco [here](http://francescociulla.com)
 | 20-11-2022|24 Web3 projects to keep an eyen on. November 2022|https://twitter.com/FrancescoCiull4/status/1594249352041603077|
 | 21-11-2022|DAO vs traditional organization|https://twitter.com/FrancescoCiull4/status/1594660369901010944|
 | 22-11-2022|Blockchain transactions|https://twitter.com/FrancescoCiull4/status/1594957145371725824|
-| 23-11-2022|Solidityy Open Source projects on GitHub|https://twitter.com/FrancescoCiull4/status/1595521520964624394|
+| 23-11-2022|Solidity Open Source projects on GitHub|https://twitter.com/FrancescoCiull4/status/1595521520964624394|
 | 24-11-2022|launch your Ico video|https://youtu.be/hQD_bt-XSZw|
 | 25-11-2022|Ethereum Network Addresses|https://twitter.com/FrancescoCiull4/status/1596101889506025474|
-| 26-11-2022|Decentralized Confiddential Computing|https://youtu.be/dSQtGs4Jink|
+| 26-11-2022|Decentralized Confidential Computing|https://youtu.be/dSQtGs4Jink|
 | 27-11-2022|Alchemy university 12-hour livestream|https://youtu.be/BgxsPVO-jBg|
 | 28-11-2022|Proof of Stake|https://twitter.com/FrancescoCiull4/status/1597182854290886656|
 | 29-11-2022|8 Web3 Open Source Projects on GitHub|https://twitter.com/FrancescoCiull4/status/1597460083541442563|
@@ -423,7 +423,7 @@ You can find Francesco [here](http://francescociulla.com)
 | 20-08-2023|Ethereum whitepaper - long post|https://twitter.com/FrancescoCiull4/status/1693147804586140001|
 | 21-08-2023|Blockchain bridges - long post|https://twitter.com/FrancescoCiull4/status/1693534844242850268|
 | 22-08-2023|Learn Web3 links|https://twitter.com/FrancescoCiull4/status/1693823525469958218|
-| 23-08-2023|Twitter Space about fw3 resources|https://twitter.com/i/spaces/1vAGRAOeqnqKl)|
+| 23-08-2023|X Space about fw3 resources|https://twitter.com/i/spaces/1vAGRAOeqnqKl)|
 | 24-08-2023|Web3 Stack - August 2023|https://twitter.com/FrancescoCiull4/status/1694616815186354561|
 | 25-08-2023|Merkle trees|https://twitter.com/FrancescoCiull4/status/1694954280120148188|
 | 26-08-2023|Intro to Ethereum|https://twitter.com/FrancescoCiull4/status/1695348595564703952|

@@ -1,3 +1,10 @@
+## [0.14.1](https://github.com/FrancescoXX/free-Web3-resources/compare/v0.14.0...v0.14.1) (2024-03-09)
+
+
+### Bug Fixes
+
+* added space between icons in sidepanel ([401930c](https://github.com/FrancescoXX/free-Web3-resources/commit/401930cf2b5ebc888fbc5f3cf0d51c85d7831d5f))
+
 # [0.14.0](https://github.com/FrancescoXX/free-Web3-resources/compare/v0.13.1...v0.14.0) (2023-03-12)
 
 
