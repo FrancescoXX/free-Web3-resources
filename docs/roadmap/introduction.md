@@ -205,7 +205,7 @@ Most of them are not complicated. To be honest, they simplify the process, but i
 - Testing Tools: [Waffle](https://getwaffle.io/), [Ganache](https://trufflesuite.com/ganache/)
 - [OpenZeppelin](https://www.openzeppelin.com/)
 - [WalletConnect](https://walletconnect.com/): WalletConnect is an open-source protocol for connecting decentralized applications to mobile wallets with QR code scanning or deep linking.
-- [Chainlink](https://chain.link/): Chainlink is a decentralized oracle network provides tamper-proof inputs, outputs, and computations to support advanced smart contracts on any blockchain.
+- [Chainlink](https://chain.link/): Chainlink is a decentralized oracle network that provides tamper-proof inputs, outputs, and computations to support advanced smart contracts on any blockchain.
 - [TheGraph](https://thegraph.com): The Graph is an indexing protocol for organizing blockchain data and making it easily accessible with GraphQL.
 
 ___
@@ -318,7 +318,7 @@ If you are a Content Creator, You can also [join 4C, the Cool Community of Conte
 
 We have a specific section for Web3.
 
-If you are still reading, just leave a feedback.
+If you are still reading, just leave feedback.
 
 ___
 
