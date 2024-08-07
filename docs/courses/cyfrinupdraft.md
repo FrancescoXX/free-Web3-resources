@@ -20,7 +20,7 @@ Learn through step-by-step tutorials and projects taught by the world's best edu
    <img src="https://skillicons.dev/icons?i=twitter" height='40' alt="Twitter"/> 
 </a>
 <a href='https://www.linkedin.com/school/cyfrin-updraft/'>
-   <img src="https://skillicons.dev/icons?i=linkedin" height='40' /> 
+   <img src="https://skillicons.dev/icons?i=linkedin" height='40' alt="LinkedIn" /> 
 </a>
 <a href='http://discord.gg/cyfrin'>
    <img src="https://skillicons.dev/icons?i=discord" height='40' /> 
