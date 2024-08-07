@@ -17,7 +17,7 @@ Learn through step-by-step tutorials and projects taught by the world's best edu
 - [Smart Contract Devops](https://updraft.cyfrin.io/courses/wallets)
   
 <a href='https://x.com/CyfrinUpdraft' >
-   <img src="https://skillicons.dev/icons?i=twitter" height='40'/> 
+   <img src="https://skillicons.dev/icons?i=twitter" height='40' alt="Twitter"/> 
 </a>
 <a href='https://www.linkedin.com/school/cyfrin-updraft/'>
    <img src="https://skillicons.dev/icons?i=linkedin" height='40' /> 
