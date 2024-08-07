@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Cyfrin Updraft
 
-[Cyfrin Updraft](https://updraft.cyfrin.io/) is the leading smart contract development learning platform to kickstart your career and build real world projects, guided by industry leading experts.
+[Cyfrin Updraft](https://updraft.cyfrin.io/) is the leading smart contract development learning platform to kickstart your career and build real-world projects, guided by industry-leading experts.
 Learn smart contract development,  smart contract security, zero knowledge proof, and everything you need to know to become a smart contract engineer or security researchers.
 Learn through step-by-step tutorials and projects taught by the world's best educator:
 
