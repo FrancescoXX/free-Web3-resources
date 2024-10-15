@@ -34,11 +34,11 @@ sidebar_position: 1
 ## Ethereum Tutorials
 
 - [Learn Blockchain, Solidity, and Full Stack JavaScript Development](https://www.freecodecamp.org/news/learn-blockchain-solidity-full-stack-javascript-development/) This course will give you a full introduction into all of the core concepts related to blockchain, smart contracts, Solidity, full-stack Web3 dapps, decentralized finance (DeFi), Chainlink, and more.
-- [Learn Solidity: The COMPLETE Beginner’s Guide](https://www.youtube.com/watch?v=EhPeHeoKF88) A video tutorial to learn Solidity language and to make smart contract.
+- [Learn Solidity: The COMPLETE Beginner’s Guide](https://www.youtube.com/watch?v=EhPeHeoKF88) A video tutorial to learn Solidity language and to make smart contracts.
 
 - [Vyper Cheatsheet by Manojpramesh](https://github.com/manojpramesh/vyper-cheatsheet) A comprehensive vyper cheatsheet
 - [Awesome Vyper by Spade Builders](https://github.com/spadebuilders/awesome-vyper)
-- [Learn Vyper by building a pokemon Game](https://learn.vyperlang.org/#/)
+- [Learn Vyper by building a Pokemon Game](https://learn.vyperlang.org/#/)
 - [Vyper Programming Tutorial for Ethereum Smart Contract Development (Blockchain)](https://www.youtube.com/watch?v=-RHTgegox8I) by Dapp University
 - [Understanding the Ethereum Blockchain Protocol](https://www.youtube.com/watch?v=gjwr-7PgpN8&t=289s) by [Vitalik Buterin](https://twitter.com/VitalikButerin)
 
@@ -64,6 +64,7 @@ sidebar_position: 1
 - [create-eth-app](https://github.com/PaulRBerg/create-eth-app) Create Ethereum-powered apps with one command. Comes with a wide offering of UI frameworks and Defi templates to choose from.
 - [hardhat-starter-kit](https://github.com/smartcontractkit/hardhat-starter-kit) A repo for boilerplate code for testing, deploying, and shipping chainlink solidity code.
 - [foundry-starter-kit](https://github.com/smartcontractkit/foundry-starter-kit) Foundry Starter Kit is a repo that shows developers how to quickly build, test, and deploy smart contracts with one of the fastest frameworks out there.
+- [Drizzle](https://archive.trufflesuite.com/drizzle/). Drizzle offers a collection of front-end libraries — completing the overall development needs with TruffleSuite. This front-end support makes dApp development way more convenient and predictable.
 
 ## 👨‍💼 Ethereum Clients
 
