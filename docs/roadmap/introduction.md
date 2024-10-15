@@ -9,7 +9,7 @@ Hi, I am Francesco, and I share daily content about Web3 (mainly on [X](https://
 
 
 
-In this article, I will summarize the steps you can take in order to learn Web3.
+In this article, I will summarize the steps to learning Web3.
 
 If you prefer a video version (it currently has 10000+ views) you can find it here:
 
@@ -19,9 +19,9 @@ If you prefer a video version (it currently has 10000+ views) you can find it he
 
 ## Where to Start? 
 &nbsp;
-When we want to start something new, we need some direction just to don't get stuck at the very beginning. 
+When we want to start something new, we need some direction to avoid getting stuck at the very beginning. 
 
-But we all are different and we have different ways of learning. 
+But we all are different and we have various ways of learning. 
 
 This article is based on my very personal experience in learning Web3.
 
@@ -34,7 +34,7 @@ Don't get a Roadmap as a bible to trust and to follow blindly 100%, but as a rem
 
 There are many roadmaps, and I am working on one. 
 
-For now, I feel recommending the following:
+For now, I feel recommend the following:
 
 [Blockchain Developer Roadmap - The Full Guide](https://www.cyfrin.io/blog/how-to-become-a-blockchain-solidity-developer)
 
