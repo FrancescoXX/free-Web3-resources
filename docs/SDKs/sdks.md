@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # SDKs
 
-SDKs are software development kits that allow you to interact with the blockchain. 
+SDKs are software development kits that allow you to interact with the blockchain.
 
 They are a set of tools that allow you to build applications that interact with the blockchain.
 

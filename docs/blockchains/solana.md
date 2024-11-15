@@ -6,7 +6,7 @@ sidebar_position: 3
 
 ![image](https://user-images.githubusercontent.com/89864818/193443511-1a552e0f-199f-465d-a492-187aca0620bf.png)
 Solana is a public blockchain platform with smart contract functionality. Its native cryptocurrency is SOL.
-Solana achieves consensus using a proof-of-stake mechanism and its model, known as "proof-of-history" mechanism. Proof of history enables the network to operate faster because nodes do not need to communicate to validate a block. The Solana whitepaper describes this design as a decentralized clock. 
+Solana achieves consensus using a proof-of-stake mechanism and its model, known as "proof-of-history" mechanism. Proof of history enables the network to operate faster because nodes do not need to communicate to validate a block. The Solana whitepaper describes this design as a decentralized clock.
 
 - [Getting Started with Solana](https://docs.solana.com/developing/clients/javascript-api)
 - [Complete Guide to Full Stack Solana Development by Nader Dabit](https://dev.to/edge-and-node/the-complete-guide-to-full-stack-solana-development-with-react-anchor-rust-and-phantom-3291)

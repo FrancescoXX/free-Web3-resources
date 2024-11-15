@@ -4,31 +4,31 @@ sidebar_position: 1
 
 # 👨‍💻 Open Source Projects you can contribute to
 
-- [Aelf](https://github.com/AElfProject/AElf)  AElf is a blockchain system aiming to achieve scalability and extensibility through the use of side-chains and a flexible design.
-- [Bitcoin](https://github.com/bitcoin/bitcoin)  It connects to the Bitcoin peer-to-peer network to download and fully validate blocks and transactions.
-- [Brownie](https://github.com/eth-brownie/brownie)  Brownie is a Python-based development and testing framework for smart contracts targeting the Ethereum Virtual Machine.
-- [Blockchain CLI](https://github.com/0xs34n/blockchain-cli)   Build a bitcoin wallet, payment processor, or bitcoin merchant portal in javascript.
+- [Aelf](https://github.com/AElfProject/AElf) AElf is a blockchain system aiming to achieve scalability and extensibility through the use of side-chains and a flexible design.
+- [Bitcoin](https://github.com/bitcoin/bitcoin) It connects to the Bitcoin peer-to-peer network to download and fully validate blocks and transactions.
+- [Brownie](https://github.com/eth-brownie/brownie) Brownie is a Python-based development and testing framework for smart contracts targeting the Ethereum Virtual Machine.
+- [Blockchain CLI](https://github.com/0xs34n/blockchain-cli) Build a bitcoin wallet, payment processor, or bitcoin merchant portal in javascript.
 - [celo-composer](https://github.com/celo-org/celo-composer)
-- [Chainlink](https://github.com/smartcontractkit/chainlink)  Chainlink expands the capabilities of smart contracts by enabling access to real-world data.
+- [Chainlink](https://github.com/smartcontractkit/chainlink) Chainlink expands the capabilities of smart contracts by enabling access to real-world data.
 - [chia-blockchain](https://github.com/Chia-Network/chia-blockchain) Chia is a modern cryptocurrency built from scratch, designed to be efficient, decentralized, and secure.
-- [Cicero](https://github.com/accordproject/cicero)  Cicero allows you to define natural language contract and clause templates that can be executed by a computer.
+- [Cicero](https://github.com/accordproject/cicero) Cicero allows you to define natural language contract and clause templates that can be executed by a computer.
 - [Corda](https://github.com/corda/corda) Corda is an open source blockchain project, designed for business from the start.
-- [Cosmos](https://github.com/cosmos)  ⛓️ A Framework for Building High Value Public Blockchains ✨
+- [Cosmos](https://github.com/cosmos) ⛓️ A Framework for Building High Value Public Blockchains ✨
 - [create-web3-dapp](https://github.com/Eversmile12/create-web3-dapp) This package includes the global command for Create Web3 DApp.
 - [DB3Network](https://github.com/dbpunk-labs/db3) DB3 is a community-driven layer2 decentralized database network.
-- [Diem](https://github.com/diem/diem)  Diem Core implements a decentralized, programmable database which provides a financial infrastructure that can empower billions of people.
-- [EIPs](https://github.com/ethereum/EIPs)  The goal of the EIP project is to document standardized protocols for Ethereum clients and applications and to document them in a high-quality and implementable way.
+- [Diem](https://github.com/diem/diem) Diem Core implements a decentralized, programmable database which provides a financial infrastructure that can empower billions of people.
+- [EIPs](https://github.com/ethereum/EIPs) The goal of the EIP project is to document standardized protocols for Ethereum clients and applications and to document them in a high-quality and implementable way.
 - [Embark](https://github.com/embarklabs/embark) Provides Framework for serverless Decentralized Applications using Ethereum, IPFS and other platforms.
-- [Enterprise Ethereum Alliance](https://github.com/EntEthAlliance)  The Enterprise Ethereum Alliance connects Fortune 500 enterprises, startups, academics, and technology vendors with Ethereum subject matter experts.
+- [Enterprise Ethereum Alliance](https://github.com/EntEthAlliance) The Enterprise Ethereum Alliance connects Fortune 500 enterprises, startups, academics, and technology vendors with Ethereum subject matter experts.
 - [ethers.js](https://github.com/ethers-io/ethers.js) A complete Ethereum wallet implementation and utilities in JavaScript (and TypeScript).
 - [fabric](https://github.com/hyperledger/fabric) Hyperledger Fabric is a platform for distributed ledger solutions, underpinned by a modular architecture delivering high degrees of confidentiality, resiliency, flexibility and scalability.
 - [Foundry](https://github.com/foundry-rs/foundry) Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
 - [Ganache UI](https://github.com/trufflesuite/ganache-ui) Ganache is your personal blockchain for Ethereum development.
-- [go-ethereum](https://github.com/ethereum/go-ethereum)  It is a Official Go Implementation of the Ethereum protocol.
+- [go-ethereum](https://github.com/ethereum/go-ethereum) It is a Official Go Implementation of the Ethereum protocol.
 - [Hardhat](https://github.com/NomicFoundation/hardhat) Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software. Get Solidity stack traces & console.log.
-- [Holochain](https://github.com/holochain)  Scalable framework for P2P distributed apps. 
+- [Holochain](https://github.com/holochain) Scalable framework for P2P distributed apps.
 - [Hyperledger](https://github.com/hyperledger/) Hyperledger Foundation is an open source community focused on developing a suite of stable frameworks, tools and libraries for enterprise-grade blockchain deployments.
-- [ipfs](https://github.com/ipfs/ipfs) A peer-to-peer hypermedia protocol designed to preserve and grow humanity's knowledge by making the web         upgradeable, resilient, and more open
+- [ipfs](https://github.com/ipfs/ipfs) A peer-to-peer hypermedia protocol designed to preserve and grow humanity's knowledge by making the web upgradeable, resilient, and more open
 - [LBRY](https://github.com/lbryio/lbry-desktop) This repo contains the UI code that powers the official LBRY desktop app. The LBRY app is a graphical browser for the decentralized content marketplace provided by the LBRY protocol. It is essentially the lbry daemon bundled with a UI using Electron.
 - [Lisk](https://github.com/LiskHQ) Lisk is a blockchain application platform. We make blockchain accessible by creating a world in which everyone benefits from this technology.
 - [Metamask](https://github.com/MetaMask) MetaMask is a global community of developers and designers dedicated to making the world a better place with blockchain technology.

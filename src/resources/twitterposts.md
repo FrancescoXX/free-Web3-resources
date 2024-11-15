@@ -3,7 +3,7 @@ This is a list of the content I shared about Web3 for the upcoming 200 days
 
 You can find Francesco [here](http://francescociulla.com)
 
-| DayNumber | Topic__________________________________________ | Link|
+| DayNumber | Topic| Link|
 | --- | ----------------- |----------------- |
 | 19-12-2021 |Solidity Contract|https://twitter.com/FrancescoCiull4/status/1472497765083189248|
 | 20-12-2021    |Solidity projects on GitHub|https://twitter.com/FrancescoCiull4/status/1472816770692042752|

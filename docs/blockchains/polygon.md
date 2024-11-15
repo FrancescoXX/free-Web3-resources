@@ -2,11 +2,11 @@
 sidebar_position: 2
 ---
 
-# Polygon 
+# Polygon
 
 [Polygon](https://polygon.technology/) (formerly MATIC Network) is an Indian blockchain scalability platform. It addresses the challenges faced by Ethereum such as high fees, poor user experience, and low transaction count per second. One of the methods used to address these issues is providing a framework for Proof of Stake transactions.
 
- Resources
+Resources
 
 - [Polygon Blog](https://polygon.technology/blog)
 

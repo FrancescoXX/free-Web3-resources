@@ -1,7 +1,5 @@
 ---
 sidebar_position: 1
-
-
 ---
 
 # Blockchains
@@ -50,8 +48,6 @@ sidebar_position: 1
 - [Zilliqa](https://www.zilliqa.com/) Zilliqa is an ERC-20 blockchain with a focus on high transaction throughput. Currently, the Zilliqa blockchain can handle 2,828 transactions per second.
 - [5ire](https://www.5ire.org/) 5ire is a layer one blockchain ecosystem designed with economic and environmental sustainability at its core. We’re one of India’s fastest growing unicorns; enabled by a community from all over the world.
 
-
-### Privacy focused
+## Privacy focused
 
 - [Monero](https://www.getmonero.org/) - Private, decentralized cryptocurrency that keeps your finances confidential and secure.
-

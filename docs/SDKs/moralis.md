@@ -7,7 +7,7 @@ sidebar_position: 4
 The Ultimate Web3 Development Platform. Integrate Web3 into any tech stack by following easy guides, recipes, and API references!
 
 ## APIs
-  
+
 [Web3 Data API](https://docs.moralis.io/web3-data-api/evm) Get all the blockchain data you need with our highly scalable APIs.
 
 [Streams API](https://docs.moralis.io/streams-api/) Receive blockchain data by listing to realtime on-chain events.
@@ -32,9 +32,8 @@ The Ultimate Web3 Development Platform. Integrate Web3 into any tech stack by fo
 
 [DeFi API](https://docs.moralis.io/web3-data-api/evm/defi-api) Get liquidity reserves and pair data across multiple blockchains.
 
-
 ## Integrations
-  
+
 [Firebase](https://docs.moralis.io/authentication-api/integrations/firebase-nodejs) Authenticate a user to your Firebase application with an EVM or Solana wallet.
 
 [Parse Server](https://docs.moralis.io/authentication-api/integrations/parse-server-nodejs) Authenticate a user to your Parse server with MetaMask.
@@ -43,10 +42,6 @@ The Ultimate Web3 Development Platform. Integrate Web3 into any tech stack by fo
 
 [PlayFab](https://docs.moralis.io/authentication-api/integrations/azure-playfab-nodejs-unity) Set up a complete gaming backend platform for Web3 games.
 
-
-
 ## Documentation
 
 [Documentation](https://linktodocumentation)
-
-
