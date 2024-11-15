@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Axelar
 
-Axelar delivers secure cross-chain communication for Web3, enabling you to build Interchain dApps that grow beyond a single chain. 
+[Axelar](https://axelar.network/) delivers secure cross-chain communication for Web3, enabling you to build Interchain dApps that grow beyond a single chain. 
 
 **Secure** means Axelar is built on proof-of-stake, the battle-tested approach used by Ethereum, Polygon, Cosmos, and more. 
 
