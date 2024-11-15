@@ -115,5 +115,4 @@ An Ethereum client is the software that allows Ethereum nodes to read the block 
 - [Tino Group](https://wiki.tino.org/ethereum-la-gi/) Ethereum info, wallets, and FAQ in Vietnamese
 
 ### Arabic
-
-- [Ethereum Hindi](https://ethereum.org/ar/learn/) Main website for Ethereum Content, Communities, and Events in Arabic
+- [Ethereum Arabic](https://ethereum.org/ar/learn/) Main website for Ethereum Content, Communities, and Events in Arabic
