@@ -4,4 +4,4 @@ sidebar_position: 4
 
 # Web3.py
 
-web3.py is a Python library for interacting with Ethereum.
+[Web3.py](https://web3py.readthedocs.io/) is a Python library for interacting with Ethereum.

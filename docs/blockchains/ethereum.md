@@ -78,32 +78,41 @@ An Ethereum client is the software that allows Ethereum nodes to read the block 
 
 - [ethereum.org in different languages](https://ethereum.org/en/languages) Ethereum docs in 43 languages
 
-### Portuguese 
+### Portuguese
+
 - [Web3dev](https://www.web3dev.com.br/) Content and community for web 3 developers in Portuguese.
 
-### Chinese 
+### Chinese
+
 - [Ethereum Wiki](https://github.com/ethereum/wiki/wiki/%5B%E4%B8%AD%E6%96%87%5D-%E4%BB%A5%E5%A4%AA%E5%9D%8A%E7%99%BD%E7%9A%AE%E4%B9%A6) Ethereum Wiki in Chinese
 
-### French  
+### French
+
 - [Ethereum France](https://www.ethereum-france.com/) is the Main website for Ethereum Content, Communities, and Events in French.
 
-### German  
+### German
+
 - [Learn Solidity](https://docs.microsoft.com/de-de/learn/modules/blockchain-learning-solidity/) Microsoft website to learn Solidity in German
 
-### Hindi  
+### Hindi
+
 - [Ethereum Hindi](https://ethereum.org/hi/eth/) Main website for Ethereum Content, Communities, and Events in Hindi
 
-### Italian  
+### Italian
+
 - [Ethereum Italy](https://t.co/oyX6mujXek) Main website for Ethereum Content, Communities, and Events in Italian.
 
-### Spanish  
+### Spanish
+
 - [Cointelegraph](https://es.cointelegraph.com/ethereum-for-beginners) Ethereum guide for Web3 beginners in Spanish.
 
-### Turkish  
+### Turkish
+
 - [BTK Academy](https://www.btkakademi.gov.tr/portal/course/blokzincir-ve-kripto-paralar-10569#!/about) blockchain and cryptocurrency-focused course in Turkish.
 
-### Vietnamese  
+### Vietnamese
+
 - [Tino Group](https://wiki.tino.org/ethereum-la-gi/) Ethereum info, wallets, and FAQ in Vietnamese
 
 ### Arabic
-- [Ethereum Hindi](https://ethereum.org/ar/learn/) Main website for Ethereum Content, Communities, and Events in Arabic
+- [Ethereum Arabic](https://ethereum.org/ar/learn/) Main website for Ethereum Content, Communities, and Events in Arabic

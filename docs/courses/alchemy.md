@@ -8,8 +8,7 @@ sidebar_position: 2
 
 # Alchemy University
 
-[Alchemy](https://university.alchemy.com/) University is an online educational platform that provides free, self-paced courses on building Web3 applications.University are designed to provide students with a comprehensive understanding of Web3 development, covering courses such as basic coding, web3 bootcamp, and bliding web3 project. 
-
+[Alchemy](https://university.alchemy.com/) University is an online educational platform that provides free, self-paced courses on building Web3 applications.University are designed to provide students with a comprehensive understanding of Web3 development, covering courses such as basic coding, web3 bootcamp, and bliding web3 project.
 
 <a href='https://twitter.com/AlchemyPlatform' >
    <img src="https://skillicons.dev/icons?i=twitter" height='40'/> 

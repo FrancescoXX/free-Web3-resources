@@ -10,7 +10,7 @@
   background: linear-gradient(rgba(0, 0, 0, 0.5), #000000);
   overflow: hidden;
   color: white;
- }
+}
 
 @media screen and (max-width: 996px) {
   .heroBanner {
