@@ -64,6 +64,8 @@ sidebar_position: 1
 - [create-eth-app](https://github.com/PaulRBerg/create-eth-app) Create Ethereum-powered apps with one command. Comes with a wide offering of UI frameworks and Defi templates to choose from.
 - [hardhat-starter-kit](https://github.com/smartcontractkit/hardhat-starter-kit) A repo for boilerplate code for testing, deploying, and shipping chainlink solidity code.
 - [foundry-starter-kit](https://github.com/smartcontractkit/foundry-starter-kit) Foundry Starter Kit is a repo that shows developers how to quickly build, test, and deploy smart contracts with one of the fastest frameworks out there.
+- [Ethui](https://ethui.dev/) Open-source Ethereum toolkit that streamlines smart contract testing, identity management, and dApp connectivity for builders.
+
 
 ## 👨‍💼 Ethereum Clients
 
