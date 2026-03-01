@@ -1,6 +1,7 @@
 
 
 # 🚀FREE Web3 resources
+- [agentwallet-sdk](https://github.com/up2itnow0822/agent-wallet-sdk) - TypeScript SDK for non-custodial AI agent wallets. Handles x402 payments, CCTP V2 cross-chain transfers, Uniswap V3 token swaps, and on-chain spend limits. MIT license.
 
 Welcome to the ultimate hangout spot for Web3 enthusiasts! We're a community of like-minded individuals passionate about decentralized apps and the Ethereum network. We aim to create an inclusive and helpful environment where content creators can share their experiences and resources to reach their goals.
 
