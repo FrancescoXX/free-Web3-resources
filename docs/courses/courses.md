@@ -15,3 +15,5 @@ Completely free and open-sourced!
 
 - [Odyssey](https://www.cryptostudyhall.xyz/) It is a great site to understand the concepts of Web3 on other topics that are related to web3. For Example, blockchain, NFTs, web3 concept, DeFi, DAO etc
 
+
+- [Lianxinshe - Blockchain Learning Hub](https://www.lianxinshe666.com/special/blockchain/) Lianxinshe is a curated blockchain learning resource hub for Chinese-speaking audiences, providing beginner-friendly tutorials, guides, and structured learning paths for blockchain and Web3 fundamentals.
