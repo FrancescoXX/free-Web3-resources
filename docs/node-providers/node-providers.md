@@ -11,3 +11,4 @@ sidebar_position: 1
 - [Infura](https://infura.io/) Suite of high availability APIs and Developer Tools that can provide quick, reliable access to the Ethereum and IPFS networks so you can focus on building and scaling next-generation software.
 - [Quicknode](https://www.quicknode.com/) Hosted Blockchain Infrastructure as a Service.
 - [Chain Connect](https://www.alchemy.com/chain-connect) Maintained by Alchemy and Developer DAO, Chain Connect is a resource for the web3 community to explore RPC endpoints from various providers and connect to a range of blockchain and network nodes all aggregated in one place.
+- [HostDeFi](https://hostdefi.com/rpc) Keyless multi-chain RPC relay — free REST endpoints across Solana and 7 EVM chains, no API key or signup required.
